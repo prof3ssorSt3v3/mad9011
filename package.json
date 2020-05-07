@@ -10,7 +10,8 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "deploy": "deploy.sh"
+    "deploy": "deploy.sh",
+    "sucheng": "npm run docs:build && git pull origin master && git add . && git commit -m 'course update' && git push -f git@github.com:lees1/mad9011-f20.git master && cd docs/.vuepress/dist && git init && git add -A && git commit -m 'deploy' && git push -f git@github.com:MAD9011/F2020.git master"
   },
   "dependencies": {
     "workbox-cli": "^4.3.1"
