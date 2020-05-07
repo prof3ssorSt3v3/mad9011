@@ -14,13 +14,13 @@ footer: Authored by Steve Griffith ~ Copyright © 2019, Algonquin College of App
 ---
 
 <ContactCard 
-  name="Steve Griffith"
+  name="SuCheng Lee"
   img-url="/steve-griffith.jpeg"
   bio="Professor and Coordinator of the Mobile Application Design & Development program at Algonquin College"
   :details="[
-      { label: 'email', value: 'griffis@algonquincollge.com' }, 
-      { label: 'twitter', value: '@Prof3ssorSt3v3' }, 
-      { label: 'github', value: 'prof3ssorSt3v3' }, 
-      { label: 'office', value: 'J313c - by appointment' }
+      { label: 'email', value: 'lees1@algonquincollge.com' }, 
+      { label: 'twitter', value: '@UXResearchLab' }, 
+      { label: 'github', value: 'lees1' }, 
+      { label: 'office', value: 'Zoom - by appointment' }
     ]"
 />
