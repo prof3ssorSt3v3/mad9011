@@ -1,0 +1,74 @@
+# Week 6 - Events and Styles
+
+## Styling with JavaScript
+
+We can use JavaScript to change the appearance of a page. This is useful when you want to change the look of elements, or make things appear or disappear as the user interacts with them.
+
+[Learn about styling with JS](./style.md)
+
+## Element Attributes
+
+Elements have tag names, ids and classes that we use with CSS to target them. However, they also have other attributes. Many of the attributes have matching JS properties too. Even if they don't have a matching property we can access the value of the property or add new ones.
+
+[Learn about Element Attributes](./attr.md)
+
+## Adding and Removing Events
+
+An Event is something that happens which can be tracked by the browser. It can be used to trigger functions to run. Here are some example situations.
+
+1. The page finishes loading => run a function to fetch some data.
+2. User clicked a button => run a function to toggle the visibility of a menu.
+3. User typed a letter => run a function to do a search for content starting with that letter.
+4. User swiped on their phone screen => run a function to see if that girl likes you too.
+
+[Learn how to add Event tracking to a page](./adding.md)
+
+## Loading Events
+
+Loading events happen with every file that a browser loads. Images, Stylesheets, Scripts and HTML files will all trigger `load` events.
+
+[How to listen for loading events](./load.md)
+
+## Mouse and Touch Events
+
+There are quite a few mouse and touch events.
+
+```
+click, mousedown, mouseup, mousemove, mouseover, mouseout, focus, blur, dblclick, contextmenu, touchstart, touchmove, touchcancel
+```
+
+[Learn more about Mouse and Touch events](./mouse.md)
+
+## Keyboard and Form Events
+
+The keyboard events allow youto trigger code when the user is typing. You can wait for specific keys, keyboard controls for games, and handle form validation when the values of form fields changes.
+
+[Learn more about keyboard and form events](./keyboard.md)
+
+## Namespacing
+
+Namespacing is how we protect our code against naming conflicts with other peoples scripts. Anyone who builds an HTML file, can add `<script>` tags that point to any JavaScript file which is publicly available online.
+
+That means that your JavaScript file and the JavaScript files belonging to 10 of your friends can all be loaded and running on the same page.
+
+With 100 lines of script in each file, there is a decent chance that two of you could have created a global variable with the same name. This means that the second one to load will overwrite the second one OR if you used `const` then an error will stop all the scripts from running.
+
+[Solve this problem with Namespacing](./namespace.md)
+
+## Cloning and Copying HTML
+
+When you tell an Element that it is being Appended to a specific place on a webpage, this usually means that you are appending an Element that you just created. However, you can append elements that already exist on the page.
+
+If you append an element that already exists, that means you will actually move the Element from its old position to the new one.
+
+If you want to add a duplicate of the Element then you need to use the `cloneNode` method.
+
+[Learn about cloning HTML](./clone.md)
+
+## TODO
+
+::: tip TODO Before next week
+
+- If you have not read all these notes and watched the videos from this week, do that first.
+- Finish reading the notes for week 6 and watch all the videos in the notes for week 7.
+  :::
