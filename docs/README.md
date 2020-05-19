@@ -15,7 +15,7 @@ footer: Authored by SuCheng Lee ~ Copyright © 2020, Algonquin College of Applie
 
 <ContactCard 
   name="SuCheng Lee"
-  img-url="/steve-griffith.jpeg"
+  img-url="/sclee.jpeg"
   bio="Professor of the Mobile Application Design & Development program at Algonquin College"
   :details="[
       { label: 'email', value: 'lees1@algonquincollge.com' }, 

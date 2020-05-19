@@ -1,4 +1,4 @@
-# MAD90xx - Course Title
+# MAD9011 - Course Title
 
 ::: tip
 Course description goes here
@@ -10,8 +10,8 @@ Course description goes here
 
 ## Student Workload Expectations
 
-- 5 hours/week (instructional activity)
-- Two 2-hour classes per week
+- 3 hours/week (instructional activity)
+- Two hours in class 
 - One hour of online exercises
 - 4 hours per week of tutorials/videos/exercises/studying/practicing outside class.
 
