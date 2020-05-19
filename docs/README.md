@@ -21,6 +21,6 @@ footer: Authored by SuCheng Lee ~ Copyright © 2020, Algonquin College of Applie
       { label: 'email', value: 'lees1@algonquincollge.com' }, 
       { label: 'twitter', value: '@UXResearchLab' }, 
       { label: 'github', value: 'lees1' }, 
-      { label: 'office', value: 'Zoom - by appointment' }
+      { label: 'office', value: 'Zoom - by appt' }
     ]"
 />

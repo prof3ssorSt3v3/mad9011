@@ -22,12 +22,12 @@ Room T127
 
 **Section 010:** 
 
-- Tuesday 11am - 1pm
+- Thursday 10am - 12pm
 - one hour online
 
 **Section 020:**
 
-- Tuesday 8am - 10am
+- Wednesday 8am - 10am
 - one hour online
 
 ## Technology Stack
