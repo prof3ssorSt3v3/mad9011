@@ -1,15 +1,24 @@
 # Contacts
 
 <ContactCard 
-  name="Steve Griffith"
-  title="Program Coordinator"
+  name="SuCheng Lee"
+  title="Professor"
   img-url="../steve-griffith.jpeg"
-  bio="Coordinator of the Mobile Application Design & Development Program at Algonquin College."
+  bio="Professor of the Mobile Application Design & Development Program at Algonquin College."
   :details="[
-      { label: 'email', value: 'griffis@algonquincollege.com' }, 
-      { label: 'github', value: 'prof3ssorSt3v3' }, 
-      { label: 'phone', value: '(613) 727-4723 x3408' }, 
-      { label: 'office', value: 'J313B' }
+      { label: 'email', value: 'lees1@algonquincollege.com' }, 
+      { label: 'office', value: 'algonquincollege.zoom.us/my/lees1' }
+    ]"
+/>
+
+<ContactCard 
+  name="firstName lastName"
+  title="instructor"
+  img-url="../steve-griffith.jpeg"
+  bio="instructor of the Mobile Application Design & Development Program at Algonquin College."
+  :details="[
+      { label: 'email', value: 'lees1@algonquincollege.com' }, 
+      { label: 'office', value: 'office info' }
     ]"
 />
 

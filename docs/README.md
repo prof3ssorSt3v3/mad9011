@@ -4,13 +4,13 @@ heroImage: /hero.png
 actionText: Get Started →
 actionLink: /overview/
 features:
-  - title: JavaScript with NodeJS
-    details: Learn how to program with JavaScript using the NodeJS Javascript engine that runs as a stand alone program outside the browser.
-  - title: JavaScript in the Browser
-    details: Apply your JavaScript knowledge to working in the browser. Use JavaScript to control the DOM and HTML5 APIs.
-  - title: Web and Hybrid Apps
-    details: Leverage all your HTML, CSS, and JavaScript skills to create both interactive web apps and hybrid mobile apps. Use AJAX technology to dynamically update the data in your app. Use Cordova to package your apps to run on Android or iOS devices.
-footer: Authored by Steve Griffith ~ Copyright © 2019, Algonquin College of Applied Arts and Technology
+  - title: Basic design concepts and vector-based graphics
+    details: Learn design fundamentals. Understand different graphics formats. Create vector-based graphics in Adobe Illustrator.
+  - title: Layout concepts and raster-based graphics
+    details: Understand layout principles. Use Photoshop to create raster-based graphics and layout.
+  - title: SVG graphics & mockups and user interface design
+    details: Create scalable SVG graphics and mockups. Design mobile user interface with Adobe XD. Create interactive visual mockups with all tools learned. 
+footer: Authored by SuCheng Lee ~ Copyright © 2020, Algonquin College of Applied Arts and Technology
 ---
 
 <ContactCard 
