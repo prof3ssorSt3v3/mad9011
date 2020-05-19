@@ -1,7 +1,8 @@
-# MAD9011 - Course Title
+# MAD9011 - Mobile Design Fundamentals
 
 ::: tip
-Course description goes here
+Students are introduced to mobile design fundamentals and graphical user interface design tools. The design concepts include mobile user interface visual elements, principles, accessibility and usability. Students gain production techniques and the required skills to create mobile industry-standard graphics. They learn design tools that help them to design effective interfaces for måobile-first websites and mobile applications. Hands-on learning is the focus by which they use different software packages to create mobile user interface visual elements, icons, splash graphics, scalable vector graphic (SVG), SVG animations, and wireframes.
+
 :::
 
 ## Course Description
@@ -13,22 +14,20 @@ Course description goes here
 - 3 hours/week (instructional activity)
 - Two hours in class 
 - One hour of online exercises
-- 4 hours per week of tutorials/videos/exercises/studying/practicing outside class.
+- 3 hours per week of tutorials/videos/exercises/studying/practicing outside class.
 
 ## Schedule
 
 Room T127
 
-**Section 010:** two days :clock2:
+**Section 010:** 
 
 - Tuesday 11am - 1pm
-- Friday 8am - 10am
 - one hour online
 
-**Section 020:** two days :clock2:
+**Section 020:**
 
 - Tuesday 8am - 10am
-- Friday 10am - 12pm
 - one hour online
 
 ## Technology Stack
