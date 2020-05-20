@@ -73,6 +73,7 @@ Room T127
   :details="[
       { label: 'email', value: 'lees1@algonquincollege.com' }, 
       { label: 'github', value: 'lees1' }, 
+      { label: 'twitter', value: '@UXResearchLab' }, 
       { label: 'office', value: 'Zoom Meeting ID:713 343 1761' }
     ]"
 />
