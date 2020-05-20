@@ -74,7 +74,20 @@ Room T127
       { label: 'email', value: 'lees1@algonquincollege.com' }, 
       { label: 'github', value: 'lees1' }, 
       { label: 'phone', value: '(613) 727-4723 x0' }, 
-      { label: 'office', value: 'Zoom ID:' }
+      { label: 'office', value: 'Zoom Meeting ID:713 343 1761' }
+    ]"
+/>
+
+<ContactCard 
+  name="fistName lastName"
+  title="Instructor"
+  img-url="/F2020/slee_h.png"
+  bio="Instructor of the Mobile Application Design & Development Program at Algonquin College."
+  :details="[
+      { label: 'email', value: 'instructor@algonquincollege.com' }, 
+      { label: 'github', value: 'instructor' }, 
+      { label: 'phone', value: '(613) 727-4723 x0' }, 
+      { label: 'office', value: 'Zoom Meeting ID:' }
     ]"
 />
 
