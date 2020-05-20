@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'MAD9xxx',
-  description: 'Course Name',
+  title: 'MAD9011',
+  description: 'Mobile Design Fundamentals',
   base: '/F2020/', //used as the root location of the site (repo name)
   // then we can <img :src="$withBase('/foo.png')" alt="foo">
   markdown: {
