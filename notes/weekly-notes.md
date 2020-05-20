@@ -1,198 +1,220 @@
-# Weekly Class Activities
+# Weekly Class Activities (Lesson Plan)
 
-## Week 1 (one class only)
+## Module 1: Basic design concepts and vector-based graphics 
 
-- Inspiration
-- Course outline and deliverables
-- install NodeJS
-- install VSCode
-- running the terminal in VSCode
-- Check for GitHub account
-- Comment blocks at the top of each JS file
-- variables and datatypes
-- first Hybrid exercise
+## Week 1 - Introduction to MAD9011
 
-## Week 2
+- Introduction to MAD9011 Course
+- Install Adobe CC  
+- Install Illustrator
+- First hybrid learning module videos
 
-- primitives vs objects
-- Booleans - truthy and falsy
-- `false`, `""`, `0`, `NaN`, `null`, `undefined`
-- if else if else
-- functions, declarations, expressions, return
-- scope
-- Remind about Hybrid 1
 
-- ternary
-- hoisting
-- default params
-- https://jsbin.com/mapecol/edit?js,console sample script
-- IIFE
-- arguments
-- Intro to Arrays [0], length
-- for loops
-- string escape sequences
-- Start EX 1
+## Week 2 - Meeting Adobe Illustrator 
 
-## Week 3
+- Discussion of First hybrid learning module videos
+- Recap of First learning module videos
+- Graphic fundamental: Raster and vector graphics
+- Intro to Illustrator
+- Illustrator Artboards
+- Creating, selecting, and editing shapes and strokes 
+- Colour of fill and stroke 
 
-- Arrays - pop, push, shift, unshift, slice, splice
-- String Objects
-- work on Exercise 1 functions
-- Objects
-- square bracket syntax vs dot notation
-- for...in
-- compound if statements vs nested
+- Hybrid Exercise: 1. Nike logo (3%)
+- Hybrid: Next learning module videos
 
-## Week 4
 
-- try catch throw
-- Dates: new Date(), Date.now(), getHours, getMinutes, getMonth, getFullYear, dt.valueOf()
-- toISOString(), toLocaleDateString("en-CA"), toUTCString()
-- forEach and map (with Arrow functions)
+## Week 3 - Time to colour (Colour theory and Illustrator tools)
 
-- Mathematical operators `+ - * / ** %`
-- Math floor, ceil, round, random
-- Array methods - sort, split, str.join
-- DEMO 1: rebuild ex1 using object filled with arrays, for in loop, arr.push, arr.join
-- COLLAB: generate random # that is only odd numbers
-- NaN
-- Talk about RESOURCES page
-- Talk about having a Help day during the reading week in October
+- Discussion of previous hybrid learning module videos
+- Recap of previous learning module videos
+- Colour dos & don’ts
+- Elements of design
+- Illustrator colour swatches
+- Tracing images
+- Recoloring artwork
+- Gradient tool
+- Transform options (rotate, reflect, and shear)
 
-- work on Exercise 2 grade conversion from floats to letters
+- Hybrid Exercise: 2. Design a Button (3%)
+- Hybrid: Next learning module videos
+- Pertinent Discussion (3%)
 
-## Week 5
 
-- add scripts to webpage
-- DOM intro
-- Nodes, element node, text node
-- appendChild(), createElement(), createTextNode(), insertAdjacentElement()
-- createDocumentFragment()
-- textContent
-- style property, className, classList
-- getElementById(), querySelector(), querySelectorAll()
-- Hybrid 4...
-- Exercise 3...
-- Intro to EventListeners in 2nd class
+## Week 4 - Time to draw (Illustrator drawing tools)
 
-## Week 6
+- Discussion of previous hybrid learning module videos
+- Recap of previous learning module videos
+- The Pen Tool 
+- The Pencils and Paintbrush tools
+- Pathfinder and Builder tools
+- Clipping mask
 
-- Attributes
-- setAttribute(), getAttribute()
-- use defer vs placement of script
-- data- attributes
-- DOMContentLoaded
+- Complete Hybrid Exercise: 3. Character vectorization (3%)
+- Hybrid: Next learning module videos
+- Assignment 01: Avatar icon for Apple (15%, including peer reviews)
 
-- Events: add, remove, bubbling, cancelling
-- ev.preventDefault(), stopPropagation(), stopImmediatePropagation()
-- ev.currentTarget, ev.target
-- namespacing
-- Exercise 3
-- Hybrid 5
 
-## Week 7
+## Week 5 - Adding depth (Typography & Depth)
 
-- nested loops and multi-dimensional arrays
-- scope of functions inside functions
-- closures
-- getElementById vs. using a variable that points to an id
-- removeEventListener
-- remove an event using only ev
-- remove an HTML element using only ev
-- adding an event to run once
+- Discussion of previous hybrid learning module videos
+- Recap of previous learning module videos
+- Typography
+  - Adding and formatting texts,
+  - Placing texts on or inside a path
+  - Reshaping texts as vector image  
+- Special effects 
+  - Adding and editing effects
+  - Using creative brush strokes
+  - Creating customized pattern
+- Respective Grid tool
+- Flare tool
+- Blend tool
+- Exporting options
+- Image composition
 
-- XML
-- JSON
-- Exercise 4 (XML, JSON)
-- callback functions
-- call, apply, bind
+- In-class Exercise: 4. Typography (3%)
+- Hybrid: Online Quiz 1 (10%)
+- Hybrid: Next learning module videos & **Reading**
+
+
+## Module 2: Layout concepts and raster-based graphics
+
+## Week 6 - Introduction to Adobe Photoshop
+
+- Discussion of previous hybrid learning module videos
+- Recap of previous learning module videos
+- Raster-based graphic/photo editor
+- Workspace overview (Control options bar, history panel, layer panel etc)
+- Opening, creating, saving documents
+- Using artboards
+- Making selections (selection tools)
+- Changing image size
+- Creating silhouettes (select & mask)
+- Content-aware Fill layer
+- Clone Stamp Tool
+
+- In-class Exercise: 5. Cut a silhouette (3%)
+- Hybrid: Next learning module videos
+- Assignment 02: Employee profile page (10%)
+- Peer Review for Assignment 01 (marked)
+- Due: Assignment 01
+
+
+## Week 7 - Photo manipulation and image composite (Photoshop)
+
+- Discussion of previous hybrid learning module videos
+- Recap of previous learning module videos
+- Non-destructive editing layers
+- Non-destructive image editing
+  - Text and Shape layers
+  - Layer Styles (fx layers)
+  - Adjustment layers
+  - Smart Filters
+  - Smart objects
+  - Blend modes
+- Creating an image composition
+
+- Hybrid Exercise: 6. Compositing an image (3%)
+- Hybrid: Next learning module videos
+
 
 **READING WEEK HERE**
 
-## Week 8
+## Week 8 - Photo retouching and image optimization (Photoshop)
 
-- AJAX
-- Promises
-- Fetch
-- Event loop
-- synchronous vs asynchronous
-- fetching and generating HTML
+- Discussion of previous hybrid learning module videos
+- Recap of previous learning module videos
+- Photo retouching and restoration 
+  - Basic Retouch tools
+  - History brush tools
+  - Dodge, Burn, Sponge tools
+- Image Optimization
+- Photoshop Export As feature 
+  - Export as
+  - Save for Web (legacy)
 
-- `setTimeout`, `setInterval`
-- `Math.floor(Math.random() * range) + min`
-- Content Security Policy
-- Start working on Exercise 5 and Hybrid 6
+- In-class Exercise: 7. Clean me up (3%)
+- Hybrid: Next learning module videos & **Reading**
 
-## Week 9
 
-- General approach to building a web app -> sketch, function stubs, then code
-- prototype
-- `this`
-- Work on Exercise 5 and Hybrid 6
+## Week 9 - Introduction to Scalable Vector Graphics (SVG) 
 
-- Chrome Dev tools
-- Arrow Functions vs regular functions
-  - Do not use Arrow functions with bind, call, apply, this, if you need to call it again
-- always have a catch() for fetch/Promises
-- custom sorts
-- POST vs GET
-- fetch - headers, querystring, formdata
-- the experience of the user matters more than the experience of the developer
+- Discussion of previous hybrid learning module videos
+- Recap of previous learning module videos
+- Writing SVG code
+- SVG texts and effects
+  - Text & web fonts
+  - Masking text
+  - Gradients on text
+  - Textures on text
+- SVG Optimizing & cleaning
+- SVG Attributes & CSS
 
-## Week 10
+- Hybrid Exercise: 8. Coding an SVG (3% due: Week 12)
+- Hybrid: Online Quiz 2 (10%)
+- Hybrid: Next learning module videos & **Reading**
+- Due: Peer Reviews for Assignment 01
 
-- CORS
-- APIs
-- Geolocation
-- weather API (students to read)
-- City of Ottawa Open Data (students to read)
-- async await (students to read)
-- CURL (students to read)
-- SWITCH TO WINDOWS
 
-## Week 11
+## Week 10 - SVG Animation
 
-- SPA - back button, active page, css, transitions, popstate, pushstate, replacestate
-- The Movie DB
-- Array.findIndex, Array.find
+- Discussion of previous hybrid learning module videos
+- Recap of previous learning module videos
+- Animation with CSS
+  - Transitions
+  - Transform origin with pixels
+  - Animations
+- SVG icons
+  - Icon symbols reuse
+- SVG Accessibility
 
-```js
-let idToFind = 7;
-let data = [{id:1, name:"bubbles"}, {id:7, name:"julien"}, {id:4, name:"ricky"}]
-let person = data.find( {id} => id === idToFind);
-console.log(person);
-```
+- Hybrid: Next learning module videos 
+- Hybrid Adobe XD Exercise (not marked)
 
-- Work on Project
 
-## Week 12
+## Module 4: User interface interaction design concepts – Putting it all together
 
-- Cordova intro
-- deviceready
-- device plugin
-- Android on Windows
-- Android SDK
-- Android APIs
-- ENV variables
-- splashscreens
-- launcher icons
-- emulators
-- plugins for Cordova
-- Work on Project 1
-- don't forget your CSP
+## Week 11 - Introduction to Adobe XD 
 
-## Week 13
+- Discussion of previous hybrid learning module videos
+- Recap of previous learning module videos
+- Common rapid prototyping tool
+- Workspace overview
+  - Design
+  - Prototype
+  - Share
+- XD Cloud documents
+  - File management
+  - Team collaboration
+  - Features introduced in 2019
+- Free XD resources
+- Extra: Managing fonts
 
-- API project into Cordova
-- enhance it
-- don't forget your CSP in both Projects
-- custom events
-- deviceready vs DOMContentLoaded
-- www folder
-- res folder for icons and splashscreen
-- online documentation for Cordova
-- https://cordova.apache.org/docs/en/9.x/config_ref/index.html
+- Hybrid: Next learning module videos
+- Assignment 3 (Final): Mobile UI Visual Prototype (20%) 
+- Due: Assignment 02
+
+
+## Week 12 - Mobile layout with XD
+
+- Creating mobile layout from scratch
+- Creating mobile layout form UI Kits: iOS, Android
+- Working with XD Plugins
+
+- In-class Exercise: 9. Mobile layout in XD (3%)
+- Hybrid: Next learning module video
+
+
+## Week 13 - XD Advanced features
+
+- Tips and tricks, new features (voice/animation)
+- Final assignment work period (onboarding screens)
+- Final assignment individual review
+
+- Hybrid: Assignment 3 individual review
+
 
 ## Week 14
 
-- Work on Cordova App
+- Work on Final Assignment

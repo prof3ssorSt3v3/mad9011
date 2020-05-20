@@ -2,7 +2,7 @@
 
 <ContactCard 
   name="SuCheng Lee"
-  title="Professor"
+  title="Instructor"
   img-url="../steve-griffith.jpeg"
   bio="Professor of the Mobile Application Design & Development Program at Algonquin College."
   :details="[
@@ -15,7 +15,7 @@
   name="firstName lastName"
   title="instructor"
   img-url="../steve-griffith.jpeg"
-  bio="instructor of the Mobile Application Design & Development Program at Algonquin College."
+  bio="Instructor of the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'lees1@algonquincollege.com' }, 
       { label: 'office', value: 'office info' }
