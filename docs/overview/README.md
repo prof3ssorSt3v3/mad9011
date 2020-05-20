@@ -42,7 +42,7 @@ Room T127
   grid-gap: 1.5rem;
   margin-bottom: 2rem;"> -->
 
-<img src="../assets/tools.jpg" alt="UI graphics tools">
+<img src="../assets/tools.jpg" alt="UI graphics tools" width="300">
 
 <!-- <img src="../assets/cordova-black.png" alt="Cordova" 
      style="width: 100%; height: auto; max-height: 130px; max-width: 160px;align-self: start; margin-top: .95rem;"> -->
@@ -73,7 +73,6 @@ Room T127
   :details="[
       { label: 'email', value: 'lees1@algonquincollege.com' }, 
       { label: 'github', value: 'lees1' }, 
-      { label: 'phone', value: '(613) 727-4723 x0' }, 
       { label: 'office', value: 'Zoom Meeting ID:713 343 1761' }
     ]"
 />
@@ -81,7 +80,6 @@ Room T127
 <ContactCard 
   name="fistName lastName"
   title="Instructor"
-  img-url="/F2020/slee_h.png"
   bio="Instructor of the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'instructor@algonquincollege.com' }, 
