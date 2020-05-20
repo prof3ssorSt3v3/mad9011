@@ -61,7 +61,7 @@ Room T127
 - Adobe Illustrator (Ai)
 - Layout concepts and raster-based graphics
 - Adobe Photoshop (Ps)
-- Scalable Vector Graphics (SVG) and mockup 
+- Scalable Vector Graphics and SVG mockups 
 - User interface interaction design concepts – Putting it all together
 - Adobe XD (Xd)
 

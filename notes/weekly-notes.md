@@ -140,6 +140,8 @@
 - Hybrid: Next week learning module videos & **Reading**
 
 
+## MODULE THREE: Scalable vector-based graphics and SVG mockups
+
 ## Week 9 - Introduction to Scalable Vector Graphics (SVG) 
 
 - Discussion of hybrid learning module videos
@@ -176,7 +178,7 @@
 - Hybrid: Next week learning module videos 
 
 
-## MODULE THREE: User interface interaction design concepts – Putting it all together
+## MODULE FOUR: User interface interaction design concepts – Putting it all together
 
 ## Week 11 - Introduction to Adobe XD 
 
