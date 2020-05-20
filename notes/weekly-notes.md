@@ -12,12 +12,12 @@
 - Hybrid: Next week learning module videos
 
 
-## Week 2 - Meeting Adobe Illustrator 
+## Week 2 - Meeting Adobe Illustrator
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
 - Graphic fundamental: Raster and vector graphics
-- Intro to Illustrator
+- Introduction to Adobe Illustrator (Ai)
 - Illustrator Artboards
 - Creating, selecting, and editing shapes and strokes 
 - Colour of fill and stroke 
@@ -54,7 +54,7 @@
 
 - Complete Hybrid Exercise: 3. Character vectorization (3%)
 - Hybrid: Next week learning module videos
-- Assignment 01: Avatar icon for Apple (15%, including peer reviews)
+- Assignment 01: Avatar icon for Apple (15%, peer reviews in week 6)
 
 
 ## Week 5 - Adding depth (Typography & Depth)
@@ -86,8 +86,8 @@
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
-- Raster-based graphic/photo editor
-- Workspace overview (Control options bar, history panel, layer panel etc)
+- Raster-based graphic/photo editor: Adobe Photoshop (Ps)
+- Workspace overview (control options bar, history panel, layer panel etc)
 - Opening, creating, saving documents
 - Using artboards
 - Making selections (selection tools)
@@ -144,6 +144,7 @@
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
+- Scalable Vector Graphics are code
 - Writing SVG code
 - SVG texts and effects
   - Text & web fonts
@@ -171,7 +172,7 @@
   - Icon symbols reuse
 - SVG Accessibility
 
-- Hybrid Adobe XD Exercise (not marked)
+- Hybrid Adobe Xd Exercise (not marked)
 - Hybrid: Next week learning module videos 
 
 
@@ -181,16 +182,16 @@
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
-- Common rapid prototyping tool
+- Rapid prototyping tool: Adobe XD (Xd)
 - Workspace overview
   - Design
   - Prototype
   - Share
-- XD Cloud documents
+- Xd Cloud documents
   - File management
   - Team collaboration
   - Features introduced in 2019
-- Free XD resources
+- Free Xd resources
 - Extra: Managing fonts
 
 - Hybrid: Next week learning module videos
@@ -198,19 +199,19 @@
 - Due: Assignment 02
 
 
-## Week 12 - Mobile layout with XD
+## Week 12 - Mobile layout with Xd
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
 - Creating mobile layout from scratch
 - Creating mobile layout form UI Kits: iOS, Android
-- Working with XD Plugins
+- Working with Xd Plugins
 
-- In-class Exercise: 9. Mobile layout in XD (3%)
+- In-class Exercise: 9. Mobile layout in Xd (3%)
 - Hybrid: Next week learning module video
 
 
-## Week 13 - XD Advanced features
+## Week 13 - Xd Advanced features
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
