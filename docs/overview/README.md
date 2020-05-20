@@ -42,8 +42,7 @@ Room T127
   grid-gap: 1.5rem;
   margin-bottom: 2rem;"> -->
 
-<img src="../assets/tools.jpg" alt="UI graphics tools" 
-     style="width: 100%; height: auto; margin-top: .95rem;">
+<img src="../assets/tools.jpg" alt="UI graphics tools">
 
 <!-- <img src="../assets/cordova-black.png" alt="Cordova" 
      style="width: 100%; height: auto; max-height: 130px; max-width: 160px;align-self: start; margin-top: .95rem;"> -->
