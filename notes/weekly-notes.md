@@ -194,7 +194,7 @@
   - Team collaboration
   - Features introduced in 2019
 - Free Xd resources
-- Extra: Managing fonts
+- Extra (e.g. Managing fonts)
 
 - Hybrid: Next week learning module videos
 - Assignment 3 (Final): Mobile UI Visual Prototype (20%) 
@@ -221,9 +221,9 @@
 - Final assignment work period (onboarding screens)
 - Final assignment individual review
 
-- Hybrid: Assignment 3 individual review
+- Hybrid: Assignment 3 (Final) individual review
 
 
 ## Week 14
 
-- Work on Final Assignment
+- Work on Assignment 3 (Final)
