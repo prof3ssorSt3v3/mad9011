@@ -14,8 +14,8 @@
 
 ## Week 2 - Meeting Adobe Illustrator 
 
-- Discussion of First hybrid learning module videos
-- Recap of First learning module videos
+- Discussion of hybrid learning module videos
+- Recap of learning module videos
 - Graphic fundamental: Raster and vector graphics
 - Intro to Illustrator
 - Illustrator Artboards
@@ -28,8 +28,8 @@
 
 ## Week 3 - Time to colour (Colour theory and Illustrator tools)
 
-- Discussion of previous hybrid learning module videos
-- Recap of previous learning module videos
+- Discussion of hybrid learning module videos
+- Recap of learning module videos
 - Colour dos & don’ts
 - Elements of design
 - Illustrator colour swatches
@@ -45,8 +45,8 @@
 
 ## Week 4 - Time to draw (Illustrator drawing tools)
 
-- Discussion of previous hybrid learning module videos
-- Recap of previous learning module videos
+- Discussion of hybrid learning module videos
+- Recap of learning module videos
 - The Pen Tool 
 - The Pencils and Paintbrush tools
 - Pathfinder and Builder tools
@@ -59,8 +59,8 @@
 
 ## Week 5 - Adding depth (Typography & Depth)
 
-- Discussion of previous hybrid learning module videos
-- Recap of previous learning module videos
+- Discussion of hybrid learning module videos
+- Recap of learning module videos
 - Typography
   - Adding and formatting texts,
   - Placing texts on or inside a path
@@ -84,8 +84,8 @@
 
 ## Week 6 - Introduction to Adobe Photoshop
 
-- Discussion of previous hybrid learning module videos
-- Recap of previous learning module videos
+- Discussion of hybrid learning module videos
+- Recap of learning module videos
 - Raster-based graphic/photo editor
 - Workspace overview (Control options bar, history panel, layer panel etc)
 - Opening, creating, saving documents
@@ -105,8 +105,8 @@
 
 ## Week 7 - Photo manipulation and image composite (Photoshop)
 
-- Discussion of previous hybrid learning module videos
-- Recap of previous learning module videos
+- Discussion of hybrid learning module videos
+- Recap of learning module videos
 - Non-destructive editing layers
 - Non-destructive image editing
   - Text and Shape layers
@@ -125,8 +125,8 @@
 
 ## Week 8 - Photo retouching and image optimization (Photoshop)
 
-- Discussion of previous hybrid learning module videos
-- Recap of previous learning module videos
+- Discussion of hybrid learning module videos
+- Recap of learning module videos
 - Photo retouching and restoration 
   - Basic Retouch tools
   - History brush tools
@@ -142,8 +142,8 @@
 
 ## Week 9 - Introduction to Scalable Vector Graphics (SVG) 
 
-- Discussion of previous hybrid learning module videos
-- Recap of previous learning module videos
+- Discussion of hybrid learning module videos
+- Recap of learning module videos
 - Writing SVG code
 - SVG texts and effects
   - Text & web fonts
@@ -161,8 +161,8 @@
 
 ## Week 10 - SVG Animation
 
-- Discussion of previous hybrid learning module videos
-- Recap of previous learning module videos
+- Discussion of hybrid learning module videos
+- Recap of learning module videos
 - Animation with CSS
   - Transitions
   - Transform origin with pixels
@@ -179,8 +179,8 @@
 
 ## Week 11 - Introduction to Adobe XD 
 
-- Discussion of previous hybrid learning module videos
-- Recap of previous learning module videos
+- Discussion of hybrid learning module videos
+- Recap of learning module videos
 - Common rapid prototyping tool
 - Workspace overview
   - Design
@@ -200,6 +200,8 @@
 
 ## Week 12 - Mobile layout with XD
 
+- Discussion of hybrid learning module videos
+- Recap of learning module videos
 - Creating mobile layout from scratch
 - Creating mobile layout form UI Kits: iOS, Android
 - Working with XD Plugins
@@ -210,6 +212,8 @@
 
 ## Week 13 - XD Advanced features
 
+- Discussion of hybrid learning module videos
+- Recap of learning module videos
 - Tips and tricks, new features (voice/animation)
 - Final assignment work period (onboarding screens)
 - Final assignment individual review
