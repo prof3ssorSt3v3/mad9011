@@ -1,13 +1,13 @@
 # MAD9011 - Mobile Design Fundamentals
 
 ::: tip
-Students are introduced to mobile design fundamentals and graphical user interface design tools. The design concepts include mobile user interface visual elements, principles, accessibility and usability. Students gain production techniques and the required skills to create mobile industry-standard graphics. They learn design tools that help them to design effective interfaces for måobile-first websites and mobile applications. Hands-on learning is the focus by which they use different software packages to create mobile user interface visual elements, icons, splash graphics, scalable vector graphic (SVG), SVG animations, and wireframes.
+Students are introduced to mobile design fundamentals and graphical user interface design tools. The design concepts include mobile user interface visual elements, principles, accessibility and usability. Students gain production techniques and the required skills to create mobile industry-standard graphics. They learn design tools that help them to design effective interfaces for mobile-first websites and mobile applications. Hands-on learning is the focus by which they use different software packages to create mobile user interface visual elements, icons, splash graphics, scalable vector graphic (SVG), SVG animations, and wireframes.
 
 :::
 
 ## Course Description
 
-**[Course Outline](./2019-2020_mad9014.pdf)**
+**[Course Outline](./2020-2021_mad9011.pdf)**
 
 ## Student Workload Expectations
 
@@ -43,8 +43,7 @@ Room T127
   margin-bottom: 2rem;"> -->
 
 <img src="../assets/tools.jpg" alt="UI graphics tools" 
-     style="width: 100%; height: auto; max-height: 130px; max-width: 600px;
-            align-self: start; margin-top: .95rem;">
+     style="width: 100%; height: auto; margin-top: .95rem;">
 
 <!-- <img src="../assets/cordova-black.png" alt="Cordova" 
      style="width: 100%; height: auto; max-height: 130px; max-width: 160px;align-self: start; margin-top: .95rem;"> -->
