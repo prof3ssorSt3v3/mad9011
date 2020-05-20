@@ -70,7 +70,7 @@ Room T127
 <ContactCard 
   name="SuCheng Lee"
   title="Instructor"
-  img-url="../slee_h.png"
+  img-url="/F2020/slee_h.png"
   bio="Professor of the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'lees1@algonquincollege.com' }, 
