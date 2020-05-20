@@ -1,13 +1,15 @@
 # Weekly Class Activities (Lesson Plan)
 
-## Module 1: Basic design concepts and vector-based graphics 
+## MODULE ONE: Basic design concepts and vector-based graphics 
 
 ## Week 1 - Introduction to MAD9011
 
 - Introduction to MAD9011 Course
+- Course Policy & Resources
 - Install Adobe CC  
 - Install Illustrator
-- First hybrid learning module videos
+
+- Hybrid: Next week learning module videos
 
 
 ## Week 2 - Meeting Adobe Illustrator 
@@ -21,7 +23,7 @@
 - Colour of fill and stroke 
 
 - Hybrid Exercise: 1. Nike logo (3%)
-- Hybrid: Next learning module videos
+- Hybrid: Next week learning module videos
 
 
 ## Week 3 - Time to colour (Colour theory and Illustrator tools)
@@ -37,7 +39,7 @@
 - Transform options (rotate, reflect, and shear)
 
 - Hybrid Exercise: 2. Design a Button (3%)
-- Hybrid: Next learning module videos
+- Hybrid: Next week learning module videos
 - Pertinent Discussion (3%)
 
 
@@ -51,7 +53,7 @@
 - Clipping mask
 
 - Complete Hybrid Exercise: 3. Character vectorization (3%)
-- Hybrid: Next learning module videos
+- Hybrid: Next week learning module videos
 - Assignment 01: Avatar icon for Apple (15%, including peer reviews)
 
 
@@ -75,10 +77,10 @@
 
 - In-class Exercise: 4. Typography (3%)
 - Hybrid: Online Quiz 1 (10%)
-- Hybrid: Next learning module videos & **Reading**
+- Hybrid: Next week learning module videos
 
 
-## Module 2: Layout concepts and raster-based graphics
+## MODULE TWO: Layout concepts and raster-based graphics
 
 ## Week 6 - Introduction to Adobe Photoshop
 
@@ -95,7 +97,7 @@
 - Clone Stamp Tool
 
 - In-class Exercise: 5. Cut a silhouette (3%)
-- Hybrid: Next learning module videos
+- Hybrid: Next week learning module videos
 - Assignment 02: Employee profile page (10%)
 - Peer Review for Assignment 01 (marked)
 - Due: Assignment 01
@@ -116,7 +118,7 @@
 - Creating an image composition
 
 - Hybrid Exercise: 6. Compositing an image (3%)
-- Hybrid: Next learning module videos
+- Hybrid: Next week learning module videos
 
 
 **READING WEEK HERE**
@@ -135,7 +137,7 @@
   - Save for Web (legacy)
 
 - In-class Exercise: 7. Clean me up (3%)
-- Hybrid: Next learning module videos & **Reading**
+- Hybrid: Next week learning module videos & **Reading**
 
 
 ## Week 9 - Introduction to Scalable Vector Graphics (SVG) 
@@ -169,11 +171,11 @@
   - Icon symbols reuse
 - SVG Accessibility
 
-- Hybrid: Next learning module videos 
 - Hybrid Adobe XD Exercise (not marked)
+- Hybrid: Next week learning module videos 
 
 
-## Module 4: User interface interaction design concepts – Putting it all together
+## MODULE THREE: User interface interaction design concepts – Putting it all together
 
 ## Week 11 - Introduction to Adobe XD 
 
@@ -191,7 +193,7 @@
 - Free XD resources
 - Extra: Managing fonts
 
-- Hybrid: Next learning module videos
+- Hybrid: Next week learning module videos
 - Assignment 3 (Final): Mobile UI Visual Prototype (20%) 
 - Due: Assignment 02
 
@@ -203,7 +205,7 @@
 - Working with XD Plugins
 
 - In-class Exercise: 9. Mobile layout in XD (3%)
-- Hybrid: Next learning module video
+- Hybrid: Next week learning module video
 
 
 ## Week 13 - XD Advanced features
