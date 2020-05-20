@@ -57,13 +57,13 @@ Room T127
 
 ## Core Topics
 
-- Javascript
-- ES6
-- Cordova Framework
-- Beginner to Intermediate JavaScript
-- HTML5 APIs
-- Web Apps and SPAs
-- Hybrid Applications
+- Basic design concepts and vector-based graphics
+- Adobe Illustrator (Ai)
+- Layout concepts and raster-based graphics
+- Adobe Photoshop (Ps)
+- Scalable Vector Graphics (SVG) and mockup 
+- User interface interaction design concepts – Putting it all together
+- Adobe XD (Xd)
 
 ## Contacts
 
