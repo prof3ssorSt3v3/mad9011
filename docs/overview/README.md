@@ -46,9 +46,13 @@ Room T127
 
 <img src="../assets/cordova-black.png" alt="Cordova" 
      style="width: 100%; height: auto; max-height: 130px; max-width: 160px;align-self: start; margin-top: .95rem;">
-     
+
 <img src="../assets/cordova-black.png" alt="Cordova" 
      style="width: 100%; height: auto; max-height: 130px; max-width: 160px;align-self: start; margin-top: .95rem;">
+
+<img src="../assets/html-5.svg" alt="HTML 5" 
+     style="width: auto; height: 70%; max-height: 130px;
+            align-self: end; margin-bottom: .8rem;">
 
 <img src="../assets/html-5.svg" alt="HTML 5" 
      style="width: auto; height: 70%; max-height: 130px;
