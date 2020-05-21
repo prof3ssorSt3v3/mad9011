@@ -1,31 +1,28 @@
-# Hybrid Exercise 9 - In-class Exercise: Clean me up
+# Hybrid Exercise 9 - In-class Exercise:  Mobile UI Layout
 
 ## Description
 
-Based on Week 10's lesson, you are to restore one of the photos provided below in Adobe Photoshop.
+Based on Week 11 and 12 lessons, you are to create an interactive prototype in Adobe XD.
 
-<img src="../assets/7-1-PS-hybrid.jpg" alt="Smiley young woman"> 
-<img src="../assets/7-2-PS-hybrid.jpg" alt="Two young men">
-
-- Download one of the photos.
-- Restore the photo with the tools you have learned in Ps.
-- When the work is completed, screen capture your artwork in Ps workspace including the layer view.
-- Upload your screen capture file for submission.
-- File naming example: *TomSmith-010-restoration.png* [fullname-section#-restoration.png]
+- Find a well designed mobile app of your like, take screenshots of its onboarding process and main UI screens.  
+- Recreate an interactive prototype in Adobe Xd.
+- Submit the URL created by using the sharing features: Share for Development.  
+- Upload your XD file for submission.
+- File naming example: *TomSmith-010-mobilelayout.xd* [fullname-section#-mobilelayout.xd]
 
 
 ## Submission
 
 ::: warning
-**Due in class (Group one) Thursday November 5 by 12pm**
+**Due in class (Group one) Thursday December 3 by 12pm**
 :::
 
 ::: warning
-**Due in class (Group two) Wednesday November 4 by 10am**
+**Due in class (Group two) Wednesday December 2 by 10am**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.
 
-Go to the `Clean me up` assignment.
+Go to the `Mobile UI Layout` assignment.
 
-Upolad your screenshot on the assignment page in BS LMS and click the submit button.
+Upolad your Xd file and prototype URL on the assignment page in BS LMS and click the submit button.
