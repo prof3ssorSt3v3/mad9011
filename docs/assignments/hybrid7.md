@@ -4,6 +4,7 @@
 
 Based on Week 10's lesson, you are to restore one of the photos provided below in Adobe Photoshop.
 
+<img src="../assets/7-1-PS-hybrid.jpg" alt="Smiley young woman"> 
 <img src="../assets/7-1-PS-hybrid.jpg" alt="Smiley young woman">
 
 - Download one of the photos

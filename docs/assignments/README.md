@@ -68,32 +68,32 @@ Every week there will be exercises for you to complete inside or outside of clas
 [Hybrid 5 details](./hybrid5.md)
 
 
-### Hybrid 6 - Compositing an image
+### Hybrid 6 - Composite an image
 
-<Badge text="Due Thu. Nov 7 by 11pm"/>
+<Badge text="Due Thu. Oct 25 by 11pm"/>
 
 [Hybrid 6 details](./hybrid6.md)
 
 
 ### Hybrid 7 - In-class: Clean me up
 
-<Badge text="Due Mon. Nov 18 by 11pm"/>
+<Badge text="Due Wed./Thu. Nov 4/5  by 10am/12pm"/>
 
 [Hybrid 7 details](./hybrid7.md)
 
 
 ### Hybrid 8 - Coding an SVG animation
 
-<Badge text="Due Thu. Nov 21 by 11pm"/>
+<Badge text="Due Sun. Nov 15 by 11pm"/>
 
 [Hybrid 8 details](./hybrid8.md)
 
 
-### Hybrid 9 - Mobile layout
+### Hybrid 9 - In-class: Mobile UI layout
 
-<Badge text="Due Thu. Nov 21 by 11pm"/>
+<Badge text="Due Wed./Thu. Dec 2/3  by 10am/12pm"/>
 
-[Hybrid 8 details](./hybrid9.md)
+[Hybrid 9 details](./hybrid9.md)
 
 
 ## Evaluated Assignments
