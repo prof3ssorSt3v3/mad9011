@@ -4,7 +4,7 @@
 
 Recreate the Nike logo in Adobe Illustrator using these 3 shapes: Rectangle/Ellipse/Polygon.
 
-<img src="../assets/nikelogo.png" alt="Nike Logo" width="150">
+<img src="../assets/nikelogo.png" alt="Nike Logo" width="300">
 
 - The resulting logo must be one black shape. 
 - Challenge: Apply different borders and styles with additional logos
