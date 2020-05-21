@@ -162,7 +162,7 @@ Thre are three larger assignments for you to complete. Together they are worth 4
 
 <Badge text="Due Tue. Nov 19 by 5pm" />
 
-Peer Review on Brightspace - <Badge text="Due Tue. Nov 30 by 5pm" />
+<Badge text="Peer Review Due Tue. Nov 30 by 5pm" />
 
 [Assignment 1 details](./assg1.md)
 
@@ -170,7 +170,7 @@ Peer Review on Brightspace - <Badge text="Due Tue. Nov 30 by 5pm" />
 
 <Badge text="Due Tue. Nov 19 by 5pm" />
 
-[Assignment 2 details](./assg3.md)
+[Assignment 2 details](./assg2.md)
 
 ### Assignment 3: Mobile UI Visual Prototype (20%)
 
