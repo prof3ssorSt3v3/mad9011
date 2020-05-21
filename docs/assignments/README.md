@@ -56,14 +56,14 @@ Every week there will be exercises for you to complete inside or outside of clas
 
 ### Hybrid 4 - In-class: Typography
 
-<Badge text="Due Wed/Thu. Oct 7/8 by 10am/12pm"/>
+<Badge text="Due Wed./Thu. Oct 7/8 by 10am/12pm"/>
 
 [Hybrid 4 details](./hybrid4.md)
 
 
 ### Hybrid 5 - In-class: Cut a silhouette
 
-<Badge text="Due Thu. Oct 10  by 11pm"/>
+<Badge text="Due Wed./Thu. Oct 14/15  by 10am/12pm"/>
 
 [Hybrid 5 details](./hybrid5.md)
 

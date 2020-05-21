@@ -5,7 +5,7 @@
 Based on Week 06's lesson, you are to create a silhouette raster image in Adobe Photoshop.
 
 - Try cutting out a silhouette of yourself or friend as perfect as possible. (background: [http://www.pics4learning.com](http://www.pics4learning.com/))
-- When the work is completed, screen capture the artwork in your Ps workspace including the layer view.
+- When the work is completed, screen capture your artwork in Ps workspace including the layer view.
 - Upload your screen capture file for submission.
 - File naming example: *TomSmith-010-silhouette.png* [fullname-section#-silhouette.png]
 
@@ -18,7 +18,7 @@ Based on Week 06's lesson, you are to create a silhouette raster image in Adobe 
 :::
 
 ::: warning
-**Due in class (Group two) Wednesday October 13 by 10am**
+**Due in class (Group two) Wednesday October 14 by 10am**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.
