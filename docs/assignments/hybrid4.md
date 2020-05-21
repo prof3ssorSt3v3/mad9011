@@ -17,7 +17,7 @@ Based on Week 05's lesson, each student is to design their name *uniquely* in Il
 :::
 
 ::: warning
-**Due Wednesday SepteOctober 7 by 10am for Group two**
+**Due Wednesday October 7 by 10am for Group two**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.
