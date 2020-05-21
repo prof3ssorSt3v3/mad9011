@@ -35,7 +35,7 @@ Every week there will be exercises for you to complete inside or outside of clas
 
 ### Hybrid 1 - Nike recreation
 
-<Badge text="Due Thu. Sep 12 by 11pm"/>
+<Badge text="Due Thu. Sep 13 by 11pm"/>
 
 [Hybrid 1 details](./hybrid1.md)
 

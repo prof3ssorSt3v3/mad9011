@@ -11,14 +11,14 @@ Recreate the Nike logo in Adobe Illustrator using these 3 shapes: Rectangle/Elli
 - Take a screenshot of your Ai workspace to show your logos and layers, and make sure to select all the shapes to show how you achieved the result.
 - File naming example: TomSmith-010-nikelogo.png [fullname-section#-nikelogo.png]
 
-**[Partially completed Nike Logo Exercise](./1-example-nikelogos.png)**
+**[Partially completed Nike Logo Assignment Example](./1-example-nikelogos.png)**
 
-<img src="../assets/1-nikelogo.png" alt="Partially completed Nike Logo Exercise">
+<img src="../assets/1-nikelogo.png" alt="Partially completed Nike Logo Assignment Example">
 
 ## Submission
 
 ::: warning
-**Due Sunday September 13 by 11:59pm**
+**Due Sunday September 13 by 11pm**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.

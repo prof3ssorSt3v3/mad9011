@@ -1,25 +1,27 @@
-# Hybrid Exercise 1
+# Hybrid Exercise 2 - Design a button
 
 ## Description
 
-The purpose of this exercise is to show that you understand JavaScript comments, declarations, assignment, and datatypes.
+Recreate this button in Adobe Illustrator using the tools you have learned so far.
 
-Create a JavaScript file that has the following:
+Submission: Take a screenshot of your Ai workspace to show your artwork and layer organization, and as usual select all the shapes before taking the screenshot. 
 
-- A multi-line comment block at the top of the page which includes your full name, Algonquin username, and date the file was last saved.
-- Four variables declared using `let`.
-- The variables must have meaningful names which represent what information they contain.
-- The value of each variable must be a different data type.
-- All four values must be JavaScript Primitives.
+<img src="../assets/2-glossy_blue_button.png" alt="Blue Button">
+
+- Challenge: Apply different visual treatment to the button
+- Take a screenshot of your Ai workspace to show your artwork and layer organization, and as usual select all the shapes before taking the screenshot. 
+- File naming example: TomSmith-010-button.png [fullname-section#-button.png]
+
+<img src="../assets/2_Button assg example.png" alt="Button Assignment Example">
 
 ## Submission
 
 ::: warning
-**Due Thursday September 12 by 11pm**
+**Due Sunday September 20 by 11pm**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.
 
-Go to the `Hybrid 1` assignment.
+Go to the `Design a button` assignment.
 
-Copy and paste the code from your JavaScript file into the text box on the assignment page in BS LMS and click the submit button.
+Upolad your screenshot on the assignment page in BS LMS and click the submit button.
