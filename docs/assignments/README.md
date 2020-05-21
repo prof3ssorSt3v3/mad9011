@@ -4,7 +4,7 @@
 
 Worth <Badge type="error" text="8%"/> of Final Grade
 
-- Online Discussios: 
+- Online Discussions: 
     - [BS LMS MAD9014_300 Group 1 Discussions page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=196072&isprv=0)
 
     - [BS LMS MAD9014_310 Group 2 AssigDiscussions page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=196073&isprv=0)
