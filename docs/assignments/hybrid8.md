@@ -1,25 +1,54 @@
-# Hybrid Exercise 1
+# Hybrid Exercise 8 - Coding an SVG animation
 
 ## Description
 
-The purpose of this exercise is to show that you understand JavaScript comments, declarations, assignment, and datatypes.
+Based on Week 9 and 10 lessons, you are to design a small Scalable Vector Graphic (SVG) with a hover state and CSS animation.
 
-Create a JavaScript file that has the following:
+- Design a Scalable Vector Graphic.
+- Apply style and hover state with CSS.
+- Animate your SVG with CSS.
+- Depending your code, you may use multiple files or one sigle file for your SVG animation. For example: You will have 3 files if you use HTML with external CSS to animate and style your external SVG graphic. Or, you may use only 1 HTML file if you embed CSS and SVG code inside.  
+- When the work is completed, upload your file(s) as ONE file (ZIP or SVG or HTML) for submission.
+- File naming example: *TomSmith-010-SVGanimation.zip* [fullname-section#-SVGanimation.zip]
 
-- A multi-line comment block at the top of the page which includes your full name, Algonquin username, and date the file was last saved.
-- Four variables declared using `let`.
-- The variables must have meaningful names which represent what information they contain.
-- The value of each variable must be a different data type.
-- All four values must be JavaScript Primitives.
+
+Here's freebie code to toggle CSS classes with Javascript that may be useful: 
+
+````js{4}
+
+<defs>
+<style type="text/css">
+
+#mouth {
+display:none;
+}
+
+.clickit #mouth {
+display:block;
+}
+
+</style>
+
+<script>
+
+var clicker = document.querySelector('#logo');
+
+clicker.addEventListener('click', function() {
+this.classList.toggle('clickit');
+});
+</script>
+</defs>
+````
+
 
 ## Submission
 
 ::: warning
-**Due Thursday September 12 by 11pm**
+**Due Sunday November 15 by 11pm**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.
 
-Go to the `Hybrid 1` assignment.
+Go to the `Coding an SVG animation` assignment.
 
-Copy and paste the code from your JavaScript file into the text box on the assignment page in BS LMS and click the submit button.
+Upolad your file(s) on the assignment page in BS LMS and click the submit button.
