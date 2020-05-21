@@ -1,30 +1,38 @@
-# MAD9014 Deliverables
+# MAD9011 Deliverables
 
-## GitHub
+## Evaluated Assignments
 
-Many of your assignments will be submitted as a link in BSLMS to a GitHub Repo.
+Worth <Badge type="error" text="45%"/> of Final Grade
 
-[Here is a general guide on getting started with Repos](./github.md)
+- Assignment 1: Avatar icon for Apple (15%)
+- Assignment 2: Employee profile page (10%)
+- Assignment 3: Mobile UI Visual Prototype (20%)
+
 
 ## Quizzes
-
 Worth <Badge type="error" text="20%"/> of Final Grade
+- Quiz 1 – Basic design knowledge and tools (10%)
+- Quiz 2 – User Interface graphic knowledge and tools (10%)
 
-Most classes, starting in week 2, will have a few questions asked during the first 10 minutes. The questions will be based on the readings, lessons, and videos from the previous week.
 
-The questions will be asked outloud. First person to raise their hand gets the chance to answer correctly.
-
-For each correct answer you earn 5%. Four correct answers give you the full 20% for the quiz part of your final grade.
-
-A partially correct answer gets you no marks. However, it does give someone else the chance to steal the marks with part of the question answered.
-
-![You can do it](/mad9014/you-can-do-it.gif)
-
-## Hybrids
+## Hybrids & Exercises and Discussions
 
 Worth <Badge type="error" text="25%"/> of Final Grade
 
-Every week there will be exercises for you to complete on your own outside of class. The time for these exercises is roughly equivalent to 14 hours in total, one hour per week. Some exercises will be larger than others. Some will be completed quickly and others will take longer. All together, the hybrid exercises are worth 25% of your final grade. They are all due on Thursday evenings.
+Every week there will be exercises for you to complete on your own mostly outside of class. The time for these exercises is roughly equivalent to 14 hours in total, one hour per week. Some exercises will be larger than others. Some will be completed quickly and others will take longer. All together, the hybrid and in-class exercises are worth 35% of your final grade. They are all due on Thursday evenings.
+
+- Exercises 
+    1. Nike recreation (3%)
+    2. Design a button (3%)
+    3. Character vectorization (3%)
+    4. In-class: Typography (3%)  
+    5. In-class: Cut a silhouette (3%)  
+    6. Compositing an image (3%)
+    7. In-class: Clean me up (3%)  
+    8. Coding an SVG animation (3%)
+    9. Mobile layout (3%)  
+- Online Discussions (3%)
+- In-class Discussions (5%) 
 
 [BS LMS MAD9014_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=196072&isprv=0)
 
@@ -124,34 +132,24 @@ Uploaded to GitHub - <Badge text="Due Tue. Nov 19 by 5pm" />
 
 [Exercise 6 details](./exer6.md)
 
-## Projects
+## Evaluated Assignments
 
-Worth <Badge type="error" text="35%"/> of Final Grade
+Worth <Badge type="error" text="45%"/> of Final Grade
 
-These are the larger assignments there will be two larger projects for you to complete. Together they are worth 35% of your final grade.
+Thre are three larger assignments for you to complete. Together they are worth 45% of your final grade.
+[BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=196072&isprv=0)
 
-[BS LMS MAD9014_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=196072&isprv=0)
+[BS LMS MAD9011_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=196073&isprv=0)
 
-[BS LMS MAD9014_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=196073&isprv=0)
+### Assignment 1: Avatar icon for Apple (15%)
+Uploaded to Brightspace - <Badge text="Due Tue. Nov 19 by 5pm" />
+Peer Review on Brightspace - <Badge text="Due Tue. Nov 30 by 5pm" />
+[Assignment 1 details](./assg1.md)
 
-### Project 1 - Movie Search SPA
+### Assignment 2: Employee profile page (10%)
+Uploaded to Brightspace - <Badge text="Due Tue. Nov 19 by 5pm" />
+[Assignment 2 details](./assg3.md)
 
-Uploaded to GitHub - <Badge text="Due Fri. Nov 29 by 5pm"/>
-
-[Project 1 details](./proj1.md)
-
-### Project 2 - Cordova App
-
-Uploaded to GitHub and installed on MAD&D Android device - <Badge text="Due Fri. Dec 13 by 1pm" type="warning"/>
-
-[Project 2 details](./proj2.md)
-
-December 13th is the final deadline for all submissions. All marking must be completed that weekend and grades submitted to the College.
-
-![Not Hot Dog - Silicon Valley](/mad9014/not-hot-dog.webp)
-
-## Practice Exercises
-
-The exercises on the Practice page are not required for submission. They are exercises that you can use to practice your skills with the various topics we are learning this semester.
-
-[Practice Exercises](./practice.md)
+### Assignment 3: Mobile UI Visual Prototype (20%)
+Uploaded to Brightspace - <Badge text="Due Tue. Nov 19 by 5pm" />
+[Assignment 3 details](./assg3.md)
