@@ -1,25 +1,28 @@
-# Hybrid Exercise 1
+# Hybrid Exercise 4 - In-class Exercise: Cut a silhouette
 
 ## Description
 
-The purpose of this exercise is to show that you understand JavaScript comments, declarations, assignment, and datatypes.
+Based on Week 06's lesson, you are to create a silhouette raster image in Adobe Photoshop.
 
-Create a JavaScript file that has the following:
+- Try cutting out a silhouette of yourself or friend as perfect as possible. (background: [http://www.pics4learning.com](http://www.pics4learning.com/))
+- When the work is completed, screen capture the artwork in your Ps workspace including the layer view.
+- Upload your screen capture file for submission.
+- File naming example: *TomSmith-010-silhouette.png* [fullname-section#-silhouette.png]
 
-- A multi-line comment block at the top of the page which includes your full name, Algonquin username, and date the file was last saved.
-- Four variables declared using `let`.
-- The variables must have meaningful names which represent what information they contain.
-- The value of each variable must be a different data type.
-- All four values must be JavaScript Primitives.
+<img src="../assets/5_silhouette-example.png" alt="Silhouette Assignment Example">
 
 ## Submission
 
 ::: warning
-**Due Thursday September 12 by 11pm**
+**Due in class (Group one) Thursday October 15 by 12pm**
+:::
+
+::: warning
+**Due in class (Group two) Wednesday October 13 by 10am**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.
 
-Go to the `Hybrid 1` assignment.
+Go to the `Cut a silhouette` assignment.
 
-Copy and paste the code from your JavaScript file into the text box on the assignment page in BS LMS and click the submit button.
+Upolad your screenshot on the assignment page in BS LMS and click the submit button.
