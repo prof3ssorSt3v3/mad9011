@@ -1,25 +1,23 @@
-# Hybrid Exercise 1
+# Hybrid Exercise 1 - Nike recreation
 
 ## Description
 
-The purpose of this exercise is to show that you understand JavaScript comments, declarations, assignment, and datatypes.
+Recreate the Nike logo in Adobe Illustrator using these 3 shapes: Rectangle/Ellipse/Polygon.
 
-Create a JavaScript file that has the following:
+- The resulting logo must be one black shape. 
+- Challenge: Apply different borders and styles with additional logos
+- Take a screenshot of your Ai workspace to show your logos and layers, and make sure to select all the shapes to show how you achieved the result.
+- File naming example: TomSmith-010-nikelogo.png [fullname-section#-nikelogo.png]
 
-- A multi-line comment block at the top of the page which includes your full name, Algonquin username, and date the file was last saved.
-- Four variables declared using `let`.
-- The variables must have meaningful names which represent what information they contain.
-- The value of each variable must be a different data type.
-- All four values must be JavaScript Primitives.
 
 ## Submission
 
 ::: warning
-**Due Thursday September 12 by 11pm**
+**Due Sunday September 13 by 11:59pm**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.
 
-Go to the `Hybrid 1` assignment.
+Go to the `Nike recreation` assignment.
 
-Copy and paste the code from your JavaScript file into the text box on the assignment page in BS LMS and click the submit button.
+Upolad your screenshot on the assignment page in BS LMS and click the submit button.
