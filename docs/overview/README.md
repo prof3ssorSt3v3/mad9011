@@ -58,7 +58,7 @@ Room T127
      style="width: auto; height: 70%; max-height: 130px;
             align-self: end; margin-bottom: .8rem;">
 
-<!-- </section> -->
+</section> 
 
 ## Core Topics
 
