@@ -13,6 +13,8 @@ Recreate the Nike logo in Adobe Illustrator using these 3 shapes: Rectangle/Elli
 
 **[Partially completed Nike Logo Exercise](1-example-nikelogos.png)**
 
+<img src="../assets/1-example-nikelogos.png" alt="Partially completed Nike Logo Exercise">
+
 ## Submission
 
 ::: warning
