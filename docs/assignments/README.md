@@ -160,15 +160,20 @@ Thre are three larger assignments for you to complete. Together they are worth 4
 
 ### Assignment 1: Avatar icon for Apple (15%)
 
-Uploaded to Brightspace - <Badge text="Due Tue. Nov 19 by 5pm" />
+<Badge text="Due Tue. Nov 19 by 5pm" />
 
 Peer Review on Brightspace - <Badge text="Due Tue. Nov 30 by 5pm" />
+
 [Assignment 1 details](./assg1.md)
 
 ### Assignment 2: Employee profile page (10%)
-Uploaded to Brightspace - <Badge text="Due Tue. Nov 19 by 5pm" />
+
+<Badge text="Due Tue. Nov 19 by 5pm" />
+
 [Assignment 2 details](./assg3.md)
 
 ### Assignment 3: Mobile UI Visual Prototype (20%)
-Uploaded to Brightspace - <Badge text="Due Tue. Nov 19 by 5pm" />
+
+<Badge text="Due Tue. Nov 19 by 5pm" />
+
 [Assignment 3 details](./assg3.md)
