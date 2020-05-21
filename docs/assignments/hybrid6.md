@@ -1,4 +1,4 @@
-# Hybrid Exercise 6 - Compositing an image
+# Hybrid Exercise 6 - Composite an image
 
 ## Description
 
@@ -21,6 +21,6 @@ Composite(blend) your animal on a *UNIQUE* background in Adobe Photoshop.
 
 Open BS LMS and go to the `Activities > Assignments` page.
 
-Go to the `Compositing an image` assignment.
+Go to the `Composite an image` assignment.
 
 Upolad your screenshot on the assignment page in BS LMS and click the submit button.

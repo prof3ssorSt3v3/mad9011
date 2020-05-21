@@ -1,4 +1,4 @@
-# Hybrid Exercise 1
+# Hybrid Exercise 7 - In-class Exercise: Clean me up
 
 ## Description
 
