@@ -1,25 +1,27 @@
-# Hybrid Exercise 1
+# Hybrid Exercise 4 - In-class Exercise: Typography
 
 ## Description
 
-The purpose of this exercise is to show that you understand JavaScript comments, declarations, assignment, and datatypes.
+Based on Week 05's lesson, each student is to design their name *uniquely* in Illustrator.
 
-Create a JavaScript file that has the following:
+- The fonts must be outlined with a fill and stroke, plus effects.
+- When the work is completed, take a screen capture of your Ai workspace including the layer view and selecting the shapes you created for submission at the end of the class.
+- File naming example: TomSmith-010-typography.png [fullname-section#-typography.png]
 
-- A multi-line comment block at the top of the page which includes your full name, Algonquin username, and date the file was last saved.
-- Four variables declared using `let`.
-- The variables must have meaningful names which represent what information they contain.
-- The value of each variable must be a different data type.
-- All four values must be JavaScript Primitives.
+<img src="../assets/4_typography-example.png" alt="Typography Assignment Example">
 
 ## Submission
 
 ::: warning
-**Due Thursday September 12 by 11pm**
+**Due Thursday September 27 by 12pm for Group One**
+:::
+
+::: warning
+**Due Wednesday September 26 by 10am for Group two**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.
 
-Go to the `Hybrid 1` assignment.
+Go to the `Character vectorization` assignment.
 
-Copy and paste the code from your JavaScript file into the text box on the assignment page in BS LMS and click the submit button.
+Upolad your screenshot on the assignment page in BS LMS and click the submit button.

@@ -7,7 +7,7 @@ Recreate this button in Adobe Illustrator using the tools you have learned so fa
 <img src="../assets/2-glossy_blue_button.png" alt="Blue Button" width="50%">
 
 - Challenge: Apply different visual treatment to the button
-- Take a screenshot of your Ai workspace to show your artwork and layer organization, and as usual select all the shapes before taking the screenshot. 
+- Take a screenshot of your Ai workspace to show your artwork and layer organization, and as usual select all the shapes before taking the screenshot for submission. 
 - File naming example: TomSmith-010-button.png [fullname-section#-button.png]
 
 <img src="../assets/2_Button assg example.png" alt="Button Assignment Example">
