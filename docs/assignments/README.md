@@ -23,7 +23,7 @@ Worth <Badge type="error" text="20%"/> of Final Grade
 - Online Quiz 2 – User Interface graphic knowledge and tools <Badge text="Due Thu. Sep 12 by 11pm"/>
 
 
-## Hybrids & Exercises and Discussions
+## Hybrids & In-class Exercises 
 
 Worth <Badge type="error" text="27%"/> of Final Grade
 
@@ -39,11 +39,13 @@ Every week there will be exercises for you to complete inside or outside of clas
 
 [Hybrid 1 details](./hybrid1.md)
 
+
 ### Hybrid 2 - Design a button
 
 <Badge text="Due Thu. Sep 19 by 11pm"/>
 
 [Hybrid 2 details](./hybrid2.md)
+
 
 ### Hybrid 3 - Character vectorization
 
@@ -51,11 +53,13 @@ Every week there will be exercises for you to complete inside or outside of clas
 
 [Hybrid 3 details](./hybrid3.md)
 
+
 ### Hybrid 4 - In-class: Typography
 
 <Badge text="Due Thu. Oct 3 by 11pm"/>
 
 [Hybrid 4 details](./hybrid4.md)
+
 
 ### Hybrid 5 - In-class: Cut a silhouette
 
@@ -63,17 +67,20 @@ Every week there will be exercises for you to complete inside or outside of clas
 
 [Hybrid 5 details](./hybrid5.md)
 
+
 ### Hybrid 6 - Compositing an image
 
 <Badge text="Due Thu. Nov 7 by 11pm"/>
 
 [Hybrid 6 details](./hybrid6.md)
 
+
 ### Hybrid 7 - In-class: Clean me up
 
 <Badge text="Due Mon. Nov 18 by 11pm"/>
 
 [Hybrid 7 details](./hybrid7.md)
+
 
 ### Hybrid 8 - Coding an SVG animation
 
