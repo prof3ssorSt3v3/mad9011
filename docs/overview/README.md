@@ -32,7 +32,7 @@ Room T127
 
 ## Technology Stack
 
-<!-- <section style="
+<section style="
   display: grid; 
   grid-template-columns: repeat( auto-fit, minmax(160px, 1fr) );
   grid-template-rows: 130px;
@@ -40,16 +40,19 @@ Room T127
   justify-items: center;
   align-items: center;
   grid-gap: 1.5rem;
-  margin-bottom: 2rem;"> -->
+  margin-bottom: 2rem;">
 
-<img src="../assets/tools.jpg" alt="UI graphics tools" width="80%">
+<!-- <img src="../assets/tools.jpg" alt="UI graphics tools" width="80%"> -->
 
-<!-- <img src="../assets/cordova-black.png" alt="Cordova" 
-     style="width: 100%; height: auto; max-height: 130px; max-width: 160px;align-self: start; margin-top: .95rem;"> -->
+<img src="../assets/cordova-black.png" alt="Cordova" 
+     style="width: 100%; height: auto; max-height: 130px; max-width: 160px;align-self: start; margin-top: .95rem;">
+     
+<img src="../assets/cordova-black.png" alt="Cordova" 
+     style="width: 100%; height: auto; max-height: 130px; max-width: 160px;align-self: start; margin-top: .95rem;">
 
-<!-- <img src="../assets/html-5.svg" alt="HTML 5" 
+<img src="../assets/html-5.svg" alt="HTML 5" 
      style="width: auto; height: 70%; max-height: 130px;
-            align-self: end; margin-bottom: .8rem;"> -->
+            align-self: end; margin-bottom: .8rem;">
 
 <!-- </section> -->
 
