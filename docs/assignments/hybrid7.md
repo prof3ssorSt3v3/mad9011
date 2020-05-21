@@ -2,24 +2,31 @@
 
 ## Description
 
-The purpose of this exercise is to show that you understand JavaScript comments, declarations, assignment, and datatypes.
+Based on Week 10's lesson, you are to restore one of the photos provided below in Adobe Photoshop.
 
-Create a JavaScript file that has the following:
+<img src="../assets/7-1-PS-hybrid.jpg" alt="Smily woman">
 
-- A multi-line comment block at the top of the page which includes your full name, Algonquin username, and date the file was last saved.
-- Four variables declared using `let`.
-- The variables must have meaningful names which represent what information they contain.
-- The value of each variable must be a different data type.
-- All four values must be JavaScript Primitives.
+<img src="../assets/7-2-PS-hybrid.jpg" alt="Two young men">
+
+- Download one of the photos
+- Restore the photo with the tools you have learned in Ps.
+- When the work is completed, screen capture your artwork in Ps workspace including the layer view.
+- Upload your screen capture file for submission.
+- File naming example: *TomSmith-010-restoration.png* [fullname-section#-restoration.png]
+
 
 ## Submission
 
 ::: warning
-**Due Thursday September 12 by 11pm**
+**Due in class (Group one) Thursday November 5 by 12pm**
+:::
+
+::: warning
+**Due in class (Group two) Wednesday November 4 by 10am**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.
 
-Go to the `Hybrid 1` assignment.
+Go to the `Clean me up` assignment.
 
-Copy and paste the code from your JavaScript file into the text box on the assignment page in BS LMS and click the submit button.
+Upolad your screenshot on the assignment page in BS LMS and click the submit button.
