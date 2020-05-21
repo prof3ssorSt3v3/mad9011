@@ -9,8 +9,8 @@ Based on Week 10's lesson, you are to restore one of the photos provided below i
 
 - Download one of the photos.
 - Restore the photo with the tools you have learned in Ps.
-- When the work is completed, screen capture your artwork in Ps workspace including the layer view.
-- Upload your screen capture file for submission.
+- When the work is completed, screen capture your artwork in Ps workspace including the layer view. 
+- Submit your work at the end of the class.
 - File naming example: *TomSmith-010-restoration.png* [fullname-section#-restoration.png]
 
 
