@@ -1,25 +1,26 @@
-# Hybrid Exercise 1
+# Hybrid Exercise 6 - Compositing an image
 
 ## Description
 
-The purpose of this exercise is to show that you understand JavaScript comments, declarations, assignment, and datatypes.
+Composite(blend) your animal on a *UNIQUE* background in Adobe Photoshop.
 
-Create a JavaScript file that has the following:
+<img src="../assets/6-photoshop-hybrid-animal.jpg" alt="Zebra frong Composite">
 
-- A multi-line comment block at the top of the page which includes your full name, Algonquin username, and date the file was last saved.
-- Four variables declared using `let`.
-- The variables must have meaningful names which represent what information they contain.
-- The value of each variable must be a different data type.
-- All four values must be JavaScript Primitives.
+- All visual elements must have a common look and feel. 
+- When the work is completed, screen capture your artwork in Ps workspace including the layer view.
+- Upload your screen capture file for submission.
+- File naming example: *TomSmith-010-composite.png* [fullname-section#-composite.png]
+
+<img src="../assets/6_composite-example.png" alt="Compositing an image Assignment Example">
 
 ## Submission
 
 ::: warning
-**Due Thursday September 12 by 11pm**
+**Due Sunday October 25 by 11pm**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.
 
-Go to the `Hybrid 1` assignment.
+Go to the `Compositing an image` assignment.
 
-Copy and paste the code from your JavaScript file into the text box on the assignment page in BS LMS and click the submit button.
+Upolad your screenshot on the assignment page in BS LMS and click the submit button.

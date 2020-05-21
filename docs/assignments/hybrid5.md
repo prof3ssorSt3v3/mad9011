@@ -1,4 +1,4 @@
-# Hybrid Exercise 4 - In-class Exercise: Cut a silhouette
+# Hybrid Exercise 5 - In-class Exercise: Cut a silhouette
 
 ## Description
 
