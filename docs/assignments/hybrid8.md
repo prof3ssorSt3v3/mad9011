@@ -15,28 +15,24 @@ Based on Week 9 and 10 lessons, you are to design a small Scalable Vector Graphi
 Here's freebie code to toggle CSS classes with Javascript that may be useful: 
 
 ````js{4}
-
 <defs>
-<style type="text/css">
+   <style type="text/css">
+      #mouth {
+      display:none;
+      }
 
-#mouth {
-display:none;
-}
+      .clickit #mouth {
+      display:block;
+      }
+   </style>
 
-.clickit #mouth {
-display:block;
-}
+   <script>
+      var clicker = document.querySelector('#logo');
 
-</style>
-
-<script>
-
-var clicker = document.querySelector('#logo');
-
-clicker.addEventListener('click', function() {
-this.classList.toggle('clickit');
-});
-</script>
+      clicker.addEventListener('click', function() {
+      this.classList.toggle('clickit');
+      });
+   </script>
 </defs>
 ````
 
