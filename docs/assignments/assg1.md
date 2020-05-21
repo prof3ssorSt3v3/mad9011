@@ -2,7 +2,7 @@
 
 ## Avatar icon for Apple
 
-Using your skills to date, illustrate an animal avatar similar to the ones below (draw your own unique graphic). The graphics will be done in vector format in all 3 major Apple dimensions (3 artboards). Please comply with the college directives [AA34: Copyright](https://www.algonquincollege.com/policies/)
+Using your skills to date, illustrate an animal avatar similar to the ones below (draw your own unique graphic). The graphics will be done with Adobe Illustrator in vector format in all 3 major Apple dimensions (3 artboards). Please comply with the college directives [AA34: Copyright](https://www.algonquincollege.com/policies/)
 
 
 ## Icon Requirements
@@ -30,7 +30,9 @@ Each student will upload their design as Ai file or a screen capture with layer 
 
 ::: warning
 
-**Due Sunday October 18 by 11pm**
+**Due Sunday October 18 by 11pm: Apple Avatar Icons**
+
+**Due Sunday Nov 1 by 11pm: Peer Review**
 
 This is the last possible day to submit **ANY** work.
 
