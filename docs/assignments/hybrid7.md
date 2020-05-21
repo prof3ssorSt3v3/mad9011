@@ -7,7 +7,7 @@ Based on Week 10's lesson, you are to restore one of the photos provided below i
 <img src="../assets/7-1-PS-hybrid.jpg" alt="Smiley young woman"> 
 <img src="../assets/7-2-PS-hybrid.jpg" alt="Two young men">
 
-- Download one of the photos
+- Download one of the photos.
 - Restore the photo with the tools you have learned in Ps.
 - When the work is completed, screen capture your artwork in Ps workspace including the layer view.
 - Upload your screen capture file for submission.
