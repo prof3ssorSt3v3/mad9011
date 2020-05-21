@@ -2,9 +2,7 @@
 
 ## Description
 
-Recreate this button in Adobe Illustrator using the tools you have learned so far.
-
-Submission: Take a screenshot of your Ai workspace to show your artwork and layer organization, and as usual select all the shapes before taking the screenshot. 
+Recreate this button in Adobe Illustrator using the tools you have learned so far. 
 
 <img src="../assets/2-glossy_blue_button.png" alt="Blue Button" width="50%">
 
