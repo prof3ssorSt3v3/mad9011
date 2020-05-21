@@ -14,7 +14,7 @@ Based on what you learn in Week 9 and 10, you are to design a small Scalable Vec
 
 Here's freebie code to toggle CSS classes with Javascript that may be useful: 
 
-```` css & js
+```` js
 <defs>
    <style type="text/css">
       #mouth {
