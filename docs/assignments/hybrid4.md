@@ -13,11 +13,11 @@ Based on Week 05's lesson, each student is to design their name *uniquely* in Il
 ## Submission
 
 ::: warning
-**Due Thursday September 27 by 12pm for Group One**
+**Due Thursday October 8 by 12pm for Group One**
 :::
 
 ::: warning
-**Due Wednesday September 26 by 10am for Group two**
+**Due Wednesday SepteOctober 7 by 10am for Group two**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.
