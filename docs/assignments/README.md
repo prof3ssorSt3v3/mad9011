@@ -108,9 +108,9 @@ Thre are three main assignments for you to complete. Together they are worth 45%
 
 ### Assignment 1: Avatar icon for Apple (15%)
 
-<Badge text="Due Tue. Nov 19 by 5pm" />
+<Badge text="Due Sun. Oct 18 by 11pm" />
 
-<Badge text="Peer Review Due Tue. Nov 30 by 5pm" />
+<Badge text="Peer Review Due Sun. Nov 1 by 11pm" />
 
 [Assignment 1 details](./assg1.md)
 

@@ -30,11 +30,11 @@ Each student will upload their design as Ai file or a screen capture with layer 
 
 ::: warning
 
-**Due Sunday October 18 by 11pm: Apple Avatar Icons**
+**Due (Apple Avatar Icons) Sunday October 18 by 11pm**
 
-**Due Sunday Nov 1 by 11pm: Peer Review**
+**Due (Peer Review) Sunday Nov 1 by 11pm**
 
-This is the last possible day to submit **ANY** work.
+This (Peer Review) is the last possible day to submit **ANY** work.
 
 :::
 
@@ -42,8 +42,8 @@ This is the last possible day to submit **ANY** work.
 - File name: firstnameLastname-AppleAvatarIcons.ai
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to the `Avatar icon for Apple` assignment.
-- Upolad your Ai file on the assignment page in BS LMS and click the submit button.
-- Review the Assessment Rubric on BS LMA to complete your work accordingly.
+- Upolad your Ai file on the assignment page and click the submit button.
+- Revew the Assessment Rubric on BS LMS to know how your work will be evaluated.
 - See an example: [https://goo.gl/hrU3bS](https://goo.gl/hrU3bS)
 
 Inspiration for the animal avatar:
