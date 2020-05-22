@@ -11,7 +11,7 @@ Worth <Badge type="error" text="8%"/> of Final Grade
 
 - In-class Dicussions (pop-quiz): 
 
-We will have a few questions asked outloud during the first 5 minutes in most classes. The questions will be based on the readings, lessons, and videos from the previous week. First person to raise their hand gets the chance to answer. For each correct answer you earn 1%. Five correct answers give you the full 5% of your final grade. A partially correct answer gets you no marks. However, it gives someone else the chance to steal the marks with part of the question answered.
+   We will have a few questions asked outloud during the first 5 minutes in most classes. The questions will be based on the readings, lessons, and videos from the previous week. First person to raise their hand gets the chance to answer. For each correct answer you earn 1%. Five correct answers give you the full 5% of your final grade. A partially correct answer gets you no marks. However, it gives someone else the chance to steal the marks with part of the question answered.
 
 
 ## Quizzes
