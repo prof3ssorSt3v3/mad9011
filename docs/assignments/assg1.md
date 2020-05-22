@@ -23,8 +23,7 @@ Using your skills to date, illustrate an animal avatar similar to the ones at th
 
 - The 3 sizes are the same animal with different levels of details.
 - Ensure to name and organize your artboards and LAYERS so I can mark consciously.
-
-Each student will upload their design as Ai file or a screen capture with layer view to receive [2 peer reviews](https://brightspace.algonquincollege.com/d2l/le/187946/discussions/List) on Brighspace Discussion to help mark the design. All avatars are copyright via the designer, not to be re-used.
+- Each student will upload their design as *`.ai`* file or a screen capture with layer view to receive [2 peer reviews](https://brightspace.algonquincollege.com/d2l/le/187946/discussions/List) on Brighspace Discussion to help mark the design. All avatars are copyright via the designer, not to be re-used.
 
 
 ## Submission
