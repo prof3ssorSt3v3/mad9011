@@ -42,8 +42,6 @@ Create a mobile personal profile page, be creative, including name (nicknames), 
 
 ![Assignment 02 Example](../assets/assg02-example.png)
 
-<img src="../assets/assg02-example.png" alt="Assignment 02 Example">
-
 Inspirations: 
 - [eSports Players](https://cdn.dribbble.com/users/894730/screenshots/3941317/dribbble_canvas.png)
 - [Soccer Player](https://montreal-mp7static.mlsdigital.net/mp6/Cabrera_Page_EN.jpg)
