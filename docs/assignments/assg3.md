@@ -18,15 +18,15 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
 
 2. 5 launcher _`.png`_ icons for Android [tool: Illustrator]: **48px × 48px** (mdpi), 72 × 72 px (hdpi), 96 × 96 px (xhdpi), 144 × 144 px (xxhdpi), 192 × 192 px (xxxhdpi) 
 
- - Size reference: [iconhandbook.co.uk/reference/chart/android/](http://iconhandbook.co.uk/reference/chart/android/)
+  Size reference: [iconhandbook.co.uk/reference/chart/android/](http://iconhandbook.co.uk/reference/chart/android/)
 
- - **Note:** Create one icon (48x48) and output all 5 PNG icons in various dimensions. 
+  **Note:** Create one icon (48x48) and output all 5 PNG icons in various dimensions. 
 
 3. landscape and portrait _`.png`_ splash screens all sizes(10) [tool: Photoshop]:
 
  - Size reference: 
     - [github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes](https://github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes)
-    - [developer.android.com/training/multiscreen/screensizes] https://developer.android.com/training/multiscreen/screensizes
+    - [developer.android.com/training/multiscreen/screensizes](https://developer.android.com/training/multiscreen/screensizes)
 
 - **Note:** Use 10 separate artboards in PhotoShop to create 10 different size of splash graphics. 
 
