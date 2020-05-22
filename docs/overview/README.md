@@ -77,7 +77,7 @@ In-class work progress review is part of the performance assessment. A student 
 
 **Discussions & Chat**
 
-Under the Discussion section, you will already find some started, remember the conversation history exists as long as the course exists. Chat history is globally visible to everyone in the course. These are NOT private conversations. Use the Inbox for private conversations. There is NO delete function for any comment made in the Chat, keep it clean. Discussions will be moderated by me for coherence. Please participate, ask questions, respond to some, also attach some of your better design for peer viewing and thoughts. Participation counts for 11% of the total for the course so please join in.
+Under the Discussion section, you will already find some started, remember the conversation history exists as long as the course exists. Chat history is globally visible to everyone in the course. These are NOT private conversations. Use the Inbox for private conversations. There is NO delete function for any comment made in the Chat, keep it clean. Discussions will be moderated by me for coherence. Please participate, ask questions, respond to some, also attach some of your better design for peer viewing and thoughts. Participation counts for 13% of the total for the course so please join in.
 
 **Copyright**
 
