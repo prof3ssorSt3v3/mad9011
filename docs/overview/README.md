@@ -81,7 +81,7 @@ Under the Discussion section, you will already find some started, remember the c
 
 **Copyright**
 
-This course complies with the college directives. Please complete this [Plagiarism Declaration](https://brightspace.algonquincollege.com/d2l/lms/survey/user/attempt/survey_start_frame.d2l?si=325536&ou=187946)
+This course complies with the college directives. Please complete this [Plagiarism Declaration](https://brightspace.algonquincollege.com/d2l/lms/survey/admin/surveys_manage.d2l?ou=187946)
 
 
 
