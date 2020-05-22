@@ -7,7 +7,7 @@ Based on Week 05's lesson, each student is to design their name **uniquely** in 
 - The fonts must be outlined with a fill and stroke, plus effects.
 - When the work is completed, take a screen capture of your Ai workspace including the layer view and selecting the shapes you created.
 - Submit your work at the end of the class.
-- File naming example: *TomSmith-010-typography.png* [fullname-section#-typography.png]
+- File naming example: *TomSmith-typography.png* [firstnameLastname-typography.png]
 
 Completed Typography Assignment Example
 
