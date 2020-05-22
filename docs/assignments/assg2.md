@@ -32,7 +32,7 @@ Create a mobile personal profile page, be creative, including name (nicknames), 
 
 :::
 
-- Submit everything in one **.psd** file.
+- Submit everything in one _`.psd`_ file.
 - Filename: *firstnameLastname-assg02.psd*
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to the `Employee Profile Page` assignment.

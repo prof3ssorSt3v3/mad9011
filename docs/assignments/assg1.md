@@ -35,15 +35,13 @@ Each student will upload their design as Ai file or a screen capture with layer 
 
 **Due (Peer Review) Sunday Nov 1 by 11:59pm**
 
-This (Peer Review) is the last possible day to submit **ANY** work.
-
 :::
 
-- Submit everything in one **.ai** file.
+- Submit everything in one _`.ai`_ file.
 - File name: *firstnameLastname-assg01.ai*
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to the `Avatar icon for Apple` assignment.
-- Upolad your Ai file on the assignment page and click the submit button.
+- Upolad your _`.ai`_ file on the assignment page and click the submit button.
 - Review the Assessment Rubric on BS LMS to know how your work will be evaluated.
 - See an example: [https://goo.gl/hrU3bS](https://goo.gl/hrU3bS)
 

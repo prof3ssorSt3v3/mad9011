@@ -12,23 +12,23 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
 
 ## App Requirements
 
-1. **`.svg`** loader icon (only visual not functional) – Animated SVG [tools: Illustrator > Code editor]
+1. _`.svg`_ loader icon (only visual not functional) – Animated SVG [tools: Illustrator > Code editor]
 
-Example: [samherbert.net/svg-loaders/](http://samherbert.net/svg-loaders/)
+- Example: [samherbert.net/svg-loaders/](http://samherbert.net/svg-loaders/)
 
-2. 5 launcher **`.png`** icons for Android [tool: Illustrator]: **48px × 48px** (mdpi), 72 × 72 px (hdpi), 96 × 96 px (xhdpi), 144 × 144 px (xxhdpi), 192 × 192 px (xxxhdpi) 
+2. 5 launcher _`.png`_ icons for Android [tool: Illustrator]: **48px × 48px** (mdpi), 72 × 72 px (hdpi), 96 × 96 px (xhdpi), 144 × 144 px (xxhdpi), 192 × 192 px (xxxhdpi) 
 
-Size reference: [iconhandbook.co.uk/reference/chart/android/](http://iconhandbook.co.uk/reference/chart/android/)
+- Size reference: [iconhandbook.co.uk/reference/chart/android/](http://iconhandbook.co.uk/reference/chart/android/)
 
-**Note:** Create one icon (48x48) and output all 5 PNG icons in various dimensions. 
+- **Note:** Create one icon (48x48) and output all 5 PNG icons in various dimensions. 
 
-3. landscape and portrait **_`.png`_** splash screens all sizes(10) [tool: Photoshop]:
+3. landscape and portrait _`.png`_ splash screens all sizes(10) [tool: Photoshop]:
 
-Size reference: 
+- Size reference: 
 - [github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes](https://github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes)
 - [developer.android.com/training/multiscreen/screensizes] https://developer.android.com/training/multiscreen/screensizes
 
-**Note:** Use 10 separate artboards in PhotoShop to create 10 different size of splash graphics. 
+- **Note:** Use 10 separate artboards in PhotoShop to create 10 different size of splash graphics. 
 
 - MDPI:
     - Portrait: 320x480px
@@ -50,6 +50,7 @@ Size reference:
 **Note:** Follow the usage scenario above to layout your screens. Add interactivity and create a sharable link for submission: Share for Development
 
 
+
 ## Submission
 
 ::: warning
@@ -60,10 +61,15 @@ This is the last possible day to submit **ANY** work.
 
 :::
 
-There are THREE things you need to do to submit this assignment.
+- Submit everything in one *`.zip`* file.
+- File name: *firstnameLastname-assg03.zip* (file type in zip: html, css, svg, png, xd)
+- Include Adobe XD Visual `Prototype URL` in submission Comments
+- Open BS LMS and go to the `Activities > Assignments` page.
+- Go to the `Avatar icon for Apple` assignment.
+- Upolad your _`.zip`_ file on the assignment page and click the submit button.
+- Review the Assessment Rubric on BS LMS to know how your work will be evaluated.
 
-1. A demo of the app must be shown running on one of the lab devices. It needs to have the launcher icons and splashscreen images, your Algonquin username must be the displayed App Name on the device, and the app needs to be in a usable state. _There can be minor errors in the functionality during the demo._ If you submit a repo without doing the demo of your app in class this means an automatic 30% deduction in the project grade. Steve will be in class Tuesday Dec. 10th 8am - 1pm and Friday Dec. 13th 8am - 12pm for people to do their demos.
 
-2. A Private GitHub Repo called **cordova-movie** needs to be created and invite your instructor through the Settings page. There is NO need to activate github-pages for this project.
-
-3. Submit the URL for your repo to the Brightspace Assignments page for Project 2.
+**Reference:** 
+- [XD UI Kits for Material Design](https://www.adobe.com/ca/products/xd/resources.html) 
+- Material Design UI Kit by [materialdesignkit.com/android-gui/](https://materialdesignkit.com/android-gui/)
