@@ -19,15 +19,15 @@ Worth <Badge type="error" text="20%"/> of Final Grade
 
 [BS LMS MAD9014_310 Group 2 Quiz page](https://brightspace.algonquincollege.com/d2l/lms/quizzing/user/quizzes_list.d2l?ou=187946)
 
-- Online Quiz 1 – Basic design knowledge and tools <Badge text="Due Thu. Sep 12 by 11:59pm"/>
-- Online Quiz 2 – User Interface graphic knowledge and tools <Badge text="Due Thu. Sep 12 by 11:59pm"/>
+- Online Quiz 1 – Basic design knowledge and tools <Badge text="Due Fri. Oct 9 by 11:59pm"/>
+- Online Quiz 2 – User Interface graphic knowledge and tools <Badge text="Due Fri. Nov 6 by 11:59pm"/>
 
 
-## Hybrids & In-class Exercises 
+## Hybrid & In-class Exercises 
 
 Worth <Badge type="error" text="27%"/> of Final Grade
 
-Every week there will be exercises for you to complete inside or outside of class. Some exercises will be larger than others and each is worth 3% of your final grade. Some will be completed quickly and others will take longer. All together, the hybrid and in-class exercises are worth 35% of your final grade.
+Every week there will be exercises for you to complete inside or outside of class. Some exercises will be larger than others and each is worth 3% of your final grade. There will be 9 exercises in total and some will be completed quickly and others will take longer. All together, the hybrid exercises, in-class exercises, and discussions are worth 35% of your final grade.
 
 [BS LMS MAD9014_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=196072&isprv=0)
 
