@@ -5,9 +5,9 @@
 Worth <Badge type="error" text="8%"/> of Final Grade
 
 - Online Discussions: 
-    - [BS LMS MAD9014_300 Group 1 Discussions page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=196072&isprv=0)
+    - [BS LMS MAD9014_300 Group 1 Discussions page](https://brightspace.algonquincollege.com/d2l/le/187946/discussions/List)
 
-    - [BS LMS MAD9014_310 Group 2 AssigDiscussions page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=196073&isprv=0)
+    - [BS LMS MAD9014_310 Group 2 AssigDiscussions page](https://brightspace.algonquincollege.com/d2l/le/187946/discussions/List)
 
 - In-class Dicussions (pop-quiz): We will have a few questions asked outloud during the first 5 minutes in most classes. The questions will be based on the readings, lessons, and videos from the previous week. First person to raise their hand gets the chance to answer. For each correct answer you earn 1%. Five correct answers give you the full 5% of your final grade. A partially correct answer gets you no marks. However, it gives someone else the chance to steal the marks with part of the question answered.
 
@@ -29,9 +29,9 @@ Worth <Badge type="error" text="27%"/> of Final Grade
 
 Every week there will be exercises for you to complete inside or outside of class. Some exercises will be larger than others and each is worth 3% of your final grade. There will be 9 exercises in total and some will be completed quickly and others will take longer. All together, the hybrid exercises, in-class exercises, and discussions are worth 35% of your final grade.
 
-[BS LMS MAD9014_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=196072&isprv=0)
+[BS LMS MAD9014_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
 
-[BS LMS MAD9014_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=196073&isprv=0)
+[BS LMS MAD9014_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
 
 ### Hybrid 1 - Nike recreation
 
@@ -102,9 +102,9 @@ Worth <Badge type="error" text="45%"/> of Final Grade
 
 Thre are three main assignments for you to complete. Together they are worth 45% of your final grade.
 
-[BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=196072&isprv=0)
+[BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
 
-[BS LMS MAD9011_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=196073&isprv=0)
+[BS LMS MAD9011_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
 
 ### Assignment 1: Avatar icon for Apple (15%)
 
