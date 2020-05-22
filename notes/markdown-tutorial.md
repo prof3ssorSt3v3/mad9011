@@ -70,7 +70,4 @@ The badge element is a coloured block with white text. The default colour is gre
 
 You can add emojis to your page like this :smiley:
 
-[Full list of emojis here](https://github.com/markdown-it/markdown-it-emoji/blob/master/lib/data/full.json)
-
-
-   You can indent text under a list item by preceding it with 3 spaces
+[Full list of emojis here](https://github.com/markdown-it/markdown-it-emoji/blob/master/lib/data/full.json) 

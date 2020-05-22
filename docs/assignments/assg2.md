@@ -36,9 +36,11 @@ Create a mobile personal profile page, be creative, including name (nicknames), 
 - Filename: *firstnameLastname-assg02.psd*
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to the `Employee Profile Page` assignment.
-- Upolad your Ps file on the assignment page and click the submit button.
+- Upolad your _`.psd`_ file on the assignment page and click the submit button.
 - Review the Assessment Rubric on BS LMS to know how your work will be evaluated.
 - See an assignment example: 
+
+![Assignment 02 Example](../assets/assg02-example.png)
 
 <img src="../assets/assg02-example.png" alt="Assignment 02 Example">
 
