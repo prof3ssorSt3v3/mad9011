@@ -63,9 +63,9 @@ This is the last possible day to submit **ANY** work.
 
 - Submit everything in one *`.zip`* file.
 - File name: *firstnameLastname-assg03.zip* (file type in zip: html, css, svg, png, xd)
-- Include Adobe XD Visual `Prototype URL` in submission Comments
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to the `Avatar icon for Apple` assignment.
+- Include Adobe XD visual `Prototype URL` in submission Comments.
 - Upolad your _`.zip`_ file on the assignment page and click the submit button.
 - Review the Assessment Rubric on BS LMS to know how your work will be evaluated.
 
