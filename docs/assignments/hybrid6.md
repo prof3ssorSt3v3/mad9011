@@ -11,7 +11,9 @@ Composite(blend) your animal on a *UNIQUE* background in Adobe Photoshop.
 - Upload your screen capture file for submission.
 - File naming example: *TomSmith-010-composite.png* [fullname-section#-composite.png]
 
-<img src="../assets/6_composite-example.png" alt="Compositing an image Assignment Example">
+Completed Composite Assignment Example
+
+<img src="../assets/6_composite-example.png" alt="Composite an image Assignment Example">
 
 ## Submission
 

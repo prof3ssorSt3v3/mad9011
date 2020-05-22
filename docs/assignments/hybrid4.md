@@ -9,6 +9,8 @@ Based on Week 05's lesson, each student is to design their name **uniquely** in 
 - Submit your work at the end of the class.
 - File naming example: *TomSmith-010-typography.png* [fullname-section#-typography.png]
 
+Completed Typography Assignment Example
+
 <img src="../assets/4_typography-example.png" alt="Typography Assignment Example">
 
 ## Submission

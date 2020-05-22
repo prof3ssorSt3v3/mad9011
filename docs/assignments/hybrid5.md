@@ -10,6 +10,8 @@ Based on Week 06's lesson, you are to create a silhouette raster image in Adobe 
 - Submit your work at the end of the class.
 - File naming example: *TomSmith-010-silhouette.png* [fullname-section#-silhouette.png]
 
+Completed Silhouette Assignment Example
+
 <img src="../assets/5_silhouette-example.png" alt="Silhouette Assignment Example">
 
 ## Submission
