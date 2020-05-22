@@ -12,7 +12,7 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
 
 ## App Requirements
 
-1. `**.svg**` loader icon (only visual not functional) – Animated SVG [tools: Illustrator > Code editor]
+1. **`.svg`** loader icon (only visual not functional) – Animated SVG [tools: Illustrator > Code editor]
 
 Example: [samherbert.net/svg-loaders/](http://samherbert.net/svg-loaders/)
 
@@ -22,7 +22,7 @@ Size reference: [iconhandbook.co.uk/reference/chart/android/](http://iconhandboo
 
 **Note:** Create one icon (48x48) and output all 5 PNG icons in various dimensions. 
 
-3. landscape and portrait `.png `splash screens all sizes(10) [tool: Photoshop]:
+3. landscape and portrait **_`.png`_** splash screens all sizes(10) [tool: Photoshop]:
 
 Size reference: 
 - [github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes](https://github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes)
