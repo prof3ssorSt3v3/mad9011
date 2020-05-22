@@ -28,7 +28,7 @@ Create a mobile personal profile page, be creative, including name (nicknames), 
 
 ::: warning
 
-**Due Sunday November 8 by 11pm**
+**Due Sunday November 8 by 11:59pm**
 
 :::
 

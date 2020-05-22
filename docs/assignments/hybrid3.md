@@ -15,7 +15,7 @@ Vectorize your favorite character in Adobe Illustrator.
 ## Submission
 
 ::: warning
-**Due Sunday September 27 by 11pm**
+**Due Sunday September 27 by 11:59pm**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.

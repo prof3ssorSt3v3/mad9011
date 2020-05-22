@@ -15,12 +15,12 @@ Worth <Badge type="error" text="8%"/> of Final Grade
 ## Quizzes
 Worth <Badge type="error" text="20%"/> of Final Grade
 
-[BS LMS MAD9014_300 Group 1 Quiz page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=196072&isprv=0)
+[BS LMS MAD9014_300 Group 1 Quiz page](https://brightspace.algonquincollege.com/d2l/lms/quizzing/user/quizzes_list.d2l?ou=187946)
 
-[BS LMS MAD9014_310 Group 2 Quiz page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=196073&isprv=0)
+[BS LMS MAD9014_310 Group 2 Quiz page](https://brightspace.algonquincollege.com/d2l/lms/quizzing/user/quizzes_list.d2l?ou=187946)
 
-- Online Quiz 1 – Basic design knowledge and tools <Badge text="Due Thu. Sep 12 by 11pm"/>
-- Online Quiz 2 – User Interface graphic knowledge and tools <Badge text="Due Thu. Sep 12 by 11pm"/>
+- Online Quiz 1 – Basic design knowledge and tools <Badge text="Due Thu. Sep 12 by 11:59pm"/>
+- Online Quiz 2 – User Interface graphic knowledge and tools <Badge text="Due Thu. Sep 12 by 11:59pm"/>
 
 
 ## Hybrids & In-class Exercises 
@@ -35,21 +35,21 @@ Every week there will be exercises for you to complete inside or outside of clas
 
 ### Hybrid 1 - Nike recreation
 
-<Badge text="Due Sun. Sep 13 by 11pm"/>
+<Badge text="Due Sun. Sep 13 by 11:59pm"/>
 
 [Hybrid 1 details](./hybrid1.md)
 
 
 ### Hybrid 2 - Design a button
 
-<Badge text="Due Sun. Sep 19 by 11pm"/>
+<Badge text="Due Sun. Sep 19 by 11:59pm"/>
 
 [Hybrid 2 details](./hybrid2.md)
 
 
 ### Hybrid 3 - Character vectorization
 
-<Badge text="Due Sun. Sep 27 by 11pm"/>
+<Badge text="Due Sun. Sep 27 by 11:59pm"/>
 
 [Hybrid 3 details](./hybrid3.md)
 
@@ -70,7 +70,7 @@ Every week there will be exercises for you to complete inside or outside of clas
 
 ### Hybrid 6 - Composite an image
 
-<Badge text="Due Thu. Oct 25 by 11pm"/>
+<Badge text="Due Thu. Oct 25 by 11:59pm"/>
 
 [Hybrid 6 details](./hybrid6.md)
 
@@ -84,7 +84,7 @@ Every week there will be exercises for you to complete inside or outside of clas
 
 ### Hybrid 8 - Coding an SVG animation
 
-<Badge text="Due Sun. Nov 15 by 11pm"/>
+<Badge text="Due Sun. Nov 15 by 11:59pm"/>
 
 [Hybrid 8 details](./hybrid8.md)
 
@@ -108,9 +108,9 @@ Thre are three main assignments for you to complete. Together they are worth 45%
 
 ### Assignment 1: Avatar icon for Apple (15%)
 
-<Badge text="Due Sun. Oct 18 by 11pm" />
+<Badge text="Due Sun. Oct 18 by 11:59pm" />
 
-<Badge text="Peer Review Due Sun. Nov 1 by 11pm" />
+<Badge text="Peer Review Due Sun. Nov 1 by 11:59pm" />
 
 [Assignment 1 details](./assg1.md)
 

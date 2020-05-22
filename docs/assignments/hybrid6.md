@@ -16,7 +16,7 @@ Composite(blend) your animal on a *UNIQUE* background in Adobe Photoshop.
 ## Submission
 
 ::: warning
-**Due Sunday October 25 by 11pm**
+**Due Sunday October 25 by 11:59pm**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.

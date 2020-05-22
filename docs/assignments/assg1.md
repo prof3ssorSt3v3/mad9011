@@ -31,9 +31,9 @@ Each student will upload their design as Ai file or a screen capture with layer 
 
 ::: warning
 
-**Due (Apple Avatar Icons) Sunday October 18 by 11pm**
+**Due (Apple Avatar Icons) Sunday October 18 by 11:59pm**
 
-**Due (Peer Review) Sunday Nov 1 by 11pm**
+**Due (Peer Review) Sunday Nov 1 by 11:59pm**
 
 This (Peer Review) is the last possible day to submit **ANY** work.
 

@@ -15,7 +15,7 @@ Recreate this button in Adobe Illustrator using the tools you have learned so fa
 ## Submission
 
 ::: warning
-**Due Sunday September 20 by 11pm**
+**Due Sunday September 20 by 11:59pm**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.
