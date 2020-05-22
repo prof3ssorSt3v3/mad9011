@@ -40,7 +40,7 @@ Here's freebie code to toggle CSS classes with Javascript that may be useful:
 ## Submission
 
 ::: warning
-**Due Sunday November 15 by 11:59pm**
+**Due Sunday November 29 by 11:59pm**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.

@@ -98,7 +98,6 @@
 
 - In-class Exercise: 5. Cut a silhouette (3%)
 - Hybrid: Next week learning module videos
-- Assignment 02: Employee profile page (10%)
 - Peer Review for Assignment 01 (marked)
 - Due: Assignment 01
 
@@ -119,6 +118,7 @@
 
 - Hybrid Exercise: 6. Compositing an image (3%)
 - Hybrid: Next week learning module videos
+- Assignment 02: Employee profile page (10%)
 
 
 **READING WEEK HERE**
@@ -138,6 +138,7 @@
 
 - In-class Exercise: 7. Clean me up (3%)
 - Hybrid: Next week learning module videos & **Reading**
+- Due: Peer Reviews for Assignment 01
 
 
 ## MODULE THREE: Scalable vector-based graphics and SVG mockups
@@ -156,10 +157,10 @@
 - SVG Optimizing & cleaning
 - SVG Attributes & CSS
 
-- Hybrid Exercise: 8. Coding an SVG (3% due: Week 12)
+- Hybrid Exercise: 8. Coding an SVG (3% due: Week 11)
 - Hybrid: Online Quiz 2 (10%)
 - Hybrid: Next learning module videos & **Reading**
-- Due: Peer Reviews for Assignment 01
+- Due: Assignment 02
 
 
 ## Week 10 - SVG Animation
@@ -198,7 +199,7 @@
 
 - Hybrid: Next week learning module videos
 - Assignment 3 (Final): Mobile UI Visual Prototype (20%) 
-- Due: Assignment 02
+- Due: 8. Coding an SVG
 
 
 ## Week 12 - Mobile layout with Xd

@@ -86,7 +86,7 @@ Every week there will be exercises for you to complete inside or outside of clas
 
 ### Hybrid 8 - Coding an SVG animation
 
-<Badge text="Due Sun. Nov 15 by 11:59pm"/>
+<Badge text="Due Sun. Nov 29 by 11:59pm"/>
 
 [Hybrid 8 details](./hybrid8.md)
 
@@ -112,14 +112,14 @@ Thre are three main assignments for you to complete. Together they are worth 45%
 
 <Badge text="Due Sun. Oct 18 by 11:59pm" />
 
-<Badge text="Peer Review Due Sun. Nov 1 by 11:59pm" />
+<Badge text="Peer Review Due Sun. Nov 8 by 11:59pm" />
 
 [Assignment 1 details](./assg1.md)
 
 
 ### Assignment 2: Employee profile page (10%)
 
-<Badge text="Due Tue. Nov 8 by 11:59pm" />
+<Badge text="Due Tue. Nov 15 by 11:59pm" />
 
 [Assignment 2 details](./assg2.md)
 
