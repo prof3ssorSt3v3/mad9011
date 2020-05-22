@@ -1,40 +1,48 @@
-# Assignment 01  
+# Assignment 02  
 
-## Avatar icon for Apple
+## Employee Profile Page
 
-::: danger jQUERY and WINDOWS
+Create a mobile personal profile page, be creative, including name (nicknames), skills, hobbies, interest, contact, shoe size and special abilities etc. **Note:** Your profile card could be treated as a game profile card, digital business card, or a card-style personal profile. 
 
-DO NOT USE BOOTSTRAP or JQUERY on this project
 
-YOU MUST DEVELOP THIS APP ON WINDOWS
+## Profile Page Requirements
 
-:::
+- You must have a button designed in the layout.
+    - Include 3 button state: normal, over and down. 
+    - This button is to switch the card from front to back. 
+- The layout must be coherent/legible.
+- Hand in as .psd file (1 file with multiple Artboards).
+- Dimension: iPhone X/XS 1125px X 2436px @72ppi (portrait or landscape).
+     - Bonus marks for making a design for portrait and landscape.
+- Ensure to name and organize your artboards and LAYERS so I can mark consciously.
+- Required features
+    - silhouette
+    - blending options
+    - gradients
+    - filter
+    - adjustments
+    - shadow and highlights
 
-The final project for this semester is to create an Android app using Cordova. The app will be a Cordova version of the Movie Web App that we built for Project 1.
-
-## App Requirements
-
-This app will be a fully working version of [Project 1](./proj1.md) turned into a Cordova App with launcher icons and splashscreen images.
-
-1. All the features from the **Project 1 Movie Web App** must work in the Cordova App.
-2. The app name on the device should be your Algonquin Username.
-3. The app needs to have a splashscreen shown for at least 5 seconds when the app loads. The splashscreen image must be a unique image created by you. There needs to be a set of portrait and landscape versions of the splashscreen for different screen resolutions.
-4. The app needs to have a set of .png launcher icons designed for different screen resolutions. The icons must be unique images created by you, NOT images downloaded from some online source.
 
 ## Submission
 
 ::: warning
 
-**Due Friday December 13 by 1pm**
-
-This is the last possible day to submit **ANY** work.
+**Due Sunday November 8 by 11pm**
 
 :::
 
-There are THREE things you need to do to submit this assignment.
+- Submit everything in one **.psd** file.
+- Filename: *firstnameLastname-assg02.psd*
+- Open BS LMS and go to the `Activities > Assignments` page.
+- Go to the `Employee Profile Page` assignment.
+- Upolad your Ps file on the assignment page and click the submit button.
+- Review the Assessment Rubric on BS LMS to know how your work will be evaluated.
+- See an assignment example: 
 
-1. A demo of the app must be shown running on one of the lab devices. It needs to have the launcher icons and splashscreen images, your Algonquin username must be the displayed App Name on the device, and the app needs to be in a usable state. _There can be minor errors in the functionality during the demo._ If you submit a repo without doing the demo of your app in class this means an automatic 30% deduction in the project grade. Steve will be in class Tuesday Dec. 10th 8am - 1pm and Friday Dec. 13th 8am - 12pm for people to do their demos.
+<img src="../assets/assg02-example.png" alt="Assignment 02 Example">
 
-2. A Private GitHub Repo called **cordova-movie** needs to be created and invite your instructor through the Settings page. There is NO need to activate github-pages for this project.
-
-3. Submit the URL for your repo to the Brightspace Assignments page for Project 2.
+Inspirations: 
+- [eSports Players](https://cdn.dribbble.com/users/894730/screenshots/3941317/dribbble_canvas.png)
+- [Soccer Player](https://montreal-mp7static.mlsdigital.net/mp6/Cabrera_Page_EN.jpg)
+- [Cyber Robot Game Profile](https://cdn.dribbble.com/users/824097/screenshots/6013675/cyber-robot---game.jpg)

@@ -114,11 +114,13 @@ Thre are three main assignments for you to complete. Together they are worth 45%
 
 [Assignment 1 details](./assg1.md)
 
+
 ### Assignment 2: Employee profile page (10%)
 
 <Badge text="Due Tue. Nov 19 by 5pm" />
 
 [Assignment 2 details](./assg2.md)
+
 
 ### Assignment 3: Mobile UI Visual Prototype (20%)
 
