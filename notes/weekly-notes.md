@@ -218,12 +218,12 @@
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
 - Tips and tricks, new features (voice/animation)
-- Final assignment work period (onboarding screens)
-- Final assignment individual review
+- Assignment 3 (final) work period
+- Assignment 3 (final) individual work review
 
-- Hybrid: Assignment 3 (Final) individual review
+- Hybrid: Assignment 3 (final) individual review
 
 
 ## Week 14
 
-- Work on Assignment 3 (Final)
+- Work on Assignment 3 (final)

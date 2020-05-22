@@ -6,23 +6,23 @@ It's time for the finale!
 
 The final assignment for this semester is to create an Android app experience.
 
-Putting our illustrator, photoshop, SVG, and prototype skills to test to complete an app launching experiece. (Design in mind that these graphics will be presented in Web front-end coding: html, css, and svg.)
+Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to complete an app launching experiece. (Design in mind that these graphics will be presented in Web front-end coding: html, css, and svg.)
 
 **Usage scenario:** A user takes out their Android phone, tap on the "Launcher" icon to start the application, while loading, the animated loading icon is spinning on top of the Application splash screen.
 
 ## App Requirements
 
-1. **svg** loader icon (only visual not functional) – Animated SVG [tools: Illustrator > Code editor]
+1. `svg` loader icon (only visual not functional) – Animated SVG [tools: Illustrator > Code editor]
 
 Example: [samherbert.net/svg-loaders/](http://samherbert.net/svg-loaders/)
 
-2. 5 launcher **.png** icons for Android [tool: Illustrator]: **48px × 48px** (mdpi), 72 × 72 px (hdpi), 96 × 96 px (xhdpi), 144 × 144 px (xxhdpi), 192 × 192 px (xxxhdpi) 
+2. 5 launcher `.png` icons for Android [tool: Illustrator]: **48px × 48px** (mdpi), 72 × 72 px (hdpi), 96 × 96 px (xhdpi), 144 × 144 px (xxhdpi), 192 × 192 px (xxxhdpi) 
 
 Size reference: [iconhandbook.co.uk/reference/chart/android/](http://iconhandbook.co.uk/reference/chart/android/)
 
 **Note:** Create one icon (48x48) and output all 5 PNG icons in various dimensions. 
 
-3. landscape and portrait **.png** splash screens all sizes(10) [tool: Photoshop]:
+3. landscape and portrait `.png `splash screens all sizes(10) [tool: Photoshop]:
 
 Size reference: 
 - [github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes](https://github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes)
