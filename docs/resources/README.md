@@ -1,10 +1,28 @@
 # Resources
 
-When there are resources that will be used repeatedly, or ones that are mentioned in class but that are not already in the notes, they will be added to this list.
+## eText books: 
+[http://www.algonquincollege.com/etexts/](http://www.algonquincollege.com/etexts/)
 
-Do **NOT** rely on W3Schools for accurate information.
+## Software
+Links to Adobe software:
 
-Be careful about information from StackOverflow. Some is excellent but some is really out of date.
+- http://www.adobe.com/ca/creativecloud.html
+- https://plato.algonquincollege.com/DigitalResources/Default.aspx
+
+## Online Resources
+
+Student Survival Guide
+
+- http://www7.algonquincollege.com/onlineresources/ssg/additional.html 
+
+LinkedIn Learning=> [LinkedIn Learning](https://www.linkedin.com/learning/)
+
+Pluralsight 
+- https://www.pluralsight.com
+
+
+**Weekly Question Page (FAQ) - MAD9011:** [http://tiny.cc/e7y5oz](http://tiny.cc/e7y5oz)
+
 
 The [LearnJavaScript sub-reddit](https://www.reddit.com/r/learnjavascript/) is a good place to ask and answer questions.
 
