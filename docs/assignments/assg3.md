@@ -12,11 +12,11 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
 
 ## App Requirements
 
-1. `svg` loader icon (only visual not functional) – Animated SVG [tools: Illustrator > Code editor]
+1. `**.svg**` loader icon (only visual not functional) – Animated SVG [tools: Illustrator > Code editor]
 
 Example: [samherbert.net/svg-loaders/](http://samherbert.net/svg-loaders/)
 
-2. 5 launcher `.png` icons for Android [tool: Illustrator]: **48px × 48px** (mdpi), 72 × 72 px (hdpi), 96 × 96 px (xhdpi), 144 × 144 px (xxhdpi), 192 × 192 px (xxxhdpi) 
+2. 5 launcher **`.png`** icons for Android [tool: Illustrator]: **48px × 48px** (mdpi), 72 × 72 px (hdpi), 96 × 96 px (xhdpi), 144 × 144 px (xxhdpi), 192 × 192 px (xxxhdpi) 
 
 Size reference: [iconhandbook.co.uk/reference/chart/android/](http://iconhandbook.co.uk/reference/chart/android/)
 
