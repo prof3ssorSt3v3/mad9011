@@ -63,6 +63,27 @@ Room T127
 - User interface interaction design concepts – Putting it all together
 - Adobe XD (Xd)
 
+## Course Policy
+
+**Late Penalty**
+
+Assignments will be penalized for being late at the rate of 10% per day to a maximum of 30%. After 10 days beyond the due date, assignments will be given a grade of zero. 
+
+Students may still submit their assignments after the ten days but it will only be for the purpose of receiving feedback on their work. No grade will be given.
+
+**Performance Requirement**
+
+In-class work progress review is part of the performance assessment. A student must pass the combined term work (marked exercises, discussions, assignments, and quizzes) and score higher than 50% in all 3 assignments and 2 quizzes to pass this course. 
+
+**Discussions & Chat**
+
+Under the Discussion section, you will already find some started, remember the conversation history exists as long as the course exists. Chat history is globally visible to everyone in the course. These are NOT private conversations. Use the Inbox for private conversations. There is NO delete function for any comment made in the Chat, keep it clean. Discussions will be moderated by me for coherence. Please participate, ask questions, respond to some, also attach some of your better design for peer viewing and thoughts. Participation counts for 11% of the total for the course so please join in.
+
+**Copyright**
+This course complies with the college directives. Please complete this **[Plagiarism Declaration]**(https://brightspace.algonquincollege.com/d2l/lms/survey/user/attempt/survey_start_frame.d2l?si=325536&ou=187946)
+
+
+
 ## Contacts
 
 <ContactCard 
