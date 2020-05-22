@@ -13,6 +13,7 @@ A paragraph is just any block of text with a carriage return before and after it
 - unordered
 - list
 - items
+   You can indent text under a list item by preceding it with 3 spaces
 
 1. ordered
 2. list
@@ -70,3 +71,6 @@ The badge element is a coloured block with white text. The default colour is gre
 You can add emojis to your page like this :smiley:
 
 [Full list of emojis here](https://github.com/markdown-it/markdown-it-emoji/blob/master/lib/data/full.json)
+
+
+   You can indent text under a list item by preceding it with 3 spaces

@@ -14,7 +14,7 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
 
 1. _`.svg`_ loader icon (only visual not functional) – Animated SVG [tools: Illustrator > Code editor]
 
-- Example: [samherbert.net/svg-loaders/](http://samherbert.net/svg-loaders/)
+   Example: [samherbert.net/svg-loaders/](http://samherbert.net/svg-loaders/)
 
 2. 5 launcher _`.png`_ icons for Android [tool: Illustrator]: **48px × 48px** (mdpi), 72 × 72 px (hdpi), 96 × 96 px (xhdpi), 144 × 144 px (xxhdpi), 192 × 192 px (xxxhdpi) 
 
@@ -28,7 +28,7 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
     - [github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes](https://github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes)
     - [developer.android.com/training/multiscreen/screensizes](https://developer.android.com/training/multiscreen/screensizes)
 
-- **Note:** Use 10 separate artboards in PhotoShop to create 10 different size of splash graphics. 
+   **Note:** Use 10 separate artboards in PhotoShop to create 10 different size of splash graphics. 
 
 - MDPI:
     - Portrait: 320x480px
@@ -71,5 +71,5 @@ This is the last possible day to submit **ANY** work.
 
 
 **Reference:** 
-- [XD UI Kits for Material Design](https://www.adobe.com/ca/products/xd/resources.html) 
+- [Adobe XD UI Kits for Material Design](https://www.adobe.com/ca/products/xd/resources.html) 
 - Material Design UI Kit by [materialdesignkit.com/android-gui/](https://materialdesignkit.com/android-gui/)
