@@ -2,7 +2,7 @@
 
 ## Description
 
-Based on Week 10's lesson, you are to restore one of the photos provided below in Adobe Photoshop.
+Based on what you have learned in Adobe Photoshop, you are to restore one of the photos provided below.
 
 <img src="../assets/7-1-PS-hybrid.jpg" alt="Smiley young woman"> 
 <img src="../assets/7-2-PS-hybrid.jpg" alt="Two young men">
