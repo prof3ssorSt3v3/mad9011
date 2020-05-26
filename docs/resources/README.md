@@ -11,14 +11,11 @@ Links to Adobe software:
 
 ## Online Resources
 
-Student Survival Guide
+- Student Survival Guide: [www7.algonquincollege.com/onlineresources/ssg/additional.html](http://www7.algonquincollege.com/onlineresources/ssg/additional.html)
 
-- http://www7.algonquincollege.com/onlineresources/ssg/additional.html 
+- LinkedIn Learnin: [https://www.linkedin.com/learning](https://www.linkedin.com/learning/)
 
-LinkedIn Learning=> [LinkedIn Learning](https://www.linkedin.com/learning/)
-
-Pluralsight 
-- https://www.pluralsight.com
+- Pluralsight: [https://www.pluralsight.co](https://www.pluralsight.com)
 
 
 **Weekly Question Page (FAQ) - MAD9011:** [http://tiny.cc/e7y5oz](http://tiny.cc/e7y5oz)

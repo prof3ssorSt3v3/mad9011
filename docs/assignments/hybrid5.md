@@ -2,7 +2,7 @@
 
 ## Description
 
-Based on Week 06's lesson, you are to create a silhouette raster image in Adobe Photoshop.
+This is your first Adobe Photoshop exercise. Based on Week 06's lesson, you are to create a silhouette raster image.
 
 - Try cutting out a silhouette of yourself or friend as perfect as possible.
 - Add a background image to make the photo more interesting or fun. (background: [http://www.pics4learning.com](http://www.pics4learning.com/))
