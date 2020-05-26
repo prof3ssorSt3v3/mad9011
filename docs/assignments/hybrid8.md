@@ -8,7 +8,7 @@ Based on what you learn in Week 9 and 10, you are to design a small Scalable Vec
 - Apply visual style CSS.
 - Add a hover/click state.
 - Animate your SVG with CSS.
-- Depending on your code organization, you may use multiple files or one sigle file for your SVG animation. For example: You will have 3 files if you use HTML with external CSS to animate and style your external SVG file. Or, you may use only 1 HTML file if you embed CSS and SVG code inside.  
+- Depending on your code organization, you may use multiple files or one sigle file for your SVG animation. For example: You will have 3 files if you use HTML with external CSS to animate and style your external SVG file. Or, you may use only 1 HTML file if you embed CSS, SVG, and JS code inside.  
 - When the work is completed, upload your file(s) as ONE file (ZIP or SVG or HTML) for submission.
 - File naming example: *TomSmith-SVGanimation.zip* [firstnameLastname-SVGanimation.zip]
 
