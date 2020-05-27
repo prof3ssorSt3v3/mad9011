@@ -1,4 +1,4 @@
-# Week 1 Introduction to JavaScript and Tech
+# Week 1 Introduction to Mobile Design Fundamentals
 
 ## Introduction and Inspiration
 

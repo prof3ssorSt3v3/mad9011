@@ -2,7 +2,7 @@
 
 <ContactCard 
   name="SuCheng Lee"
-  title="Instructor"
+  title="Professor"
   img-url="/F2020/slee_h.png"
   bio="Professor of the Mobile Application Design & Development Program at Algonquin College."
   :details="[

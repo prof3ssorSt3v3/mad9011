@@ -11,7 +11,7 @@ Links to Adobe software:
 
 ## Online Resources
 
-- Student Survival Guide: [www7.algonquincollege.com/onlineresources/ssg/additional.html](http://www7.algonquincollege.com/onlineresources/ssg/additional.html)
+- Algonquin Student Survival Guide: [www7.algonquincollege.com/onlineresources/ssg/additional.html](http://www7.algonquincollege.com/onlineresources/ssg/additional.html)
 
 - LinkedIn Learnin: [https://www.linkedin.com/learning](https://www.linkedin.com/learning/)
 
@@ -21,33 +21,72 @@ Links to Adobe software:
 **Weekly Question Page (FAQ) - MAD9011:** [http://tiny.cc/e7y5oz](http://tiny.cc/e7y5oz)
 
 
-The [LearnJavaScript sub-reddit](https://www.reddit.com/r/learnjavascript/) is a good place to ask and answer questions.
+## Additional UI/UX Design Resources
 
-1. Mozilla Developer Network [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-2. Node JS [website](https://nodejs.org/en/)
-3. NPM [website](https://www.npmjs.com/)
-4. VS Code [download site](https://code.visualstudio.com/download)
-5. Steve Griffith's [YouTube Channel](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ/)
-6. [Stack Overflow](https://stackoverflow.com/questions/tagged/javascript)
-7. Reddit [Learn JavaScript SubReddit](https://www.reddit.com/r/learnjavascript/)
-8. [Apache Cordova Docs](https://cordova.apache.org/docs/en/latest/)
-9. Lynda.com => [LinkedIn Learning](https://www.linkedin.com/learning/)
-10. Brad Travesy [Traversy Media YouTube](https://www.youtube.com/user/TechGuyWeb)
-11. Free Code Camp [YouTube Channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-12. Programming with Mosh [YouTube Channel](https://www.youtube.com/user/programmingwithmosh)
-13. Thomas Bradley [YouTube Channel](https://www.youtube.com/channel/UCj4qGjIQCZdL5nIUaoFHanA) - Teaches in the AC Graphic Design program.
-14. Wes Bos [YouTube Channel](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA) - Canadian Web Developer
-15. [Android Studio](https://developer.android.com/studio)
-16. [Eloquent JS](http://eloquentjavascript.net/) by Marijn Haverbeke
-17. [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS#titles) by Kyle Simpson
-18. [Dr. Axel Rauschmayer](https://2ality.com/) Info about the latest developments in JS.
-19. [AirBnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-20. [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
-21. [CoderByte JS Challenge Exercises](https://coderbyte.com/challenges#easyChals)
-22. [Edabit JS Challenge Exercises](https://edabit.com/challenges)
-23. [Web Training Center JS Exercises](http://www.webtrainingcentre.com/javascript-exercises/)
-24. [Exercism JS Practice Exercises](https://exercism.io/)
-25. [JS for Impatient Developers e-Book](https://exploringjs.com/impatient-js/toc.html)
-26. [JS for Cats eBook](http://jsforcats.com/)
-27. [Git Cheatsheet](https://gitsheet.wtf/)
-28. [Free Developer Resources](https://free-for.dev/#/)
+**Tools:**
+
+- Paper prototype templates
+    - Download 1: [sneakpeekit.com](https://sneakpeekit.com/)
+    - Download 2: [alterspark.com](https://www.alterspark.com/wp-content/uploads/documents/alterspark-digital-psychology-wireframe-kit_letter-size_v103.pdf)
+- Information Architecture
+    - Free educational diagram/wireframe tool: 
+        - [app.moqups.com](https://app.moqups.com)
+        - [mind42.com](https://mind42.com)
+        - [www.mindmup.com](https://www.mindmup.com/)
+        - [whimsical.com](https://whimsical.com/)
+    - Free brainstorm tool: https://padlet.com/
+    - Free educational sticky note tool: https://app.mural.co
+- Wireframe/UI Design
+    - Free student access: [Balsamiq](https://balsamiq.com/givingback/free/)
+    - [Sketch (50% student discount)](https://www.sketch.com)
+- Prototype
+    - [Adobe XD](https://www.adobe.com/ca/products/xd.html?promoid=PYPVQ3HN&mv=other) 
+    - [InVision Studio](https://www.invisionapp.com/studio) & [Cloud version signup](https://projects.invisionapp.com/d/signup)
+    - [Sketch (50% student discount)](https://www.sketch.com)
+    - [Figma*](https://www.figma.com/) 
+- Colour
+    - https://color.adobe.com/create/color-wheel/
+    - [Color Oracle – Design for the Color Impaired](https://colororacle.org/)
+    - [Online colour accessibility tool]
+        - [Colorable:](https://colorable.jxnblk.com/ffffff/6b757b)
+        - [Material colour picker:](https://material.io/tools/color/#!)
+        - [w3schools tool:](https://www.w3schools.com/colors/colors_picker.asp)
+    - Online colorizer: [http://paletton.com](http://paletton.com)
+
+
+**Resources:**
+
+- [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [Android Design Guidelines](https://developer.android.com/design/)
+- [Material Design Guidelines](https://material.io/design)
+- Progressive Web App Design Best Practices
+iOS toolkits for Sketch, Adobe XD and Photoshop
+Android toolkits for Sketch, Photoshop, and Adobe XD
+Resource | Xd Resources (UI Kit for iOS, Material, and Microsoft)
+https://xdresources.co
+Auto Animated UI Kit 
+13 Xd Auto Animated UI Kit
+Download San Francisco Fonts
+Android DP / PX converter
+
+
+### Reading: 
+
+Creating Excellent UX Flow Charts – EightShapes – Medium
+Gamification: A guide for designers to a misunderstood concept
+Empty State Best Practices(UI Design)
+32 User Interface Elements For UI Designers: Your Ultimate Glossary
+
+Tutorials: 
+
+Adobe XD video tutorials on LinkedIn Learning
+Sketch for UX Design video tutorials
+InVision Studio video tutorials
+InVision for UX Design video tutorials
+Getting Started with InVision
+Adobe Create Magazine for tips & tricks
+UI Design Examples:
+
+Android App: https://www.mockplus.com/blog/post/andriod-app-ui-design
+iOS App: https://www.digitaltrends.com/mobile/best-iphone-apps/
+10 Progressive Web App Examples that Brand Owners can Learn From
