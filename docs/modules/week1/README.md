@@ -2,7 +2,7 @@
 
 ## Introduction and Inspiration
 
-Here is [a series of videos](./inspiration.md) to help get you thinking about what is coming and how you can contribute to the world.
+Welcome to MAD9011, Mobile Design Fundamentals course. We are going to learn a lot of fun and useful material to help you design graphics and interfaces. To have a smooth start, ensure to download and install the Adobe Creative Suite and Adobe Illustrator in the first week. 
 
 ## Tools and Software
 
