@@ -18,7 +18,7 @@ Links to Adobe software:
 
 ## Additional UI/UX Design Resources
 
-**Tools:**
+### Tools
 
 - Paper prototype templates
     - Download 1: [sneakpeekit.com](https://sneakpeekit.com/)
@@ -52,7 +52,7 @@ Links to Adobe software:
     - Online colorizer: [http://paletton.com](http://paletton.com)
 
 
-**Resources:**
+### Design Resources
 
 - [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [Android Design Guidelines](https://developer.android.com/design/)
@@ -69,7 +69,7 @@ Links to Adobe software:
     - [Android DP/PX converter](http://labs.rampinteractive.co.uk/android_dp_px_calculator/)
 
 
-### Reading: 
+### Reading 
 
 - [Creating Excellent UX Flow Charts – EightShapes – Medium](https://medium.com/eightshapes-llc/creating-excellent-ux-flow-charts-df6f1e46e524)
 - [32 User Interface Elements For UI Designers: **Your Ultimate Glossary**](https://careerfoundry.com/en/blog/ui-design/ui-element-glossary/)
@@ -78,7 +78,7 @@ Links to Adobe software:
 - [How to design for AI-enabled UI](https://blog.prototypr.io/how-to-design-for-ai-enabled-ui-77e144e99126)
 - 
 
-### Tutorials: 
+### Tutorials
 
 - [Adobe XD video tutorials on LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-design-3)
 - [Sketch for UX Design video tutorials](https://www.linkedin.com/learning/sketch-for-ux-design-2)
@@ -87,7 +87,7 @@ Links to Adobe software:
 - [Adobe Create Magazine for tips & tricks](https://create.adobe.com/)
 
 
-### UI Design Examples:
+### UI Design Examples
 
 - [Android App:](https://www.mockplus.com/blog/post/andriod-app-ui-design)
 - [iOS App:](https://www.digitaltrends.com/mobile/best-iphone-apps/)
