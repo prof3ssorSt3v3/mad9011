@@ -4,6 +4,9 @@
 
 Welcome to MAD9011, Mobile Design Fundamentals course. We are going to learn a lot of fun and useful material to help you design graphics and interfaces. To have a smooth start, ensure to download and install the Adobe Creative Suite and Adobe Illustrator in the first week. 
 
+**Weekly Question Page (FAQ) - MAD9011:** [http://tiny.cc/e7y5oz](http://tiny.cc/e7y5oz)
+
+
 ## Tools and Software
 
 You can also find most of these links on the [Resources page](../../resources/).

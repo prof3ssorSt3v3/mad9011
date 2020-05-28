@@ -6,19 +6,14 @@
 ## Software
 Links to Adobe software:
 
-- http://www.adobe.com/ca/creativecloud.html
-- https://plato.algonquincollege.com/DigitalResources/Default.aspx
+- [www.adobe.com/ca/creativecloud.html](http://www.adobe.com/ca/creativecloud.html)
+- [Digital Resource Portal](https://plato.algonquincollege.com/DigitalResources/Default.aspx)
 
 ## Online Resources
 
 - Algonquin Student Survival Guide: [www7.algonquincollege.com/onlineresources/ssg/additional.html](http://www7.algonquincollege.com/onlineresources/ssg/additional.html)
-
 - LinkedIn Learnin: [https://www.linkedin.com/learning](https://www.linkedin.com/learning/)
-
 - Pluralsight: [https://www.pluralsight.co](https://www.pluralsight.com)
-
-
-**Weekly Question Page (FAQ) - MAD9011:** [http://tiny.cc/e7y5oz](http://tiny.cc/e7y5oz)
 
 
 ## Additional UI/UX Design Resources
@@ -34,8 +29,10 @@ Links to Adobe software:
         - [mind42.com](https://mind42.com)
         - [www.mindmup.com](https://www.mindmup.com/)
         - [whimsical.com](https://whimsical.com/)
-    - Free brainstorm tool: https://padlet.com/
-    - Free educational sticky note tool: https://app.mural.co
+- Free brainstorm tool: 
+    - [padlet.com](https://padlet.com/)
+    - [Free educational sticky note tool](https://app.mural.co)
+    - [Post-it® App](https://www.post-it.com/3M/en_US/post-it/ideas/app/)
 - Wireframe/UI Design
     - Free student access: [Balsamiq](https://balsamiq.com/givingback/free/)
     - [Sketch (50% student discount)](https://www.sketch.com)
@@ -45,9 +42,10 @@ Links to Adobe software:
     - [Sketch (50% student discount)](https://www.sketch.com)
     - [Figma*](https://www.figma.com/) 
 - Colour
-    - https://color.adobe.com/create/color-wheel/
+    - [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
     - [Color Oracle – Design for the Color Impaired](https://colororacle.org/)
-    - [Online colour accessibility tool]
+    - Online colour accessibility tool
+        - [Geenes](https://geenes.app/user-interface)
         - [Colorable:](https://colorable.jxnblk.com/ffffff/6b757b)
         - [Material colour picker:](https://material.io/tools/color/#!)
         - [w3schools tool:](https://www.w3schools.com/colors/colors_picker.asp)
@@ -60,14 +58,15 @@ Links to Adobe software:
 - [Android Design Guidelines](https://developer.android.com/design/)
 - [Material Design Guidelines](https://material.io/design)
 - Progressive Web App Design Best Practices
-iOS toolkits for Sketch, Adobe XD and Photoshop
-Android toolkits for Sketch, Photoshop, and Adobe XD
-Resource | Xd Resources (UI Kit for iOS, Material, and Microsoft)
-https://xdresources.co
-Auto Animated UI Kit 
-13 Xd Auto Animated UI Kit
-Download San Francisco Fonts
-Android DP / PX converter
+- [Apple Design Resource for Sketch, Adobe XD and Photoshop](https://developer.apple.com/design/resources/)
+- [Android Material Design Kit for Sketch, Adobe XD, and Figm](https://materialdesignkit.com/android-gui/)
+- UI Design & Xd Resources (**UI Kits** for iOS, Material, and Microsoft)
+    - [By Adobe XD](https://www.adobe.com/ca/products/xd/resources.html)
+    - [xdresources.co](https://xdresources.co)
+    - [Auto Animated UI Kits download](http://download.adobe.com/pub/adobe/xd/ui-kits/xd-resources-auto-animate-ui.zip) 
+    - [13 Xd Auto Animated UI Kit](https://www.behance.net/gallery/73904763/Adobe-Xd-Auto-Animate-UI-kit)
+    - [MAC System Fonts](https://developer.apple.com/fonts/)
+    - [Android DP/PX converter](http://labs.rampinteractive.co.uk/android_dp_px_calculator/)
 
 
 ### Reading: 
@@ -85,8 +84,10 @@ InVision Studio video tutorials
 InVision for UX Design video tutorials
 Getting Started with InVision
 Adobe Create Magazine for tips & tricks
-UI Design Examples:
 
-Android App: https://www.mockplus.com/blog/post/andriod-app-ui-design
-iOS App: https://www.digitaltrends.com/mobile/best-iphone-apps/
-10 Progressive Web App Examples that Brand Owners can Learn From
+
+### UI Design Examples:
+
+- [Android App:](https://www.mockplus.com/blog/post/andriod-app-ui-design)
+- [iOS App:](https://www.digitaltrends.com/mobile/best-iphone-apps/)
+- [10 Progressive Web App Examples that Brand Owners can Learn From](https://www.iflexion.com/blog/pwa-examples)
