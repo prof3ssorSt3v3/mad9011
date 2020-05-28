@@ -55,6 +55,7 @@ Links to Adobe software:
 ### Design Resources
 
 - [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+    - [The iOS 13 Design Guidelines: An Illustrated Guide](https://learnui.design/blog/ios-design-guidelines-templates.html)
 - [Android Design Guidelines](https://developer.android.com/design/)
 - [Material Design Guidelines](https://material.io/design)
 - [Progressive Web App Design Best Practices](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
@@ -89,6 +90,6 @@ Links to Adobe software:
 
 ### UI Design Examples
 
-- [Android App:](https://www.mockplus.com/blog/post/andriod-app-ui-design)
-- [iOS App:](https://www.digitaltrends.com/mobile/best-iphone-apps/)
+- [Android App on pttrns.:](https://pttrns.com/android-patterns)
+- [Apple Design Awards 2019:](https://developer.apple.com/design/awards/)
 - [10 Progressive Web App Examples that Brand Owners can Learn From](https://www.iflexion.com/blog/pwa-examples)
