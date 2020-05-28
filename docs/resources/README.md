@@ -23,8 +23,7 @@ Links to Adobe software:
 - Paper prototype templates
     - Download 1: [sneakpeekit.com](https://sneakpeekit.com/)
     - Download 2: [alterspark.com](https://www.alterspark.com/wp-content/uploads/documents/alterspark-digital-psychology-wireframe-kit_letter-size_v103.pdf)
-- Information Architecture
-    - Free educational diagram/wireframe tool: 
+- Information Architecture (Free educational diagram tools):
         - [app.moqups.com](https://app.moqups.com)
         - [mind42.com](https://mind42.com)
         - [www.mindmup.com](https://www.mindmup.com/)
@@ -44,6 +43,7 @@ Links to Adobe software:
 - Colour
     - [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
     - [Color Oracle – Design for the Color Impaired](https://colororacle.org/)
+        - [Sim Daltonism Mac App](https://apps.apple.com/us/app/sim-daltonism/id693112260?mt=12)
     - Online colour accessibility tool
         - [Geenes](https://geenes.app/user-interface)
         - [Colorable:](https://colorable.jxnblk.com/ffffff/6b757b)
@@ -57,7 +57,7 @@ Links to Adobe software:
 - [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [Android Design Guidelines](https://developer.android.com/design/)
 - [Material Design Guidelines](https://material.io/design)
-- Progressive Web App Design Best Practices
+- [Progressive Web App Design Best Practices](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 - [Apple Design Resource for Sketch, Adobe XD and Photoshop](https://developer.apple.com/design/resources/)
 - [Android Material Design Kit for Sketch, Adobe XD, and Figm](https://materialdesignkit.com/android-gui/)
 - UI Design & Xd Resources (**UI Kits** for iOS, Material, and Microsoft)
