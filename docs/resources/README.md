@@ -71,19 +71,20 @@ Links to Adobe software:
 
 ### Reading: 
 
-Creating Excellent UX Flow Charts – EightShapes – Medium
-Gamification: A guide for designers to a misunderstood concept
-Empty State Best Practices(UI Design)
-32 User Interface Elements For UI Designers: Your Ultimate Glossary
+- [Creating Excellent UX Flow Charts – EightShapes – Medium](https://medium.com/eightshapes-llc/creating-excellent-ux-flow-charts-df6f1e46e524)
+- [32 User Interface Elements For UI Designers: **Your Ultimate Glossary**](https://careerfoundry.com/en/blog/ui-design/ui-element-glossary/)
+- [Gamification: A guide for designers to a misunderstood concept](https://uxdesign.cc/gamification-aguide-for-designers-to-a-misunderstood-concept-4de5bef0c5d9)
+- [Empty State Best Practices(UI Design)](https://www.justinmind.com/blog/everything-you-need-to-know-about-empty-state-design/)
+- [How to design for AI-enabled UI](https://blog.prototypr.io/how-to-design-for-ai-enabled-ui-77e144e99126)
+- 
 
-Tutorials: 
+### Tutorials: 
 
-Adobe XD video tutorials on LinkedIn Learning
-Sketch for UX Design video tutorials
-InVision Studio video tutorials
-InVision for UX Design video tutorials
-Getting Started with InVision
-Adobe Create Magazine for tips & tricks
+- [Adobe XD video tutorials on LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-design-3)
+- [Sketch for UX Design video tutorials](https://www.linkedin.com/learning/sketch-for-ux-design-2)
+- [Getting Started with InVision](https://support.invisionapp.com/hc/en-us/categories/360001714711)
+- [InVision for UX Design](https://www.linkedin.com/learning/invision-for-ux-design/welcome)
+- [Adobe Create Magazine for tips & tricks](https://create.adobe.com/)
 
 
 ### UI Design Examples:
