@@ -2,27 +2,34 @@
 
 ## Introduction and Inspiration
 
-Welcome to MAD9011, Mobile Design Fundamentals course. We are going to learn a lot of fun and useful material to help you design graphics and interfaces. To have a smooth start, ensure to download and install the Adobe Creative Suite and Adobe Illustrator in the first week. 
+Welcome to MAD9011, Mobile Design Fundamentals course. This is the frist level of our courses. We are going to learn a lot of fun and useful material to help you design graphics and interfaces. To have a smooth start, we will download and install the Adobe Creative Suite and Adobe Illustrator to ensure all tools are ready for the course this week. 
 
-**Weekly Question Page (FAQ) - MAD9011:** [http://tiny.cc/e7y5oz](http://tiny.cc/e7y5oz)
+Got a question? Feel free to post it here on our **Weekly Question Page (FAQ) - MAD9011:** [http://tiny.cc/e7y5oz](http://tiny.cc/e7y5oz)
 
 
 ## Tools and Software
 
-You can also find most of these links on the [Resources page](../../resources/).
+The design tools we use are: Adobe Illustrator, Photoshop, XD, SVG (with any code editor). You can find most of the links on the [Resources page](../../resources/).
+
+### Adobe Illustrator
+
+We will use several tools in **Adobe Creative Could.** Adobe Illustrator (Ai) will be the tool we use to create vector-based graphics.
+
+You need to download and install them this week. [Adobe software download link](http://www7.algonquincollege.com/byod/adobe.htm)
+
+You can aslo download other [BYOD digital resources.](http://www7.algonquincollege.com/byod/software.htm) 
+
+
+### Adobe Photoshop
+
+We will start using Adobe Photoshop (Ps) in Week 5/6 to design raster-based graphics. Ps is an execllent tool for image optimization which can be loaded quickly on both small and large devices with the best resolution.  
+
+
+### Adobe XD
+
+
 
 ### VSCode
-
-The main IDE (Integrated Development Environment) that we will use for all our web technology related work will be VSCode.
-
-You need to download and install it on both MacOS and Windows. [VSCode download link](https://code.visualstudio.com/download)
-
-<YouTube
-  title="Getting started with VSCode"
-  url="https://www.youtube.com/embed/Y_lWpD66oT8"
-/>
-
-### Git
 
 Git is the source control software that we will be using throughout the program. You will learn more about this in MAD9013 and MAD9112. It comes included when you install **VSCode**.
 
