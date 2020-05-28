@@ -11,9 +11,9 @@ Links to Adobe software:
 
 ## Online Resources
 
-- Algonquin Student Survival Guide: [www7.algonquincollege.com/onlineresources/ssg/additional.html](http://www7.algonquincollege.com/onlineresources/ssg/additional.html)
-- LinkedIn Learnin: [https://www.linkedin.com/learning](https://www.linkedin.com/learning/)
-- Pluralsight: [https://www.pluralsight.co](https://www.pluralsight.com)
+- Algonquin Student Survival Guide: [algonquincollege.libguides.com/student-survival-guide](http://algonquincollege.libguides.com/student-survival-guide)
+- LinkedIn Learning: [https://www.linkedin.com/learning](https://www.linkedin.com/learning/)
+- Pluralsight: [www.pluralsight.com](https://www.pluralsight.com)
 
 
 ## Additional UI/UX Design Resources
@@ -24,10 +24,10 @@ Links to Adobe software:
     - Download 1: [sneakpeekit.com](https://sneakpeekit.com/)
     - Download 2: [alterspark.com](https://www.alterspark.com/wp-content/uploads/documents/alterspark-digital-psychology-wireframe-kit_letter-size_v103.pdf)
 - Information Architecture (Free educational diagram tools):
-        - [app.moqups.com](https://app.moqups.com)
-        - [mind42.com](https://mind42.com)
-        - [www.mindmup.com](https://www.mindmup.com/)
-        - [whimsical.com](https://whimsical.com/)
+    - [app.moqups.com](https://app.moqups.com)
+    - [mind42.com](https://mind42.com)
+    - [www.mindmup.com](https://www.mindmup.com/)
+    - [whimsical.com](https://whimsical.com/)
 - Free brainstorm tool: 
     - [padlet.com](https://padlet.com/)
     - [Free educational sticky note tool](https://app.mural.co)
@@ -42,26 +42,28 @@ Links to Adobe software:
     - [Figma*](https://www.figma.com/) 
 - Colour
     - [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
-    - [Color Oracle – Design for the Color Impaired](https://colororacle.org/)
-        - [Sim Daltonism Mac App](https://apps.apple.com/us/app/sim-daltonism/id693112260?mt=12)
     - Online colour accessibility tool
+        - [Color Oracle – Design for the Color Impaired](https://colororacle.org/)
+        - [Sim Daltonism Mac App](https://apps.apple.com/us/app/sim-daltonism/id693112260?mt=12)
+        - [Material colour picker:](https://material.io/tools/color/#!)
         - [Geenes](https://geenes.app/user-interface)
         - [Colorable:](https://colorable.jxnblk.com/ffffff/6b757b)
-        - [Material colour picker:](https://material.io/tools/color/#!)
         - [w3schools tool:](https://www.w3schools.com/colors/colors_picker.asp)
     - Online colorizer: [http://paletton.com](http://paletton.com)
 
 
 ### Design Resources
 
-- [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
-    - [The iOS 13 Design Guidelines: An Illustrated Guide](https://learnui.design/blog/ios-design-guidelines-templates.html)
-- [Android Design Guidelines](https://developer.android.com/design/)
-- [Material Design Guidelines](https://material.io/design)
-- [Progressive Web App Design Best Practices](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
-- [Apple Design Resource for Sketch, Adobe XD and Photoshop](https://developer.apple.com/design/resources/)
-- [Android Material Design Kit for Sketch, Adobe XD, and Figm](https://materialdesignkit.com/android-gui/)
-- UI Design & Xd Resources (**UI Kits** for iOS, Material, and Microsoft)
+- Platform Specific Guidelines
+    - [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+        - [The iOS 13 Design Guidelines: An Illustrated Guide](https://learnui.design/blog/ios-design-guidelines-templates.html)
+    - [Android Design Guidelines](https://developer.android.com/design/)
+    - [Material Design Guidelines](https://material.io/design)
+    - [Progressive Web App Design Best Practices](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
+- Platform Specific Design Resources
+    - [Apple Design Resource for Sketch, Adobe XD and Photoshop](https://developer.apple.com/design/resources/)
+    - [Android Material Design Kit for Sketch, Adobe XD, and Figma](https://materialdesignkit.com/android-gui/)
+- UI Design & Xd Resources (**UI Kits** for iOS, Material Design, and Microsoft)
     - [By Adobe XD](https://www.adobe.com/ca/products/xd/resources.html)
     - [xdresources.co](https://xdresources.co)
     - [Auto Animated UI Kits download](http://download.adobe.com/pub/adobe/xd/ui-kits/xd-resources-auto-animate-ui.zip) 
