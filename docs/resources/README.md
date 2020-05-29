@@ -103,6 +103,7 @@ Links to Adobe software:
 - [Sketch for UX Design video tutorials](https://www.linkedin.com/learning/sketch-for-ux-design-2)
 - [Getting Started with InVision](https://support.invisionapp.com/hc/en-us/categories/360001714711)
 - [InVision for UX Design](https://www.linkedin.com/learning/invision-for-ux-design/welcome)
+- [Figma – Getting Started Video Tutorial](http://bit.ly/2pYDyhk)
 - [Adobe Create Magazine for tips & tricks](https://create.adobe.com/)
 
 
