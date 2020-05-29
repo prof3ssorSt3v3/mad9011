@@ -42,14 +42,14 @@ Links to Adobe software:
     - [Post-it® App](https://www.post-it.com/3M/en_US/post-it/ideas/app/)
 
 - Wireframe/UI Design
-    - Free student access: [Balsamiq](https://balsamiq.com/givingback/free/)
+    - [Balsamiq (Free student access)](https://balsamiq.com/givingback/free/)
     - [Sketch (50% student discount)](https://www.sketch.com)
 
 - Prototype
     - [Adobe XD](https://www.adobe.com/ca/products/xd.html?promoid=PYPVQ3HN&mv=other) 
     - [InVision Studio](https://www.invisionapp.com/studio) & [Cloud version signup](https://projects.invisionapp.com/d/signup)
     - [Sketch (50% student discount)](https://www.sketch.com)
-    - [Figma*](https://www.figma.com/) 
+    - [Figma (emerging tool)](https://www.figma.com/) 
 
 - Colour
     - [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
