@@ -2,28 +2,47 @@
 
 ## Introduction and Inspiration
 
-Welcome to MAD9011, Mobile Design Fundamentals course. This is the frist level of our courses. We are going to learn a lot of fun and useful material to help you design graphics and interfaces. To have a smooth start, we will download and install the Adobe Creative Suite and Adobe Illustrator to ensure all tools are ready for the course this week. 
+Welcome to MAD9011, Mobile Design Fundamentals course, your level one design course. We are going to learn a lot of fun and useful material to help you design graphics and interfaces.  To have a smooth start: 
 
-Got a question? Feel free to post it here on our **Weekly Question Page (FAQ) - MAD9011:** [http://tiny.cc/e7y5oz](http://tiny.cc/e7y5oz)
+- Download and install the Adobe Creative Suite and Adobe Illustrator today 
+- Ensure all tools are ready for the course this week, including Photoshop and XD
+- Review Course [Overview & Policies](../../overview/)
+
+For visual design inspiration, check out [Adobe Create online magazine](https://create.adobe.com/)
+
+Got a question for our class? Feel free to post it on **Weekly Question Page (FAQ) - MAD9011:** [http://tiny.cc/e7y5oz](http://tiny.cc/e7y5oz)
+
+
+## Design references
+- [Psychology of colour](https://www.bcrpainting.com.au/bcrpainterblogs/2017/9/1/why-should-you-pay-attention-to-colour-psychology)
+- [The Design Elements of Composing a Drawing](https://www.dummies.com/art-center/performing-arts/drawing/the-design-elements-of-composing-a-drawing/)
+- 
 
 
 ## Tools and Software
 
-The design tools we use are: Adobe Illustrator, Photoshop, XD, SVG (with any code editor). You can find most of the links on the [Resources page](../../resources/).
+The design tools we use are: Adobe Illustrator, Photoshop, XD, SVG (with code editor). You can find most of the links on the [Resources](../../resources/).
+
+Download and install Illustrator, Photoshop, and Xd this week. [Adobe software download link](http://www7.algonquincollege.com/byod/adobe.htm)
+
+You can aslo download other [BYOD Digital Resources.](http://www7.algonquincollege.com/byod/software.htm) 
+
 
 ### Adobe Illustrator
 
 We will use several tools in **Adobe Creative Could.** Adobe Illustrator (Ai) will be the tool we use to create vector-based graphics.
 
-You need to download and install them this week. [Adobe software download link](http://www7.algonquincollege.com/byod/adobe.htm)
-
-You can aslo download other [BYOD digital resources.](http://www7.algonquincollege.com/byod/software.htm) 
+- [Adobe Illustrator User Guide](https://helpx.adobe.com/illustrator/user-guide.html)
+- [Ai Tool Gallery](https://helpx.adobe.com/illustrator/using/tool-galleries.html)
+- [Ai Keyboard Shortcuts](https://helpx.adobe.com/illustrator/using/default-keyboard-shortcuts.html)
+- [What's new in Illustrator](https://helpx.adobe.com/ca/illustrator/using/whats-new.html)
 
 
 ### Adobe Photoshop
 
 We will start using Adobe Photoshop (Ps) in Week 5/6 to design raster-based graphics. Ps is an execllent tool for image optimization which can be loaded quickly on both small and large devices with the best resolution.  
 
+- 
 
 ### Adobe XD
 
@@ -38,74 +57,6 @@ Git is the source control software that we will be using throughout the program.
   url="https://www.youtube.com/embed/EdEWigP6zxQ"
 />
 
-### GitHub
-
-[GitHub](https://www.github.com/) is a website with a Git Server built-in. It is basically free hosting for all your Git Projects, Gists, and Static Git Websites.
-
-You need to **create an new account on GitHub** for use with the MAD&D program.
-
-::: warning
-Use your @algonquinlive.com email address and your algonquin username to create the GitHub account. Do **NOT** use your private email and username.
-:::
-
-<YouTube
-  title="Get started with GitHub"
-  url="https://www.youtube.com/embed/M9uTajSRytE"
-/>
-
-[Learn more about Git and GitHub](./git.md)
-
-### NodeJS
-
-[NodeJS](https://nodejs.org/en/) is a JavaScript runtime that allows us to write programs using JavaScript without the browser.
-
-::: warning
-Install version 10.x of NodeJS on both Windows and MacOS.
-:::
-
-### NPM
-
-[NPM](https://www.npmjs.com/) Is the Node package management system for programs written with JavaScript and running with NodeJS. It gets installed when you install NodeJS.
-
-Over the next 4 semesters we will be using this A LOT.
-
-### Cordova
-
-[Cordova](https://cordova.apache.org/docs/en/latest/s) is the Open Source version of PhoneGap, which is the framework and packaging tool from Adobe to turn web apps created with HTML, CSS, and JS into native-like mobile applications for Android and iOS.
-
-The original version of PhoneGap was created by a Canadian company called Nitobi from Vancouver. Adobe bought Nitobi after the success of PhoneGap and the day after the purchase was finallized they created an Open Source version of PhoneGap called Cordova and gave it to the Apache Software Foundation to host and manage.
-
-We will be using NPM to install and manage Cordova.
-
-### Android SDK & Android Studio
-
-An SDK is a Software Development Kit. Basically it is a collection of tools and software to create and compile applications for a specific platform. The Android SDK will be what we need to create Android apps. We will need this in addition to the Cordova framework.
-
-We will be [installing Android Studio(https://developer.android.com/studio) to be able to update and choose components and APIs for our Android apps.
-
-For this semester we will be using Android Studio **on Windows only**.
-
-Next semester we will be installing Android Studio and the Android SDK on MacOS too.
-
-### iOS SDK & XCode
-
-The iOS SDK comes bundled with XCode. XCode is the Apple software for creating iOS and MacOS applications. Currently it only runs and compiles applications from MacOS.
-
-Next semester, in MAD9022, we will using XCode and the iOS SDK in combination with Cordova to create iOS apps.
-
-XCode is a free download from the MacOS App Store. You can install it any time you want. Just make sure that you update it next semester.
-
-## JavaScript
-
-JavaScript is a dynamic interpreted language. This means that you create your program as a text file, then that text file will be passed to and read by another program, like a browser, without any changes to what you wrote. The file is interpreted by the program that the end user is using.
-
-Some languages are compiled, which means you write your text file and then send it to a compiler. The compiler reads your file, combines it with others possibly, and generates a binary file which is often the final application which the user will run. Applications get compiled to run on a specific platform - like Windows or Android.
-
-If you open up a compiled program you will not be able to see the original code that was written to create it.
-
-Javascript files are text files with a `.js` file extension. Until quite recently the only place you would use a JavaScript file would be in the browser with a webpage. The browser would read an HTML file and see that it needed to load and interpret the JavaScript file too.
-
-Now, with NodeJS, we can run our JavaScript files on the command line. We can embed our scripts inside other applications or devices. There are many iot devices that use embedded JavaScript to run programs.
 
 ### Declaring Variables
 
