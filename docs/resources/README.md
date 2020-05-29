@@ -57,7 +57,6 @@ Links to Adobe software:
 ### Design Resources
 
 - [Free stock photos & videos(Creative Commons)](https://www.pexels.com/)
-
 - 
 
 - Platform Specific Guidelines
