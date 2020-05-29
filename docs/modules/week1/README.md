@@ -1,16 +1,17 @@
 # Week 1 Introduction to Mobile Design Fundamentals
 
-## Introduction and Inspiration
+## Introduction
 
-Welcome to MAD9011, Mobile Design Fundamentals course, your level one design course. We are going to learn a lot of fun and useful material to help you design graphics and interfaces.  To have a smooth start: 
+Welcome to MAD9011, Mobile Design Fundamentals. In this level one design course, we are going to explorer fundamental design concepts and learn the fun and useful tools to help you design graphics and interfaces. 
 
+To have a smooth start: 
 - Download and install the Adobe Creative Suite and Adobe Illustrator today 
 - Ensure all tools are ready for the course this week, including Photoshop and XD
-- Review Course [Overview & Policies](../../overview/)
+- Go over [Course **Overview** and Policies](../../overview/)
 
-For visual design inspiration, check out [Adobe Create online magazine](https://create.adobe.com/)
+For visual design inspirations, check out [Adobe Create online magazine](https://create.adobe.com/)
 
-Got a question for our class? Feel free to post it on **Weekly Question Page (FAQ) - MAD9011:** [http://tiny.cc/e7y5oz](http://tiny.cc/e7y5oz)
+Got a question for our class? Post it on **Weekly Question Page (FAQ) - MAD9011:** [http://tiny.cc/e7y5oz](http://tiny.cc/e7y5oz)
 
 
 ## Design references
@@ -26,16 +27,16 @@ Got a question for our class? Feel free to post it on **Weekly Question Page (FA
 
 ## Tools and Software
 
-The design tools we use are: Adobe Illustrator, Photoshop, XD, SVG (with code editor). You can find most of the links on the [Resources](../../resources/).
+The design tools we use are: Adobe Illustrator, Photoshop, XD, SVG mockup editors. You can find most of the links on the [Resources](../../resources/).
 
 - Download and install Illustrator, Photoshop, and Xd this week. [Adobe software download link](http://www7.algonquincollege.com/byod/adobe.htm)
 
-- You can aslo download other [BYOD Digital Resources.](http://www7.algonquincollege.com/byod/software.htm) 
+- You can aslo download other [BYOD Digital Resources](http://www7.algonquincollege.com/byod/software.htm) 
 
 
 ### Adobe Illustrator
 
-We will use several tools in **Adobe Creative Could.** Adobe Illustrator (Ai) will be the tool we use to create vector-based graphics.
+We will use several tools in **Adobe Creative Could.** Adobe Illustrator **(Ai)** will be the first tool we use to create vector-based graphics.
 
 - [Adobe Illustrator User Guide](https://helpx.adobe.com/illustrator/user-guide.html)
 - [Ai Tool Gallery](https://helpx.adobe.com/illustrator/using/tool-galleries.html)
@@ -45,7 +46,7 @@ We will use several tools in **Adobe Creative Could.** Adobe Illustrator (Ai) wi
 
 ### Adobe Photoshop
 
-We will start using Adobe Photoshop (Ps) in Week 5/6 to design raster-based graphics. 
+We will start using Adobe Photoshop **(Ps)** in Week 5/6 to design raster-based graphics. 
 
 - [Photoshop User Guide](https://helpx.adobe.com/photoshop/user-guide.html)
 - [Ps Artboards](https://helpx.adobe.com/photoshop/using/artboards.html)
@@ -56,17 +57,19 @@ We will start using Adobe Photoshop (Ps) in Week 5/6 to design raster-based grap
 
 
 ### Adobe XD
-Adobe Experience Design Tool is for rapid prototyping. We will learn basic UI interaction design with Xd built-in transition.
+Adobe Experience Design **(Xd)** is ideal for rapid prototyping. We will learn the basic UI interaction design with Xd interaction and transition features. 
 
-- [XD User Guide](https://helpx.adobe.com/ca/xd/user-guide.html)
-- [Adobe XD tutorials](https://helpx.adobe.com/ca/xd/tutorials.html)
-- [free XD resources](https://www.adobe.com/ca/products/xd/resources.html)
+- [Adobe XD User Guide](https://helpx.adobe.com/ca/xd/user-guide.html)
+- [Xd tutorials](https://helpx.adobe.com/ca/xd/tutorials.html)
+- [free Xd resources](https://www.adobe.com/ca/products/xd/resources.html)
 - [Xd Pro Tips](https://letsxd.com/protips)
+- [Xd 2019 was a major release. Let's see soom advanced features.](https://helpx.adobe.com/ca/xd/help/whats-new/2019.html)
+- [What's new in Adobe XD](https://helpx.adobe.com/ca/xd/help/whats-new.html)
 
 
 ### SVG
 
-We will use **Ai** and **VSCode** to create Scalable Vector Graphics (SVG) and edit SVG mockups with CSS to design SVG animation.
+We will use **Ai** and **VSCode** to create Scalable Vector Graphics (SVG) and edit SVG mockups with CSS to design interactive SVG animations.
 
 - [Pocket Guide to Writing SVG](https://svgpocketguide.com/book)
 - [Online SVG Editor](http://petercollingridge.appspot.com/svg-editor)
