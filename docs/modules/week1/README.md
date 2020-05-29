@@ -16,7 +16,9 @@ Got a question for our class? Feel free to post it on **Weekly Question Page (FA
 ## Design references
 - [Psychology of colour](https://www.bcrpainting.com.au/bcrpainterblogs/2017/9/1/why-should-you-pay-attention-to-colour-psychology)
 - [The Design Elements of Composing a Drawing](https://www.dummies.com/art-center/performing-arts/drawing/the-design-elements-of-composing-a-drawing/)
-- 
+- [Designing for Readability](https://www.toptal.com/designers/typography/web-typography-infographic)
+- [Accessibility checklists](https://learn-the-web.algonquindesign.ca/topics/accessibility-checklist/)
+
 
 
 ## Tools and Software
@@ -42,7 +44,12 @@ We will use several tools in **Adobe Creative Could.** Adobe Illustrator (Ai) wi
 
 We will start using Adobe Photoshop (Ps) in Week 5/6 to design raster-based graphics. Ps is an execllent tool for image optimization which can be loaded quickly on both small and large devices with the best resolution.  
 
-- 
+- [Photoshop User Guide](https://helpx.adobe.com/photoshop/user-guide.html)
+- [Photoshop Artboards](https://helpx.adobe.com/photoshop/using/artboards.html)
+- [Tool galleries](https://helpx.adobe.com/photoshop/using/tools.html)
+  - [A comprehensive tutorial for Photoshop Tools](http://www.photoshop-bootcamp.com/beginners-guide-photoshop-tools-toolbar/)
+- [Ps Keyboard Shortcuts](https://helpx.adobe.com/ca/photoshop/using/default-keyboard-shortcuts.html)
+
 
 ### Adobe XD
 

@@ -54,6 +54,8 @@ Links to Adobe software:
 
 ### Design Resources
 
+- [Free stock photos & videos(Creative Commons)](https://www.pexels.com/)
+
 - Platform Specific Guidelines
     - [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
         - [The iOS 13 Design Guidelines: An Illustrated Guide](https://learnui.design/blog/ios-design-guidelines-templates.html)
