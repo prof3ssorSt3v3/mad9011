@@ -1,7 +1,7 @@
 # MAD9011 - Mobile Design Fundamentals
 
 ::: tip
-Students are introduced to mobile design fundamentals and graphical user interface design tools. The design concepts include mobile user interface visual elements, principles, accessibility and usability. Students gain production techniques and the required skills to create mobile industry-standard graphics. They learn design tools that help them to design effective interfaces for mobile-first websites and mobile applications. Hands-on learning is the focus by which they use different software packages to create mobile user interface visual elements, icons, splash graphics, scalable vector graphic (SVG), SVG animations, and wireframes.
+Students are introduced to mobile design fundamentals and graphical user interface design tools. The design concepts include mobile user interface visual elements, principles, accessibility and usability. The production techniques cover the necessary skills for creating mobile industry-standard graphics. The students learn design tools that help them to design effective interfaces for mobile-first websites and mobile applications through hands-on learning. They use different software packages to create mobile user interface visual elements, icons, splash graphics, scalable vector graphic (SVG), SVG animations, and wireframes.
 
 :::
 
@@ -65,6 +65,8 @@ Room T127
 
 ## Course Policy
 
+The students will be learning online, guided by a curriculum with video tutorials, discussions and quizzes. They will reflect what they have learned on weekly homework and apply practical knowledge to assignments and final project. The in-class time will not be a lesson therefore each student must complete the curriculum modules themselves to move on thru this course. Participating in peer reviews, chats and forums will be a big part of the activities learned.
+
 **Late Penalty**
 
 Assignments will be penalized for being late at the rate of 10% per day to a maximum of 30%. After 10 days beyond the due date, assignments will be given a grade of zero. 
@@ -73,11 +75,12 @@ Students may still submit their assignments after the ten days but it will only 
 
 **Performance Requirement**
 
-In-class work progress review is part of the performance assessment. A student must pass the combined term work (marked exercises, discussions, assignments, and quizzes) and score higher than 50% in all 3 assignments and 2 quizzes to pass this course. 
+In-class work progress review is part of the performance assessment. A student must pass the combined term work (marked exercises, discussions, assignments, and quizzes) and score higher than 50% in all graded assignments, project, and 2 quizzes to pass this course. 
 
-**Discussions & Chat**
+**Discussions**
 
-Under the Discussion section, you will already find some started, remember the conversation history exists as long as the course exists. Chat history is globally visible to everyone in the course. These are NOT private conversations. Use the Inbox for private conversations. There is NO delete function for any comment made in the Chat, keep it clean. Discussions will be moderated by me for coherence. Please participate, ask questions, respond to some, also attach some of your better design for peer viewing and thoughts. Participation counts for 13% of the total for the course so please join in.
+Under the Discussion section, you will already find some started, remember the conversation history exists as long as the course exists. Discussions will be moderated by me for coherence. Please participate, ask questions, respond to some, also attach some of your better design for peer viewing and thoughts. Participation counts for 13% of the total for the course so please join in.
+
 
 **Copyright**
 

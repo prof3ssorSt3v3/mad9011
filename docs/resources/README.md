@@ -20,6 +20,8 @@ Links to Adobe software:
 
 ### Tools
 
+- [Squoosh app (online optimization tool)](https://squoosh.app/)
+
 - Paper prototype templates
     - Download 1: [sneakpeekit.com](https://sneakpeekit.com/)
     - Download 2: [alterspark.com](https://www.alterspark.com/wp-content/uploads/documents/alterspark-digital-psychology-wireframe-kit_letter-size_v103.pdf)
@@ -55,6 +57,8 @@ Links to Adobe software:
 ### Design Resources
 
 - [Free stock photos & videos(Creative Commons)](https://www.pexels.com/)
+
+- 
 
 - Platform Specific Guidelines
     - [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
