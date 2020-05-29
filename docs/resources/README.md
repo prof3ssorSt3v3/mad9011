@@ -53,7 +53,7 @@ Links to Adobe software:
 
 - Colour
     - [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
-    - Online colour accessibility tool
+    - Online **colour accessibility** tool
         - [Color Oracle – Design for the Color Impaired](https://colororacle.org/)
         - [Sim Daltonism Mac App](https://apps.apple.com/us/app/sim-daltonism/id693112260?mt=12)
         - [Material colour picker:](https://material.io/tools/color/#!)
