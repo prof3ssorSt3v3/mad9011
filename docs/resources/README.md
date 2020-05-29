@@ -25,6 +25,7 @@ Links to Adobe software:
     - [CSS Gradient Generator](https://cssgradient.io/)
     - [Gradient Generator](https://briangrinstead.com/gradient/) 
     - [SVG Editor](http://petercollingridge.appspot.com/svg-editor)
+    - [Android DP/PX converter](http://labs.rampinteractive.co.uk/android_dp_px_calculator/)
 
 - Paper prototype templates
     - Download 1: [sneakpeekit.com](https://sneakpeekit.com/)
@@ -85,7 +86,6 @@ Links to Adobe software:
     - [xdresources.co](https://xdresources.co)
     - [Auto Animated UI Kits download](http://download.adobe.com/pub/adobe/xd/ui-kits/xd-resources-auto-animate-ui.zip) 
     - [13 Xd Auto Animated UI Kit](https://www.behance.net/gallery/73904763/Adobe-Xd-Auto-Animate-UI-kit)
-    - [Android DP/PX converter](http://labs.rampinteractive.co.uk/android_dp_px_calculator/)
 
 
 ### Reading 
