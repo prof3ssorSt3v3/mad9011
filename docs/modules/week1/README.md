@@ -5,9 +5,10 @@
 Welcome to MAD9011, Mobile Design Fundamentals. In this level one design course, we are going to explorer fundamental design concepts and learn the fun and useful tools to help you design graphics and interfaces. 
 
 To have a smooth start: 
+
 - Download and install the Adobe Creative Suite and Adobe Illustrator today 
 - Ensure all tools are ready for the course this week, including Photoshop and XD
-- Go over [Course **Overview** and Policies](../../overview/)
+- Go over Course [**Overview**](../../overview/) and Policies
 
 For visual design inspirations, check out [Adobe Create online magazine](https://create.adobe.com/)
 
@@ -57,7 +58,7 @@ We will start using Adobe Photoshop **(Ps)** in Week 5/6 to design raster-based 
 
 
 ### Adobe XD
-Adobe Experience Design **(Xd)** is ideal for rapid prototyping. We will learn the basic UI interaction design with Xd interaction and transition features. 
+Adobe Experience Design **(Xd)** is ideal for rapid prototyping. We will learn the basic UI interaction design in Xd to design screen layout, interaction and transition. 
 
 - [Adobe XD User Guide](https://helpx.adobe.com/ca/xd/user-guide.html)
 - [Xd tutorials](https://helpx.adobe.com/ca/xd/tutorials.html)
