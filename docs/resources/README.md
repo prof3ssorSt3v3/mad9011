@@ -75,15 +75,16 @@ Links to Adobe software:
     - [Progressive Web App Design Best Practices](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 
 - Platform Specific Design Resources
-    - [Apple Design Resource for Sketch, Adobe XD and Photoshop](https://developer.apple.com/design/resources/)
+    - [Apple Design Resource (Kits) for Sketch, Adobe XD and Photoshop](https://developer.apple.com/design/resources/)
     - [Android Material Design Kit for Sketch, Adobe XD, and Figma](https://materialdesignkit.com/android-gui/)
+    - [MAC System Fonts](https://developer.apple.com/fonts/)
+    - [Material Design Fonts: Roboto, the default system font for Android](https://material.io/design/typography/understanding-typography.html#system-fonts)
 
 - UI Design & Xd Resources (**UI Kits** for iOS, Material Design, and Microsoft)
     - [By Adobe XD](https://www.adobe.com/ca/products/xd/resources.html)
     - [xdresources.co](https://xdresources.co)
     - [Auto Animated UI Kits download](http://download.adobe.com/pub/adobe/xd/ui-kits/xd-resources-auto-animate-ui.zip) 
     - [13 Xd Auto Animated UI Kit](https://www.behance.net/gallery/73904763/Adobe-Xd-Auto-Animate-UI-kit)
-    - [MAC System Fonts](https://developer.apple.com/fonts/)
     - [Android DP/PX converter](http://labs.rampinteractive.co.uk/android_dp_px_calculator/)
 
 
