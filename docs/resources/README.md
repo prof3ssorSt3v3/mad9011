@@ -20,8 +20,11 @@ Links to Adobe software:
 
 ### Tools
 
-- [Squoosh app (online optimization tool)](https://squoosh.app/)
-
+- Graphics
+    - [Squoosh app (image optimization)](https://squoosh.app/)
+    - [CSS Gradient Generator](https://cssgradient.io/)
+    - [Gradient Generator](https://briangrinstead.com/gradient/) 
+    - [SVG Editor](http://petercollingridge.appspot.com/svg-editor)
 - Paper prototype templates
     - Download 1: [sneakpeekit.com](https://sneakpeekit.com/)
     - Download 2: [alterspark.com](https://www.alterspark.com/wp-content/uploads/documents/alterspark-digital-psychology-wireframe-kit_letter-size_v103.pdf)

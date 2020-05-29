@@ -73,6 +73,7 @@ Adobe Experience Design **(Xd)** is ideal for rapid prototyping. We will learn t
 We will use **Ai** and **VSCode** to create Scalable Vector Graphics (SVG) and edit SVG mockups with CSS to design interactive SVG animations.
 
 - [Pocket Guide to Writing SVG](https://svgpocketguide.com/book)
+- [w3schools SVG Tutorial](https://www.w3schools.com/graphics/svg_intro.asp)
 - [Online SVG Editor](http://petercollingridge.appspot.com/svg-editor)
 - [SVG OMG – SVGO's Missing GUI](https://jakearchibald.github.io/svgomg)
 - [cubic-bezier.com](https://cubic-bezier.com/#.17,.67,.83,.67)
