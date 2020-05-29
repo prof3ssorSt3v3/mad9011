@@ -25,26 +25,32 @@ Links to Adobe software:
     - [CSS Gradient Generator](https://cssgradient.io/)
     - [Gradient Generator](https://briangrinstead.com/gradient/) 
     - [SVG Editor](http://petercollingridge.appspot.com/svg-editor)
+
 - Paper prototype templates
     - Download 1: [sneakpeekit.com](https://sneakpeekit.com/)
     - Download 2: [alterspark.com](https://www.alterspark.com/wp-content/uploads/documents/alterspark-digital-psychology-wireframe-kit_letter-size_v103.pdf)
+
 - Information Architecture (Free educational diagram tools):
     - [app.moqups.com](https://app.moqups.com)
     - [mind42.com](https://mind42.com)
     - [www.mindmup.com](https://www.mindmup.com/)
     - [whimsical.com](https://whimsical.com/)
+
 - Free brainstorm tool: 
     - [padlet.com](https://padlet.com/)
     - [Free educational sticky note tool](https://app.mural.co)
     - [Post-it® App](https://www.post-it.com/3M/en_US/post-it/ideas/app/)
+
 - Wireframe/UI Design
     - Free student access: [Balsamiq](https://balsamiq.com/givingback/free/)
     - [Sketch (50% student discount)](https://www.sketch.com)
+
 - Prototype
     - [Adobe XD](https://www.adobe.com/ca/products/xd.html?promoid=PYPVQ3HN&mv=other) 
     - [InVision Studio](https://www.invisionapp.com/studio) & [Cloud version signup](https://projects.invisionapp.com/d/signup)
     - [Sketch (50% student discount)](https://www.sketch.com)
     - [Figma*](https://www.figma.com/) 
+
 - Colour
     - [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
     - Online colour accessibility tool
@@ -60,7 +66,6 @@ Links to Adobe software:
 ### Design Resources
 
 - [Free stock photos & videos(Creative Commons)](https://www.pexels.com/)
-- 
 
 - Platform Specific Guidelines
     - [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
@@ -68,9 +73,11 @@ Links to Adobe software:
     - [Android Design Guidelines](https://developer.android.com/design/)
     - [Material Design Guidelines](https://material.io/design)
     - [Progressive Web App Design Best Practices](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
+
 - Platform Specific Design Resources
     - [Apple Design Resource for Sketch, Adobe XD and Photoshop](https://developer.apple.com/design/resources/)
     - [Android Material Design Kit for Sketch, Adobe XD, and Figma](https://materialdesignkit.com/android-gui/)
+
 - UI Design & Xd Resources (**UI Kits** for iOS, Material Design, and Microsoft)
     - [By Adobe XD](https://www.adobe.com/ca/products/xd/resources.html)
     - [xdresources.co](https://xdresources.co)
