@@ -18,7 +18,7 @@ Before we begin using Adobe Illustrator, we need to understand a few fundamental
 
 We will be using Adobe Illustrator to create vector graphics, so let's familiarize ourselves with the software:
 
-First, let's [get to know Illustrator](https://helpx.adobe.com/ca/illustrator/how-to/ai-basics-fundamentals.html)
+Let's go over the first tutoral, [Get to know Illustrator](https://helpx.adobe.com/ca/illustrator/how-to/ai-basics-fundamentals.html)
 
 - Illustrator workspace 
 - Zoom and Pan
@@ -30,15 +30,16 @@ First, let's [get to know Illustrator](https://helpx.adobe.com/ca/illustrator/ho
 
 Artboards are like pages in your document, they are very useful to separate different elements you are designing without having to create multiple files.
 
-Take a look at this short [artboard tutorial](https://helpx.adobe.com/ca/illustrator/how-to/artboards-basics.html): Work with artboards
+Take a look at this short [artboard tutorial.](https://helpx.adobe.com/ca/illustrator/how-to/artboards-basics.html) 
 
+#### Work with artboards
 - Understand and navigate artboards
 - Create artboards
 - Edit artboards
 
 
 ### CREATING, SELECTING AND EDITING SHAPES
- let's learn how to draw and manipulate shapes in Illustrator with this [**drawing tools tutorial**](https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html).
+ Let's learn how to draw and manipulate shapes in Illustrator with this [**drawing tools tutorial**](https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html).
 
 #### Create with drawing tools
 - Understand paths and curves
