@@ -1,12 +1,17 @@
-# Week 2 - Conditionals and Functions
+# Week 2 - Meeting Illustrator
 
-## Booleans
+## Welcome
 
-Booleans are one of the Primitive types. They can have a value of `true` or `false`. The value must be written in lowercase and have no quotation marks around it. However, other values in JavaScript will also be considered either `truthy` or `falsy`.
+Before we begin using Adobe Illustrator, we need to understand a few fundamentals, here is a short introduction to get you started.
 
-[Learn about truthy and falsy](./falsy.md)
+### Raster and vector graphics
 
-## if Statements
+<YouTube
+  title="Raster and vector graphics"
+  url="https://www.youtube.com/embed/p2thSkOa_Xg"
+/>
+
+## Adobe Illustrator
 
 When your program needs to make a decision and carry out different tasks based on the value of one or more variables, then an `if` statement is how we do this.
 
