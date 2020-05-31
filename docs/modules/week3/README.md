@@ -71,5 +71,5 @@ To streamline the process of drawing shapes and ensuring they are even, we use t
 - If you have not read all these notes and watched the videos from this week, do that first.
 - Read the notes for week 4 and watch all the videos in the notes for week 4.
 - Hybrid 2 - Design a button
-- Discussion Forum: Pertinent Discussion
+- Discussion Forum: [Pertinent Discussion](/F2020/assignments)
   :::
