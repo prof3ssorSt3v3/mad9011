@@ -4,7 +4,7 @@
 
 Before we begin using Adobe Illustrator, we need to understand a few fundamentals, here is a short introduction to get you started.
 
-### Raster and vector graphics
+### RASTER AND VECTOR GRAPHICS  
 
 <YouTube
   title="Raster and vector graphics"
@@ -14,11 +14,11 @@ Before we begin using Adobe Illustrator, we need to understand a few fundamental
 
 ## Adobe Illustrator
 
-### The Basics
+### THE BASICS
 
 We will be using Adobe Illustrator to create vector graphics, so let's familiarize ourselves with the software:
 
-Let's go over the first tutoral: [Get to know Illustrator](https://helpx.adobe.com/ca/illustrator/how-to/ai-basics-fundamentals.html)
+Let's go over the first tutoral: [**Get to know Illustrator**](https://helpx.adobe.com/ca/illustrator/how-to/ai-basics-fundamentals.html)
 
 - Illustrator workspace 
 - Zoom and Pan
@@ -26,17 +26,17 @@ Let's go over the first tutoral: [Get to know Illustrator](https://helpx.adobe.c
 - Save your work
 
 
-### Artboards
+### ARTBOARDS
 
 Artboards are like pages in your document, they are very useful to separate different elements you are designing without having to create multiple files.
 
-Take a look at this short [artboard tutorial.](https://helpx.adobe.com/ca/illustrator/how-to/artboards-basics.html) 
+Take a look at this short [**artboard tutorial.**](https://helpx.adobe.com/ca/illustrator/how-to/artboards-basics.html) 
+
 
 #### Work with artboards
 - Understand and navigate artboards
 - Create artboards
 - Edit artboards
-
 
 ### CREATING, SELECTING AND EDITING SHAPES
  Let's learn how to draw and manipulate shapes in Illustrator with this [**drawing tools tutorial**](https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html).
@@ -55,11 +55,11 @@ Take a look at this short [artboard tutorial.](https://helpx.adobe.com/ca/illust
 - Trace to make shapes
 
 
-### Colour of Fill and Stroke   
+### COLOUR OF FILL AND STROKE
 To make our designs more interesting and clear, we need to use colour. Take a look at [**the first video, on this tutorial page**](https://helpx.adobe.com/illustrator/how-to/color-basics.html) to learn how to apply colour to your shapes and edit the stroke as well.
 
 #### Change color and strokes
-- Change the color of artwork (1st video)
+- Change the color of artwork (first video)
 
 
 ## TODO

@@ -35,7 +35,7 @@ The design tools we use are: Adobe Illustrator, Photoshop, XD, SVG mockup editor
 - You can aslo download other [BYOD Digital Resources](http://www7.algonquincollege.com/byod/software.htm) 
 
 
-### Adobe Illustrator
+### ADOBE ILLUSTRATOR
 
 We will use several tools in **Adobe Creative Could.** Adobe Illustrator **(Ai)** will be the first tool we use to create vector-based graphics.
 
@@ -45,7 +45,7 @@ We will use several tools in **Adobe Creative Could.** Adobe Illustrator **(Ai)*
 - [What's new in Illustrator](https://helpx.adobe.com/ca/illustrator/using/whats-new.html)
 
 
-### Adobe Photoshop
+### ADOBE PHOTOSHOP
 
 We will start using Adobe Photoshop **(Ps)** in Week 5/6 to design raster-based graphics. 
 
@@ -57,7 +57,7 @@ We will start using Adobe Photoshop **(Ps)** in Week 5/6 to design raster-based 
 - [What's new in Photoshop](https://helpx.adobe.com/ca/photoshop/using/whats-new.html)
 
 
-### Adobe XD
+### ADOBE XD
 Adobe Experience Design **(Xd)** is ideal for rapid prototyping. We will learn the basic UI interaction design in Xd to design screen layout, interaction and transition. 
 
 - [Adobe XD User Guide](https://helpx.adobe.com/ca/xd/user-guide.html)
