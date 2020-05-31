@@ -46,7 +46,7 @@ Adobe Illustrator works with vectors, we learned that last week, but we can impo
 
 ### RECOLORING ARTWORK  
 
-Adobe Illustrator has many shortcuts and ways to get to the same place. It is always useful to keep it in your notes for later. In the following video on LinkedIn Learning, you will learn how to recolor artwork and how to access this tool from more than one place in your workspace. This workflow will help a lot and is a fun way to achieve different results with only a few clicks.
+Adobe Illustrator has many shortcuts and ways to get to the same place. It is always useful to keep it in your notes for later. In the following video, you will learn how to recolor artwork and how to access this tool from more than one place in your workspace. This workflow will help a lot and is a fun way to achieve different results with only a few clicks.
 
 <a href="https://www.linkedin.com/learning/illustrator-coloring-artwork-2/tour-of-recolor-artwork" target=”_blank”>![Recolor Artwork](./recolorArtwork.png)</a>
 
@@ -61,7 +61,7 @@ The gradient tool allows you to color any vector shape in illustrator with a set
 
 To streamline the process of drawing shapes and ensuring they are even, we use this set of tools to transform them and arrange them in the artboard, take a look at this video and try to follow along. The sample files are on the website you will be redirected to, make sure to download and open it before starting.
 
-<a href="https://helpx.adobe.com/illustrator/how-to/gradient-tool.html" target=”_blank”>![Transform Tool](./transformArtwork.png)</a>
+<a href="https://helpx.adobe.com/ca/illustrator/how-to/apply-rotation-and-reflection-in-artwork.html" target=”_blank”>![Transform Tool](./transformArtwork.png)</a>
 
 
 ## TODO
@@ -70,4 +70,5 @@ To streamline the process of drawing shapes and ensuring they are even, we use t
 
 - If you have not read all these notes and watched the videos from this week, do that first.
 - Read the notes for week 4 and watch all the videos in the notes for week 4.
+- Hybrid 1 - Design a button
   :::
