@@ -5,7 +5,7 @@
 Color theory is simpler than you think. We are going to learn a little bit about why some colors look good together and some don't,  how to choose the right ones, and the tools on Adobe Illustrator to manipulate and color shapes.
 
 
-## Design Fundamentals 
+### DESIGN FUNDAMENTALS   
 
 The fundamentals of design are going to play a very important role in your career and you will learn more about them later on, but for now take a look at this nice video to get an introduction.
 
@@ -15,7 +15,7 @@ The fundamentals of design are going to play a very important role in your caree
 />
 
 
-### Beginning Graphic Design: Color
+#### COLOUR FUNDAMENTALS 
 
 Being proficient at picking the right colors is very important but not an easy task and there is a lot of theory behind it, but if you follow some simple rules you are likely to make the right decision.
 
@@ -27,7 +27,8 @@ Being proficient at picking the right colors is very important but not an easy t
 
 There are some great resources out there to help you, here is a great example; this site allows you to generate a color palette guaranteed to look good and shows you some examples of how to use each color as well with common elements on the web: **[Colormind.io](http://colormind.io/bootstrap/)**
 
-## String Objects
+
+## Color swatches in adobe illustrator
 
 Strings are one of the Primitive values that we have in JavaScript. However, because there are so many things that we tend to do to manipulate Strings, there is also a String Object.
 
