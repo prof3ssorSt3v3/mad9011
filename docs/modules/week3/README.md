@@ -15,7 +15,7 @@ The fundamentals of design are going to play a very important role in your caree
 />
 
 
-#### COLOUR FUNDAMENTALS 
+### COLOUR FUNDAMENTALS 
 
 Being proficient at picking the right colors is very important but not an easy task and there is a lot of theory behind it, but if you follow some simple rules you are likely to make the right decision.
 
