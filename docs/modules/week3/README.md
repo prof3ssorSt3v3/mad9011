@@ -1,18 +1,31 @@
-# Week 3 - Arrays, Strings, Loops
+# Week 3 - Time to color
 
-## Basic Objects
+## Color theory and tools
 
-While everything that you work with in JavaScript, except primitives, is an object, there is a basic Object that provides a template for all Objects.
+Color theory is simpler than you think. We are going to learn a little bit about why some colors look good together and some don't,  how to choose the right ones, and the tools on Adobe Illustrator to manipulate and color shapes.
 
-We will be using this basic Object to create lots of custom objects of our own.
 
-[Learn more about objects](./object.md)
+## Design Fundamentals 
 
-## Arrays
+The fundamentals of design are going to play a very important role in your career and you will learn more about them later on, but for now take a look at this nice video to get an introduction.
 
-Arrays are lists. You want to work with a list of values? Then you likely need an Array. Arrays will be one of the core Objects that you work with continually in Javascript.
+<YouTube
+  title="Beginning Graphic Design: Fundamentals"
+  url="https://www.youtube.com/embed/YqQx75OPRa0"
+/>
 
-[Learn more about Arrays](./arrays.md)
+
+### Beginning Graphic Design: Color
+
+Being proficient at picking the right colors is very important but not an easy task and there is a lot of theory behind it, but if you follow some simple rules you are likely to make the right decision.
+
+<YouTube
+  title="Beginning Graphic Design: Color"
+  url="https://www.youtube.com/embed/_2LLXnUdUIc"
+/>
+
+
+There are some great resources out there to help you, here is a great example; this site allows you to generate a color palette guaranteed to look good and shows you some examples of how to use each color as well with common elements on the web: **[Colormind.io](http://colormind.io/bootstrap/)**
 
 ## String Objects
 
