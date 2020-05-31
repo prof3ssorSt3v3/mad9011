@@ -17,7 +17,7 @@ Partially completed Character Vectorization Assignment Example
 ## Submission
 
 ::: warning
-**Due Sunday September 27 by 11:59pm**
+**Due Sunday October 04 by 11:59pm**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.

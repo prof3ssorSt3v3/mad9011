@@ -37,21 +37,21 @@ Every week there will be exercises for you to complete inside or outside of clas
 
 ### Hybrid 1 - Nike recreation
 
-<Badge text="Due Sun. Sep 13 by 11:59pm"/>
+<Badge text="Due Sun. Sep 20 by 11:59pm"/>
 
 [Hybrid 1 details](./hybrid1.md)
 
 
 ### Hybrid 2 - Design a button
 
-<Badge text="Due Sun. Sep 19 by 11:59pm"/>
+<Badge text="Due Sun. Sep 27 by 11:59pm"/>
 
 [Hybrid 2 details](./hybrid2.md)
 
 
 ### Hybrid 3 - Character vectorization
 
-<Badge text="Due Sun. Sep 27 by 11:59pm"/>
+<Badge text="Due Sun. Oct 4 by 11:59pm"/>
 
 [Hybrid 3 details](./hybrid3.md)
 

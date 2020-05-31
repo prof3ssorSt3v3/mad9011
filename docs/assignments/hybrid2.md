@@ -17,7 +17,7 @@ Completed Button Design Assignment Example
 ## Submission
 
 ::: warning
-**Due Sunday September 20 by 11:59pm**
+**Due Sunday September 27 by 11:59pm**
 :::
 
 Open BS LMS and go to the `Activities > Assignments` page.
