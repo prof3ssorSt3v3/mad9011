@@ -42,7 +42,7 @@ Take a look at this tutorial from Lynda.com on color swatches, try to make your 
 
 Adobe Illustrator works with vectors, we learned that last week, but we can import an image to illustrator and make it a vector object (or a collection of objects), take a look at this tutorial and see how it works. Make sure to sign in to your [**LinkedIn Learning**](https://www.linkedin.com/learning) account before clicking the video. If you are having difficulties getting into your LinkedIn learning account, take a look at this page from the school.
 
-![Tracing Images](./imageTrace.png)(https://www.linkedin.com/learning/cert-prep-adobe-certified-associate-illustrator-2/using-image-trace)
+<a href="https://www.linkedin.com/learning/cert-prep-adobe-certified-associate-illustrator-2/using-image-trace">![Tracing Images](./imageTrace.png)</a>
 
 ### RECOLORING ARTWORK  
 
