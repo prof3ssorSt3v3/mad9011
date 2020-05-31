@@ -28,15 +28,17 @@ Being proficient at picking the right colors is very important but not an easy t
 There are some great resources out there to help you, here is a great example; this site allows you to generate a color palette guaranteed to look good and shows you some examples of how to use each color as well with common elements on the web: **[Colormind.io](http://colormind.io/bootstrap/)**
 
 
-## Color swatches in adobe illustrator
+### Color swatches in Adobe Illustrator
 
-Strings are one of the Primitive values that we have in JavaScript. However, because there are so many things that we tend to do to manipulate Strings, there is also a String Object.
+Take a look at this tutorial from Lynda.com on color swatches, try to make your own and use them to color some shapes. As always, we will practice this in class. Don't worry about the last section on exporting and importing swatches, we will be learning about that later.
 
-JavaScript actually creates this String Object for you automatically, behind the scenes, any time you have a variable and you assign the variable a String primitive value.
+<YouTube
+  title="Beginning Graphic Design: Color"
+  url="https://www.youtube.com/embed/vvjgJ10DjKw"
+/>
 
-[Learn about manipulating Strings](./strings.md)
 
-## for Loops
+### Tracing images
 
 Imagine that you had an Array with 15,000 names inside it. Now imagine that you need to console.log all 15,000 names in the Array.
 
