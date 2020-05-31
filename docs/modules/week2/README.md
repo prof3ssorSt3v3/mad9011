@@ -56,7 +56,7 @@ Take a look at this short [artboard tutorial.](https://helpx.adobe.com/ca/illust
 
 
 ### COLOUR OF FILL AND STROKE
-To make our designs more interesting and clear, we need to use colour. Take a look at **the first video, on this tutorial page**(https://helpx.adobe.com/illustrator/how-to/color-basics.html) to learn how to apply colour to your shapes and edit the stroke as well.
+To make our designs more interesting and clear, we need to use colour. Take a look at [**the first video, on this tutorial page**](https://helpx.adobe.com/illustrator/how-to/color-basics.html) to learn how to apply colour to your shapes and edit the stroke as well.
 
 #### Change color and strokes
 - Change the color of artwork
