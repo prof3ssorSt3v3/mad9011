@@ -63,7 +63,7 @@ This is the last possible day to submit **ANY** work.
 - Submit everything in one *`.zip`* file.
 - File name: *firstnameLastname-final.zip* (file type in zip: html, css, svg, png, xd)
 - Open BS LMS and go to the `Activities > Assignments` page.
-- Go to the `Final Project - UI Prototype` assignment.
+- Go to the `Final Project-UI Visual Prototype` assignment.
 - Include your Xd `Visual Prototype URL` in submission Comments.
 - Upolad your _`.zip`_ file on the assignment page and click the submit button.
 - Review the Assessment Rubric on BS LMS to know how your work will be evaluated.
