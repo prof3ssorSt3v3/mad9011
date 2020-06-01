@@ -1,64 +1,58 @@
-# Week 9 - Prototype, Async, APIs
+# Week 8 - AJAX, Promises, Timers
 
-## JavaScript is a Prototype Based Language
+## AJAX
 
-You will hear a lot about `prototype` and `class` over the next few semesters. They are two different approaches to designing and architecting software. The problem is that in your early days of programming they can seem like almost the same thing.
+AJAX is a term coined back in 2005 by Jesse James Garrett. The actual technology has been in use since around 1999. The term stands for `Asynchronous JavaScript and XML` and was first available in Internet Explorer version 5.5 with the `XMLHttpRequest` object.
 
-We will try to help you understand the differences here in simple practical terms that will let you write better JavaScript with fewer unexpected errors.
+Basically, when we say `AJAX`, we are talking about the ability of the browser to request a new resource (XML, JSON, image, HTML, text, etc) and handle its receipt without having to replace the currently displayed webpage.
 
-A `Class` is a blueprint for building objects. It is not an object itself, just the plans for building a certain kind of object. Classes inherit properties and methods from parent classes. When you create (`instantiate`) an object from a class, the object will be given copies all the properties and methods from it's class blueprint as well as copies of all the properties and methoods from all the ancestor parent classes. So, when you call an Object's method, the method actually exists inside the Object.
+[AJAX and XMLHttpRequest](./ajax.md)
 
-A `prototype` is an example Object. It is an Object. Think of it as the first one built. In JavaScript, when we create an Object a constructor function is used to build the object. That function has a `prototype` object. We can put any methods that we want to share with all the objects built with that constructor into that prototype object. We can still link our objects to parent ones but we don't copy the methods, instead, we just link to the parent's prototype. There is a chain of prototype type objects. When we create (`instantiate`) our Object, it doesn't need copies of all the methods and parent methods. If we call an Object's method and the method does not exist inside our Object, then JavaScript will look up the prototype chain for the method and delegate (borrow) the method to run.
+## Fetch
 
-[Learn more about Prototype](./proto.md)
+By 2014, and after a couple iterations of the `XMLHttpRequest` object, security problems were found and it became difficult to do all the things that developers wanted to do with AJAX technology.
 
-## Asynchronous vs Synchronous
+So, a new approach was developed - `the Fetch API`. It included a single method called `fetch()` and a standardized collection of other Objects like `Request`, `Response`, `Body`, and `Headers`.
 
-JavaScript has a mechanism known as the event loop. When you pass a list of commands to the event loop, it will keep running each of those commands in order until it gets to the end of your list. This list is known as the main stack. JavaScript keeps trying to run commands as long as there is something on the main stack.
+The process of making AJAX requests is now much easier and since support first rolled out in 2015 it is broadly supported now.
 
-However, sometimes there is a command that would stop the event loop from getting to the next command. It gets blocked from going to the next command in the stack. These types of commands are things that take a long time to complete, like talking to a database, or the file system, or a network request for a file, or a timer that needs to wait before running.
+[Learn about fetch](./fetch.md)
 
-There are specific tasks that are going to take too long and they get put into a secondary area so they can wait for their result. These tasks are known as asynchronous.
+## Promises
 
-If the code stays on the main stack and insists on being run before the event loop moves on to the next item then it is called synchronous.
+The `Fetch` API is actually built on top of another technology that became official with ES6 in 2015 - `Promises`.
 
-[Learn more about asychronous](./synch.md)
+Promises did for asynchronous programming, what fetch did for AJAX.
 
-## APIs
+[Learn about Promises](./promise.md)
 
-An API is an `Application Programming Interface`. Which is a fancy way of saying - here is a list of commands that you can call when talking to a web server, a program, a framework, a library, etc.
+## Timers
 
-There are HTML5 APIs that we will be using. There are online APIs that we will be using too. Most of the time, as web developers, when we talk about an API, we are referring to a web server that has specific URLs which we can use to retrieve data or files.
+If you want to do a task repeatedly and as quickly as possible then you use some type of loop. However, if you want to repeatedly do something with a delay between each task or you want to do something once after some delay, then you want to use the `setTimeout` or `setInterval` methods.
 
-[Learn more about APIs](./apis.md)
+[Learn about setTimeout and setInterval](./timers.md)
 
-## Custom Sorts
+## Keyword `this`
 
-Want to move beyond just the built-in string sort method available on the Array object? Want to be able to do numeric sorts or sort objects?
+There is a keyword in JavaScript `this` which can be quite confusing to understand as it's value changes depending on the circumstances of where it is used.
 
-[Learn more about doing custom sorts on Arrays](./custom.md)
+Brendan Eich, the creator of JavaScript, has said that he regrets adding it to the language but did so because of pressure from his superiors to include more Object Oriented features and be more like another new popular language `Java`.
 
-## Content Security Policy
+Despite all that, it can be a useful tool, once you understand how it works.
 
-There is a `meta` tag that you should add to all your webpages. This Content-Security-Policy tag will help you to protect your users from Cross-Site Scripting (XSS) attacks.
+[Learn about `this`](./this.md)
 
-You should add this to ALL your webpages, web apps, and hybrid apps.
+## Arrow Functions and `this`
 
-[Learn more about CSP](./csp.md)
+Arrow Functions are one of the cases where the meaning of the keyword `this` changes.
 
-## CORS
+[Review Arrow functions and how they differ from other functions](./arrow.md)
 
-CORS stands for Cross-Origin Resource Sharing. It is the mechanism through which the browser determines whether a resource from a different web server is allowed to be used on your webpage. This is built into the browser. You need to work with the process, not try to find ways to avoid it.
+## JSONP
 
-[Learn more about CORS](./cors.md)
+There is a variation of JSON called JSON-P which was used to circumvent some of the restrictions imposed on fetching of JSON files. While not as common as it was five years ago, you may still come across it.
 
-## Passing Data to APIs
-
-The two Request methods that we use the most are `POST` and `GET`. The different request methods determine how data is bundled and sent to the server along with your resource request.
-
-When you need to pass data there are actually several ways to do this - headers, querystring, and formdata.
-
-[Learn more about uploading data](./headers.md)
+[Learn about JSON-P](./jsonp.md)
 
 ## TODO
 
