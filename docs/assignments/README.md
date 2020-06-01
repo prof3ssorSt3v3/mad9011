@@ -1,30 +1,5 @@
 # MAD9011 Deliverables
 
-## Discussions
-
-Worth <Badge type="error" text="8%"/> of Final Grade
-
-- Online Discussions (3%): 
-    - [BS LMS MAD9014_300 Group 1 Discussions page](https://brightspace.algonquincollege.com/d2l/le/187946/discussions/List)
-
-    - [BS LMS MAD9014_310 Group 2 Discussions page](https://brightspace.algonquincollege.com/d2l/le/187946/discussions/List)
-
-- In-class Dicussions (pop-quiz 5%): 
-
-   We will have a few questions asked outloud during the first 5 minutes in most classes. The questions will be based on the readings, lessons, and videos from the previous week. First person to raise their hand gets the chance to answer. For each correct answer you earn 1%. Five correct answers give you the full 5% of your final grade. A partially correct answer gets you no marks. However, it gives someone else the chance to steal the marks with part of the question answered.
-
-
-## Quizzes
-Worth <Badge type="error" text="20%"/> of Final Grade
-
-[BS LMS MAD9014_300 Group 1 Quiz page](https://brightspace.algonquincollege.com/d2l/lms/quizzing/user/quizzes_list.d2l?ou=187946)
-
-[BS LMS MAD9014_310 Group 2 Quiz page](https://brightspace.algonquincollege.com/d2l/lms/quizzing/user/quizzes_list.d2l?ou=187946)
-
-- Online Quiz 1 – Basic design knowledge and tools <Badge text="Due Fri. Oct 9 by 11:59pm"/>
-- Online Quiz 2 – User Interface graphic knowledge and tools <Badge text="Due Fri. Nov 6 by 11:59pm"/>
-
-
 ## Hybrid & In-class Exercises 
 
 Worth <Badge type="error" text="27%"/> of Final Grade
@@ -98,17 +73,42 @@ Every week there will be exercises for you to complete inside or outside of clas
 [Hybrid 9 details](./hybrid9.md)
 
 
+## Discussions
+
+Worth <Badge type="error" text="8%"/> of Final Grade
+
+- Online Discussions (3%): 
+    - [BS LMS MAD9014_300 Group 1 Discussions page](https://brightspace.algonquincollege.com/d2l/le/187946/discussions/List)
+
+    - [BS LMS MAD9014_310 Group 2 Discussions page](https://brightspace.algonquincollege.com/d2l/le/187946/discussions/List)
+
+- In-class Dicussions (pop-quiz 5%): 
+
+   We will have a few questions asked outloud during the first 5 minutes in most classes. The questions will be based on the readings, lessons, and videos from the previous week. First person to raise their hand gets the chance to answer. For each correct answer you earn 1%. Five correct answers give you the full 5% of your final grade. A partially correct answer gets you no marks. However, it gives someone else the chance to steal the marks with part of the question answered.
+
+
+## Quizzes
+Worth <Badge type="error" text="20%"/> of Final Grade
+
+[BS LMS MAD9014_300 Group 1 Quiz page](https://brightspace.algonquincollege.com/d2l/lms/quizzing/user/quizzes_list.d2l?ou=187946)
+
+[BS LMS MAD9014_310 Group 2 Quiz page](https://brightspace.algonquincollege.com/d2l/lms/quizzing/user/quizzes_list.d2l?ou=187946)
+
+- Online Quiz 1 – Basic design knowledge and tools <Badge text="Due Fri. Oct 9 by 11:59pm"/>
+- Online Quiz 2 – User Interface graphic knowledge and tools <Badge text="Due Fri. Nov 6 by 11:59pm"/>
+
+
 ## Evaluated Assignments
 
-Worth <Badge type="error" text="45%"/> of Final Grade
+Worth <Badge type="error" text="25%"/> of Final Grade
 
-Thre are three main assignments for you to complete. Together they are worth 45% of your final grade.
+Thre are two main assignments for you to complete. Together they are worth 25% of your final grade.
 
 [BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
 
 [BS LMS MAD9011_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
 
-### Assignment 1: Avatar icon for Apple (15%)
+### Assignment 1 - Avatar icon for Apple (15%)
 
 <Badge text="Due Sun. Oct 18 by 11:59pm" />
 
@@ -117,15 +117,22 @@ Thre are three main assignments for you to complete. Together they are worth 45%
 [Assignment 1 details](./assg1.md)
 
 
-### Assignment 2: Employee profile page (10%)
+### Assignment 2 - Employee profile page (10%)
 
 <Badge text="Due Tue. Nov 15 by 11:59pm" />
 
 [Assignment 2 details](./assg2.md)
 
 
-### Assignment 3: Mobile UI Visual Prototype (20%)
+## Project
+
+### Final Project - Mobile UI Visual Prototype (20%)
+Your final project is worth 20% of your final grade.
+
+[BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
+
+[BS LMS MAD9011_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
 
 <Badge text="Due Fri. Dec 18 by 5pm" />
 
-[Assignment 3 details](./assg3.md)
+[Final Project details](./proj.md)
