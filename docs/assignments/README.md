@@ -123,14 +123,15 @@ Thre are two main assignments for you to complete. Together they are worth 25% o
 
 
 ## Project
+Worth <Badge type="error" text="20%"/> of Final Grade
 
-### Final Project - Mobile UI Visual Prototype (20%)
-Your final project is worth 20% of your final grade.
+Put our Illustrator, Photoshop, SVG, and Xd prototype skills to test to complete an Adroid app launching experiece. This project is worth 20% of your final grade. 
 
 [BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
 
 [BS LMS MAD9011_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
 
+### Final Project - Mobile UI Visual Prototype (20%)
 <Badge text="Due Fri. Dec 18 by 5pm" />
 
 [Final Project details](./proj.md)
