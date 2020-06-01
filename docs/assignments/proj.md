@@ -4,7 +4,7 @@
 
 It's time for the finale!
 
-The final assignment for this semester is to create an Android app experience.
+The final project for this semester is to create an Android app experience.
 
 Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to complete an app launching experiece. (Design in mind that these graphics will be presented in Web front-end coding: html, css, and svg.)
 
@@ -61,10 +61,10 @@ This is the last possible day to submit **ANY** work.
 :::
 
 - Submit everything in one *`.zip`* file.
-- File name: *firstnameLastname-assg03.zip* (file type in zip: html, css, svg, png, xd)
+- File name: *firstnameLastname-final.zip* (file type in zip: html, css, svg, png, xd)
 - Open BS LMS and go to the `Activities > Assignments` page.
-- Go to the `Avatar icon for Apple` assignment.
-- Include your Xd visual `Prototype URL` in submission Comments.
+- Go to the `Final Project - UI Prototype` assignment.
+- Include your Xd `Visual Prototype URL` in submission Comments.
 - Upolad your _`.zip`_ file on the assignment page and click the submit button.
 - Review the Assessment Rubric on BS LMS to know how your work will be evaluated.
 
