@@ -2,7 +2,7 @@
 
 ## Hybrid Assignments 
 
-Worth <Badge type="error" text="27%"/> of Final Grade
+Worth <Badge type="error" text="35%"/> of Final Grade
 
 Every week there will be exercises for you to complete inside or outside of class. Some exercises will be larger than others and each is worth 3% of your final grade. There will be 9 exercises (9x3%) and some will be completed quickly and others will take longer. All together, the hybrid exercises, in-class exercises, and discussions are worth 35% of your final grade.
 
