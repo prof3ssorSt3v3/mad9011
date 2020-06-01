@@ -125,7 +125,7 @@ Thre are two main assignments for you to complete. Together they are worth 25% o
 ## Project
 Worth <Badge type="error" text="20%"/> of Final Grade
 
-Let's put all acquired skills to test to create an Adroid app launching experiece. This project is worth 20% of your final grade. 
+Put all acquired skills to test to create an Adroid app launching experiece. This project is worth 20% of your final grade. 
 
 [BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
 
