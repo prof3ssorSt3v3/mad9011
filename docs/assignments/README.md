@@ -75,8 +75,6 @@ Every week there will be exercises for you to complete inside or outside of clas
 
 ### Discussions
 
-Worth <Badge type="error" text="8%"/> of Final Grade
-
 - Online Discussions (3%): 
     - [BS LMS MAD9014_300 Group 1 Discussions page](https://brightspace.algonquincollege.com/d2l/le/187946/discussions/List)
 
