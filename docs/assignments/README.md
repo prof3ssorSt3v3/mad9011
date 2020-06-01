@@ -1,6 +1,6 @@
 # MAD9011 Deliverables
 
-## Hybrid & In-class Exercises 
+## Hybrid Assignments 
 
 Worth <Badge type="error" text="27%"/> of Final Grade
 
@@ -73,7 +73,7 @@ Every week there will be exercises for you to complete inside or outside of clas
 [Hybrid 9 details](./hybrid9.md)
 
 
-## Discussions
+### Discussions
 
 Worth <Badge type="error" text="8%"/> of Final Grade
 
