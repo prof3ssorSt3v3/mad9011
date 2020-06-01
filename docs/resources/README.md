@@ -86,6 +86,7 @@ Links to Adobe software:
     - [xdresources.co](https://xdresources.co)
     - [Auto Animated UI Kits download](http://download.adobe.com/pub/adobe/xd/ui-kits/xd-resources-auto-animate-ui.zip) 
     - [13 Xd Auto Animated UI Kit](https://www.behance.net/gallery/73904763/Adobe-Xd-Auto-Animate-UI-kit)
+    - [Persona templates by xtensio.com](https://xtensio.com)
 
 
 ### Reading 
