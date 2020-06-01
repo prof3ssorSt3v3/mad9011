@@ -1,6 +1,6 @@
 # Final Project 
 
-## User Interface Visual Prototype
+## Mobile User Interface Visual Prototype
 
 It's time for the finale!
 
