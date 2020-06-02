@@ -41,12 +41,12 @@ Using your skills to date, illustrate an animal avatar similar to the ones at th
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to the `Avatar icon for Apple` assignment.
 - Upolad your _`.ai`_ file on the assignment page and click the submit button.
-- Review the Assessment Rubric on BS LMS to know how your work will be evaluated.
+- Review the **Assessment Rubric** on BS LMS to know how your work will be evaluated.
 - See an example: [https://goo.gl/hrU3bS](https://goo.gl/hrU3bS)
 
 ### References: 
 
-Apple Human Interface Guidelines: **[App Icon]**(https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon/)
+Apple Human Interface Guidelines: [**App Icon**](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon/)
 
 
 Inspiration for the animal avatar:
