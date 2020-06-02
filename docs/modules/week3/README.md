@@ -28,9 +28,13 @@ Being proficient at picking the right colors is very important but not an easy t
 There are some great resources out there to help you, here is a great example; this site allows you to generate a color palette guaranteed to look good and shows you some examples of how to use each color as well with common elements on the web: **[Colormind.io](http://colormind.io/bootstrap/)**
 
 
-### COLOUR SWATCHES IN ADOBE ILLUSTRATOR
+### COLOUR IN ADOBE ILLUSTRATOR
 
-Take a look at this tutorial from Lynda.com on color swatches, try to make your own and use them to color some shapes. As always, we will practice this in class. Don't worry about the last section on exporting and importing swatches, we will be learning about that later.
+Let's continue working with colors in Adobe Illustrator, including how to create swatches,trace images, recolor artwork, and more.
+
+### Color swatches in Adobe Illustrator 
+
+Take a look at this tutorial from lynda.com (Linkedin Learning) on color swatches, try to make your own and use them to color some shapes. As always, we will practice this in class. Don't worry about the last section on exporting and importing swatches, we will be learning about that later.
 
 <YouTube
   title="Beginning Graphic Design: Color"
@@ -38,19 +42,19 @@ Take a look at this tutorial from Lynda.com on color swatches, try to make your 
 />
 
 
-### TRACING IMAGES  
+#### Tracing images   
 
 Adobe Illustrator works with vectors, we learned that last week, but we can import an image to illustrator and make it a vector object (or a collection of objects), take a look at this tutorial and see how it works. Make sure to sign in to your [**LinkedIn Learning**](https://www.linkedin.com/learning) account before clicking the video. If you are having difficulties getting into your LinkedIn learning account, take a look at this page from the school.
 
 <a href="https://www.linkedin.com/learning/cert-prep-adobe-certified-associate-illustrator-2/using-image-trace" target=”_blank”>![Tracing Images](./imageTrace.png)</a>
 
-### RECOLORING ARTWORK  
+#### Recoloring artwork   
 
 Adobe Illustrator has many shortcuts and ways to get to the same place. It is always useful to keep it in your notes for later. In the following video, you will learn how to recolor artwork and how to access this tool from more than one place in your workspace. This workflow will help a lot and is a fun way to achieve different results with only a few clicks.
 
 <a href="https://www.linkedin.com/learning/illustrator-coloring-artwork-2/tour-of-recolor-artwork" target=”_blank”>![Recolor Artwork](./recolorArtwork.png)</a>
 
-### GRADIENT TOOL  
+#### Grdient Tool   
 
 The gradient tool allows you to color any vector shape in illustrator with a set of colors while transitioning smoothly between them; this tool is used very frequently and you will use it to do some of your assignments.
 
