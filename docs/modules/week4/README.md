@@ -6,7 +6,7 @@ Let's get drawing!
 
 In this section, we are going to learn how to draw shapes and edit them using different tools.
 
-First, we will learn about the _pen_ tool, how to use it and what is made of, then we will cover the _pencil_ and _brushes_ tools and learn how to edit shapes using the _blend_ and _pathfinder_ tools. Finally, we are going to see how the _clipping mask_ is used and how it makes our lives easier.
+First, we will learn about the `pen` tool, how to use it and what is made of, then we will cover the `pencil` and `brushes` tools and learn how to edit shapes using the `blend` and `pathfinder` tools. Finally, we are going to see how the `clipping mask` is used and how it makes our lives easier.
 
 ## Array Methods
 
