@@ -32,7 +32,7 @@ There are some great resources out there to help you, here is a great example; t
 
 Let's continue working with colors in Adobe Illustrator, including how to create swatches,trace images, recolor artwork, and more.
 
-### Color swatches in Adobe Illustrator 
+#### Color swatches in Adobe Illustrator 
 
 Take a look at this tutorial from lynda.com (Linkedin Learning) on color swatches, try to make your own and use them to color some shapes. As always, we will practice this in class. Don't worry about the last section on exporting and importing swatches, we will be learning about that later.
 
