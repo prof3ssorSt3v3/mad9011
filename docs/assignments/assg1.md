@@ -29,7 +29,7 @@ Using your skills to date, illustrate an animal avatar similar to the ones at th
 
 ### PEER REVIEWS
 
-<Badge text="Peer Review Due Sun. Nov 8 by 11:59pm" />
+<Badge text="Due Sun. Nov 8 by 11:59pm" />
 
 Each student will upload their design as *`.ai`* file or a screen capture with layer view to receive [2 peer reviews](https://brightspace.algonquincollege.com/d2l/le/187946/discussions/List) on Brighspace Discussion to help mark the design. All avatars are copyright via the designer, not to be re-used.
 
