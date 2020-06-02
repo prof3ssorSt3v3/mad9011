@@ -32,7 +32,7 @@ The design tools we use are: Adobe Illustrator, Photoshop, XD, SVG mockup editor
 
 - Download and install Illustrator, Photoshop, and Xd this week. [Adobe software download link](http://www7.algonquincollege.com/byod/adobe.htm)
 
-- You can aslo download other [BYOD Digital Resources](http://www7.algonquincollege.com/byod/software.htm) 
+- You can aslo download other tools from [BYOD Digital Resources.](http://www7.algonquincollege.com/byod/software.htm) 
 
 
 ### ADOBE ILLUSTRATOR
