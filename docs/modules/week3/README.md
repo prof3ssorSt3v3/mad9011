@@ -7,7 +7,7 @@ Color theory is simpler than you think. Before we dive into it, let's understand
 
 ### DESIGN FUNDAMENTALS   
 
-The fundamentals of design are going to play a very important role in your career and you will learn more about them later on, but for now take a look at this nice video to get an introduction.
+The fundamentals of design are going to play a very important role in your career and you will learn more about them later on, but for now take a look at this nice video to get an introduction on the elements of design.
 
 <YouTube
   title="Beginning Graphic Design: Fundamentals"
@@ -71,5 +71,5 @@ To streamline the process of drawing shapes and ensuring they are even, we use t
 - If you have not read all these notes and watched the videos from this week, do that first.
 - Read the notes for week 4 and watch all the videos in the notes for week 4.
 - Hybrid 2 - Design a button
-- Discussion Forum: [Pertinent Discussion](/F2020/assignments)
+- Discussion Forum: [Pertinent Discussion](/F2020/assignments/#discussions)
   :::
