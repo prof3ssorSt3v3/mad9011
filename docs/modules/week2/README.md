@@ -30,7 +30,7 @@ Let's go over the first tutoral: [**Get to know Illustrator**](https://helpx.ado
 
 Artboards are like pages in your document, they are very useful to separate different elements you are designing without having to create multiple files.
 
-Take a look at this short [**artboard tutorial.**](https://helpx.adobe.com/ca/illustrator/how-to/artboards-basics.html) 
+Take a look at this short [**Artboard tutorial.**](https://helpx.adobe.com/ca/illustrator/how-to/artboards-basics.html) 
 
 
 #### Work with artboards
@@ -49,6 +49,7 @@ Take a look at this short [**artboard tutorial.**](https://helpx.adobe.com/ca/il
 - Join artwork together to combine paths
 
 #### Create and edit shapes
+Let's go over this tutorial to extend your skills to [**Create and Eidt Shapes.**](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
 - Draw simple shapes
 - Create lines 
 - Combine shapes
