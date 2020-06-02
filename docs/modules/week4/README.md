@@ -8,11 +8,13 @@ In this section, we are going to learn how to draw shapes and edit them using di
 
 First, we will learn about the `pen` tool, how to use it and what is made of, then we will cover the `pencil` and `brushes` tools and learn how to edit shapes using the `blend` and `pathfinder` tools. Finally, we are going to see how the `clipping mask` is used and how it makes our lives easier.
 
-## Array Methods
+### THE PEN TOOL
 
-There are A LOT of methods that belong to Array Objects.
+The pen tool is one of the most important tools in the software; most of the drawing will be done using the pen tool and then edited with other tools to achieve the expected result, but it is usually the start to all shapes. 
 
-Come back to [this Array tutorial page](./methods.md) for a full reference to the abilities of Arrays.
+This tool is very versatile and has a couple of different settings that can also be mastered with practice, so make sure to follow the tutorials and try it yourself.
+
+<a href="https://helpx.adobe.com/ca/illustrator/how-to/use-pen-tool.html" target=”_blank”>![Start creating with the Pen tool](./letsDraw1.png)</a>
 
 ## Date Objects
 
