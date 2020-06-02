@@ -8,43 +8,57 @@ In this section, we are going to learn how to draw shapes and edit them using di
 
 First, we will learn about the `pen` tool, how to use it and what is made of, then we will cover the `pencil` and `brushes` tools and learn how to edit shapes using the `blend` and `pathfinder` tools. Finally, we are going to see how the `clipping mask` is used and how it makes our lives easier.
 
+<a href="https://helpx.adobe.com/ca/illustrator/how-to/drawing-tools-in-illustrator.html" target=”_blank”>![Get to know the drawing tools](./letsDraw1.png)</a>
+
+
 ### THE PEN TOOL
 
 The pen tool is one of the most important tools in the software; most of the drawing will be done using the pen tool and then edited with other tools to achieve the expected result, but it is usually the start to all shapes. 
 
 This tool is very versatile and has a couple of different settings that can also be mastered with practice, so make sure to follow the tutorials and try it yourself.
 
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/use-pen-tool.html" target=”_blank”>![Start creating with the Pen tool](./letsDraw1.png)</a>
+<a href="https://helpx.adobe.com/ca/illustrator/how-to/use-pen-tool.html" target=”_blank”>![Start creating with the Pen tool](./penTool1.png)</a>
 
-## Date Objects
+#### Now let's practice!
 
-JavaScript has a built-in `Date` object which is used to store a reference to a specific moment in time.
+<a href="https://helpx.adobe.com/ca/illustrator/how-to/pen-tool-exercises.html" target=”_blank”>![Practice creating with the Pen tool](./penTool2.png)</a>
 
-[Learn about the Date Object](./date.md)
+#### Edit paths you draw
 
-## Math and Number Objects
+A huge part of creating shapes with the pen tool is being able to manipulate them and edit them. Check this tutorial and try to follow along.
 
-JavaScript has a built-in Object called `Math`. This Object contains all the methods for dealing with things like rounding numbers off, trigonometry, and random number generation.
+<a href="https://helpx.adobe.com/ca/illustrator/how-to/edit-paths-you-draw.html" target=”_blank”>![Edit paths you draw](./penTool3.png)</a>
 
-Number is one of our Primitive types, but just like String, it also has an Object hiding behind the scenes which gives use some properties and methods for manipulating the numeric values.
 
-[Learn the basics about the Math and Number Objects](./math.md)
+### THE PENCIL AND PAINTBRUSH TOOLS
 
-## Error Objects
+These tools allow you to draw shapes as you would with real pencils and brushes, and the resulting elements can be adjusted after.
 
-An exception is a condition that interrupts normal code execution.
+You will learn how to create the paths, edit them and change the style to mimic different types of brushes.
 
-We will use the terms Errors and Exceptions interchangeably.
+You will also see the properties panel in action and a few quick actions, such as grouping.
 
-In JavaScript Errors can occur for a variety of reasons. There are ways that we can handle those without letting our program crash.
+<a href="https://helpx.adobe.com/ca/illustrator/how-to/create-edit-artwork-with-paintbrush-pencil-tools.html" target=”_blank”>![Create artwork with the Paintbrush and Pencil tools](./paintbrush.png)</a>
 
-[Learn about try, catch, and throw](./throw.md)
 
-## Other Loop Types
+### PATHFINDER AND BUILDER TOOLS 
 
-In addition to the basic `for...loop` and the Array `forEach` method, there are other types of loops too. While `for` and `forEach` will fit most cases, it is good to be aware of the alternatives too.
+Some more complex geometric shapes are more easily created starting from the basic geometric shapes and breaking them and combining them.
 
-[Learn about other loop types](./loops.md)
+To do this, we use the pathfinder tool or the builder tool.
+
+Both tools can be used to achieve the same result using different methods, try them both to see which one you feel more comfortable with.
+
+<a href="https://helpx.adobe.com/ca/illustrator/how-to/combine-simple-shapes-to-make-complex-shapes.html" target=”_blank”>![Combine shapes in different ways](./pathfinder-builder.png)</a>
+
+
+## CLIPPING MASK
+
+Finally, let's take a look at the clipping mask tool. This tool allows us to apply a pattern or style to an object by having the object act as a cookie cutter and the patter as the cookie dough. 
+
+<a href="https://helpx.adobe.com/ca/illustrator/how-to/create-edit-artwork-with-paintbrush-pencil-tools.html" target=”_blank”>![Create a basic clipping mask](./clippingmask.png)</a>
+
+
 
 ## TODO
 
