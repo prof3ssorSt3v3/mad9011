@@ -31,7 +31,7 @@ Using your skills to date, illustrate an animal avatar similar to the ones at th
 
 <Badge text="Due Sun. Nov 8 by 11:59pm" />
 
-Each student will upload their design as *`.ai`* file or a screen capture with layer view to receive [2 peer reviews](/F2020/assignments/) on Brighspace Discussion to help mark the design. All avatars are copyright via the designer, not to be re-used.
+Each student will upload their design as *`.ai`* file or a screen capture with layer view to receive [2 peer reviews](./assignments/) on Brighspace Discussion to help mark the design. All avatars are copyright via the designer, not to be re-used.
 
 
 ## Submission
