@@ -28,11 +28,11 @@ Being proficient at picking the right colors is very important but not an easy t
 There are some great resources out there to help you, here is a great example; this site allows you to generate a color palette guaranteed to look good and shows you some examples of how to use each color as well with common elements on the web: **[Colormind.io](http://colormind.io/bootstrap/)**
 
 
-## Color in Adobe Illustrator 
+## Colour in Adobe Illustrator 
 
 Let's continue working with colors in Adobe Illustrator, including how to create swatches, trace images, recolor artwork, and more.
 
-### COLOR SWATCHES IN AI
+### COLOR SWATCHES IN ADOBE ILLUSTRATOR
 
 Take a look at this tutorial from lynda.com (Linkedin Learning) on color swatches, try to make your own and use them to color some shapes. As always, we will practice this in class. Don't worry about the last section on exporting and importing swatches, we will be learning about that later.
 
