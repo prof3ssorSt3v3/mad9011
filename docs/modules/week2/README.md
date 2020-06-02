@@ -49,7 +49,7 @@ Take a look at this short [**Artboard tutorial.**](https://helpx.adobe.com/ca/il
 - Join artwork together to combine paths
 
 #### Create and edit shapes
-Let's go over this tutorial to extend your skills to [**Create and Eidt Shapes.**](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
+Next, we learn in this tutorial to [**create and eidt shapes.**](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
 - Draw simple shapes
 - Create lines 
 - Combine shapes
