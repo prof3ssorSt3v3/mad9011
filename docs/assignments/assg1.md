@@ -7,6 +7,8 @@ Using your skills to date, illustrate an animal avatar similar to the ones at th
 
 ## Icon Requirements
 
+<Badge text="Due Sun. Oct 18 by 11:59pm" />
+
 1. The small one:
     - 57 px, iPhone icon 
     - Corner radius 10 px
@@ -23,7 +25,13 @@ Using your skills to date, illustrate an animal avatar similar to the ones at th
 
 - The 3 sizes are the same animal with different levels of details.
 - Ensure to name and organize your artboards and LAYERS so I can mark consciously.
-- Each student will upload their design as *`.ai`* file or a screen capture with layer view to receive [2 peer reviews](https://brightspace.algonquincollege.com/d2l/le/187946/discussions/List) on Brighspace Discussion to help mark the design. All avatars are copyright via the designer, not to be re-used.
+
+
+### PEER REVIEWS
+
+<Badge text="Peer Review Due Sun. Nov 8 by 11:59pm" />
+
+Each student will upload their design as *`.ai`* file or a screen capture with layer view to receive [2 peer reviews](https://brightspace.algonquincollege.com/d2l/le/187946/discussions/List) on Brighspace Discussion to help mark the design. All avatars are copyright via the designer, not to be re-used.
 
 
 ## Submission
