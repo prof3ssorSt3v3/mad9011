@@ -1,12 +1,12 @@
-# Week 4 - Arrays, Dates, Math, Errors
+# Week 4 - Time to draw 
 
-## Array Loops
+## Drawing tools
 
-Once you understand what arrays are and how you can add and remove values from an Array, then you need to know how to loop over the values.
+Let's get drawing!
 
-We already discussed the `for...loop` method last week, and that works fine but there are actually built-in methods designed to loop over Arrays for specific purposes.
+In this section, we are going to learn how to draw shapes and edit them using different tools.
 
-[forEach and map](./foreach.md)
+First, we will learn about the _pen_ tool, how to use it and what is made of, then we will cover the _pencil_ and _brushes_ tools and learn how to edit shapes using the _blend_ and _pathfinder_ tools. Finally, we are going to see how the _clipping mask_ is used and how it makes our lives easier.
 
 ## Array Methods
 
