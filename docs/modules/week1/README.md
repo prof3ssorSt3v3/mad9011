@@ -1,8 +1,8 @@
-# Week 1 Introduction to Mobile Design Fundamentals
+# Week 1 - Introduction to Mobile Design Fundamentals
 
 ## Introduction
 
-Welcome to MAD9011, Mobile Design Fundamentals. In level one design course, we are going to explorer fundamental design concepts and learn the fun and useful tools to help you design graphics and interfaces. 
+Welcome to MAD9011, Mobile Design Fundamentals. In this level-one design course, we are going to explorer fundamental design concepts and learn the fun and useful tools to help you design graphics and interfaces. 
 
 To have a smooth start: 
 
