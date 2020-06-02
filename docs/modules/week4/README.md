@@ -52,12 +52,11 @@ Both tools can be used to achieve the same result using different methods, try t
 <a href="https://helpx.adobe.com/ca/illustrator/how-to/combine-simple-shapes-to-make-complex-shapes.html" target=”_blank”>![Combine shapes in different ways](./pathfinder-builder.png)</a>
 
 
-## CLIPPING MASK
+## Clipping Mask
 
 Finally, let's take a look at the clipping mask tool. This tool allows us to apply a pattern or style to an object by having the object act as a cookie cutter and the patter as the cookie dough. 
 
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/create-edit-artwork-with-paintbrush-pencil-tools.html" target=”_blank”>![Create a basic clipping mask](./clippingmask.png)</a>
-
+<a href="https://helpx.adobe.com/ca/illustrator/how-to/illustrator-creating-basic-clipping-mask.html" target=”_blank”>![Create a basic clipping mask](./clippingmask.png)</a>
 
 
 ## TODO
@@ -67,5 +66,4 @@ Finally, let's take a look at the clipping mask tool. This tool allows us to app
 - If you have not read all these notes and watched the videos from this week, do that first.
 - Finish reading the notes for week 4 and watch all the videos in the notes for week 5.
 - Hybrid 3 - Character vectorization
-
   :::
