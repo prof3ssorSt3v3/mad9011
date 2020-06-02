@@ -2,7 +2,7 @@
 
 ## Color theory and tools
 
-Color theory is simpler than you think. Before we dive into it,let's understand the fundamentals of design. Next, we are going to learn why some colors look good together and some don't, how to choose the right ones, and the tools on Adobe Illustrator to manipulate and color shapes.
+Color theory is simpler than you think. Before we dive into it, let's understand the fundamentals of design. Next, we are going to learn why some colors look good together and some don't, how to choose the right ones, and the tools on Adobe Illustrator to manipulate and color shapes.
 
 
 ### DESIGN FUNDAMENTALS   
