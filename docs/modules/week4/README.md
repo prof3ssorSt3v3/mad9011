@@ -67,5 +67,4 @@ Finally, let's take a look at the clipping mask tool. This tool allows us to app
 - Finish reading the notes for week 4 and watch all the videos in the notes for week 5.
 - Hybrid 3 - Character vectorization
 - Assignment 01 - Avatar icon for Apple
-- Assignment 01 - Peer Review
   :::

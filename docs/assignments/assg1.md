@@ -5,7 +5,7 @@
 Using your skills to date, illustrate an animal avatar similar to the ones at the bottom of the page (**draw your own unique graphic**). The graphics will be done with Adobe Illustrator in vector format in all 3 major Apple dimensions (3 artboards). Although Apple system applies a mask that rounds icon corners automatically, to ensure your design fits properly, we will design the icons with rounded corners. Please comply with the college directives [AA34: Copyright](https://www.algonquincollege.com/policies/)
 
 
-## Icon Requirements
+### ICON REQUIREMENTS  
 
 <Badge text="Due Sun. Oct 18 by 11:59pm" />
 
