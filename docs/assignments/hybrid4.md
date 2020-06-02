@@ -13,6 +13,9 @@ Completed Typography Assignment Example
 
 <img src="../assets/4_typography-example.png" alt="Typography Assignment Example">
 
+<img src="../assets/4_LH_typography.png" alt="Laura Hall Typography Assignment Example">
+
+
 ## Submission
 
 ::: warning
