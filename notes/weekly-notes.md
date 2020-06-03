@@ -80,6 +80,10 @@
 - In-class Exercise: 4. Typography (3%)
 - Hybrid: Online Quiz 1 (10%)
 - Hybrid: Next week learning module videos
+- Upcoming due dates
+  - Week 04 Hybrid
+  - Assignment 01 Requirements 
+  - Peer Review Discussion Posts
 
 
 ## MODULE TWO: Layout concepts and raster-based graphics

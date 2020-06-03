@@ -68,6 +68,7 @@ Links to Adobe software:
 ### Design Resources
 
 - [Free stock photos & videos(Creative Commons)](https://www.pexels.com/)
+- [Designing for Readability – A Guide to Web Typography](https://www.toptal.com/designers/typography/web-typography-infographic)
 
 - Platform Specific Guidelines
     - [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
