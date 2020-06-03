@@ -9,7 +9,7 @@ Once your design is complete, you are going to need to `export` it to be able to
 Let's get familiar with the basics of Typography.
 <YouTube
   title="Beginning Graphic Design: Typography"
-  url="https://youtu.be/sByzHoiYFX0"
+  url="https://www.youtube.com/embed/sByzHoiYFX0"
 />
 
 
