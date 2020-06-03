@@ -40,7 +40,23 @@ The perspective grid tool allows you to easily create three-dimensional designs 
 
 To access `Perspective Grid` Tool and `Perspective Selection` Tool in the Advanced toolbar, read [helpx.adobe.com/illustrator/using/tools.html](https://helpx.adobe.com/illustrator/using/tools.html)
 
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/illustrator-creating-basic-clipping-mask.html" target=”_blank”>![Create a basic clipping mask](./perspectiveGrid.png)</a>
+<a href="https://www.linkedin.com/learning/drawing-simplified-maps-in-illustrator/perspective-grid" target=”_blank”>![Perspective Grid tools](./perspectiveGrid.png)</a>
+
+
+### FLARE TOOL
+
+The flare tool is an effect you can add to your design and manipulate to mimic the effect of light.
+
+You can find the `Flare tool` in the `Shape tools` group in the **Advanced toolbar.** 
+
+<a href="https://www.linkedin.com/learning/illustrator-cc-2013-one-on-one-fundamentals/using-the-flare-tool" target=”_blank”>![How to use Flare tool](./flareTool.png)</a>
+
+
+### EXPORTING OPTIONS
+
+There are many applications to the designs you produce in illustrator, and depending on the purpose of the design, you may want to export file in a different format for different purposes.
+
+<a href="https://helpx.adobe.com/ca/illustrator/how-to/export-assets-web-app-design.html" target=”_blank”>![How to export assets for the web using Illustrator](./exportOptions.png)</a>
 
 
 ## TODO
@@ -49,4 +65,6 @@ To access `Perspective Grid` Tool and `Perspective Selection` Tool in the Advanc
 
 - If you have not read all these notes and watched the videos from this week, do that first.
 - Finish reading the notes for week 5 and watch all the videos in the notes for week 6.
+- Hybrid 4 - In-class: Typography
+- Online Quiz 1 – Basic design knowledge and tools
   :::
