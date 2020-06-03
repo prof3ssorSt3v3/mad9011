@@ -58,6 +58,8 @@ There are many applications to the designs you produce in illustrator, and depen
 
 <a href="https://helpx.adobe.com/ca/illustrator/how-to/export-assets-web-app-design.html" target=”_blank”>![How to export assets for the web using Illustrator](./exportOptions.png)</a>
 
+**Final note**: Check out [What's new in Illustrator](https://helpx.adobe.com/illustrator/using/whats-new.html) to keep up with the updates. 
+
 
 ## TODO
 
