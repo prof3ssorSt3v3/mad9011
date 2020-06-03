@@ -59,7 +59,7 @@
 - Assignment 01: Avatar icon for Apple (15%, peer reviews in week 6)
 
 
-## Week 5 - Adding depth (Typography & Depth)
+## Week 5 - Typography & Depth
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos

@@ -1,82 +1,47 @@
-# Week 5 - DOM
+# Week 5 - Typography & Depth
 
-## Running JavaScript in the Browser
+## Typography, special effects, perspective grid, flare tool and exporting
 
-You can attach one or more JavaScript files to your your webpage by using a `<script>` tag.
+In this module, you will be learning how to add text to your designs, apply `effects` to that text and other objects, use the `perspective grid` to give a three-dimensional effect to the artboard contents and use the `flare` tool to replicate the effect of light.
 
-[Learn How](./script.md)
+Once your design is complete, you are going to need to `export` it to be able to use it for the online and print projects. Here you will learn how to export to different types of files.
 
-## Document Object Model
-
-When the browser reads an HTML file it creates an Object model representing all the content on the page. It builds a tree structure that helps it to know which elements are nested inside each other, which elements are parents and which are children.
-
-This is a visual representation of how a browser sees the page. You can think of each indent as the start of a new branch in the DOM tree. Inside the `html` object, there are two children - `head` and `body`. Inside the head are two more children - `title` and `link`. title has a child, which is `#text`. The `link` element has no children. Inside `body` > `header` > `h1` there are two children - `img` and `#text`. The `img` and the `#text` are siblings.
-
-```
-doctype
-html
-  head
-    title
-      #text
-    link
-  body
-    header
-      h1
-        img
-        #text
-    nav
-      a
-        #text
-      a
-        #text
-      a
-        #text
-    main
-      h2
-        #text
-      p
-        #text
-    footer
-      p
-        #text
-```
-
-You need to be able to visualize every page in this manner. Understand when you are searching for things or altering things that you will be working with parents, children, and siblings.
-
-### Nodes and Elements
-
-Each one of the things listed above, in the DOM diagram, is a `Node`. There are several kinds of types of nodes, including `ElementNode`, `TextNode`, `DocumentFragement`, and `Comment`. There are others but these are, by far, the most common.
-
-There are node properties and methods which work on all the types, some that work only on Element nodes, and some that work only on Text nodes.
-
-[More about DOM and Nodes](./dom.md)
-
-## querySelector, querySelectorAll, and getElementById
-
-The two methods we use the most to find elements on the page are `document.querySelector` and `document.querySelectorAll`. The difference between them is that `querySelector` finds the first match starting at the top of the page and `querySelectorAll` finds ALL the matches.
-
-[Learn more about querySelector](./query.md)
-
-## Creating, Changing, and Removing Content
-
-Manipulating HTML can be done quite easily once you understand the parent-child-sibling relationship between Nodes and the difference between Element nodes and Text nodes.
-
-[Learn about altering HTML with JS](./append.md)
-
-## Live Preview
-
-Once you start testing things in the browser, you will want to be able to get a live preview, meaning that every time you save a change to your files the browser will refresh itself.
-
-There is an extension for VSCode called "Live Server" by Ritwick Dey. Currently, version 5.6.1. You should add this extension to VSCode.
-
-If you want to add HTTPS support to the live preview, here is how:
-
+Let's get familiar with the basics of Typography.
 <YouTube
-  title="https support for VSCode Live Server"
-  url="https://www.youtube.com/embed/v4jgr0ppw8Q"
+  title="Beginning Graphic Design: Typography"
+  url="https://youtu.be/sByzHoiYFX0"
 />
 
-This extension is NOT required now. Save this for future reference.
+
+### TYPOGRAPHY
+
+Typography is the arrangement of type to reflect a particular style and appearance. Take a look at this series of short tutorials and practice [**adding text to your designs.**](https://helpx.adobe.com/ca/illustrator/how-to/text-basics.html)
+
+- Add a line of text
+- Add paragraphs of text
+- Format text
+- Place text on or inside a path
+- Re-shape text
+
+
+### SPECIAL EFFECTS
+
+The effects menu has a set of really interesting options that can make your design really interesting. Check this set of short tutorials to [**add images and artistic effects.**](https://helpx.adobe.com/ca/illustrator/how-to/image-effects-basics.html)
+
+- Add images (vector vs raster)
+- Understand effects
+- Add effects
+- Add creative brush strokes
+
+
+### PERSPECTIVE GRID
+
+The perspective grid tool allows you to easily create three-dimensional designs starting from two-dimensional shapes and in only a couple of steps. 
+
+To access `Perspective Grid` Tool and `Perspective Selection` Tool in the Advanced toolbar, read [helpx.adobe.com/illustrator/using/tools.html](https://helpx.adobe.com/illustrator/using/tools.html)
+
+<a href="https://helpx.adobe.com/ca/illustrator/how-to/illustrator-creating-basic-clipping-mask.html" target=”_blank”>![Create a basic clipping mask](./perspectiveGrid.png)</a>
+
 
 ## TODO
 
