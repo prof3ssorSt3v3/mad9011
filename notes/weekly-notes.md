@@ -107,6 +107,15 @@
 - Peer Review for Assignment 01 (marked)
 - Due: Assignment 01
 
+```
+1. Create/open/save document:  Use Adobe provided exercise files.
+2. Go through Workspace UI: Everyone uses/resets to "Essential" workspace.
+3. Walkthrough tools panel: focus on the move, selection tools, crop (can't undock tool group)
+4. Artboards(layers) > Silhouette (select/mask)> content-aware fill (remove) > Clone stamp tool 
+  - exercise-files-silhouette.zip
+5. What's not covered: Perspective Crop, Slice, Frame tools
+```
+
 
 ## Week 7 - Photo manipulation and image composite (Photoshop)
 

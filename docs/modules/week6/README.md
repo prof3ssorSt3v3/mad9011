@@ -1,16 +1,15 @@
-# Week 6 - Events and Styles
+# Week 6 - Introduction to Photoshop
 
-## Styling with JavaScript
+## Howdy! Adobe Photoshop
 
-We can use JavaScript to change the appearance of a page. This is useful when you want to change the look of elements, or make things appear or disappear as the user interacts with them.
+Welcome to the Photoshop section of this course, which will focus on mobile features, including designing User Interface(UI), creating/composing graphics and the necessary colour basics.  Let's begin with the how's and why's of setting up documents.
 
-[Learn about styling with JS](./style.md)
 
-## Element Attributes
+## The basic tools
 
-Elements have tag names, ids and classes that we use with CSS to target them. However, they also have other attributes. Many of the attributes have matching JS properties too. Even if they don't have a matching property we can access the value of the property or add new ones.
+We will use Adobe Photoshop to create raster-based (bitmap) graphics, let's start by using these Photoshop basic features of open or create a new document, save a document, work area, zoom in/out, and undo mistakes. Take a look at this series of short tutorials to [**Get to know Photoshop.** ](https://helpx.adobe.com/photoshop/how-to/ps-basics-fundamentals.html)
 
-[Learn about Element Attributes](./attr.md)
+
 
 ## Adding and Removing Events
 
