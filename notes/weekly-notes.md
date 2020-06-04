@@ -96,8 +96,8 @@
 - Workspace overview (control options bar, history panel, layer panel etc)
 - Opening, creating, saving documents
 - Using artboards
-- Making selections (selection tools)
 - Changing image size
+- Making selections (selection tools)
 - Creating silhouettes (select & mask)
 - Content-aware Fill layer
 - Clone Stamp Tool

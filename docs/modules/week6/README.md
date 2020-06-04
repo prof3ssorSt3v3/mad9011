@@ -1,11 +1,12 @@
-# Week 6 - Introduction to Photoshop
+# Week 6 - Introduction to Adobe Photoshop
 
-## Howdy! Adobe Photoshop
+## Howdy! 
 
-Welcome to the Photoshop section of this course, which will focus on mobile features, including designing User Interface(UI), creating/composing graphics and the necessary colour basics.  Let's begin with the how's and why's of setting up documents.
+Welcome to the Photoshop section of this course, which will focus on mobile features, including designing User Interface(UI), creating/composing graphics and the necessary colour basics. We will begin with the how's and why's of setting up documents.
 
+![Adobe Photoshop Workspace](./PSworkspace.png)
 
-## Basic features & tools
+## Basic Photoshop features & tools
 
 We will use Adobe Photoshop to create raster-based (bitmap) graphics, let's start by using these Photoshop basic features of open or create a new document, save a document, work area, zoom in/out, and undo mistakes. Take a look at this series of short tutorials to [**Get to know Photoshop.** ](https://helpx.adobe.com/photoshop/how-to/ps-basics-fundamentals.html)
 
@@ -24,52 +25,39 @@ For a quick reference, read this [artboard tutorial article.](https://helpx.adob
 
 
 <YouTube
-  title="Beginning Graphic Design: Typography"
-  url="https://www.youtube.com/embed/sByzHoiYFX0"
+  title="Photoshop CC Artboards"
+  url="https://www.youtube.com/embed/m6Wb2R2FTAc"
 />
 
 
-## Loading Events
+### CHANGE THE IMAGE SIZE
 
-Loading events happen with every file that a browser loads. Images, Stylesheets, Scripts and HTML files will all trigger `load` events.
+We will learn to resize, crop and straighten an image and change the canvas size. NOTE: Canvas and image resize won't work when artboards are used. Resize artboards instead. Let's Begin the tutorial to [**Change the image size.**](https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html)
 
-[How to listen for loading events](./load.md)
+- Resize an image
+- Set the resolution
+- Crop and straighten an image
+- Expand the canvas
 
-## Mouse and Touch Events
 
-There are quite a few mouse and touch events.
+### MAKE SELECTIONS
 
-```
-click, mousedown, mouseup, mousemove, mouseover, mouseout, focus, blur, dblclick, contextmenu, touchstart, touchmove, touchcancel
-```
+A selection isolates part of an image so you can work on that area without affecting the rest of the image. Take a look at this series of short tutorials and practice [**making selections.**](https://helpx.adobe.com/photoshop/how-to/selection-tools-basics.html)
 
-[Learn more about Mouse and Touch events](./mouse.md)
+- Learn selection basics
+- Learn how to use the Quick Selection and Lasso tools
+- Fine-tune a selection
 
-## Keyboard and Form Events
 
-The keyboard events allow youto trigger code when the user is typing. You can wait for specific keys, keyboard controls for games, and handle form validation when the values of form fields changes.
+### CREATING SILHOUETTES 
 
-[Learn more about keyboard and form events](./keyboard.md)
+We can make and refine selections in the Selection and Masking Space.
+To create a silhouette: we will then Convert the image to smart object layer > Change blending mode [**making selections.**](https://helpx.adobe.com/photoshop/how-to/selection-tools-basics.html)
 
-## Namespacing
+- Learn selection basics
+- Learn how to use the Quick Selection and Lasso tools
+- Fine-tune a selection
 
-Namespacing is how we protect our code against naming conflicts with other peoples scripts. Anyone who builds an HTML file, can add `<script>` tags that point to any JavaScript file which is publicly available online.
-
-That means that your JavaScript file and the JavaScript files belonging to 10 of your friends can all be loaded and running on the same page.
-
-With 100 lines of script in each file, there is a decent chance that two of you could have created a global variable with the same name. This means that the second one to load will overwrite the second one OR if you used `const` then an error will stop all the scripts from running.
-
-[Solve this problem with Namespacing](./namespace.md)
-
-## Cloning and Copying HTML
-
-When you tell an Element that it is being Appended to a specific place on a webpage, this usually means that you are appending an Element that you just created. However, you can append elements that already exist on the page.
-
-If you append an element that already exists, that means you will actually move the Element from its old position to the new one.
-
-If you want to add a duplicate of the Element then you need to use the `cloneNode` method.
-
-[Learn about cloning HTML](./clone.md)
 
 ## TODO
 
