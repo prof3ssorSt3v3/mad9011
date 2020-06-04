@@ -52,7 +52,7 @@ You can find the `Flare tool` in the `Shape tools` group in the **Advanced toolb
 <a href="https://www.linkedin.com/learning/illustrator-cc-2013-one-on-one-fundamentals/using-the-flare-tool" target=”_blank”>![How to use Flare tool](./flareTool.png)</a>
 
 
-## Exporting Optoins
+### EXPORTING OPTIONS
 
 There are many applications to the designs you produce in illustrator, and depending on the purpose of the design, you may want to export file in a different format for different purposes.
 
