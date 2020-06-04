@@ -2,7 +2,7 @@
 
 ## Howdy! 
 
-Welcome to the Photoshop section of this course, which will focus on mobile features, including designing User Interface(UI), creating/composing graphics and the necessary colour basics. We will begin with the how's and why's of setting up documents.
+Welcome to the Photoshop section of this course, which will focus on mobile features, including designing User Interface(UI), creating/composing graphics and the necessary colour basics. Let's get familiar with Photoshop workspace to begin with the how's and why's of setting up documents.
 
 ![Adobe Photoshop Workspace](./PSworkspace.png)
 
