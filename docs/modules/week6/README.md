@@ -5,22 +5,29 @@
 Welcome to the Photoshop section of this course, which will focus on mobile features, including designing User Interface(UI), creating/composing graphics and the necessary colour basics.  Let's begin with the how's and why's of setting up documents.
 
 
-## The basic tools
+## Basic features & tools
 
 We will use Adobe Photoshop to create raster-based (bitmap) graphics, let's start by using these Photoshop basic features of open or create a new document, save a document, work area, zoom in/out, and undo mistakes. Take a look at this series of short tutorials to [**Get to know Photoshop.** ](https://helpx.adobe.com/photoshop/how-to/ps-basics-fundamentals.html)
 
+- Open images
+- Get familiar with the work area
+- Learn how to zoom and pan
+- Undo a command
+- Save your work
 
 
-## Adding and Removing Events
+### USING ARTBOARDS
 
-An Event is something that happens which can be tracked by the browser. It can be used to trigger functions to run. Here are some example situations.
+Think of an artboard as **a special type of layer group**. We will learn all kinds of Photoshop layers in the next 2 weeks. Have you noticed how similar or different artboard layers are in PhotoShop than in Illustrator? 
 
-1. The page finishes loading => run a function to fetch some data.
-2. User clicked a button => run a function to toggle the visibility of a menu.
-3. User typed a letter => run a function to do a search for content starting with that letter.
-4. User swiped on their phone screen => run a function to see if that girl likes you too.
+For a quick reference, read this [artboard tutorial article.](https://helpx.adobe.com/photoshop/using/artboards.html)  
 
-[Learn how to add Event tracking to a page](./adding.md)
+
+<YouTube
+  title="Beginning Graphic Design: Typography"
+  url="https://www.youtube.com/embed/sByzHoiYFX0"
+/>
+
 
 ## Loading Events
 
