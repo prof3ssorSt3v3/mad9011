@@ -20,7 +20,9 @@ Welcome to Adobe Photoshop, we will use Ps to create raster-based (bitmap) graph
 
 ### USING ARTBOARDS
 
-Think of an artboard as **a special type of layer group**. We will learn all kinds of Photoshop layers in the next few weeks. Have you noticed how similar or different artboard layers are in PhotoShop than in Illustrator? For a quick reference, read this [artboard tutorial article.](https://helpx.adobe.com/photoshop/using/artboards.html) To begin, follow along this video tutorial. 
+[*Artboards*](https://helpx.adobe.com/photoshop/using/artboards.html) article provides a quick reference in Photoshop User Guide. 
+
+Think of an artboard as **a special type of layer group**. We will learn all kinds of Photoshop layers in the next few weeks. Have you noticed how similar or different artboard layers are in PhotoShop than in Illustrator? To begin, follow along this video tutorial. 
 
 <YouTube
   title="Photoshop CC Artboards"
@@ -30,7 +32,7 @@ Think of an artboard as **a special type of layer group**. We will learn all kin
 
 ### CHANGE THE IMAGE SIZE
 
-We will learn to resize, crop, and straighten an image and change the canvas size. **NOTE:** Canvas and image resize won't work when artboards are used. Resize artboards instead. Let's Begin the tutorial to [**Change the image size.**](https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html)
+We will learn to resize, crop, and straighten an image and change the canvas size. **NOTE:** Canvas and image resize won't work when artboards are used. Resize artboards instead. Let's Begin the video tutorials to [**Change the image size.**](https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html)
 
 - Resize an image
 - Set the resolution
