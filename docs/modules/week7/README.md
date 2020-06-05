@@ -70,7 +70,7 @@ The first video will teach us to apply creative filters using the [Filter Galler
 <a href="https://helpx.adobe.com/photoshop/how-to/applying-filters-basics.html#blur_an_image_with_smart_filters" target="_blank">![Blur an image with Smart Filters](./smart-filter.png)</a>
 
 
-Have FUN with the [*Liquify Filter!*](https://helpx.adobe.com/photoshop/how-to/face-aware-liquify.html)
+Don't forget to play with this FUN [*Liquify Filter!*](https://helpx.adobe.com/photoshop/how-to/face-aware-liquify.html)
 <img src="https://i.pinimg.com/564x/99/57/c8/9957c8529955562c6b9d4b035cdb54fb.jpg" style="width:600px;" alt="Liquify example by petapixel.com">
 
 
@@ -81,12 +81,18 @@ Layer blend modes enable the colors and tones on one layer to interact with thos
 <a href="https://helpx.adobe.com/photoshop/how-to/composite-image-with-blend-modes.html" target="_blank">![Create a composite with blend modes](./composite-w-blending.png)</a>
 
 
+#### Extra
+
+We can [build a composite with layer masks](https://helpx.adobe.com/photoshop/how-to/create-composite-with-layer-mask.html) which we have learned last week, and even further to [match color in a composite.](https://helpx.adobe.com/photoshop/how-to/match-color-tones-composite.html)
+
+Get inspired by this 1-min video tutorial: [How to make a photo composite](https://create.adobe.com/2019/7/16/how_to_make_a_photo_.html)
+
 
 ## TODO
 
 ::: tip TODO Before next week
 
 - If you have not read all these notes and watched the videos from this week, do that first.
-- Finish reading the notes for week 7 and watch all the videos in the notes for week 8.
+- Finish reading the notes for week 7 and watch all the videos in the notes for week 9.
 - Assignment 2 - Employee profile page
   :::

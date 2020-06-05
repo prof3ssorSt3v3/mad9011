@@ -70,5 +70,5 @@ You should add this to ALL your webpages, web apps, and hybrid apps.
 ::: tip TODO Before next week
 
 - If you have not read all these notes and watched the videos from this week, do that first.
-- Finish reading the notes for week 10 and watch all the videos in the notes for week 11.
+- Finish reading the notes for week 11 and watch all the videos in the notes for week 12.
   :::

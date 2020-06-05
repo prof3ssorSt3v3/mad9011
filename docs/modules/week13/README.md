@@ -52,5 +52,5 @@ Cordova also has a `cordova run` command which will compile your project, instal
 ::: tip TODO Before next week
 
 - If you have not read all these notes and watched the videos from this week, do that first.
-- Finish reading the notes for week 12 and watch all the videos in the notes for week 13.
+- Finish reading the notes for week 13 and watch all the videos in the notes for week 14.
   :::

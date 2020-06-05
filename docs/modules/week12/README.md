@@ -89,5 +89,5 @@ The `device` plugin is one of the core Cordova plugins which allows us to determ
 ::: tip TODO Before next week
 
 - If you have not read all these notes and watched the videos from this week, do that first.
-- Finish reading the notes for week 11 and watch all the videos in the notes for week 12.
+- Finish reading the notes for week 12 and watch all the videos in the notes for week 13.
   :::
