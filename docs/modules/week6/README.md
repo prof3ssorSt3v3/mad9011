@@ -82,4 +82,6 @@ Besides the Spot Healing Brush, there are other content-aware fill tools. In thi
 
 - If you have not read all these notes and watched the videos from this week, do that first.
 - Finish reading the notes for week 6 and watch all the videos in the notes for week 7.
+- Hybrid 5 - In-class: Cut a silhouette
+- Assignment 2 - Employee profile page
   :::
