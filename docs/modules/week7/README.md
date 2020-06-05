@@ -16,7 +16,7 @@ Now, let's get familiar with the powerful, nondestructive editing features in Ph
 
 ## Nondestructive Image Editing 
 
-Because nondestructive editing doesn’t remove data from an image, the image quality doesn’t degrade when you make edits. You can perform nondestructive editing in Photoshop in several ways, read the full article in Techniques for nondestructive editing. First, we will use the type and shape tools to create layers. 
+Because nondestructive editing doesn’t remove data from an image, the image quality doesn’t degrade when you make edits. You can perform nondestructive editing in Photoshop in several ways. First, we will use the type and shape tools to create layers. 
 
 ### TEXTS & SHAPES
 
