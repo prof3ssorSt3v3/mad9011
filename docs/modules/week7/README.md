@@ -67,7 +67,7 @@ The first video will teach us to apply creative filters using the [Filter Galler
 
 [Apply Smart Filters](https://helpx.adobe.com/ca/photoshop/using/applying-smart-filters.html) let you add filter to a `Smart Object` layer. Smart Filters appear in the Layers panel below the Smart Object layer applied. You can adjust, remove, or hide Smart Filters, so they are nondestructive editing. Follow along the 2nd video to [Blur an image with Smart Filters.](https://helpx.adobe.com/photoshop/how-to/applying-filters-basics.html#blur_an_image_with_smart_filters)
 
-![Blur an image with Smart Filters](./different-types-of-layers.png)
+<a href="https://helpx.adobe.com/photoshop/how-to/applying-filters-basics.html#blur_an_image_with_smart_filters">![Blur an image with Smart Filters](./smart-filter.png)</a>
 
 
 Let's have fun with the [Liquify Filter!](https://helpx.adobe.com/photoshop/how-to/face-aware-liquify.html)
@@ -75,39 +75,6 @@ Let's have fun with the [Liquify Filter!](https://helpx.adobe.com/photoshop/how-
 
 
 
-
-
-## Callback Functions
-
-In JavaScript, functions are considered to be first-class Objects. This means you can treat them like any other variable or Object. You can pass them to a function or return them from a function.
-
-This affords us the ability to pass functions to other functions and let it decide if and when it wants to call the function being passed in.
-
-[Learn about Callback functions](./callback.md)
-
-## Closures
-
-Closures are a very important concept in Javascript. They have to do with how scope works in connect with functions and variables.
-
-To really understand the value being saved or updated in a variable you need to understand its scope. To fully understand scope you need to understand what a closure is.
-
-[Learn about Closures](./closure.md)
-
-## Call, Apply and Bind
-
-We have been calling functions from the start of the semester using a set of parentheses after the name of the function.
-
-However, there are three methods that allow us to call a function and change the context of how the function runs.
-
-[Learn about call, apply, and bind](./bind.md)
-
-## Chrome Dev Tools
-
-Chrome comes with an extensive set of Developer Tools, built into the browser.
-
-[Here is the link to the official supporting guides](https://developers.google.com/web/tools/chrome-devtools/)
-
-There are also excellent developer tools in MS Edge and Firefox, and to a lesser extent in Safari.
 
 ## TODO
 
