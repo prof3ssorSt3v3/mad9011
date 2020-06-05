@@ -65,14 +65,20 @@ The first video will teach us to apply creative filters using the [Filter Galler
 - Browse the Filter Gallery
 - Blur an image with Smart Filters
 
-[Apply Smart Filters](https://helpx.adobe.com/ca/photoshop/using/applying-smart-filters.html) let you add filter to a `Smart Object` layer. Smart Filters appear in the Layers panel below the Smart Object layer applied. You can adjust, remove, or hide Smart Filters, so they are nondestructive editing. Follow along the 2nd video to [Blur an image with Smart Filters.](https://helpx.adobe.com/photoshop/how-to/applying-filters-basics.html#blur_an_image_with_smart_filters)
+[*Apply Smart Filters*](https://helpx.adobe.com/ca/photoshop/using/applying-smart-filters.html) let you add filter to a `Smart Object` layer. Smart Filters appear in the Layers panel below the Smart Object layer applied. You can adjust, remove, or hide Smart Filters, so they are nondestructive editing. Follow along the 2nd video to [Blur an image with Smart Filters.](https://helpx.adobe.com/photoshop/how-to/applying-filters-basics.html#blur_an_image_with_smart_filters)
 
-<a href="https://helpx.adobe.com/photoshop/how-to/applying-filters-basics.html#blur_an_image_with_smart_filters">![Blur an image with Smart Filters](./smart-filter.png)</a>
+<a href="https://helpx.adobe.com/photoshop/how-to/applying-filters-basics.html#blur_an_image_with_smart_filters" target="_blank">![Blur an image with Smart Filters](./smart-filter.png)</a>
 
 
-Let's have fun with the [Liquify Filter!](https://helpx.adobe.com/photoshop/how-to/face-aware-liquify.html)
+Have FUN with the [*Liquify Filter!*](https://helpx.adobe.com/photoshop/how-to/face-aware-liquify.html)
 <img src="https://i.pinimg.com/564x/99/57/c8/9957c8529955562c6b9d4b035cdb54fb.jpg" style="width:600px;" alt="Liquify example by petapixel.com">
 
+
+### BLEND MODES 
+
+Layer blend modes enable the colors and tones on one layer to interact with those on the layer below. We will follow this video to put everything together by combining images and applying blend modes to create an interssting composite. 
+
+<a href="https://helpx.adobe.com/photoshop/how-to/composite-image-with-blend-modes.html" target="_blank">![Create a composite with blend modes](./composite-w-blending.png)</a>
 
 
 
