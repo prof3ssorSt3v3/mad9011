@@ -1,22 +1,39 @@
-# Week 9 - AJAX, Promises, Timers
+# Week 9 - Photo retouching & Image optimization
 
-## AJAX
+## Final Photoshop Learning
 
-AJAX is a term coined back in 2005 by Jesse James Garrett. The actual technology has been in use since around 1999. The term stands for `Asynchronous JavaScript and XML` and was first available in Internet Explorer version 5.5 with the `XMLHttpRequest` object.
+It's time to have fun with intuitive photo retouching and restoring tools. We will work on optimizing images for the web. User hates to wait, taking 2-3 seconds to load an image is a long time for them. Our goal is to deliver high-quality images in the right format, dimension, resolution while keeping the smallest possible size with the least loading time. Finally, we will wrap up our learning by explorering the popular 2020 Adobe Photoshop new features. 
 
-Basically, when we say `AJAX`, we are talking about the ability of the browser to request a new resource (XML, JSON, image, HTML, text, etc) and handle its receipt without having to replace the currently displayed webpage.
+## Photo Retouching & Restoration
 
-[AJAX and XMLHttpRequest](./ajax.md)
+[*Tool galleries*](https://helpx.adobe.com/photoshop/using/tools.html#tool_galleries) provides us a quick access to `Retouching tools gallery`. We will practice these tools when working on Hybrid 7 - Clean me up exercise.
 
-## Fetch
+![Photoshop Retouching tools](./retouching-tools.png)
 
-By 2014, and after a couple iterations of the `XMLHttpRequest` object, security problems were found and it became difficult to do all the things that developers wanted to do with AJAX technology.
 
-So, a new approach was developed - `the Fetch API`. It included a single method called `fetch()` and a standardized collection of other Objects like `Request`, `Response`, `Body`, and `Headers`.
+### BASIC RETOUCH TOOLS
 
-The process of making AJAX requests is now much easier and since support first rolled out in 2015 it is broadly supported now.
+In this short video, Jeff Rojas discusses 5 basic retouching tools and where they're best used: Spot Healing Brush, Healing Brush, Patch, Content-Aware Move, and Clone Stamp tools
 
-[Learn about fetch](./fetch.md)
+<YouTube
+  title="5 Basic retouching tools"
+  url="https://www.youtube.com/embed/30lc8fW7m2Y"
+/>
+
+### BASIC RETOUCH TOOLS
+
+In this short video, Jeff Rojas discusses 5 basic retouching tools and where they're best used: Spot Healing Brush, Healing Brush, Patch, Content-Aware Move, and Clone Stamp tools
+
+<YouTube
+  title="5 Basic retouching tools"
+  url="https://www.youtube.com/embed/30lc8fW7m2Y"
+/>
+
+
+Let's combine your skills by using the content-aware technology for object removal.
+
+![Content-aware technology for object removal](./contentAwareRemove.png)
+
 
 ## Promises
 
@@ -24,7 +41,6 @@ The `Fetch` API is actually built on top of another technology that became offic
 
 Promises did for asynchronous programming, what fetch did for AJAX.
 
-[Learn about Promises](./promise.md)
 
 ## Timers
 
