@@ -114,6 +114,8 @@
 4. Artboards(layers) > Silhouette (select/mask)> content-aware fill (remove) > Clone stamp tool 
   - exercise-files-silhouette.zip
 5. What's not covered: Perspective Crop, Slice, Frame tools
+
+multiple access to content aware fill: Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 ```
 
 
