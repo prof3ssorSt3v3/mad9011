@@ -46,6 +46,15 @@ A selection isolates part of an image so you can work on that area without affec
 - Learn how to use the Quick Selection and Lasso tools
 - Fine-tune a selection
 
+#### New Object Selection Tool
+
+Don't forget to try out this 2020 new tool: Object Selection 
+
+<YouTube
+  title="Object Selection Tool"
+  url="https://www.youtube.com/embed/0Qm5nS2PMBs"
+/>
+
 
 ### CREATE SILHOUETTES 
 
@@ -82,5 +91,5 @@ Besides the Spot Healing Brush, there are other content-aware fill tools. In thi
 - If you have not read all these notes and watched the videos from this week, do that first.
 - Finish reading the notes for week 6 and watch all the videos in the notes for week 7.
 - Hybrid 5 - In-class: Cut a silhouette
-- Assignment 2 - Employee profile page
+- Assignment 1 Due 
   :::

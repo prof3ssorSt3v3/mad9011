@@ -2,7 +2,14 @@
 
 ## Make me look good!
 
-Let's get familiar with the powerful, nondestructive editing features in Photoshop. We will composite images with text layers, shape layers, layer effects, adjustment layers, smart filter layers, smart objects, and the blending mode to make changes to an image without overwriting its original image data.
+First, we will go over Layout & Composition, the fundation of design to help us place different visual element in a layout. 
+
+<YouTube
+  title="Beginning Graphic Design: Layout & Composition"
+  url="https://www.youtube.com/embed/a5KYlHNKQB8"
+/>
+
+Now, let's get familiar with the powerful, nondestructive editing features in Photoshop. We will composite images with text layers, shape layers, layer effects, adjustment layers, smart filter layers, smart objects, and the blending mode to make changes to an image without overwriting its original image data.
 
 ![Different Types of Photoshop Layers](./different-types-of-layers.png)
 
@@ -98,4 +105,5 @@ There are also excellent developer tools in MS Edge and Firefox, and to a lesser
 
 - If you have not read all these notes and watched the videos from this week, do that first.
 - Finish reading the notes for week 7 and watch all the videos in the notes for week 8.
+- Assignment 2 - Employee profile page
   :::
