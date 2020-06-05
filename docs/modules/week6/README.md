@@ -50,7 +50,7 @@ A selection isolates part of an image so you can work on that area without affec
 
 #### New Object Selection Tool
 
-Don't forget to try out this 2020 new tool: Object Selection 
+Don't forget to try one of the 2020 new tools: `Object Selection`
 
 <YouTube
   title="Object Selection Tool"
