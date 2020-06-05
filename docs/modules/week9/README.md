@@ -42,9 +42,9 @@ There are a few types of images that can be used on the web and mobile devices: 
 
 [*Export documents, artboards, and layers in various image file formats*](https://helpx.adobe.com/photoshop/using/export-artboards-layers.html) tutorial provides information to help you export images into correct PNG, JPG, GIF, and SVG file formats.
 
-Let's follow along this video tutorial to pratice Export As featuer in Ps. 
+Let's follow along this video tutorial to pratice Export As featuer in Photoshop. 
 
-<a href="https://helpx.adobe.com/photoshop/how-to/content-aware-hide-objects.html" target="_blandk">![Choosing an image format](https://learn-the-web.algonquindesign.ca/topics/image-formats/ps-export-as.png)</>
+<a href="https://helpx.adobe.com/photoshop/how-to/content-aware-hide-objects.html" target="_blandk">![Choosing an image format](https://learn-the-web.algonquindesign.ca/topics/image-formats/ps-export-as.png)</a>
  
 
 ## TODO
