@@ -51,7 +51,8 @@ A selection isolates part of an image so you can work on that area without affec
 
 First, we will make and refine selections in the Selection and Masking Space to create a masking image. Let's practice along with the [Accurately select image areas tutorial.](https://helpx.adobe.com/photoshop/how-to/selection-masking-space.html)
 
-![Adobe Photoshop Workspace](./PSworkspace.png)
+![Accurately select image areas](./accurateSelectMask.png)
+
 
 Next, we will convert the masking image to a `Smart Object Layer` and change the `Blending Mode` of that layer to create a silhouette. To make the image more interesting, add a nice background layer. Here is a completed example. 
 
