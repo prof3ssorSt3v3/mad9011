@@ -39,7 +39,7 @@ The video below walks us through how to use layer styles, the different types of
   url="https://www.youtube.com/embed/gZZKYc7l2YA"
 />
 
-Let's watch _How to Create a Glowing NEON Sign Text Effect Using Layer Styles_ video and practice more.  
+Practice more with _How to Create a Glowing NEON Sign Text Effect Using Layer Styles_ video.  
 
 <YouTube
   title="How to Create a Glowing NEON Sign Text Effect Using Layer Styles"
@@ -51,21 +51,28 @@ Let's watch _How to Create a Glowing NEON Sign Text Effect Using Layer Styles_ v
 
 [*Adjustment layer*](https://helpx.adobe.com/photoshop/how-to/adjustment-layer.html) lets you apply colour and tonal adjustments to your image without permanently changing pixel values. 
 
-To write loops that will traverse over the whole data structure, we can use nested loops. The outer loop looks at the rows. The inner loop looks at the columns.
+This video explains what Photoshop adjustment layers are and the best way to work with them. Adjustment layers allow you to change the hue and situation, contrast, colour grading and the tone curve in Photoshop. You can use the adjustment layer mask to help with more refined photoshop editing techniques.
 
-[Learn how to use nested loops](./nested.md)
+<YouTube
+  title="Photoshop adjustment layers tutorial"
+  url="https://www.youtube.com/embed/RPn5fTWCZnU?t=68"
+/>
 
-## XML and JSON Validation
+### SMART FILTERS
 
-After you have created your XML or JSON files, you should ALWAYS validate your data.
+#### Filter Gallery 
+The first set of videos will teach us to apply creative filters using the [Filter Gallery.](https://helpx.adobe.com/photoshop/how-to/applying-filters-basics.html) The edit is applied permanently to the image.
 
-You want to be sure that you have properly followed the standards.
+- Browse the Filter Gallery
+- Blur an image with Smart Filters
 
-Here are a couple websites that you can use to validate your data files.
+Extra: Have fun with the [Liquify Filter!](https://helpx.adobe.com/photoshop/how-to/face-aware-liquify.html)
+<img src="https://i.pinimg.com/564x/99/57/c8/9957c8529955562c6b9d4b035cdb54fb.jpg" alt="Liquify example by petapixel.com">
 
-[XML validation](https://www.xmlvalidation.com/)
 
-[JSON validation](https://jsonlint.com/)
+#### Apply Smart Filters
+[Apply Smart Filters](https://helpx.adobe.com/ca/photoshop/using/applying-smart-filters.html) let you add filter to a `Smart Object` layer. Smart Filters appear in the Layers panel below the Smart Object layer applied. You can adjust, remove, or hide Smart Filters, so they are nondestructive editing. 
+
 
 ## Callback Functions
 
