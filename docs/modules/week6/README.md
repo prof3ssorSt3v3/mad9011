@@ -56,7 +56,7 @@ First, we will make and refine selections in the Selection and Masking Space to 
 
 Next, we will convert the masking image to a `Smart Object Layer` and change the `Blending Mode` of that layer to create a silhouette. To make the image more interesting, add a nice background layer. Here is a completed example. 
 
-
+![Exercise example](./silhouetteEx.png)
 
 
 ### CONTENT-AWARE FILL
