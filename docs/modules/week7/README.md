@@ -60,18 +60,21 @@ This video explains what Photoshop adjustment layers are and the best way to wor
 
 ### SMART FILTERS
 
-#### Filter Gallery 
-The first set of videos will teach us to apply creative filters using the [Filter Gallery.](https://helpx.adobe.com/photoshop/how-to/applying-filters-basics.html) The edit is applied permanently to the image.
+The first video will teach us to apply creative filters using the [Filter Gallery.](https://helpx.adobe.com/photoshop/how-to/applying-filters-basics.html) The edit is applied permanently to the image.
 
 - Browse the Filter Gallery
 - Blur an image with Smart Filters
 
-Extra: Have fun with the [Liquify Filter!](https://helpx.adobe.com/photoshop/how-to/face-aware-liquify.html)
-<img src="https://i.pinimg.com/564x/99/57/c8/9957c8529955562c6b9d4b035cdb54fb.jpg" alt="Liquify example by petapixel.com">
+[Apply Smart Filters](https://helpx.adobe.com/ca/photoshop/using/applying-smart-filters.html) let you add filter to a `Smart Object` layer. Smart Filters appear in the Layers panel below the Smart Object layer applied. You can adjust, remove, or hide Smart Filters, so they are nondestructive editing. Follow along the 2nd video to [Blur an image with Smart Filters.](https://helpx.adobe.com/photoshop/how-to/applying-filters-basics.html#blur_an_image_with_smart_filters)
+
+![Blur an image with Smart Filters](./different-types-of-layers.png)
 
 
-#### Apply Smart Filters
-[Apply Smart Filters](https://helpx.adobe.com/ca/photoshop/using/applying-smart-filters.html) let you add filter to a `Smart Object` layer. Smart Filters appear in the Layers panel below the Smart Object layer applied. You can adjust, remove, or hide Smart Filters, so they are nondestructive editing. 
+Let's have fun with the [Liquify Filter!](https://helpx.adobe.com/photoshop/how-to/face-aware-liquify.html)
+<img src="https://i.pinimg.com/564x/99/57/c8/9957c8529955562c6b9d4b035cdb54fb.jpg" style="width:600px;" alt="Liquify example by petapixel.com">
+
+
+
 
 
 ## Callback Functions
