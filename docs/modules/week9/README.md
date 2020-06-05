@@ -1,4 +1,4 @@
-# Week 8 - AJAX, Promises, Timers
+# Week 9 - AJAX, Promises, Timers
 
 ## AJAX
 

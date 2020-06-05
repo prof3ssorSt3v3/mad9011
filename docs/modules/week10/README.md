@@ -1,4 +1,4 @@
-# Week 9 - Prototype, Async, APIs
+# Week 10 - Prototype, Async, APIs
 
 ## JavaScript is a Prototype Based Language
 

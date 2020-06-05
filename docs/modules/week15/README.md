@@ -1,4 +1,4 @@
-# Week 14 - Cordova
+# Week 15 - Work Labs
 
 ::: danger SWITCH TO WINDOWS
 
@@ -10,4 +10,4 @@
 
 ## Work Labs
 
-Class time during week 14 is reserved for working on your final [Cordova App](../assignments/proj2.md) and doing the demo of your working app on either your own Android device or one of the classroom Android devices.
+Class time during week 15 is reserved for working on your final project [Mobile UI Visual Prototype](../assignments/proj.md) and showing your work progress to the instructor.
