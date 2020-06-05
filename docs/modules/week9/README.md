@@ -20,6 +20,16 @@ In this short video, Jeff Rojas discusses 5 basic retouching tools and where the
   url="https://www.youtube.com/embed/30lc8fW7m2Y"
 />
 
+### Art History Brush
+
+You can turn a Photograph into a painting with Photoshop Art History Brush tools. This video will walk you through how to use the `Art History Brush` and `history brush` tools.
+
+<YouTube
+  title="Art History Brush in Photoshop CC"
+  url="https://www.youtube.com/embed/V5UPmn9uflY"
+/>
+
+
 ### DODGE, BURN, SPONGE
 
 Byron Heal covers dodge tool, burn tool, sponge tool, and two dodge/burn examples in this 11-min tutorial. 
