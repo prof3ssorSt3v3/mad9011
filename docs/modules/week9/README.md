@@ -26,7 +26,7 @@ Byron Heal covers dodge tool, burn tool, sponge tool, and two dodge/burn example
 
 <YouTube
   title="5 Basic retouching tools"
-  url="https://www.youtube.com/embed/30lc8fW7m2Y"
+  url="https://www.youtube.com/embed/ShmOZGt1l04"
 />
 
 Let's combine your skills in this content-aware technology for object removal tutorial.
@@ -45,6 +45,8 @@ There are a few types of images that can be used on the web and mobile devices: 
 Let's follow along this video tutorial to pratice Export As featuer in Photoshop. 
 
 <a href="https://helpx.adobe.com/photoshop/how-to/content-aware-hide-objects.html" target="_blandk">![Choosing an image format](./ps-export-as.png)</a>
+
+## 
 
 
 
