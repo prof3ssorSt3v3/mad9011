@@ -51,7 +51,7 @@ A selection isolates part of an image so you can work on that area without affec
 
 First, we will make and refine selections in the Selection and Masking Space to create a masking image. Let's practice along with the [Accurately select image areas tutorial.](https://helpx.adobe.com/photoshop/how-to/selection-masking-space.html)
 
-![Accurately select image areas](./accurateSelectMask.png)
+<a href="https://helpx.adobe.com/photoshop/how-to/selection-masking-space.html" target=”_blank”>![Accurately select image areas](./accurateSelectMask.png)</a>
 
 
 Next, we will convert the masking image to a `Smart Object Layer` and change the `Blending Mode` of that layer to create a silhouette. To make the image more interesting, add a nice background layer. Here is a completed example. 
@@ -61,7 +61,7 @@ Next, we will convert the masking image to a `Smart Object Layer` and change the
 
 ### CONTENT-AWARE FILL
 
-Content-Aware Fill was designed to make removing unwanted objects or distracting elements from your photos as easy as possible. Simply by drawing a selection around an area, Photoshop can instantly replace it with new image detail from the surrounding areas. Follow along this 14-min video, we will learn the 2019 Content-aware fill workspace vs 2018 content-aware fill vs Spot Healing Brush tool.
+Content-Aware Fill makes removing unwanted objects or distracting elements from your photos easy. Simply by drawing a selection around an area, Photoshop can instantly replace it with new image detail from the surrounding areas. Follow along this 14-min video, we will learn Content-aware fill workspace, basic content-aware fill, and `Spot Healing Brush` tool.
 
 <YouTube
   title="Photoshop CC Artboards"
@@ -71,7 +71,8 @@ Content-Aware Fill was designed to make removing unwanted objects or distracting
 
 ### CLONE STAMP TOOL 
 
-Besides the Spot Healing Brush, there are other content-aware fill tools. In this short video (login required), it introduces the Clone Stamp tool to us. We will go over all other content-aware tools in a later module when going over photo retouching. 
+Besides the Spot Healing Brush, there are other content-aware fill tools. In this short video (login required), it introduces the `Clone Stamp` tool to us. We will go over all other content-aware tools later when going over photo retouching. 
+
 
 
 
