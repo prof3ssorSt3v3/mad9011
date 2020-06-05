@@ -1,6 +1,6 @@
 # Week 9 - Photo retouching & Image optimization
 
-## Final Photoshop Learning
+## Last but not least of Photoshop
 
 It's time to have fun with intuitive photo retouching and restoring tools. We will work on optimizing images for the web. User hates to wait, taking 2-3 seconds to load an image is a long time for them. Our goal is to deliver high-quality images in the right format, dimension, resolution while keeping the smallest possible size with the least loading time. Finally, we will wrap up our learning by explorering the popular 2020 Adobe Photoshop new features. 
 
@@ -20,55 +20,32 @@ In this short video, Jeff Rojas discusses 5 basic retouching tools and where the
   url="https://www.youtube.com/embed/30lc8fW7m2Y"
 />
 
-### BASIC RETOUCH TOOLS
+### DODGE, BURN, SPONGE
 
-In this short video, Jeff Rojas discusses 5 basic retouching tools and where they're best used: Spot Healing Brush, Healing Brush, Patch, Content-Aware Move, and Clone Stamp tools
+Byron Heal covers dodge tool, burn tool, sponge tool, and two dodge/burn examples in this 11-min tutorial. 
 
 <YouTube
   title="5 Basic retouching tools"
   url="https://www.youtube.com/embed/30lc8fW7m2Y"
 />
 
+Let's combine your skills in this content-aware technology for object removal tutorial.
 
-Let's combine your skills by using the content-aware technology for object removal.
-
-![Content-aware technology for object removal](./contentAwareRemove.png)
-
-
-## Promises
-
-The `Fetch` API is actually built on top of another technology that became official with ES6 in 2015 - `Promises`.
-
-Promises did for asynchronous programming, what fetch did for AJAX.
+<a href="https://helpx.adobe.com/photoshop/how-to/content-aware-hide-objects.html" target="_blandk">![Content-aware technology for object removal](./contentAwareRemove.png)</a>
 
 
-## Timers
+## Export as 
 
-If you want to do a task repeatedly and as quickly as possible then you use some type of loop. However, if you want to repeatedly do something with a delay between each task or you want to do something once after some delay, then you want to use the `setTimeout` or `setInterval` methods.
+There are a few types of images that can be used on the web and mobile devices: JPGs, PNGs, SVGs, favicons, and GIFs. This flowchart will help you choose the right format.
 
-[Learn about setTimeout and setInterval](./timers.md)
+![Choosing an image format](https://learn-the-web.algonquindesign.ca/topics/image-formats/flow-chart.png)
 
-## Keyword `this`
+[*Export documents, artboards, and layers in various image file formats*](https://helpx.adobe.com/photoshop/using/export-artboards-layers.html) tutorial provides information to help you export images into correct PNG, JPG, GIF, and SVG file formats.
 
-There is a keyword in JavaScript `this` which can be quite confusing to understand as it's value changes depending on the circumstances of where it is used.
+Let's follow along this video tutorial to pratice Export As featuer in Ps. 
 
-Brendan Eich, the creator of JavaScript, has said that he regrets adding it to the language but did so because of pressure from his superiors to include more Object Oriented features and be more like another new popular language `Java`.
-
-Despite all that, it can be a useful tool, once you understand how it works.
-
-[Learn about `this`](./this.md)
-
-## Arrow Functions and `this`
-
-Arrow Functions are one of the cases where the meaning of the keyword `this` changes.
-
-[Review Arrow functions and how they differ from other functions](./arrow.md)
-
-## JSONP
-
-There is a variation of JSON called JSON-P which was used to circumvent some of the restrictions imposed on fetching of JSON files. While not as common as it was five years ago, you may still come across it.
-
-[Learn about JSON-P](./jsonp.md)
+<a href="https://helpx.adobe.com/photoshop/how-to/content-aware-hide-objects.html" target="_blandk">![Choosing an image format](https://learn-the-web.algonquindesign.ca/topics/image-formats/ps-export-as.png)</>
+ 
 
 ## TODO
 
