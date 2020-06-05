@@ -1,33 +1,30 @@
-# Week 7 - XML, JSON
+# Week 7 - Nondestructive editing & image composite
 
-## XML
+## Make me look good!
 
-XML is a data format that is designed to be human readable first.
+Let's get familiar with the powerful, nondestructive editing features in Photoshop. We will composite images with text layers, shape layers, layer effects, adjustment layers, smart filter layers, smart objects, and the blending mode to make changes to an image without overwriting its original image data.
 
-It is a markup language like HTML except you get to decide on the tags yourself.
+![Different Types of Photoshop Layers](./different-types-of-layers.png)
 
-Most importantly, it is for **DATA NOT PRESENTATION**.
 
-<YouTube
-  title="XML Intro"
-  url="https://youtube.com/embed/CiXeEkbj_yg"
-/>
+## Nondestructive Image Editing 
 
-[Official reference for XML](https://www.w3.org/standards/xml/)
+Because nondestructive editing doesn’t remove data from an image, the image quality doesn’t degrade when you make edits. You can perform nondestructive editing in Photoshop in several ways, read the full article in Techniques for nondestructive editing. First, we will use the type and shape tools to create layers. 
 
-There are four special characters that need to always be handled in your XML files - `<`, `>`, `&`, and `"`. These four must be written as character entities - `&lt;` `&gt;` `&amp;` and `&quot;`.
+### TEXTS & SHAPES
 
-Lynda.com video about [working with data formats like XML and JSON](https://www.lynda.com/CSS-tutorials/Working-Data-Web/133326-2.html)
+Text and shape layers are editable in Photoshop just like they are in Illustrator. This set of video tutorials covers the basics of [adding texts and shapes layers.](https://helpx.adobe.com/photoshop/how-to/adding-text-shapes-basics.html)
 
-[Learn more about Reading from XML files](./xml.md)
+- Add text
+- Edit text
+- Create a graphic shape
+- Add a built-in custom shape
 
-## JSON
-
-JSON stands for JavaScript Object Notation. It is similar to XML in that it is a data file format but it is a slightly more compressed format. The reduced size means that your data files are smaller but it also means that they can be a little harder to read.
+Watch this video tutorial to learn more advanced techniques.
 
 <YouTube
-  title="JSON Intro"
-  url="https://youtube.com/embed/P2LdhPpqSiU"
+  title="JSON vs JavaScript Objects"
+  url="https://www.youtube.com/embed/912_cPllMyg"
 />
 
 The [official reference site for JSON](http://www.json.org/)

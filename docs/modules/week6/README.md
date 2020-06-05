@@ -63,7 +63,7 @@ Next, we will convert the masking image to a `Smart Object Layer` and change the
 Content-Aware Fill makes removing unwanted objects or distracting elements from your photos easy. Simply by drawing a selection around an area, Photoshop can instantly replace it with new image detail from the surrounding areas. Follow along this 14-min video, we will learn Content-aware fill workspace, basic content-aware fill, and `Spot Healing Brush` tool.
 
 <YouTube
-  title="Photoshop CC Artboards"
+  title="Content-aware Fill"
   url="https://www.youtube.com/embed/lCNGh75Jee8"
 />
 
