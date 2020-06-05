@@ -2,7 +2,7 @@
 
 ## Last but not least of Photoshop
 
-It's time to have fun with intuitive photo retouching and restoring tools. We will work on optimizing images for the web. User hates to wait, taking 2-3 seconds to load an image is a long time for them. Our goal is to deliver high-quality images in the right format, dimension, resolution while keeping the smallest possible size with the least loading time. Finally, we will wrap up our learning by explorering the popular 2020 Adobe Photoshop new features. 
+It's time to have fun with intuitive photo retouching and restoring tools. We will work on optimizing images for the web. User hates to wait, taking 2-3 seconds to load an image is a long time for them. Our goal is to deliver high-quality images in the right format, dimension, resolution while keeping the smallest possible size with the least loading time. Finally, we will wrap up our learning by explorering the new and popular 2020 Adobe Photoshop CC features. 
 
 ## Photo Retouching & Restoration
 
@@ -46,8 +46,13 @@ Let's follow along this video tutorial to pratice Export As featuer in Photoshop
 
 <a href="https://helpx.adobe.com/photoshop/how-to/content-aware-hide-objects.html" target="_blandk">![Choosing an image format](./ps-export-as.png)</a>
 
-## 
+## Everything New in Adobe Photoshop CC 2020
+[*What's new in Photoshop*](https://helpx.adobe.com/photoshop/using/whats-new.html) has the most recent Photoshop information. Photoshop CC 2020 is a big update with a lot of exciting new features. Watch this video to learn the new `Object Selection` Tool, enhanced `Warp Transformation`, improved `Properties panel`, `Lens Blur` effect, `Cloud Documents` and more.
 
+<YouTube
+  title="What's new in 2020 Photoshop CC"
+  url="https://www.youtube.com/embed/f8_S8M6ZJt4"
+/>
 
 
 ## TODO
@@ -56,4 +61,5 @@ Let's follow along this video tutorial to pratice Export As featuer in Photoshop
 
 - If you have not read all these notes and watched the videos from this week, do that first.
 - Finish reading the notes for week 9 and watch all the videos in the notes for week 10.
+- Hybrid 7 - In-class: Clean me up
   :::
