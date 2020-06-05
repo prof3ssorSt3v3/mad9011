@@ -16,7 +16,7 @@ Now, let's get familiar with the powerful, nondestructive editing features in Ph
 
 ## Nondestructive Image Editing 
 
-Because nondestructive editing doesn’t remove data from an image, the image quality doesn’t degrade when you make edits. You can perform nondestructive editing in Photoshop in several ways. First, we will use the type and shape tools to create layers. 
+[*Techniques for nondestructive editing* -](https://helpx.adobe.com/ca/photoshop/using/nondestructive-editing.html) Because nondestructive editing doesn’t remove data from an image, the image quality doesn’t degrade when you make edits. Now, we will use the type and shape tools to create layers. 
 
 ### TEXTS & SHAPES
 
@@ -27,29 +27,29 @@ Text and shape layers are editable in Photoshop just like they are in Illustrato
 - Create a graphic shape
 - Add a built-in custom shape
 
-Watch this video tutorial to learn more advanced techniques.
+
+### LAYER STYLES
+
+[*Layer effects and styles*](https://helpx.adobe.com/photoshop/using/layer-effects-styles.html) cover how a layer style is one or more effects applied to a layer or layer group. They change the appearance of a layer’s contents in a non-destructive way. 
+
+The video below walks us through how to use layer styles, the different types of layer styles, how to remove, copy, and add them. 
 
 <YouTube
-  title="JSON vs JavaScript Objects"
-  url="https://www.youtube.com/embed/912_cPllMyg"
+  title="Everything You Need To Know About Photoshop Layer Styles"
+  url="https://www.youtube.com/embed/gZZKYc7l2YA"
 />
 
-The [official reference site for JSON](http://www.json.org/)
-
-All the unicode characters can be found on [the Unicode charts](http://www.unicode.org/charts/).
-
-Lynda.com video about [working with data formats like XML and JSON](https://www.lynda.com/CSS-tutorials/Working-Data-Web/133326-2.html)
+Let's watch _How to Create a Glowing NEON Sign Text Effect Using Layer Styles_ video and practice more.  
 
 <YouTube
-  title="JSON vs JavaScript Objects"
-  url="https://www.youtube.com/embed/912_cPllMyg"
+  title="How to Create a Glowing NEON Sign Text Effect Using Layer Styles"
+  url="https://www.youtube.com/embed/lrXTg7MzVyk"
 />
 
-[Learn about Reading JSON with JavaScript](./json.md)
 
-## Nested Loops
+### ADJUSTMENT LAYERS (BASIC)
 
-It is a common thing for data structures to have Arrays inside an Array. Visually, you can think of this as a grid or table of data. There will be rows and columns.
+[*Adjustment layer*](https://helpx.adobe.com/photoshop/how-to/adjustment-layer.html) lets you apply colour and tonal adjustments to your image without permanently changing pixel values. 
 
 To write loops that will traverse over the whole data structure, we can use nested loops. The outer loop looks at the rows. The inner loop looks at the columns.
 
