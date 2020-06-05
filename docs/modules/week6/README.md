@@ -64,7 +64,7 @@ Content-Aware Fill was designed to make removing unwanted objects or distracting
 
 <YouTube
   title="Photoshop CC Artboards"
-  url="https://www.youtube.com/embed/m6Wb2R2FTAc"
+  url="https://www.youtube.com/embed/lCNGh75Jee8"
 />
 
 
