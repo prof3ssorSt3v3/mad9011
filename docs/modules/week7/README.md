@@ -2,7 +2,7 @@
 
 ## Make me look good!
 
-First, we will go over Layout & Composition, the fundation of design to help us place different visual element in a layout. 
+To make an image look good, we will first go over the fundation of design for Layout & Composition.
 
 <YouTube
   title="Beginning Graphic Design: Layout & Composition"
