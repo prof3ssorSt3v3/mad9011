@@ -49,7 +49,7 @@ A selection isolates part of an image so you can work on that area without affec
 
 ### CREATE SILHOUETTES 
 
-First, we will make and refine selections in the Selection and Masking Space to create a masking image. Let's practice along with the [Accurately select image areas tutorial.](https://helpx.adobe.com/photoshop/how-to/selection-masking-space.html)
+First, we will make and refine selections in the Selection and Masking Space to create a masking image. Let's practice along with this [Accurately select image areas tutorial.](https://helpx.adobe.com/photoshop/how-to/selection-masking-space.html)
 
 <a href="https://helpx.adobe.com/photoshop/how-to/selection-masking-space.html" target=”_blank”>![Accurately select image areas](./accurateSelectMask.png)</a>
 
@@ -73,7 +73,7 @@ Content-Aware Fill makes removing unwanted objects or distracting elements from 
 
 Besides the Spot Healing Brush, there are other content-aware fill tools. In this short video (login required), it introduces the `Clone Stamp` tool to us. We will go over all other content-aware tools later when going over photo retouching. 
 
-
+<a href="https://www.linkedin.com/learning/photoshop-cc-2019-essential-training-the-basics/using-the-clone-stamp-tool" target=”_blank”>![Using the Clone Stamp Tool](./clone-stamp-tool.png)</a>
 
 
 ## TODO
