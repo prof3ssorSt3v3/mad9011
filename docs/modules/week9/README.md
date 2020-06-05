@@ -20,7 +20,7 @@ In this short video, Jeff Rojas discusses 5 basic retouching tools and where the
   url="https://www.youtube.com/embed/30lc8fW7m2Y"
 />
 
-### Art History Brush
+### ART HISTORY BRUSH TOOLS 
 
 You can turn a Photograph into a painting with Photoshop Art History Brush tools. This video will walk you through how to use the `Art History Brush` and `history brush` tools.
 
