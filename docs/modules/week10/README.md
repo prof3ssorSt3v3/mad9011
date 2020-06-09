@@ -8,9 +8,12 @@ Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimen
 
 ## From AI to SVG
 
-Using Illustrator to design our graphics and then export them in SVG format allows us to use that code directly on the web and animate it using CSS. The cleaner and more organized our illustrator file is, the easier it will be to manipulate the code later on. Follow this series of videos to create SVG code. 
+Using Illustrator to design our graphics and then export them in SVG format allows us to use that code directly on the web and animate it using CSS. The cleaner and more organized our `Ai` file is, the easier it will be to manipulate the `SVG` code later on. Follow the first 2 videos on LinkedIn Learning to:
 
+- Prepare an SVG for animation
+- Export SVG from Illustrator
 
+<a href="https://www.linkedin.com/learning/css-animation/prepare-an-svg-for-animation" target="_blanck">![From AI to SVG](./prepSVGanimation.png)</a>
 
 ### 
 
