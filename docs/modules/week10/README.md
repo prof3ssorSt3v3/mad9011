@@ -1,14 +1,8 @@
-# Week 10 - Prototype, Async, APIs
+# Week 10 - Introduction to SVG
 
-## JavaScript is a Prototype Based Language
+## Scalable Vector Graphics (SVG)
 
-You will hear a lot about `prototype` and `class` over the next few semesters. They are two different approaches to designing and architecting software. The problem is that in your early days of programming they can seem like almost the same thing.
-
-We will try to help you understand the differences here in simple practical terms that will let you write better JavaScript with fewer unexpected errors.
-
-A `Class` is a blueprint for building objects. It is not an object itself, just the plans for building a certain kind of object. Classes inherit properties and methods from parent classes. When you create (`instantiate`) an object from a class, the object will be given copies all the properties and methods from it's class blueprint as well as copies of all the properties and methoods from all the ancestor parent classes. So, when you call an Object's method, the method actually exists inside the Object.
-
-A `prototype` is an example Object. It is an Object. Think of it as the first one built. In JavaScript, when we create an Object a constructor function is used to build the object. That function has a `prototype` object. We can put any methods that we want to share with all the objects built with that constructor into that prototype object. We can still link our objects to parent ones but we don't copy the methods, instead, we just link to the parent's prototype. There is a chain of prototype type objects. When we create (`instantiate`) our Object, it doesn't need copies of all the methods and parent methods. If we call an Object's method and the method does not exist inside our Object, then JavaScript will look up the prototype chain for the method and delegate (borrow) the method to run.
+Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation. SVG images are defined in XML text files. In this section, we are going to learn how to generate good SVG code using Illustrator and preparing it to be animated and used on the web as well as how to write our own SVG code from scratch. 
 
 [Learn more about Prototype](./proto.md)
 

@@ -64,6 +64,13 @@ Let's follow along this video tutorial to pratice `Export As` feature in Photosh
   url="https://www.youtube.com/embed/f8_S8M6ZJt4"
 />
 
+Bonus video: Top 20 NEW Features & Updates EXPLAINED! - Photoshop 2020
+
+<YouTube
+  title="What's new in 2020 Photoshop CC"
+  url="https://www.youtube.com/embed/ZIXM37H0mzs"
+/>
+
 
 ## TODO
 
