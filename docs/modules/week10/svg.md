@@ -574,7 +574,7 @@ If you are using the SVG `<text>` element inside your embedded SVG, but don’t 
 
 Extra videos: 
 - [Advanced SVG: masking images](https://www.youtube.com/watch?v=y8NvpFfdprM&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=7)
-- 14. [Advanced SVG: icon sprite sheets](https://www.youtube.com/watch?v=NI-qGP5m-6M&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=14)
+- [Advanced SVG: icon sprite sheets](https://www.youtube.com/watch?v=NI-qGP5m-6M&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=14)
 
 ## Supplemental links
 
