@@ -181,7 +181,6 @@ We can use some optimization tools to clean up the SVG.
 - [**Pocket Guide to Writing SVG**](http://svgpocketguide.com/)
 - [**W3: SVG 1.1 Styling**](http://www.w3.org/TR/SVG11/styling.html)
 - [**W3: SVG properties that can be used in CSS**](http://www.w3.org/TR/SVG/propidx.html)
-- [SVGOMG](https://jakearchibald.github.io/svgomg/)
 - [SVG Basics—How To Create Simple Shapes And Lines](http://www.vanseodesign.com/web-design/svg-shapes-lines/)
 - [SVG Basics—Fills And Strokes](http://www.vanseodesign.com/web-design/svg-fill-stroke/)
 - [SVG Basics—Creating Paths With Line Commands](http://www.vanseodesign.com/web-design/svg-paths-line-commands/)
@@ -191,6 +190,7 @@ We can use some optimization tools to clean up the SVG.
 - [SVG and the preserveAspectRatio Property](http://unmatchedstyle.com/news/svg-and-the-preserveaspectratio-property.php)
 - [SVG NOW for Adobe Illustrator](https://github.com/davidderaedt/SVG-NOW)
 - [SVG Editor](http://petercollingridge.appspot.com/svg-editor)
+- [SVGOMG](https://jakearchibald.github.io/svgomg/)
 
 ---
 
