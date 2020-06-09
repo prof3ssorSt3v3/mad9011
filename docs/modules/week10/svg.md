@@ -143,7 +143,7 @@ We can use some optimization tools to clean up the SVG.
 
 *Or, try <a href="https://jakearchibald.github.io/svgomg">[SVGOMG]</a>, SVGO's Missing GUI, aiming to expose the majority, if not all the configuration options of SVGO.*
 
-<a href="https://jakearchibald.github.io/svgomg" target="_blanck">![SVG OMG Optimizer](./svgOMG.png)</a>
+<a href="https://www.youtube.com/embed/aVcs-zQ1q4U?start=148" target="_blanck">![SVG OMG Optimizer](./svgOMG.png)</a>
 
 **Links**
 
