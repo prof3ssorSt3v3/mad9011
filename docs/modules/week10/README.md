@@ -28,6 +28,17 @@ Read SVG reference of [Writing SVG code](./svg.md#writing-svg) for the syntax an
   url="https://www.youtube.com/embed/q_3Q9HHcXuA"
 />
 
+### SVG: attributes & CSS
+
+It is a common practice to use both SVG style attributes and CSS to style SVGs. Watch this video to know the way and how. 
+
+<YouTube
+  title="SVG: attributes & CSS"
+  url="https://www.youtube.com/embed/EEtnu8OMD3o"
+/>
+
+
+
 ## TODO
 
 ::: tip TODO Before next week
