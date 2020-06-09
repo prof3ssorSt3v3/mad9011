@@ -30,7 +30,7 @@ SVGs are purely vector graphics written in XML markup language. You can use a pu
 ### WRITING SVG CODE  
 
 In this video you will learn to write SVG code from scratch and integrate it into an HTML document.
-Read SVG reference of [Writing SVG code](./svg.md#writing-svg) for the syntax and code for basic shapes.  
+Read SVG reference of [Writing SVG code](./svg.md#writing-svg) for basic syntax and SVG shapes.  
 
 <YouTube
   title="Writing SVG code"
@@ -46,7 +46,10 @@ It's common practice to use both `*SVG style attributes*` and `*CSS*` to style S
   url="https://www.youtube.com/embed/EEtnu8OMD3o"
 />
 
+---
+
 ### SVG TEXT
+
 Using text directly inside our SVG has lots of benefits: We can apply web fonts, masking, gradients, and textures to them and they are fully **accessible**.  
 
 [SVG text reference](./svg.html#svgs-are-code)
@@ -86,6 +89,8 @@ In this video, we will apply gradients into the text letters using SVG. These tw
   title="SVG: masking text"
   url="https://www.youtube.com/embed/B5ol4ss-mi4"
 />
+
+---
 
 
 
