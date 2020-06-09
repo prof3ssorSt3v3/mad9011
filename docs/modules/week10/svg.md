@@ -173,7 +173,7 @@ We can use some optimization tools to clean up the SVG.
 
 *Drop your SVGs into online [SVG Editor](http://petercollingridge.appspot.com/svg-editor) to optimize your SVG and remove the extra stuff.*
 
-![Online SVG Editor/Optimizer](svgOptimizer.png)
+![Online SVG Editor/Optimizer](./svgOptimizer.png)
 
 
 **Links**
