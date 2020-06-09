@@ -20,7 +20,8 @@ SVGs are purely vector graphics written in XML markup language. You can use a pu
 
 ### Writing SVG code
 
-Check out SVG reference for [Writing SVG code.](./svg.md#writing-svg)
+In this video you will learn to write SVG code from scratch and integrate it into an HTML document.
+Read SVG reference of [Writing SVG code](./svg.md#writing-svg) for the syntax and code for basic shapes.  
 
 <YouTube
   title="Writing SVG code"
