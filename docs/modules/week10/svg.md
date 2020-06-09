@@ -141,6 +141,8 @@ We can use some optimization tools to clean up the SVG.
 
 <a href="http://petercollingridge.appspot.com/svg-editor" target="_blanck">![Online SVG Editor/Optimizer](./svgOptimizer.png)</a>
 
+*Or, try SVGOMG, SVGO's Missing GUI, aiming to expose the majority, if not all the configuration options of SVGO.*
+
 <a href="https://jakearchibald.github.io/svgomg" target="_blanck">![SVG OMG Optimizer](./svgOMG.png)</a>
 
 **Links**

@@ -4,7 +4,7 @@
 
 Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation. SVG images are defined in XML text files. In this section, we are going to learn how to generate good SVG code using Illustrator and preparing it to be animated and used on the web as well as how to write our own SVG code from scratch. 
 
-[Complete SVG Reference](./svg.md)
+[SVG Reference](./svg.md)
 
 ## From AI to SVG
 
