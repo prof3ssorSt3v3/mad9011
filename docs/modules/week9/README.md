@@ -39,25 +39,25 @@ Byron Heal covers dodge tool, burn tool, sponge tool, and two dodge/burn example
   url="https://www.youtube.com/embed/ShmOZGt1l04"
 />
 
-Let's combine your skills in this content-aware technology for object removal tutorial.
+Let's combine your skills in this tutorial to remove objects with Content-Aware Fill.
 
 <a href="https://helpx.adobe.com/photoshop/how-to/content-aware-hide-objects.html" target="_blandk">![Content-aware technology for object removal](./contentAwareRemove.png)</a>
 
 
 ## Export as 
 
-There are a few types of images that can be used on the web and mobile devices: JPGs, PNGs, SVGs, favicons, and GIFs. This flowchart will help you choose the right format.
+There are a few types of images that can be used on the web and mobile devices: JPGs, PNGs, SVGs, favicons, and GIFs. This flowchart will help you choose the appropriate format.
 
 ![Choosing an image format](https://learn-the-web.algonquindesign.ca/topics/image-formats/flow-chart.png)
 
-[*Export documents, artboards, and layers in various image file formats*](https://helpx.adobe.com/photoshop/using/export-artboards-layers.html) article provides information to help you export images into correct PNG, JPG, GIF, and SVG file formats.
+[*Export documents, artboards, and layers in various image file formats*](https://helpx.adobe.com/photoshop/using/export-artboards-layers.html) provides information to help you export images into correct PNG, JPG, GIF, and SVG file formats.
 
-Let's follow along this video tutorial to pratice Export As featuer in Photoshop. 
+Let's follow along this video tutorial to pratice `Export As` feature in Photoshop. 
 
 <a href="https://helpx.adobe.com/photoshop/how-to/content-aware-hide-objects.html" target="_blandk">![Choosing an image format](./ps-export-as.png)</a>
 
 ## Everything New in Adobe Photoshop CC 2020
-[*What's new in Photoshop*](https://helpx.adobe.com/photoshop/using/whats-new.html) has the most recent Photoshop information. Photoshop CC 2020 is a big update with a lot of exciting new features. Watch this video to learn the new `Object Selection` Tool, enhanced `Warp Transformation`, improved `Properties panel`, `Lens Blur` effect, `Cloud Documents` and more.
+[*What's new in Photoshop*](https://helpx.adobe.com/photoshop/using/whats-new.html) has the most recent Photoshop information. Photoshop CC 2020 is a big update with a lot of exciting new features. Watch this video to review and learn new tools: `Object Selection` tool, enhanced `Warp Transformation`, improved `Properties panel`, `Lens Blur` effect, `Cloud Documents` 
 
 <YouTube
   title="What's new in 2020 Photoshop CC"
