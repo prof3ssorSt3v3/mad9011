@@ -286,7 +286,7 @@ In the above example the pattern isn’t really a pattern, but instead a large i
 
 ---
 
-## SVG effects
+## SVG animation
 
 SVG can have lots of effects inside it: hovers, transitions, animations, filters, etc.
 
@@ -355,7 +355,9 @@ Just treat your SVG elements just like any other HTML elements.
 
 *Be careful with `transform` you may need to set `transform-origin` in pixels because it’s now inside the SVG document space.*
 
-### Masks
+### Extra: SVG Effects  
+
+#### Masks
 
 SVGs allow us to mask things. It works really well for creating transparent zones in JPGs or masking text. 
 
@@ -372,7 +374,7 @@ SVGs allow us to mask things. It works really well for creating transparent zone
 
 The mask graphic must be black & white: black being the areas that will be hidden and white the areas that will be shown.
 
-### Filters
+#### Filters
 
 There are lots of effects that can be applied to SVG vector and bitmap graphics using SVG filters. Some filter examples are: drop shadows, gaussian blur, blend modes, colour transformations and more.
 
@@ -393,7 +395,7 @@ You can also add filters to SVGs from Adobe Illustrator, make sure to use the SV
 Effect > SVG Filters
 ```
 
-### Patterns
+#### Patterns
 
 Patterns can be defined in SVG using the `<pattern>` element. Patterns can be applied to anything that accepts a fill.
 
@@ -569,6 +571,10 @@ If you are using the SVG `<text>` element inside your embedded SVG, but don’t 
 12. [Advanced SVG: icon symbols](https://www.youtube.com/watch?v=BO13gECyiuE&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=13)
 13. [Advanced SVG: accessibility](https://www.youtube.com/watch?v=BieUh304KDA&index=15&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM)
 
+
+Extra videos: 
+- [Advanced SVG: masking images](https://www.youtube.com/watch?v=y8NvpFfdprM&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=7)
+- 14. [Advanced SVG: icon sprite sheets](https://www.youtube.com/watch?v=NI-qGP5m-6M&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=14)
 
 ## Supplemental links
 
