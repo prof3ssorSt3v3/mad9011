@@ -1,37 +1,3 @@
----
-title: "SVG"
-tags: "writing advance svg embedding html hover transition animation mask filter pattern text webfonts gradients icons symbols"
-desc: "Writing and using SVG in more complex scenarios with animations, transitions, and other effects."
-playlist: PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM
-download: https://github.com/acgd-learn-the-web/advanced-svg-code/archive/master.zip
-github: https://github.com/acgd-learn-the-web/advanced-svg-code
-cheatsheet: svg-cheat-sheet
-extra_practice:
-  week:
-    title: "Web Dev 3, Week 07"
-    url: "/courses/web-dev-3/week-07/"
-  slides:
-    - title: "Advanced SVG"
-      url: "/courses/web-dev-3/advanced-svg/"
-    - title: "SVG icons"
-      url: "/courses/web-dev-3/svg-icons/"
-  activities:
-    - title: "SVG synthesizer"
-      url: "svg-synthesizer"
-  lessons:
-    - title: "SVG smiley face"
-      url: "/courses/web-dev-3/svg-smiley-face/"
-    - title: "Using SVG icons"
-      url: "/courses/web-dev-3/using-svg-icons/"
-  exercises:
-    - title: "Interactive SVG"
-      url: "/courses/web-dev-3/week-07/#interactive-svg"
-    - title: "SVG line drawing"
-      url: "/courses/web-dev-3/week-07/#svg-line-drawing"
-    - title: "SVG icon sets"
-      url: "/courses/web-dev-3/week-08/#svg-icon-sets"
----
-
 Scalable vector graphics are amazing for creating graphics on the web because they can be embedded into HTML and treated like actual HTML elements.
 
 ---
@@ -173,8 +139,9 @@ We can use some optimization tools to clean up the SVG.
 
 *Drop your SVGs into online [SVG Editor](http://petercollingridge.appspot.com/svg-editor) to optimize your SVG and remove the extra stuff.*
 
-![Online SVG Editor/Optimizer](./svgOptimizer.png)
+<a href="http://petercollingridge.appspot.com/svg-editor" target="_blanck">![Online SVG Editor/Optimizer](./svgOptimizer.png)</a>
 
+<a href="https://jakearchibald.github.io/svgomg" target="_blanck">![SVG OMG Optimizer](svgOMG.png)</a>
 
 **Links**
 
@@ -191,129 +158,6 @@ We can use some optimization tools to clean up the SVG.
 - [SVG NOW for Adobe Illustrator](https://github.com/davidderaedt/SVG-NOW)
 - [SVG Editor](http://petercollingridge.appspot.com/svg-editor)
 - [SVGOMG](https://jakearchibald.github.io/svgomg/)
-
----
-
-## SVG effects
-
-SVG can have lots of effects inside it: hovers, transitions, animations, filters, etc.
-
-*As soon as we put our SVG into our HTML document we can apply all the effects in our CSS file.*
-
-### Adding a hover state
-
-Adding a hover state to an SVG graphic is no different than other HTML elements.
-
-```xml
-<svg width="256" height="256" viewBox="0 0 256 256">
-  <rect class="my-rect" x="10" y="10" width="75" height="50" />
-</svg>
-```
-
-Then in CSS, we can do this:
-
-```css
-.my-rect {
-  fill: #f33;
-}
-
-.my-rect:hover {
-  fill: #000;
-}
-```
-
-### Adding transitions
-
-Adding CSS transitions to SVGs are no different than any other HTML element.
-
-```css
-.my-rect {
-  fill: #f33;
-  transition: all 250ms linear;
-}
-
-.my-rect:hover {
-  fill: #000;
-}
-```
-
-### Adding animations
-
-There are SVG specific animations, named SMIL, but they are becoming deprecated. So CSS animations are a better way to go.
-
-Just treat your SVG elements just like any other HTML elements.
-
-```css
-.my-rect {
-  animation: rotate-box 250ms linear infinite;
-}
-
-@keyframes rotate-box {
-
-  0% {
-    transform: rotate(0);
-  }
-
-  100% {
-    transform: rotate(360deg);
-  }
-
-}
-```
-
-*Be careful with `transform` you may need to set `transform-origin` in pixels because it’s now inside the SVG document space.*
-
-### Masks
-
-SVGs allow us to mask things. It works really well for creating transparent zones in JPGs or masking text.
-
-```xml
-<svg width="500" height="500" viewBox="0 0 500 500">
-  <defs>
-    <mask id="mask">
-      <image width="500" height="500" xlink:href="images/mars-mask.png" />
-    </mask>
-  </defs>
-  <image mask="url(#mask)" width="500" height="500" xlink:href="images/mars.jpg" />
-</svg>
-```
-
-The mask graphic must be black & white: black being the areas that will be hidden and white the areas that will be shown.
-
-### Filters
-
-There are lots of effects that can be applied to SVG vector and bitmap graphics using SVG filters. Some filter examples are: drop shadows, gaussian blur, blend modes, colour transformations and more.
-
-Here’s a quick example of a blur on an SVG element:
-
-```xml
-<svg width="500" height="500" viewBox="0 0 500 500">
-  <filter id="blur">
-    <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
-  </filter>
-  <circle cx="170" cy="60" r="50" fill="green" filter="url(#blur)" />
-</svg>
-```
-
-You can also add filters to SVGs from Adobe Illustrator, make sure to use the SVG filters specifically.
-
-```
-Effect > SVG Filters
-```
-
-### Patterns
-
-Patterns can be defined in SVG using the `<pattern>` element. Patterns can be applied to anything that accepts a fill.
-
-[**☛ Check out the text pattern example**](#adding-textures-to-text)
-
-**Links**
-
-- [CSS-Tricks: Animating SVG with CSS](https://css-tricks.com/animating-svg-css/)
-- [SVG Masks](http://tutorials.jenkov.com/svg/mask.html)
-- [Using SVG to shrink your PNGs](http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg/)
-- [MDN: SVG filters](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/filter)
-- [MDN: SVG patterns](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/pattern)
 
 ---
 
@@ -442,6 +286,129 @@ In the above example the pattern isn’t really a pattern, but instead a large i
 
 ---
 
+## SVG effects
+
+SVG can have lots of effects inside it: hovers, transitions, animations, filters, etc.
+
+*As soon as we put our SVG into our HTML document we can apply all the effects in our CSS file.*
+
+### Adding a hover state
+
+Adding a hover state to an SVG graphic is no different than other HTML elements.
+
+```xml
+<svg width="256" height="256" viewBox="0 0 256 256">
+  <rect class="my-rect" x="10" y="10" width="75" height="50" />
+</svg>
+```
+
+Then in CSS, we can do this:
+
+```css
+.my-rect {
+  fill: #f33;
+}
+
+.my-rect:hover {
+  fill: #000;
+}
+```
+
+### Adding transitions
+
+Adding CSS transitions to SVGs are no different than any other HTML element.
+
+```css
+.my-rect {
+  fill: #f33;
+  transition: all 250ms linear;
+}
+
+.my-rect:hover {
+  fill: #000;
+}
+```
+
+### Adding animations
+
+There are SVG specific animations, named SMIL, but they are becoming deprecated. So CSS animations are a better way to go.
+
+Just treat your SVG elements just like any other HTML elements.
+
+```css
+.my-rect {
+  animation: rotate-box 250ms linear infinite;
+}
+
+@keyframes rotate-box {
+
+  0% {
+    transform: rotate(0);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+
+}
+```
+
+*Be careful with `transform` you may need to set `transform-origin` in pixels because it’s now inside the SVG document space.*
+
+### Masks
+
+SVGs allow us to mask things. It works really well for creating transparent zones in JPGs or masking text. 
+
+```xml
+<svg width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <mask id="mask">
+      <image width="500" height="500" xlink:href="images/mars-mask.png" />
+    </mask>
+  </defs>
+  <image mask="url(#mask)" width="500" height="500" xlink:href="images/mars.jpg" />
+</svg>
+```
+
+The mask graphic must be black & white: black being the areas that will be hidden and white the areas that will be shown.
+
+### Filters
+
+There are lots of effects that can be applied to SVG vector and bitmap graphics using SVG filters. Some filter examples are: drop shadows, gaussian blur, blend modes, colour transformations and more.
+
+Here’s a quick example of a blur on an SVG element:
+
+```xml
+<svg width="500" height="500" viewBox="0 0 500 500">
+  <filter id="blur">
+    <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+  </filter>
+  <circle cx="170" cy="60" r="50" fill="green" filter="url(#blur)" />
+</svg>
+```
+
+You can also add filters to SVGs from Adobe Illustrator, make sure to use the SVG filters specifically.
+
+```
+Effect > SVG Filters
+```
+
+### Patterns
+
+Patterns can be defined in SVG using the `<pattern>` element. Patterns can be applied to anything that accepts a fill.
+
+[**☛ Check out the text pattern example**](#adding-textures-to-text)
+
+**Links**
+
+- [CSS-Tricks: Animating SVG with CSS](https://css-tricks.com/animating-svg-css/)
+- [SVG Masks](http://tutorials.jenkov.com/svg/mask.html)
+- [Using SVG to shrink your PNGs](http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg/)
+- [MDN: SVG filters](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/filter)
+- [MDN: SVG patterns](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/pattern)
+
+---
+
 ## SVG icons
 
 SVGs are perfect for icons sets in our websites. We can even get their colour to inherit from other CSS colours.
@@ -500,7 +467,7 @@ After the definition above, further down the HTML document we can use the SVG gr
 
 From a performance perspective this has caching issues because the SVG graphic must be included at the top of every HTML file.
 
-### SVG icon sprite sheets
+### Extra: SVG icon sprite sheets
 
 Having to copy-and-paste the SVG code at the top of every SVG file can become cumbersome. It’s much easier to generate an SVG sprite sheet that contains all the icons symbols, save it in a separate file and refer to that file multiple times.
 
@@ -580,28 +547,28 @@ If you are using the SVG `<text>` element inside your embedded SVG, but don’t 
 
 **Links**
 
-- [Making SVG Accessible](http://demosthenes.info/blog/1026/Making-SVG-Accessible)
+- [Making SVG Accessible](http://thenewcode.com/1026/Making-SVG-Accessible)
 
 ---
 
 ## Video list
 
 1. [Advanced SVG: writing SVG code](https://www.youtube.com/watch?v=q_3Q9HHcXuA&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=1&t=68s)
-2. [Advanced SVG: optimizing & cleaning](https://www.youtube.com/watch?v=QgOWqHF6SYU&index=2&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM)
-3. [Advanced SVG: attributes & CSS](https://www.youtube.com/watch?v=EEtnu8OMD3o&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=3)
-4. [Advanced SVG: transitions](https://www.youtube.com/watch?v=vwIVdI3WMIc&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=4)
-5. [Advanced SVG: transform origin with pixels](https://www.youtube.com/watch?v=AcdOzdoB390&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=5)
-6. [Advanced SVG: animations](https://www.youtube.com/watch?v=8s70jpw5B5c&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=6)
-7. [Advanced SVG: masking images](https://www.youtube.com/watch?v=y8NvpFfdprM&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=7)
-8. [Advanced SVG: text & web fonts](https://www.youtube.com/watch?v=UKXRwuXd7rA&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=8)
-9. [Advanced SVG: masking text](https://www.youtube.com/watch?v=B5ol4ss-mi4&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=9)
-10. [Advanced SVG: gradients on text](https://www.youtube.com/watch?v=xgZkRVCS07Q&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=10)
-11. [Advanced SVG: textures on text](https://www.youtube.com/watch?v=lSNnVbfvJJ0&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=11)
-12. [Advanced SVG: icons](https://www.youtube.com/watch?v=EhNHe-f0LBI&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=12)
-13. [Advanced SVG: icon symbols](https://www.youtube.com/watch?v=BO13gECyiuE&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=13)
-14. [Advanced SVG: icon sprite sheets](https://www.youtube.com/watch?v=NI-qGP5m-6M&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=14)
-15. [Advanced SVG: accessibility](https://www.youtube.com/watch?v=BieUh304KDA&index=15&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM)
-16. [<del>Advanced SVG: optimizing with SVGOMG</del>](https://www.youtube.com/watch?v=aVcs-zQ1q4U&index=16&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM)
+2. [Advanced SVG: attributes & CSS](https://www.youtube.com/watch?v=EEtnu8OMD3o&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=3)
+3. [Advanced SVG: optimizing & cleaning](https://www.youtube.com/watch?v=QgOWqHF6SYU&index=2&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM)
+4. [Advanced SVG: text & web fonts](https://www.youtube.com/watch?v=UKXRwuXd7rA&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=8)
+5. [Advanced SVG: masking text](https://www.youtube.com/watch?v=B5ol4ss-mi4&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=9)
+6. [Advanced SVG: gradients on text](https://www.youtube.com/watch?v=xgZkRVCS07Q&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=10)
+7. [Advanced SVG: textures on text](https://www.youtube.com/watch?v=lSNnVbfvJJ0&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=11)
+
+
+8. [Advanced SVG: transitions](https://www.youtube.com/watch?v=vwIVdI3WMIc&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=4)
+9. [Advanced SVG: transform origin with pixels](https://www.youtube.com/watch?v=AcdOzdoB390&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=5)
+10. [Advanced SVG: animations](https://www.youtube.com/watch?v=8s70jpw5B5c&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=6)
+11. [Advanced SVG: icons](https://www.youtube.com/watch?v=EhNHe-f0LBI&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=12)
+12. [Advanced SVG: icon symbols](https://www.youtube.com/watch?v=BO13gECyiuE&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=13)
+13. [Advanced SVG: accessibility](https://www.youtube.com/watch?v=BieUh304KDA&index=15&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM)
+
 
 ## Supplemental links
 
