@@ -19,8 +19,13 @@ Using Illustrator to design graphics and then export them in SVG format allows u
 SVGs are purely vector graphics written in XML markup language. You can use a pure code editor to create an SVG. Let's follow along this series of video tutorial and write SVG markup with VSCode. 
 
 ### Writing SVG code
+
 Check out SVG reference for [Writing SVG code.](./svg.md#writing-svg)
 
+<YouTube
+  title="Writing SVG code"
+  url="https://www.youtube.com/embed/q_3Q9HHcXuA"
+/>
 
 ## TODO
 
