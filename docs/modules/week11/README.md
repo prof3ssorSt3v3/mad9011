@@ -1,4 +1,4 @@
-# Week 11 - APIs, Geolocation
+# Week 11 - SVG Animation 
 
 ::: danger SWITCH TO WINDOWS
 

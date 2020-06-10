@@ -1,13 +1,13 @@
 # Week 6 - Introduction to Adobe Photoshop
 
-## Howdy! 
+## Howdy!
 
 Welcome to Adobe Photoshop, we will use Ps to create raster-based (bitmap) graphics. Our focus will be on mobile features, including designing User Interface(UI), creating/composing graphics and the necessary colour basics. Let's first get familiar with Photoshop workspace and then move to the basic features and tools.
 
 <a href="https://helpx.adobe.com/ca/photoshop/using/workspace-basics.html#workspace_overview" target=”_blank”>![Adobe Photoshop Workspace](./PSworkspace.png)</a>
 
 
-## Basic and popular features & tools
+## Photoshop popular features & tools
 
  We will learn the how's and why's of setting up documents to open or create a new document, save a document, navigate the work area, zoom in/out, and undo mistakes. Take a look at this series of short tutorials to [**Get to know Photoshop.** ](https://helpx.adobe.com/photoshop/how-to/ps-basics-fundamentals.html)
 
