@@ -92,6 +92,9 @@ We can also add image textures to text using SVG and the `<pattern>` tag. In thi
   url="https://www.youtube.com/embed/lSNnVbfvJJ0"
 />
 
+[SVG Reference](./svg.md)
+
+---
 
 
 ## TODO
@@ -99,5 +102,8 @@ We can also add image textures to text using SVG and the `<pattern>` tag. In thi
 ::: tip TODO Before next week
 
 - If you have not read all these notes and watched the videos from this week, do that first.
-- Finish reading the notes for week 9 and watch all the videos in the notes for week 10.
+- Finish reading the notes for week 10 and watch all the videos in the notes for week 11.
+- Hybrid 8 - Coding an SVG 
+- Online Quiz 2 – UI graphic knowledge and tools 
+- Assignment 2 Due
   :::
