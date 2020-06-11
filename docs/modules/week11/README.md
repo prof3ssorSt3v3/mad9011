@@ -38,27 +38,31 @@ Then in CSS, we can do this:
 
 Transitions allow us to smoothly change CSS properties on some elements from one state to another controlling the duration of that change as well as some other properties such as delay and timing function. 
 
-Watch this video to understand the CSS transition properties: `transition-duration`,  `transition-property`, `transition-timing-function`, `transition-delay`
+Watch this tutorial to understand the CSS transition properties: `transition-duration`,  `transition-property`, `transition-timing-function`, `transition-delay`
 
 <YouTube
   title="Animating with CSS Transitions - A look at the transition properties"
   url="https://www.youtube.com/embed/Nloq6uzF8RQ"
 /> 
 
-We will follow along this video to practice adding transitions to an SVG. Create an HTML file, and then add `_flower.svg_` and `_CSS_` code to your `HTML` file. [Download code](../week10/svg.html#resources)
+We will follow along this video to practice adding transitions to an SVG by using CSS `transform` and `transition` properties. Create an HTML file, and then add _`flower.svg`_ and _`CSS`_ code to your `HTML` file. [Download code](../week10/svg.html#resources)
 
 <YouTube
   title="SVG Transitions"
   url="https://www.youtube.com/embed/vwIVdI3WMIc"
 /> 
 
-#### ADDING TRANSFORM ORIGIN 
+**Link**
+[CSS `transform` property values](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 
-Many cities around the world are starting to provide information about the City and its infrastructure to the public as `Open Data`. This is data available free of charge to the general public which most people believe should be public domain information.
+#### Transform Origin with pixels 
 
-Ottawa, [Calgary](https://data.calgary.ca/), [Toronto](https://www.toronto.ca/city-government/data-research-maps/open-data/), [Vancouver](https://vancouver.ca/your-government/open-data-catalogue.aspx) and [Edmonton](https://data.edmonton.ca/) all provide Open data.
+The `transform-origin` SVG attribute sets the origin for an item's transformations. To ensure the animation working correctly in all browsers, we may need to set the pixel value to CSS `transform-origin` property.
 
-[Learn more about OpenData in Ottawa](./ottawa.md)
+<YouTube
+  title="SVG transform-origin"
+  url="https://www.youtube.com/embed/AcdOzdoB390"
+/> 
 
 ### ADDING ANIMATIONS
 
