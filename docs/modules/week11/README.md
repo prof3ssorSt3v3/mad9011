@@ -38,14 +38,14 @@ Then in CSS, we can do this:
 
 Transitions allow us to smoothly change CSS properties on some elements from one state to another controlling the duration of that change as well as some other properties such as delay and timing function. 
 
-Watch this tutorial to understand these CSS transition properties: `transition-duration`,  `transition-property`, `transition-timing-function`, `transition-delay`
+Watch this video to understand the CSS transition properties: `transition-duration`,  `transition-property`, `transition-timing-function`, `transition-delay`
 
 <YouTube
   title="Animating with CSS Transitions - A look at the transition properties"
   url="https://www.youtube.com/embed/Nloq6uzF8RQ"
 /> 
 
-We will follow along this video to practice adding transitions to an SVG. Create an HTML file, and then add `_flower.svg_` and `_CSS_` code into your `HTML` file. [Download code](../week10/svg.html#resources)
+We will follow along this video to practice adding transitions to an SVG. Create an HTML file, and then add `_flower.svg_` and `_CSS_` code to your `HTML` file. [Download code](../week10/svg.html#resources)
 
 <YouTube
   title="SVG Transitions"
