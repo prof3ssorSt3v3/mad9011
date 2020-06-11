@@ -501,13 +501,8 @@ One small little annoyance about using SVG sprite sheets is that some browsers w
 
 Online, like on GitHub, the icons will work perfectly. Locally Safari will load the icons properly but Chrome, Firefox & Opera will not.
 
-To get Chrome, Firefox & Opera to load the SVG icon sprite sheet we need to use a local web server. If you’re using Markbot then drop your project into Markbot and a web server will be initialized for you.
+To get Chrome, Firefox & Opera to load the SVG icon sprite sheet we need to use a local web server. 
 
-![](markbot-server.jpg)
-
-- **Press `⌘B`**
-- Or go to the menu: `File > Browse Local Website`
-- Or press the toolbar icon.
 
 **Links**
 
