@@ -9,9 +9,7 @@ SVG can have lots of effects inside it, including hovers, transitions, and anima
 
 ### Animation with CSS
 
-In this section, we are going to apply what we learned last week to animate SVGs using CSS.
-
-[Learn more about the bitwise operators](./bitwise.md)
+In this section, we are going to apply what we learned last week to animate SVGs using CSS. 
 
 ## The Movie DataBase (TMDB)
 
