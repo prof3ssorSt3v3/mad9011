@@ -5,6 +5,10 @@
 SVG can have lots of effects inside it, including hovers, transitions, and animations, etc. As soon as we put our SVG into our HTML document we can apply all the effects in our CSS file. In this section, we are going to apply what we learned last week so far to animate SVGs using CSS.
 
 
+[Reference: SVG Animation](../svg.md#svg-animation)
+
+[Reference: SVG Animation](././svg.md#svg-animation)
+
 [Reference: SVG Animation](./svg.md#svg-animation)
 
 
