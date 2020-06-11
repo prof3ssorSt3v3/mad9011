@@ -36,9 +36,15 @@ Then in CSS, we can do this:
 
 ### ADDING TRANSITIONS
 
-DarkSky is a weather data API. It gathers information from a number of different sources, does analysis on the data and provides a best estimation of the weather through its API.
+Transitions allow us to smoothly change CSS properties on some elements from one state to another controlling the `duration` of that change as well as some other properties such as delay and timing function. 
 
-[Learn more about DarkSky API](./darksky.md)
+Watch this tutorial to understand these CSS transition properties: `transition-duration`,  `transition-property`, `transition-timing-function`, `transition-delay`
+
+<YouTube
+  title="Animating with CSS Transitions - A look at the transition properties"
+  url="https://www.youtube.com/embed/Nloq6uzF8RQ"
+/> 
+
 
 ### ADDING TRANSFORM ORIGIN 
 
