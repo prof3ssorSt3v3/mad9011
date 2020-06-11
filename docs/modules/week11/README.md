@@ -45,9 +45,14 @@ Watch this tutorial to understand these CSS transition properties: `transition-d
   url="https://www.youtube.com/embed/Nloq6uzF8RQ"
 /> 
 
-We will follow along this video to practice adding transitions to an SVG. [Download related files and code.](../week10/svg.html#resources)
+We will follow along this video to practice adding transitions to an SVG. [Download code.](../week10/svg.html#resources)
 
-### ADDING TRANSFORM ORIGIN 
+<YouTube
+  title="SVG Transitions"
+  url="https://www.youtube.com/embed/vwIVdI3WMIc"
+/> 
+
+#### ADDING TRANSFORM ORIGIN 
 
 Many cities around the world are starting to provide information about the City and its infrastructure to the public as `Open Data`. This is data available free of charge to the general public which most people believe should be public domain information.
 
