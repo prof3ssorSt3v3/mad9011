@@ -9,21 +9,35 @@ SVG can have lots of effects inside it, including hovers, transitions, animation
 
 ## Animation with CSS
 
-In this section, we are going to apply what we learned last week to animate SVGs using CSS. We will cover hovers, transitions, and animations in this lesson.  
+We are going to apply what we learned last week to animate SVGs using CSS. We will cover transitions, transform origin with pixels, and animations in this lesson. 
 
-## The Movie DataBase (TMDB)
+To begin, let's review adding a CSS `hover` state to an SVG which is no different than other HTML elements.
 
-The Movie DataBase (TMDB) is similar to IMDB in the information that it holds. It is an API that provides information about movies and TV shows.
+```xml
+<svg width="100" height="100" viewBox"0 0 100 100">
+   <circle class="my-circle" cx="50" cy="50" r="40" />
+</svg>
+```
 
-[Learn more about TMDB](./tmdb.md)
+Then in CSS, we can do this:
 
-## DarkSky
+```css
+.my-circle {
+  fill: yellow;
+}
+
+.my-circle:hover {
+  fill: orange;
+}
+```
+
+### ADDING TRANSITIONS
 
 DarkSky is a weather data API. It gathers information from a number of different sources, does analysis on the data and provides a best estimation of the weather through its API.
 
 [Learn more about DarkSky API](./darksky.md)
 
-## City of Ottawa Open Data
+### City of Ottawa Open Data
 
 Many cities around the world are starting to provide information about the City and its infrastructure to the public as `Open Data`. This is data available free of charge to the general public which most people believe should be public domain information.
 

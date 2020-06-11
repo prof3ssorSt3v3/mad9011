@@ -30,7 +30,7 @@ Think of an artboard as **a special type of layer group**. We will learn all kin
 />
 
 
-### CHANGE THE IMAGE SIZE
+### CHANGING IMAGE SIZE
 
 We will learn to resize, crop, and straighten an image and change the canvas size. **NOTE:** Canvas and image resize won't work when artboards are used. Resize artboards instead. Let's Begin the video tutorials to [**Change the image size.**](https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html)
 
@@ -40,7 +40,7 @@ We will learn to resize, crop, and straighten an image and change the canvas siz
 - Expand the canvas
 
 
-### MAKE SELECTIONS
+### MAKING SELECTIONS
 
 A selection isolates part of an image so you can work on that area without affecting the rest of the image. Take a look at this series of short tutorials and practice [**making selections.**](https://helpx.adobe.com/photoshop/how-to/selection-tools-basics.html)
 
@@ -58,7 +58,7 @@ Don't forget to try one of the 2020 new tools: `Object Selection`
 />
 
 
-### CREATE SILHOUETTES 
+### CREATING SILHOUETTES 
 
 First, we will make and refine selections in the Selection and Masking Space to create a masking image. Let's practice along with this [Accurately select image areas tutorial.](https://helpx.adobe.com/photoshop/how-to/selection-masking-space.html)
 
