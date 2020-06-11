@@ -36,7 +36,7 @@ Then in CSS, we can do this:
 
 ### ADDING TRANSITIONS
 
-Transitions allow us to smoothly change CSS properties on some elements from one state to another controlling the `duration` of that change as well as some other properties such as delay and timing function. 
+Transitions allow us to smoothly change CSS properties on some elements from one state to another controlling the duration of that change as well as some other properties such as delay and timing function. 
 
 Watch this tutorial to understand these CSS transition properties: `transition-duration`,  `transition-property`, `transition-timing-function`, `transition-delay`
 
@@ -45,7 +45,7 @@ Watch this tutorial to understand these CSS transition properties: `transition-d
   url="https://www.youtube.com/embed/Nloq6uzF8RQ"
 /> 
 
-Follow along with this video to practice 
+We will follow along this video to practice adding transitions to an SVG. [Download related files and code.](../week10/svg.html#resources)
 
 ### ADDING TRANSFORM ORIGIN 
 
