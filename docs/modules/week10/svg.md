@@ -479,7 +479,7 @@ Having to copy-and-paste the SVG code at the top of every SVG file can become cu
 
 [**Spritebot**](https://github.com/thomasjbradley/spritebot) can be used to generate SVG sprite sheets by dropping multiple SVG files into the window and saving out the sprite sheet to a file.
 
-![](spritesheet.jpg)
+![SVG sprite tool developed by Thomas Bradley](spritebot.png)
 
 After you’ve saved the SVG file (I’d likely name it `icons.svg`) you can refer to each symbol with the `<use>` tag, but pointing to the file also.
 
