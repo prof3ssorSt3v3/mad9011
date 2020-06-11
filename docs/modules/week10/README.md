@@ -52,7 +52,7 @@ It's common practice to use both `*SVG style attributes*` and `*CSS*` to style S
 
 Using text directly inside our SVG has lots of benefits: We can apply web fonts, masking, gradients, and textures to them and they are fully **accessible**.  
 
-[Reference: SVG text](./svg.html#svg-text)
+[Reference: SVG text](./svg.md#svg-text)
 
 #### Text & web fonts
 We will follow along this video tutorial to practice using live, accessible `text` inside an embedded SVG and applying web fonts.
