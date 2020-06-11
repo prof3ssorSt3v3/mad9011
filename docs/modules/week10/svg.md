@@ -576,12 +576,14 @@ If you are using the SVG `<text>` element inside your embedded SVG, but don’t 
 13. [Advanced SVG: accessibility](https://www.youtube.com/watch?v=BieUh304KDA&index=15&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM)
 
 
-Extra videos: 
+### Extra videos: 
 - [Advanced SVG: masking images](https://www.youtube.com/watch?v=y8NvpFfdprM&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=7)
 - [Advanced SVG: icon sprite sheets](https://www.youtube.com/watch?v=NI-qGP5m-6M&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=14)
 
-**Links** 
+### Links
 - [Download code](./svgCode.zip)
+- [SVG cheat sheet](https://learn-the-web.algonquindesign.ca/topics/svg-cheat-sheet/)
+
 
 ---
 

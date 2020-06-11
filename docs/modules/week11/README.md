@@ -45,6 +45,7 @@ Watch this tutorial to understand these CSS transition properties: `transition-d
   url="https://www.youtube.com/embed/Nloq6uzF8RQ"
 /> 
 
+Follow along with this video to practice 
 
 ### ADDING TRANSFORM ORIGIN 
 
