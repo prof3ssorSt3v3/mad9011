@@ -2,19 +2,14 @@
 
 ## Applying CSS animations to SVG elements
 
-SVG can have lots of effects inside it, including hovers, transitions, and animations, etc. As soon as we put our SVG into our HTML document we can apply all the effects in our CSS file. In this section, we are going to apply what we learned last week so far to animate SVGs using CSS.
-
-
-[Reference: SVG Animation](../svg.md#svg-animation)
+SVG can have lots of effects inside it, including hovers, transitions, and animations, etc. When we put our SVG into our HTML document, we can apply all these effects in our CSS file. We will also learn SVG icons and apply our animation skills to them. Lastly, we will make SVG accessible and discuss the best practices of using SVGs.
 
 [Reference: SVG Animation](../week10/svg.md#svg-animation)
 
-[Reference: SVG Animation](./svg.md#svg-animation)
 
+### Animation with CSS
 
-## Bitwise Operators
-
-JavaScript has a number of operators that allow us to work with data directly at the binary level. We can actually manipulate the ones and zeros that make up the bits in every value.
+In this section, we are going to apply what we learned last week to animate SVGs using CSS.
 
 [Learn more about the bitwise operators](./bitwise.md)
 
