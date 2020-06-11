@@ -359,7 +359,11 @@ Just treat your SVG elements just like any other HTML elements.
 
 ### Extra: SVG Effects  
 
-Review effects applied to [SVG text.](/#text-gradients)
+Review effects applied to [SVG text.](#text-gradients)
+
+Review effects applied to [SVG text.](./#text-gradients)
+
+Review effects applied to [SVG text.](./svg.md#text-gradients)
 
 #### Masks
 
