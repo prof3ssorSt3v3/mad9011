@@ -13,6 +13,9 @@ Using Illustrator to design graphics and then export them in SVG format allows u
 - Prepare an SVG for animation
 - Export SVG from Illustrator
 
+We will learn SVG animation next week but feel free to watch the 3rd video.   
+- Animate SVG with CSS
+
 <a href="https://www.linkedin.com/learning/css-animation/prepare-an-svg-for-animation" target="_blanck">![From AI to SVG](./prepSVGanimation.png)</a>
 
 
