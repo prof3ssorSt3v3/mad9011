@@ -1,17 +1,12 @@
 # Week 11 - SVG Animation 
 
-::: danger SWITCH TO WINDOWS
+## Applying CSS animations to SVG elements
 
-- We will now be switching over to Windows 10.
-- Make sure that you have installed NodeJS and VSCode for Windows
+SVG can have lots of effects inside it, including hovers, transitions, and animations, etc. As soon as we put our SVG into our HTML document we can apply all the effects in our CSS file. In this section, we are going to apply what we learned last week so far to animate SVGs using CSS.
 
-:::
 
-## HTML5 Geolocation
+[SVG Animation Reference](./svg.html#svg-animation)
 
-On of the APIs added as part of the update to HTML5 was the geolocation API. This let developers determine the latitude and longitude of a device based on either an actual GPS coordinate detection, a cell tower triangulation, or position estimation through wi-fi and network location.
-
-[Learn more about Geolocation](./geolocation.md)
 
 ## Bitwise Operators
 
