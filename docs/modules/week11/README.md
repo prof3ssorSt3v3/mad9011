@@ -45,7 +45,7 @@ Watch this tutorial to understand these CSS transition properties: `transition-d
   url="https://www.youtube.com/embed/Nloq6uzF8RQ"
 /> 
 
-We will follow along this video to practice adding transitions to an SVG. [Download code.](../week10/svg.html#resources)
+We will follow along this video to practice adding transitions to an SVG. Create an HTML file, and then add `_flower.svg_` and `_CSS_` code into your `HTML` file. [Download code](../week10/svg.html#resources)
 
 <YouTube
   title="SVG Transitions"
