@@ -7,7 +7,7 @@ SVG can have lots of effects inside it, including hovers, transitions, and anima
 
 [Reference: SVG Animation](../svg.md#svg-animation)
 
-[Reference: SVG Animation](../../week10/svg.md#svg-animation)
+[Reference: SVG Animation](../week10/svg.md#svg-animation)
 
 [Reference: SVG Animation](./svg.md#svg-animation)
 
