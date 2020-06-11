@@ -28,6 +28,9 @@ Then in CSS, we can do this:
 
 .my-circle:hover {
   fill: orange;
+  stroke: red;
+  stroke-width: 8;
+  stroke-dasharray: 4;
 }
 ```
 
@@ -37,7 +40,7 @@ DarkSky is a weather data API. It gathers information from a number of different
 
 [Learn more about DarkSky API](./darksky.md)
 
-### City of Ottawa Open Data
+### ADDING TRANSFORM ORIGIN 
 
 Many cities around the world are starting to provide information about the City and its infrastructure to the public as `Open Data`. This is data available free of charge to the general public which most people believe should be public domain information.
 
@@ -45,7 +48,7 @@ Ottawa, [Calgary](https://data.calgary.ca/), [Toronto](https://www.toronto.ca/ci
 
 [Learn more about OpenData in Ottawa](./ottawa.md)
 
-## CURL - client url
+### ADDING ANIMATIONS
 
 ClientURL (CURL) is a command line tool that lets you make HTTP requests from the command line. It comes preinstalled on MacOS but can be installed on any OS. It can be very useful for testing APIs and avoiding CORS issues when planning your fetch code.
 
