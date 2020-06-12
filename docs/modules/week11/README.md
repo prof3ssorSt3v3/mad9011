@@ -65,7 +65,7 @@ The `transform-origin` SVG attribute sets the origin for an item's transformatio
   url="https://www.youtube.com/embed/AcdOzdoB390"
 /> 
 
-**References**
+**Reference**
 
 - [CSS `transition` properties](https://www.w3schools.com/css/css3_transitions.asp)
 - [CSS 2D `transform` properties](https://www.w3schools.com/css/css3_2dtransforms.asp)
@@ -79,11 +79,22 @@ The three most common SVG properties we can animate with CSS, are SVG `fill` pro
 
 To use CSS animation, we will first specify some keyframes for the animation. Keyframes hold what styles the element will have at certain times.
 
-### The @keyframes Rule
+#### The @keyframes Rule
 
-When we specify CSS styles inside the `@keyframes` rule, the animation will gradually change from the current style to the new style at certain times. To get an animation to work, you must bind the animation to an element.
+When we specify CSS styles inside the `@keyframes` rule, the animation will gradually change from the current style to the new style at certain times. To get an animation to work, you must bind the `animation` to an element.
 
-[CSS animation shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+#### CSS animation
+
+The `animation` property is a shorthand property for:
+
+- animation-name
+- animation-duration
+- animation-timing-function
+- animation-delay
+- animation-iteration-count
+- animation-direction
+- animation-fill-mode
+- animation-play-state
 
 <YouTube
   title="SVG animations"
@@ -93,6 +104,13 @@ When we specify CSS styles inside the `@keyframes` rule, the animation will grad
 Let's watch the 3rd video from LinkedIn Learning tutorial *CSS: Animation* to review 
 - [Animate SVG with CSS](https://www.linkedin.com/learning/css-animation/animate-svg-with-css)
 
+
+**Reference**
+
+- [CSS `animation` shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+- [CSS `animation` properties](https://www.w3schools.com/cssref/css3_pr_animation.asp)
+
+---
 
 ## SVG icons
 
