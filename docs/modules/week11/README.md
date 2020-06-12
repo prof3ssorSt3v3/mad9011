@@ -67,9 +67,9 @@ The `transform-origin` SVG attribute sets the origin for an item's transformatio
 
 **References**
 
-[CSS `transition` properties](https://www.w3schools.com/css/css3_transitions.asp)
-[CSS 2D `transform` properties](https://www.w3schools.com/css/css3_2dtransforms.asp)
-[CSS 3D `transform` properties](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+- [CSS `transition` properties](https://www.w3schools.com/css/css3_transitions.asp)
+- [CSS 2D `transform` properties](https://www.w3schools.com/css/css3_2dtransforms.asp)
+- [CSS 3D `transform` properties](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 
 ---
 
