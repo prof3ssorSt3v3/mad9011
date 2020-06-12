@@ -49,9 +49,7 @@ CSS transitions provide a way to control the speed in which CSS property changes
 }
 ```
 
-#### transition-property
-
-The `transition-property` sets which CSS properties will be transitioned. 
+- The `transition-property` sets which CSS properties will be transitioned. 
 
 ```css
 /* Affects all properties, all is the default. */
@@ -71,17 +69,11 @@ The `transition-property` sets which CSS properties will be transitioned.
 }
 ```
 
-#### transition-duration
+- The `transition-duration` property sets how long a property will take to transition from one state to the next. The default value is *0s* and can be set to *seconds (s)* or *miliseconds (ms)*.
 
-The `transition-duration` property sets how long a property will take to transition from one state to the next. The default value is *0s* and can be set to *seconds (s)* or *miliseconds (ms)*.
+- The `transition-delay` property sets how long to wait before the transition should start. The default value is *0s* and can be set to *seconds (s)* or *miliseconds (ms)*.
 
-#### transition-delay
-
-The `transition-delay` property sets how long to wait before the transition should start. The default value is *0s* and can be set to *seconds (s)* or *miliseconds (ms)*.
-
-#### transition-timing-function
-
-The `transition-timing-function` property sets the speed curve of the transition. Common timing fuction value include ease, ease-in, ease-out, ease-in-out, linear, step-start, step-end.
+- The `transition-timing-function` property sets the speed curve of the transition. Common timing fuction value include ease, ease-in, ease-out, ease-in-out, linear, step-start, step-end.
 
 
 ## CSS Transform
