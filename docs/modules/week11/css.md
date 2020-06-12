@@ -159,7 +159,8 @@ CSS `animation` properties make it possible to animate transitions from one CSS 
 CSS Animation consist of two components, a style describing the CSS `animation` and a set of `keyframes` that indicate the start and end states of the animation’s style, as well as possible intermediate keyframes. 
 
 - The `@keyframes` CSS at-rule controls the intermediate steps in a CSS animation sequence
-- The @keyframes by establishes keyframes along the animation sequence that must be reached by certain points during the animation
+- The @keyframes establishes keyframes along the animation sequence that must be reached by certain points during the animation
+
 
 
 ```css
@@ -173,3 +174,15 @@ CSS Animation consist of two components, a style describing the CSS `animation` 
     animation-delay: 2s;
 }
 ```
+
+### CSS Animation Properties
+- `@keyframes`: Specifies the animation code
+- `animation`: A shorthand property for setting *all* the animation properties
+- `animation-name`: Specifies the name of the `@keyframes` animation
+- `animation-delay`: Specifies a delay for the start of an animation
+- `animation-direction`: Specifies whether an animation should be played `forwards`, `backwards` or in `alternate` cycles
+- `animation-duration`: Specifies how long time an animation should take to complete one cycle
+- `animation-fill-mode`: Specifies a style for the element when the animation is not playing (before it starts, after it ends, or both)
+- `animation-iteration-count`: Specifies the number of times an animation should be played
+- `animation-play-state`: Specifies whether the animation is *running* or *paused*
+- `animation-timing-function`: Specifies the *speed curve* of the animation (similar to the transition-timing-function)
