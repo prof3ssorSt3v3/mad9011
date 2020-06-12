@@ -81,7 +81,7 @@ To use CSS animation, we will first specify some keyframes for the animation. Ke
 
 #### The @keyframes Rule
 
-When we specify CSS styles inside the `@keyframes` rule, the animation will gradually change from the current style to the new style at certain times. To get an animation to work, you must bind the `animation` to an element.
+When we specify CSS styles inside the `@keyframes` rule, the `animation` will gradually change from the current style to the new style at certain times. To get an animation to work, you must bind the animation to an element.
 
 #### CSS animation
 
@@ -101,8 +101,7 @@ The `animation` property is a shorthand property for:
   url="https://www.youtube.com/embed/8s70jpw5B5c"
 /> 
 
-Let's watch the 3rd video from LinkedIn Learning tutorial *CSS: Animation* to review 
-- [Animate SVG with CSS](https://www.linkedin.com/learning/css-animation/animate-svg-with-css)
+Let's watch the 3rd video,[Animate SVG with CSS](https://www.linkedin.com/learning/css-animation/animate-svg-with-css) on LinkedIn Learning *CSS: Animation* tutorial to review what we have learned. 
 
 
 **Reference**
