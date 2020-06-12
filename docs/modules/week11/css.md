@@ -35,7 +35,7 @@ input[type="checkbox"]:checked {
 CSS transitions provide a way to control the speed in which CSS property changes. You can cause the CSS property change to take place immediately or over a period of time. There are 4 CSS Transition properties: 
 
 ```css
-// Defaults of transition properties
+/* Defaults of transition properties */
 .button {
     transition-property: all;
     transition-duration: 0s;
@@ -43,11 +43,30 @@ CSS transitions provide a way to control the speed in which CSS property changes
     transition-delay: 0s;
 }
 
-// Shorthand
+/* Shorthand */
 .button {
     transition: all 0s ease 0s;
 }
+```
 
+#### transition-property
+
+```css
+/* Affects all properties, all is default. */
+.button {
+    transition: all 1s ease 0s;
+}
+
+/* Does NOT work! */
+.button {
+    transition: color 1s;
+    transition: width 2s;
+}
+
+/* Use a comma to separate multiple transition properties */
+.button {
+    transition: color 1s, width 2s;
+}
 ```
 
 
