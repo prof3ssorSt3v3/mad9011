@@ -32,7 +32,7 @@ input[type="checkbox"]:checked {
 
 ## CSS Transition
 
-CSS transitions provide a way to control the speed in which CSS property changes. You can cause the CSS property change to take place immediately or over a period of time. There are 4 CSS transition properties: 
+To create a CSS transition effect, you must specify the *CSS property* you want to add an effect to and the *duration* of the effect. The transition takes no effect when it is at its default duration value of 0.  We will use the following transition properties: `transition`, `transition-delay`, `transition-duration`, `transition-property`, `transition-timing-function`
 
 ```css
 /* Defaults of transition properties */
@@ -49,7 +49,7 @@ CSS transitions provide a way to control the speed in which CSS property changes
 }
 ```
 
-- The `transition-property` sets which CSS properties will be transitioned. 
+- The `transition-property` sets which CSS properties will be transitioned. E.g. color, width, height
 
 ```css
 /* Affects all properties, all is the default. */
@@ -154,7 +154,22 @@ The `translate()` function moves an element in a X and Y direction.
 
 ## CSS Animation
 
-CSS `animation` property makes it possible to animate transitions from one CSS style configuration to another with more control than with using `transition`.
+CSS `animation` properties make it possible to animate transitions from one CSS style configuration to another with more control than with using `transition`.
 
 CSS Animation consist of two components, a style describing the CSS `animation` and a set of `keyframes` that indicate the start and end states of the animation’s style, as well as possible intermediate keyframes. 
 
+- The `@keyframes` CSS at-rule controls the intermediate steps in a CSS animation sequence
+- The @keyframes by establishes keyframes along the animation sequence that must be reached by certain points during the animation
+
+
+```css
+.box {
+    animation-name: spin;
+    animation-duration: 4s;
+    animation-iteration-count: 10;
+    animation-direction: reverse;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+    animation-delay: 2s;
+}
+```

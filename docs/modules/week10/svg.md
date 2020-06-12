@@ -584,6 +584,7 @@ If you are using the SVG `<text>` element inside your embedded SVG, but don’t 
 
 ## Supplemental links
 
+- [Pocket Guide to Writing SVG](https://svgpocketguide.com/book/)
 - [**CSS-Tricks: How to Scale SVG**](https://css-tricks.com/scale-svg/)
 - [**CSS-Tricks: A Compendium of SVG Information**](https://css-tricks.com/mega-list-svg-information/)
 - [**MDN: SVG**](https://developer.mozilla.org/en-US/docs/Web/SVG)
