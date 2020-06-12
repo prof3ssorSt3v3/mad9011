@@ -57,7 +57,7 @@ We will follow along this video to practice adding transitions to an SVG by usin
 
 #### Transform Origin with pixels 
 
-The `transform-origin` SVG attribute sets the origin for an item's transformations. To ensure the animation working correctly in all browsers, we may need to set the pixel value to CSS `transform-origin` property.
+The `transform-origin` SVG attribute sets the origin for an item's transformations and it defults to the top left corner of the SVG canvas. However, the default transform origin for HTML elements is in the middle of themselves. To ensure the SVG animation working correctly in all browsers, we may need to set the pixel value to CSS `transform-origin` property. 
 
 <YouTube
   title="SVG transform-origin"
@@ -66,9 +66,11 @@ The `transform-origin` SVG attribute sets the origin for an item's transformatio
 
 ### ADDING ANIMATIONS
 
-ClientURL (CURL) is a command line tool that lets you make HTTP requests from the command line. It comes preinstalled on MacOS but can be installed on any OS. It can be very useful for testing APIs and avoiding CORS issues when planning your fetch code.
+The three most common SVG properties we can animate with CSS, are the SVG `fill` property, `opacity`, and CSS `transforms` on SVG elements. 
 
-[Learn more about CURL](./curl.md)
+
+[CSS animation shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+
 
 ## Async - Await
 
