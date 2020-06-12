@@ -38,6 +38,8 @@ Then in CSS, we can do this:
 
 Transitions allow us to smoothly change CSS properties on some elements from one state to another controlling the duration of that change as well as some other properties such as delay and timing function. 
 
+#### CSS transition
+
 Watch this tutorial to understand the CSS transition properties: `transition-duration`,  `transition-property`, `transition-timing-function`, `transition-delay`
 
 <YouTube
@@ -45,15 +47,14 @@ Watch this tutorial to understand the CSS transition properties: `transition-dur
   url="https://www.youtube.com/embed/Nloq6uzF8RQ"
 /> 
 
+#### CSS transform
+
 We will follow along this video to practice adding transitions to an SVG by using CSS `transform` and `transition` properties. Create an HTML file, and then add _`flower.svg`_ and _`CSS`_ code to your `HTML` file. [Download code](../week10/svg.html#resources)
 
 <YouTube
   title="SVG Transitions"
   url="https://www.youtube.com/embed/vwIVdI3WMIc"
 /> 
-
-**Link**
-[CSS `transform` property values](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 
 #### Transform Origin with pixels 
 
@@ -63,6 +64,13 @@ The `transform-origin` SVG attribute sets the origin for an item's transformatio
   title="SVG transform-origin"
   url="https://www.youtube.com/embed/AcdOzdoB390"
 /> 
+
+**References**
+[CSS `transition` properties](https://www.w3schools.com/css/css3_transitions.asp)
+[CSS 2D `transform` properties](https://www.w3schools.com/css/css3_2dtransforms.asp)
+[CSS 3D `transform` properties](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+
+---
 
 ### ADDING ANIMATIONS
 
