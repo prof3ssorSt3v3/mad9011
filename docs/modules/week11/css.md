@@ -101,9 +101,7 @@ The `translate()` function moves an element in a X and Y direction.
 }
 ```
 
-#### scale()
-
-The `scale()` function will increase or decrease the size of the element by multiple provided
+- The `scale()` function will increase or decrease the size of the element by multiple provided
 
 ```css
 /* Increase the size in both directions */
@@ -122,9 +120,7 @@ The `scale()` function will increase or decrease the size of the element by mult
 }
 ```
 
-#### rotate()
-
-The `rotate()` will rotate an element by the given angle on the Z-axis. Use `rotateX()` or `rotateY()` to rotate an element on the X and Y axis. The angle value takes `deg` or `turn` units.  
+- The `rotate()` will rotate an element by the given angle on the Z-axis. Use `rotateX()` or `rotateY()` to rotate an element on the X and Y axis. The angle value takes `deg` or `turn` units.  
 
 ```css
 /* Rotate clockwise half way around */
@@ -153,9 +149,7 @@ The `rotate()` will rotate an element by the given angle on the Z-axis. Use `rot
 }
 ```
 
-#### skew()
-
-The `skew()` function skews the element in X and Y direction by the provide angle. The value must be `deg` units
+- The `skew()` function skews the element in X and Y direction by the provide angle. The value must be `deg` units
 
 
 ## CSS Animation
