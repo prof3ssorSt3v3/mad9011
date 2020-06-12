@@ -66,13 +66,26 @@ The `transform-origin` SVG attribute sets the origin for an item's transformatio
 
 ### ADDING ANIMATIONS
 
-The three most common SVG properties we can animate with CSS, are the SVG `fill` property, `opacity`, and CSS `transforms` on SVG elements. 
+The three most common SVG properties we can animate with CSS, are SVG `fill` property, `opacity`, and CSS `transforms` on SVG elements. 
 
+To use CSS animation, we will first specify some keyframes for the animation. Keyframes hold what styles the element will have at certain times.
+
+### The @keyframes Rule
+
+When we specify CSS styles inside the `@keyframes` rule, the animation will gradually change from the current style to the new style at certain times. To get an animation to work, you must bind the animation to an element.
 
 [CSS animation shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
 
+<YouTube
+  title="SVG animations"
+  url="https://www.youtube.com/embed/8s70jpw5B5c"
+/> 
 
-## Async - Await
+Let's watch the 3rd video from LinkedIn Learning tutorial *CSS: Animation* to review 
+- [Animate SVG with CSS](https://www.linkedin.com/learning/css-animation/animate-svg-with-css)
+
+
+## SVG icons
 
 As part of ES6, there were two new keywords `async` and `await` that allowed us to tell JavaScript that we were calling a method, which we expected to be an asychronous one, and have our function wait for the response in a synchronous way. Effectively it wraps the command inside a `Promise`.
 
