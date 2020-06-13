@@ -67,8 +67,9 @@ Watch this video tutorial to understand how they work.
   url="https://www.youtube.com/embed/Nloq6uzF8RQ"
 /> 
 
-**Links**
-- [Transition reference](https://www.w3schools.com/css/css3_transitions.asp)
+**References**
+
+- [CSS `transition`](https://www.w3schools.com/css/css3_transitions.asp)
 - [Experiment on w3schools.com](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_transitions5)
 
 
@@ -108,11 +109,11 @@ The `transform-origin` SVG attribute sets the origin for an item's transformatio
 /> 
 
 
-**Links**
+**References**
 
-- [Examples on Codepen](https://codepen.io/nat-king/pen/LKgeoE)
 - [CSS 2D Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
 - [CSS 3D Transforms](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+- [Examples on Codepen](https://codepen.io/nat-king/pen/LKgeoE)
 
 ---
 
@@ -147,31 +148,49 @@ This time, we will also watch the 3rd video,[Animate SVG with CSS](https://www.l
 Before you dive into Hybrid 8 - Coding an SVG, let's check out some cool [SVG with CSS animations made by *Hope Armstrong*.](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/)
 
 
-**Reference**
+**References**
+
 - [CSS `animation` shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
 - [CSS Animations](https://www.w3schools.com/cssref/css3_pr_animation.asp)
 
 ---
 
-## SVG icons
+## SVG icons & symbols
 
-As part of ES6, there were two new keywords `async` and `await` that allowed us to tell JavaScript that we were calling a method, which we expected to be an asychronous one, and have our function wait for the response in a synchronous way. Effectively it wraps the command inside a `Promise`.
+Animated SVGs are great for icons which can indicate micro-interactions and state changes and guide a user to the next action in an onboarding tour. They are commonly used to show status of loading, uploading, menu toggling, and playing/pausing a video. We will practice using SVG icons in this tutorial. 
 
-[Learn more about async and await](./async.md)
+<YouTube
+  title="SVG icons"
+  url="https://www.youtube.com/embed/EhNHe-f0LBI"
+/> 
 
-## Iterable and Enumerable
+#### SVG symbols
 
-Some objects are iterable and others are enumerable, and some are both. Understanding the difference between the two can help you write your code more effectively and without unexpected errors.
+We will practice using SVG `symbol` and `use` elements to make SVG icon systems.
 
-[Learn more about Iterable and Enumerable](./iter.md)
+<YouTube
+  title="SVG symbols"
+  url="https://www.youtube.com/embed/BO13gECyiuE"
+/> 
 
-## Content Security Policy
+--
 
-There is a `meta` tag that you should add to all your webpages. This Content-Security-Policy tag will help you to protect your users from Cross-Site Scripting (XSS) attacks.
+## SVG accessiblity
+Lastly, we will use the extended accessibility features of SVG and when/how to hide embedded SVG from accessibility tools.
 
-You should add this to ALL your webpages, web apps, and hybrid apps.
+<YouTube
+  title="SVG accessiblity"
+  url="https://www.youtube.com/embed/BieUh304KDA"
+/> 
 
-[Learn more about CSP](./csp.md)
+
+To conclude our SVG learning, let's watch Sarah Drasner's 2019 presentation: SVG Will Save Us
+
+<YouTube
+  title="SVG Will Save Us"
+  url="https://www.youtube.com/embed/sxte3WpyO60"
+/> 
+
 
 ## TODO
 
