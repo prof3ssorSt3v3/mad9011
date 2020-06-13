@@ -218,6 +218,5 @@ Sarah Drasner's presentation in 2019, *SVG Will Save Us*, nicely summarizes the 
 
 - If you have not read all these notes and watched the videos from this week, do that first.
 - Finish reading the notes for week 11 and watch all the videos in the notes for week 12.
-- Hybrid Exercise: Adobe XD Exercise (not marked)
-
+- Hybrid Exercise: XD Exercise (not marked)
   :::
