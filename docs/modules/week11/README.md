@@ -83,6 +83,11 @@ CSS `transform` properties let us move, rotate, scale, and skew elements. We can
 **3D transform methods**: `rotateX()`, `rotateY()`, `rotateZ()`
 
 ```css
+
+transform: none|transform-functions|initial|inherit;
+```
+
+```css
 /* property name | duration | timing function */
 .button {
   transition: transform 2s linear;
@@ -115,7 +120,7 @@ The SVG `transform-origin` attribute sets the origin for an item's transformatio
 
 - [CSS 2D Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
 - [CSS 3D Transforms](https://www.w3schools.com/cssref/css3_pr_transform.asp)
-- [Examples on Codepen](https://codepen.io/nat-king/pen/LKgeoE)
+- [Try them on Codepen](https://codepen.io/nat-king/pen/LKgeoE)
 
 ---
 
@@ -145,7 +150,7 @@ Watch this video to complete our practice to create SVG animation with CSS.
   url="https://www.youtube.com/embed/8s70jpw5B5c"
 /> 
 
-This time, we will also watch the 3rd video,[Animate SVG with CSS](https://www.linkedin.com/learning/css-animation/animate-svg-with-css) on LinkedIn Learning *CSS: Animation* tutorial to review what we have learned. 
+This time, we will watch the 3rd video, [Animate SVG with CSS](https://www.linkedin.com/learning/css-animation/animate-svg-with-css) on LinkedIn Learning *CSS: Animation* tutorial to review what we have learned. 
 
 Before you dive into Hybrid 8 - Coding an SVG, let's check out some cool [SVG with CSS animations made by *Hope Armstrong*.](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/)
 
@@ -191,7 +196,7 @@ Lastly, we will learn the extended accessibility features of SVG and know when/h
 
 **Conclusion**
 
-Sarah Drasner's presentation in 2019, *SVG Will Save Us*, nicely summarizes the importance of using SVG and some best practices.
+Sarah Drasner's presentation in 2019, *SVG Will Save Us*, nicely summarizes the importance of using SVG for mobile and web development and some best practices.
 
 <YouTube
   title="SVG Will Save Us"
@@ -213,4 +218,6 @@ Sarah Drasner's presentation in 2019, *SVG Will Save Us*, nicely summarizes the 
 
 - If you have not read all these notes and watched the videos from this week, do that first.
 - Finish reading the notes for week 11 and watch all the videos in the notes for week 12.
+- Hybrid Exercise: Adobe XD Exercise (not marked)
+
   :::
