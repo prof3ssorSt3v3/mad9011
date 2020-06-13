@@ -95,6 +95,8 @@ These **online tools** let us generate code for *SVG gradients*, *CSS gradients*
 
 We can also add image textures to text using SVG and the `<pattern>` tag. In this video, we make the pattern big enough to only show it once.
 
+[Reference: Adding texture to text](./svg.md#adding-textures-to-text)
+
 <YouTube
   title="SVG: textures on text"
   url="https://www.youtube.com/embed/lSNnVbfvJJ0"
