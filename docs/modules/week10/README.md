@@ -102,7 +102,8 @@ We can also add image textures to text using SVG and the `<pattern>` tag. In thi
   url="https://www.youtube.com/embed/lSNnVbfvJJ0"
 />
 
-[SVG Reference](./svg.md)
+- [SVG Reference](./svg.md)
+- [Download code](./svg.md#resources)
 
 ---
 

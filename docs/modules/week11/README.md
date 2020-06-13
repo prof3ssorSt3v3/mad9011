@@ -5,7 +5,7 @@
 SVG can have lots of effects inside it, including hovers, transitions, animations, masking, filter, and patterns etc. First, we will put our SVG into our HTML document and then apply some of these effects in our CSS file. We will learn how to use/reuse SVG symbols and icons and apply animation to them. Lastly, we will make SVG accessible and discuss SVG best practices.
 
 - [Reference: SVG Animation](../week10/svg.md#svg-animation)
-- [Download code](../week10/svg.html#resources)
+- [Download code](../week10/svg.md#resources)
 
 
 ## Animation with CSS
@@ -99,7 +99,7 @@ transform: none|transform-functions|initial|inherit;
 }
 ```
 
-We will follow along this video to practice adding transitions to an SVG by using CSS `transform` and `transition` properties. Let's create an HTML file, and then add _`flower.svg`_ and _`CSS`_ code to your HTML file. [Download code](../week10/svg.html#resources)
+We will follow along this video to practice adding transitions to an SVG by using CSS `transform` and `transition` properties. Let's create an HTML file, and then add _`flower.svg`_ and _`CSS`_ code to your HTML file. [Download code](../week10/svg.md#resources)
 
 <YouTube
   title="SVG Transitions"
@@ -206,7 +206,7 @@ Sarah Drasner's presentation in 2019, *SVG Will Save Us*, nicely summarizes the 
 
 **References**
 - [SVG References](../week10/svg.md)
-- [Download code](../week10/svg.html#resources)
+- [Download code](../week10/svg.md#resources)
 - [**Pocket Guide to Writing SVG**](http://svgpocketguide.com/)
 - [Advanced CSS on w3school.com](https://www.w3schools.com/css/css3_2dtransforms.asp)
 - [CSS Animations](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/)
