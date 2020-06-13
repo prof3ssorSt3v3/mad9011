@@ -147,7 +147,6 @@ We can use some optimization tools to clean up the SVG.
 
 **Links**
 
-- [**Pocket Guide to Writing SVG**](http://svgpocketguide.com/)
 - [**W3: SVG 1.1 Styling**](http://www.w3.org/TR/SVG11/styling.html)
 - [**W3: SVG properties that can be used in CSS**](http://www.w3.org/TR/SVG/propidx.html)
 - [SVG Basics—How To Create Simple Shapes And Lines](http://www.vanseodesign.com/web-design/svg-shapes-lines/)
