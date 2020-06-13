@@ -201,6 +201,9 @@ multiple access to content aware fill: Edit > Content-Aware Fill... // Edit > Fi
 A good in-class exercise 
 - https://codepen.io/nat-king/pen/bGGjgNe?editors=1100 
 - video:https://youtu.be/nor4VK9al4c
+
+A good svg example: attributes with CSS animation
+- https://codepen.io/team/css-tricks/pen/LGVryo
 ```
 
 ## MODULE FOUR: User interface interaction design concepts – Putting it all together
