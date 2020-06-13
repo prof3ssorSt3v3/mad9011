@@ -9,9 +9,9 @@ SVG can have lots of effects inside it, including hovers, transitions, animation
 
 ## Animation with CSS
 
-We are going to apply what we learned last week to animate SVGs using CSS. We will cover transitions, transform origin with pixels, and animations in this lesson. 
+There are SVG specific animations, named SMIL, but they are becoming deprecated. So CSS animations are a better way to go. Just treat your SVG elements like any other HTML elements. We will cover `transition`, `transform`, `transform-origin` with pixels, and `animation` in this lesson. 
 
-To begin, let's review adding a CSS `hover` state to an SVG which is no different than other HTML elements.
+To begin, let's review adding a CSS `hover` state to an SVG and then we will apply trasitions to it.
 
 ```xml
 <svg width="100" height="100" viewBox"0 0 100 100">
@@ -22,11 +22,11 @@ To begin, let's review adding a CSS `hover` state to an SVG which is no differen
 Then in CSS, we can do this:
 
 ```css
-.my-circle {
+.button {
   fill: yellow;
 }
 
-.my-circle:hover {
+.button:hover {
   fill: orange;
   stroke: red;
   stroke-width: 8;
@@ -36,16 +36,40 @@ Then in CSS, we can do this:
 
 ### ADDING TRANSITIONS
 
-Transitions allow us to smoothly change CSS properties on some elements from one state to another controlling the duration of that change as well as some other properties such as delay and timing function. 
+CSS transitions allows you to change property values from one state to another smoothly, over a given duration.
 
 #### CSS transition
 
-Watch this tutorial to understand the CSS transition properties: `transition-duration`,  `transition-property`, `transition-timing-function`, `transition-delay`
+The `transition` CSS property is a shorthand property for `transition-property`, `transition-duration`, `transition-timing-function`, and `transition-delay`. 
+
+```css
+/* Apply to 1 property */
+/* property name | duration | timing function | delay */
+.button {
+  transition: fill 4s ease-in-out 1s;
+}
+
+/* Apply to 2 properties */
+.button {
+  transition: fill 4s, stroke-width 1s;
+}
+
+/* Apply to all (default) changed properties */
+transition: all 0.5s ease-out;
+```
+
+Watch this video tutorial to understand how they work.
 
 <YouTube
   title="Animating with CSS Transitions - A look at the transition properties"
   url="https://www.youtube.com/embed/Nloq6uzF8RQ"
 /> 
+
+**Links**
+- [Examples on Codepen](https://codepen.io/nat-king/pen/LKgeoE)
+- [Transition reference](https://www.w3schools.com/css/css3_transitions.asp)
+- [Practice on w3schools](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_transitions5)
+
 
 #### CSS transform
 
@@ -73,7 +97,7 @@ The `transform-origin` SVG attribute sets the origin for an item's transformatio
 
 ---
 
-### ADDING ANIMATIONS
+### ADDING CSS ANIMATIONS
 
 The three most common SVG properties we can animate with CSS, are SVG `fill` property, `opacity`, and CSS `transforms` on SVG elements. 
 
@@ -102,6 +126,8 @@ The `animation` property is a shorthand property for:
 /> 
 
 Let's watch the 3rd video,[Animate SVG with CSS](https://www.linkedin.com/learning/css-animation/animate-svg-with-css) on LinkedIn Learning *CSS: Animation* tutorial to review what we have learned. 
+
+We can experiment with these CodePen examples: 
 
 
 **Reference**
