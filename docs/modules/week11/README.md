@@ -88,7 +88,7 @@ transform: none|transform-functions|initial|inherit;
 ```
 
 ```css
-/* Shorthand property name | duration | timing function */
+/* `transition` property name | duration | timing function */
 .button {
   transition: transform 2s linear;
 }
