@@ -41,7 +41,7 @@ CSS transitions allows you to change property values from one state to another s
 
 #### CSS transitions
 
-The `transition` CSS property is a shorthand property for `transition-property`, `transition-duration`, `transition-timing-function`, and `transition-delay`. 
+The CSS `transition` property is a shorthand property for `transition-property`, `transition-duration`, `transition-timing-function`, and `transition-delay`. 
 
 ```css
 /* Apply to 1 property */
@@ -83,12 +83,12 @@ CSS `transform` properties let us move, rotate, scale, and skew elements. We can
 **3D transform methods**: `rotateX()`, `rotateY()`, `rotateZ()`
 
 ```css
-
+/* CSS transform syntax */
 transform: none|transform-functions|initial|inherit;
 ```
 
 ```css
-/* property name | duration | timing function */
+/* Shorthand property name | duration | timing function */
 .button {
   transition: transform 2s linear;
 }
@@ -108,7 +108,7 @@ We will follow along this video to practice adding transitions to an SVG by usin
 
 #### Transform Origin pixels 
 
-The SVG `transform-origin` attribute sets the origin for an item's transformations and its default value is the top left corner of the *SVG* canvas. However, the default transform origin for *HTML* elements is in the middle of themselves. To ensure the SVG animation working correctly in all browsers, we may need to set the pixel value to CSS `transform-origin` property. 
+The SVG `transform-origin` attribute sets the origin for an item's transformations and the default value is the top left corner of the *SVG* canvas. However, the default transform origin for *HTML* elements is in the middle of themselves. To ensure the SVG animation working correctly in all browsers, we may need to set the pixel value to CSS `transform-origin` property. 
 
 <YouTube
   title="SVG transform-origin"
@@ -126,7 +126,7 @@ The SVG `transform-origin` attribute sets the origin for an item's transformatio
 
 ### ADDING CSS ANIMATIONS
 
-The three most common SVG properties we can animate with CSS, are SVG `fill` property, `opacity`, and CSS `transforms` on SVG elements. 
+The three most common SVG properties we can animate with CSS, are SVG `fill`, `opacity`, and CSS `transform` on SVG elements. 
 
 To use CSS animation, we will first specify some keyframes for the animation. Keyframes hold what styles the element will have at certain times.
 
