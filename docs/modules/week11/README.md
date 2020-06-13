@@ -194,7 +194,7 @@ Lastly, we will learn the extended accessibility features of SVG and know when/h
   url="https://www.youtube.com/embed/BieUh304KDA"
 /> 
 
-**Conclusion**
+## Conclusion
 
 Sarah Drasner's presentation in 2019, *SVG Will Save Us*, nicely summarizes the importance of using SVG for mobile and web development and some best practices.
 
