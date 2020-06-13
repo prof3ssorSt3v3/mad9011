@@ -5,6 +5,7 @@
 SVG can have lots of effects inside it, including hovers, transitions, animations, masking, filter, and patterns etc. First, we will put our SVG into our HTML document and then apply some of these effects in our CSS file. We will learn how to use/reuse SVG symbols and icons and apply animation to them. Lastly, we will make SVG accessible and discuss SVG best practices.
 
 [Reference: SVG Animation](../week10/svg.md#svg-animation)
+[Download code](../week10/svg.html#resources)
 
 
 ## Animation with CSS
@@ -38,7 +39,7 @@ Then in CSS, we can do this:
 
 CSS transitions allows you to change property values from one state to another smoothly, over a given duration.
 
-#### CSS transition
+#### CSS transitions
 
 The `transition` CSS property is a shorthand property for `transition-property`, `transition-duration`, `transition-timing-function`, and `transition-delay`. 
 
@@ -73,9 +74,9 @@ Watch this video tutorial to understand how they work.
 - [Try them on w3schools.com](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_transitions5)
 
 
-#### CSS transform
+#### CSS transforms
 
-CSS `transform` properties let us move, rotate, scale, and skew elements. We can apply a 2D or 3D transformation to an element.
+CSS `transform` properties let us move, rotate, scale, and skew elements. We can apply 2D or 3D transformations to an element.
 
 **2D transform methods**: `translate()`, `rotate()`, `scaleX()`, `scaleY()`, `scale()`, `skewX()`, `skewY()`, `skew()`, `matrix()`
 
@@ -99,7 +100,7 @@ We will follow along this video to practice adding transitions to an SVG by usin
   url="https://www.youtube.com/embed/vwIVdI3WMIc"
 /> 
 
-#### Transform Origin with pixels 
+#### Transform Origin pixels 
 
 The `transform-origin` SVG attribute sets the origin for an item's transformations and it defults to the top left corner of the *SVG* canvas. However, the default transform origin for HTML elements is in the middle of themselves. To ensure the SVG animation working correctly in all browsers, we may need to set the pixel value to CSS `transform-origin` property. 
 
@@ -137,7 +138,7 @@ iteration-count | direction | fill-mode | play-state | name */
 animation: 3s ease-in 1s 2 reverse both paused slidein;
 ```
 
-Watch this video to complete our SVG animation with CSS practice. 
+Watch this video to complete our practice to create SVG animation with CSS. 
 <YouTube
   title="SVG animations"
   url="https://www.youtube.com/embed/8s70jpw5B5c"
