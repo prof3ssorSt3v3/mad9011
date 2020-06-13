@@ -21,7 +21,7 @@
 - Illustrator Artboards
 - Creating, selecting, and editing shapes and strokes 
 - Colour of fill and stroke 
-
+---
 - Hybrid Exercise: 1. Nike logo (3%)
 - Hybrid: Next week learning module videos
 
@@ -37,7 +37,7 @@
 - Recoloring artwork
 - Gradient tool
 - Transform options (rotate, reflect, and shear)
-
+---
 - Hybrid Exercise: 2. Design a Button (3%)
 - Hybrid: Next week learning module videos
 - Pertinent Discussion (3%)
@@ -51,13 +51,15 @@
 - The Pencils and Paintbrush tools
 - Pathfinder and Builder tools
 - Clipping mask
-
-- Reference: [The Design Elements of Composing a Drawing](https://www.dummies.com/art-center/performing-arts/drawing/the-design-elements-of-composing-a-drawing/)
-
+---
 - Hybrid Exercise: 3. Character vectorization (3%)
 - Hybrid: Next week learning module videos
 - Assignment 01: Avatar icon for Apple (15%, peer reviews in week 6)
 
+```
+Reference: [The Design Elements of Composing a Drawing](https://www.dummies.com/art-center/performing-arts/drawing/the-design-elements-of-composing-a-drawing/)
+
+```
 
 ## Week 5 - Typography & Depth
 
@@ -76,7 +78,7 @@
 - Blend tool
 - Exporting options
 - Image composition
-
+---
 - In-class Exercise: 4. Typography (3%)
 - Hybrid: Online Quiz 1 (10%)
 - Hybrid: Next week learning module videos
@@ -101,7 +103,7 @@
 - Creating silhouettes (select & mask)
 - Content-aware Fill layer
 - Clone Stamp Tool
-
+---
 - In-class Exercise: 5. Cut a silhouette (3%)
 - Hybrid: Next week learning module videos
 - Peer Review for Assignment 01 (marked)
@@ -132,7 +134,7 @@ multiple access to content aware fill: Edit > Content-Aware Fill... // Edit > Fi
   - Smart objects
   - Blend modes
 - Creating an image composition
-
+---
 - Hybrid Exercise: 6. Compositing an image (3%)
 - Hybrid: Next week learning module videos
 - Assignment 02: Employee profile page (10%)
@@ -152,7 +154,7 @@ multiple access to content aware fill: Edit > Content-Aware Fill... // Edit > Fi
 - Photoshop Export As feature 
   - Export as
   - Save for Web (legacy)
-
+---
 - In-class Exercise: 7. Clean me up (3%)
 - Hybrid: Next week learning module videos & **Reading**
 - Due: Peer Reviews for Assignment 01
@@ -173,7 +175,7 @@ multiple access to content aware fill: Edit > Content-Aware Fill... // Edit > Fi
   - Textures on text
 - SVG Optimizing & cleaning
 - SVG Attributes & CSS
-
+---
 - Hybrid Exercise: 8. Coding an SVG (3% due: Week 11)
 - Hybrid: Online Quiz 2 (10%)
 - Hybrid: Next learning module videos & **Reading**
@@ -191,10 +193,15 @@ multiple access to content aware fill: Edit > Content-Aware Fill... // Edit > Fi
 - SVG icons
   - Icon symbols reuse
 - SVG Accessibility
-
+---
 - Hybrid Adobe Xd Exercise (not marked)
 - Hybrid: Next week learning module videos 
 
+```
+A good in-class exercise 
+- https://codepen.io/nat-king/pen/bGGjgNe?editors=1100 
+- video:https://youtu.be/nor4VK9al4c
+```
 
 ## MODULE FOUR: User interface interaction design concepts – Putting it all together
 
@@ -213,9 +220,9 @@ multiple access to content aware fill: Edit > Content-Aware Fill... // Edit > Fi
   - Features introduced in 2019
 - Free Xd resources
 - Extra (e.g. Managing fonts)
-
+---
 - Hybrid: Next week learning module videos
-- Assignment 3 (Final): Mobile UI Visual Prototype (20%) 
+- Final Project: Mobile UI Visual Prototype (20%) 
 - Due: 8. Coding an SVG
 
 
@@ -226,7 +233,7 @@ multiple access to content aware fill: Edit > Content-Aware Fill... // Edit > Fi
 - Creating mobile layout from scratch
 - Creating mobile layout form UI Kits: iOS, Android
 - Working with Xd Plugins
-
+---
 - In-class Exercise: 9. Mobile layout in Xd (3%)
 - Hybrid: Next week learning module video
 
@@ -236,12 +243,12 @@ multiple access to content aware fill: Edit > Content-Aware Fill... // Edit > Fi
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
 - Tips and tricks, new features (voice/animation)
-- Assignment 3 (final) work period
-- Assignment 3 (final) individual work review
-
-- Hybrid: Assignment 3 (final) individual review
+- Final Project work period
+- Final Project individual work review
+---
+- Hybrid: Final Project individual review
 
 
 ## Week 14
 
-- Work on Assignment 3 (final)
+- Work on Final Project

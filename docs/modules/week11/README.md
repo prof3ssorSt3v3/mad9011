@@ -144,19 +144,10 @@ Watch this video to complete our SVG animation with CSS practice.
 
 This time, we will also watch the 3rd video,[Animate SVG with CSS](https://www.linkedin.com/learning/css-animation/animate-svg-with-css) on LinkedIn Learning *CSS: Animation* tutorial to review what we have learned. 
 
-```xml
-<svg viewBox="0 0 220 100" xmlns="http://www.w3.org/2000/svg">
-  <!-- Rounded corner rectangle -->
-  <rect class="myMove" x="120" width="50" height="50" rx="15" />
-</svg>
-```
+Before you dive into Hybrid 8 - Coding an SVG, let's check out some cool [SVG with CSS animations made by *Hope Armstrong*.](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/)
 
-```css
-
-```
 
 **Reference**
-- 
 - [CSS `animation` shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
 - [CSS Animations](https://www.w3schools.com/cssref/css3_pr_animation.asp)
 
