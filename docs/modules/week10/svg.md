@@ -280,7 +280,6 @@ We can also add textures to text using SVG and the `<pattern>` tag. Normally the
 
 In the above example the pattern isn’t really a pattern, but instead a large image texture applied to the text.
 
-
 ```xml
 <!-- Alternately, use SVG shape to create the pattern --> 
     <pattern width="20" patternUnits="userSpaceOnUse" height="20" id="texture">
