@@ -75,7 +75,7 @@ Watch this video tutorial to understand how they work.
 
 #### CSS transform
 
-CSS `transform` properties let us `move`, `rotate`, `scale`, and `skew` elements. We can apply a 2D or 3D transformation to an element.
+CSS `transform` properties let us move (`translate()`), `rotate`, `scale`, and `skew` elements. We can apply a 2D or 3D transformation to an element.
 
 **2D transform methods**: translate(), rotate(), scaleX(), scaleY(), scale(), skewX(), skewY(), skew(), matrix()
 
