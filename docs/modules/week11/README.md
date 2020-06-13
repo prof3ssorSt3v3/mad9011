@@ -159,6 +159,7 @@ Before you dive into Hybrid 8 - Coding an SVG, let's check out some cool [SVG wi
 
 - [CSS `animation` shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
 - [CSS Animations](https://www.w3schools.com/cssref/css3_pr_animation.asp)
+- [Using Multi-Step Animations and Transitions](https://css-tricks.com/using-multi-step-animations-transitions/)
 
 ---
 
