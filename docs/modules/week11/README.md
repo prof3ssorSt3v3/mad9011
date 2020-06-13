@@ -14,8 +14,8 @@ There are SVG specific animations, named SMIL, but they are becoming deprecated.
 To begin, let's review adding a CSS `hover` state to an SVG and then we will apply trasitions to it.
 
 ```xml
-<svg width="100" height="100" viewBox"0 0 100 100">
-   <circle class="my-circle" cx="50" cy="50" r="40" />
+<svg width="120" height="120" viewBox="0 0 120 120">
+   <rect class="button" x="10" y="10" width="100" height="60" />
 </svg>
 ```
 
@@ -23,11 +23,11 @@ Then in CSS, we can do this:
 
 ```css
 .button {
-  fill: yellow;
+  fill: gold;
 }
 
 .button:hover {
-  fill: orange;
+  fill: green;
   stroke: red;
   stroke-width: 8;
   stroke-dasharray: 4;
@@ -55,7 +55,9 @@ The `transition` CSS property is a shorthand property for `transition-property`,
 }
 
 /* Apply to all (default) changed properties */
-transition: all 0.5s ease-out;
+.button {
+  transition: all 0.5s ease-out;
+}
 ```
 
 Watch this video tutorial to understand how they work.
@@ -78,6 +80,16 @@ CSS `transform` properties let us `move`, `rotate`, `scale`, and `skew` elements
 **2D transform methods**: translate(), rotate(), scaleX(), scaleY(), scale(), skewX(), skewY(), skew(), matrix()
 
 **3D transform methods**: rotateX(), rotateY(), rotateZ()
+
+```css
+.button {
+  transition: transform 2s ease-in-out 1s;
+}
+
+.button:hover {
+  transform: scale(1.5);
+}
+```
 
 We will follow along this video to practice adding transitions to an SVG by using CSS `transform` and `transition` properties. Create an HTML file, and then add _`flower.svg`_ and _`CSS`_ code to your `HTML` file. [Download code](../week10/svg.html#resources)
 
