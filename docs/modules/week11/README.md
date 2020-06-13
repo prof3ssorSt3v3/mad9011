@@ -68,30 +68,30 @@ Watch this video tutorial to understand how they work.
 /> 
 
 **Links**
-- [Examples on Codepen](https://codepen.io/nat-king/pen/LKgeoE)
 - [Transition reference](https://www.w3schools.com/css/css3_transitions.asp)
-- [Practice on w3schools](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_transitions5)
+- [Experiment on w3schools.com](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_transitions5)
 
 
 #### CSS transform
 
-CSS `transform` properties let us move (`translate()`), `rotate`, `scale`, and `skew` elements. We can apply a 2D or 3D transformation to an element.
+CSS `transform` properties let us move, rotate, scale, and skew elements. We can apply a 2D or 3D transformation to an element.
 
-**2D transform methods**: translate(), rotate(), scaleX(), scaleY(), scale(), skewX(), skewY(), skew(), matrix()
+**2D transform methods**: `translate()`, `rotate()`, `scaleX()`, `scaleY()`, `scale()`, `skewX()`, `skewY()`, `skew()`, `matrix()`
 
-**3D transform methods**: rotateX(), rotateY(), rotateZ()
+**3D transform methods**: `rotateX()`, `rotateY()`, `rotateZ()`
 
 ```css
 .button {
   transition: transform 2s ease-in-out 1s;
 }
 
+/* 2D transform */
 .button:hover {
   transform: scale(1.5);
 }
 ```
 
-We will follow along this video to practice adding transitions to an SVG by using CSS `transform` and `transition` properties. Create an HTML file, and then add _`flower.svg`_ and _`CSS`_ code to your `HTML` file. [Download code](../week10/svg.html#resources)
+We will follow along this video to practice adding transitions to an SVG by using CSS `transform` and `transition` properties. Create an HTML file, and then add _`flower.svg`_ and _`CSS`_ code to your HTML file. [Download code](../week10/svg.html#resources)
 
 <YouTube
   title="SVG Transitions"
@@ -107,10 +107,12 @@ The `transform-origin` SVG attribute sets the origin for an item's transformatio
   url="https://www.youtube.com/embed/AcdOzdoB390"
 /> 
 
+
 **Links**
-- [Examples on Codepen]()
-- [CSS 2D `transform` properties](https://www.w3schools.com/css/css3_2dtransforms.asp)
-- [CSS 3D `transform` properties](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+
+- [Examples on Codepen](https://codepen.io/nat-king/pen/LKgeoE)
+- [CSS 2D Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
+- [CSS 3D Transforms](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 
 ---
 
@@ -126,31 +128,37 @@ When we specify CSS styles inside the `@keyframes` rule, the `animation` will gr
 
 #### CSS animation
 
-The `animation` property is a shorthand property for:
+The `animation` property is a shorthand property for `animation-name`, `animation-duration`, `animation-timing-function`, `animation-delay`, `animation-iteration-count`, `animation-direction`, `animation-fill-mode`, and `animation-play-state`.
 
-- animation-name
-- animation-duration
-- animation-timing-function
-- animation-delay
-- animation-iteration-count
-- animation-direction
-- animation-fill-mode
-- animation-play-state
+```css
+/* @keyframes duration | timing-function | delay | 
+iteration-count | direction | fill-mode | play-state | name */
+animation: 3s ease-in 1s 2 reverse both paused slidein;
+```
 
+Watch this video to complete our SVG animation with CSS practice. 
 <YouTube
   title="SVG animations"
   url="https://www.youtube.com/embed/8s70jpw5B5c"
 /> 
 
-Let's watch the 3rd video,[Animate SVG with CSS](https://www.linkedin.com/learning/css-animation/animate-svg-with-css) on LinkedIn Learning *CSS: Animation* tutorial to review what we have learned. 
+This time, we will also watch the 3rd video,[Animate SVG with CSS](https://www.linkedin.com/learning/css-animation/animate-svg-with-css) on LinkedIn Learning *CSS: Animation* tutorial to review what we have learned. 
 
-We can experiment with these CodePen examples: 
+```xml
+<svg viewBox="0 0 220 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rounded corner rectangle -->
+  <rect class="myMove" x="120" width="50" height="50" rx="15" />
+</svg>
+```
 
+```css
+
+```
 
 **Reference**
-
+- 
 - [CSS `animation` shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
-- [CSS `animation` properties](https://www.w3schools.com/cssref/css3_pr_animation.asp)
+- [CSS Animations](https://www.w3schools.com/cssref/css3_pr_animation.asp)
 
 ---
 
