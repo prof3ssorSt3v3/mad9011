@@ -42,7 +42,7 @@ Read SVG reference of [Writing SVG code](./svg.md#writing-svg) for basic syntax 
 
 ### SVG ATTRIBUTES AND CSS  
 
-It's common practice to use both `*SVG style attributes*` and `*CSS*` to style SVGs. Watch this video to learn the why and how. 
+It's common practice to use both *`SVG style attributes`* and *`CSS`* to style SVGs. Watch this video to learn the why and how. 
 
 <YouTube
   title="SVG: attributes & CSS"

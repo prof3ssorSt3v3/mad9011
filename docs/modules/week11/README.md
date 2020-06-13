@@ -173,7 +173,7 @@ We will practice using SVG `symbol` and `use` elements to make SVG icon systems.
   url="https://www.youtube.com/embed/BO13gECyiuE"
 /> 
 
---
+---
 
 ## SVG accessiblity
 Lastly, we will use the extended accessibility features of SVG and when/how to hide embedded SVG from accessibility tools.
