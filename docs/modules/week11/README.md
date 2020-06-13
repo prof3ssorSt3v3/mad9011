@@ -73,6 +73,12 @@ Watch this video tutorial to understand how they work.
 
 #### CSS transform
 
+CSS `transform` properties let us `move`, `rotate`, `scale`, and `skew` elements. We can apply a 2D or 3D transformation to an element.
+
+**2D transform methods**: translate(), rotate(), scaleX(), scaleY(), scale(), skewX(), skewY(), skew(), matrix()
+
+**3D transform methods**: rotateX(), rotateY(), rotateZ()
+
 We will follow along this video to practice adding transitions to an SVG by using CSS `transform` and `transition` properties. Create an HTML file, and then add _`flower.svg`_ and _`CSS`_ code to your `HTML` file. [Download code](../week10/svg.html#resources)
 
 <YouTube
@@ -82,16 +88,15 @@ We will follow along this video to practice adding transitions to an SVG by usin
 
 #### Transform Origin with pixels 
 
-The `transform-origin` SVG attribute sets the origin for an item's transformations and it defults to the top left corner of the SVG canvas. However, the default transform origin for HTML elements is in the middle of themselves. To ensure the SVG animation working correctly in all browsers, we may need to set the pixel value to CSS `transform-origin` property. 
+The `transform-origin` SVG attribute sets the origin for an item's transformations and it defults to the top left corner of the *SVG* canvas. However, the default transform origin for HTML elements is in the middle of themselves. To ensure the SVG animation working correctly in all browsers, we may need to set the pixel value to CSS `transform-origin` property. 
 
 <YouTube
   title="SVG transform-origin"
   url="https://www.youtube.com/embed/AcdOzdoB390"
 /> 
 
-**Reference**
-
-- [CSS `transition` properties](https://www.w3schools.com/css/css3_transitions.asp)
+**Links**
+- [Examples on Codepen]()
 - [CSS 2D `transform` properties](https://www.w3schools.com/css/css3_2dtransforms.asp)
 - [CSS 3D `transform` properties](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 
