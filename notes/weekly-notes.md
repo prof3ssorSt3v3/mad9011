@@ -56,10 +56,9 @@
 - Hybrid: Next week learning module videos
 - Assignment 01: Avatar icon for Apple (15%, peer reviews in week 6)
 
-```
-Reference: [The Design Elements of Composing a Drawing](https://www.dummies.com/art-center/performing-arts/drawing/the-design-elements-of-composing-a-drawing/)
+#### Reference
+- [The Design Elements of Composing a Drawing](https://www.dummies.com/art-center/performing-arts/drawing/the-design-elements-of-composing-a-drawing/)
 
-```
 
 ## Week 5 - Typography & Depth
 
