@@ -108,7 +108,7 @@ We can also add image textures to text using SVG and the `<pattern>` tag. In thi
 
 - If you have not read all these notes and watched the videos from this week, do that first.
 - Finish reading the notes for week 10 and watch all the videos in the notes for week 11.
-- Hybrid 8 - Coding an SVG 
+- Hybrid 8 - Coding an SVG (Due week 12)
 - Online Quiz 2 – UI graphic knowledge and tools 
 - Assignment 2 Due
   :::

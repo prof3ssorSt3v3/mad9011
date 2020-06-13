@@ -70,7 +70,7 @@ Watch this video tutorial to understand how they work.
 **References**
 
 - [CSS `transition`](https://www.w3schools.com/css/css3_transitions.asp)
-- [Experiment on w3schools.com](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_transitions5)
+- [Try them on w3schools.com](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_transitions5)
 
 
 #### CSS transform
