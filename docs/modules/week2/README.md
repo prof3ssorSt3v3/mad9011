@@ -18,7 +18,7 @@ Before we begin using Adobe Illustrator, we need to understand a few fundamental
 
 We will be using Adobe Illustrator to create vector graphics, so let's familiarize ourselves with the software.
 
-We will start by going over this series of tutoral: [**Get to know Illustrator** (4 videos)](https://helpx.adobe.com/ca/illustrator/how-to/ai-basics-fundamentals.html)
+We will start by going over this series of tutorals: [**Get to know Illustrator** (4 videos)](https://helpx.adobe.com/ca/illustrator/how-to/ai-basics-fundamentals.html)
 
 - Illustrator workspace 
 - Zoom and Pan
