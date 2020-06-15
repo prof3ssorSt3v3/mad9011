@@ -32,7 +32,8 @@ Artboards are like pages in your document, they are very useful to separate diff
 
 Take a look at this short [**Artboard tutorial.** (3 videos)](https://helpx.adobe.com/ca/illustrator/how-to/artboards-basics.html)
 
-#### Work with artboards
+**Work with artboards**
+
 - Understand and navigate artboards
 - Create artboards
 - Edit artboards
@@ -40,14 +41,16 @@ Take a look at this short [**Artboard tutorial.** (3 videos)](https://helpx.adob
 ### CREATING, SELECTING AND EDITING SHAPES
  Let's learn how to draw and manipulate shapes in Illustrator with this [**drawing tools tutorial** (5 videos)](https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html).
 
-#### Create with drawing tools
+**Create with drawing tools**
+
 - Understand paths and curves
 - Draw with the Pencil tool
 - Draw with the Curvature tool
 - Edit paths and shapes
 - Join artwork together to combine paths
 
-#### Create and edit shapes
+**Create and edit shapes**
+
 Next, we learn in this tutorial to [**create and eidt shapes.** (4 videos)](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
 - Draw simple shapes
 - Create lines 
@@ -58,7 +61,8 @@ Next, we learn in this tutorial to [**create and eidt shapes.** (4 videos)](http
 ### COLOUR OF FILL AND STROKE
 To make our designs more interesting and clear, we need to use colour. Take a look at [**the first video, on this tutorial page**](https://helpx.adobe.com/illustrator/how-to/color-basics.html) to learn how to apply colour to your shapes and edit the stroke as well.
 
-#### Change color and strokes
+**Change color and strokes**
+
 - Change the color of artwork (first video)
 
 
