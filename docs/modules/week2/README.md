@@ -18,7 +18,7 @@ Before we begin using Adobe Illustrator, we need to understand a few fundamental
 
 We will be using Adobe Illustrator to create vector graphics, so let's familiarize ourselves with the software:
 
-Let's go over the first tutoral: [**Get to know Illustrator**](https://helpx.adobe.com/ca/illustrator/how-to/ai-basics-fundamentals.html)
+Let's go over the first tutoral: [**Get to know Illustrator**](https://helpx.adobe.com/ca/illustrator/how-to/ai-basics-fundamentals.html)(4 videos)
 
 - Illustrator workspace 
 - Zoom and Pan
@@ -30,8 +30,7 @@ Let's go over the first tutoral: [**Get to know Illustrator**](https://helpx.ado
 
 Artboards are like pages in your document, they are very useful to separate different elements you are designing without having to create multiple files.
 
-Take a look at this short [**Artboard tutorial.**](https://helpx.adobe.com/ca/illustrator/how-to/artboards-basics.html) 
-
+Take a look at this short [**Artboard tutorial.**](https://helpx.adobe.com/ca/illustrator/how-to/artboards-basics.html)(3 videos)
 
 #### Work with artboards
 - Understand and navigate artboards
@@ -39,7 +38,7 @@ Take a look at this short [**Artboard tutorial.**](https://helpx.adobe.com/ca/il
 - Edit artboards
 
 ### CREATING, SELECTING AND EDITING SHAPES
- Let's learn how to draw and manipulate shapes in Illustrator with this [**drawing tools tutorial**](https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html).
+ Let's learn how to draw and manipulate shapes in Illustrator with this [**drawing tools tutorial**](https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html).(5 videos)
 
 #### Create with drawing tools
 - Understand paths and curves
@@ -49,7 +48,7 @@ Take a look at this short [**Artboard tutorial.**](https://helpx.adobe.com/ca/il
 - Join artwork together to combine paths
 
 #### Create and edit shapes
-Next, we learn in this tutorial to [**create and eidt shapes.**](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
+Next, we learn in this tutorial to [**create and eidt shapes.**](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)(4 videos)
 - Draw simple shapes
 - Create lines 
 - Combine shapes
