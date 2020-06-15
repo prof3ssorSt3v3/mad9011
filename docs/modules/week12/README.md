@@ -1,19 +1,38 @@
-# Week 12 - S.P.A. & Cordova
+# Week 12 - Introduction to Adobe XD
 
-::: danger SWITCH TO WINDOWS
+## Hooray! 
 
-- We will now be switching over to Windows 10.
-- Make sure that you have installed NodeJS and VSCode for Windows
+Finally, welcome to the Adobe XD, a vector-based user experience design tool for mobile and web apps. XD supports rapid wireframing and interactive click-through visual prototypes. UI/UX designers use Adobe XD to seamlessly iterate and share interactive visual prototypes with team members and reviewers across devices and platforms.  
 
-:::
+### WHAT IS ADOBE XD?
 
-## Single Page Applications (SPA)
+Let's watch this videos to learn how Xd let designers create UI visual mockups with speed, precision, and quality.
 
-Single Page Applications (SPA) are a new approach to creating web apps where we use a single HTML file for the entire website. Then with the History API, JavaScript Event handling, CSS, and using the Fetch API we can dynamically update content and make a much more responsive experience for our users.
+<a href="https://helpx.adobe.com/ca/xd/how-to/what-is-xd.html#what_is_adobe_xd_" target=”_blank”>![WHAT IS ADOBE XD?](./whatisXD.png)</a>
 
-[Learn more about SPA](./spa.md)
 
-## Java Development Kit (JDK)
+### XD WORKSPACE
+
+We will get familiar with the workspace and the interface by exploring the in-app resources to learn how to use Adobe XD, or to get a head start on your designs. Learn their respective tools by navigating the Design and Prototype modes.
+
+<a href="https://helpx.adobe.com/ca/xd/how-to/what-is-xd.html#tour_the_workspace" target=”_blank”>![Tour the workspace](./XDworkspace.png)</a>
+
+
+## Xd Workflow: Design > Prototype > Share
+
+[Design, prototype, and share with Adobe XD](https://helpx.adobe.com/ca/xd/help/adobe-xd-overview.html) article provides a quick reference in XD User Guide.
+
+XD general workflow includes the following high-level steps: Design, Prototype, Share. Follow this series of XD tutorials to obtain a hands-on mobile app prototype building experience. XD supports SVG and bitmap files without any loss of fidelity. It integrates with Illustrator, Photoshop, and After Effects. You can also use plugins to automate repeat operations or parts of designer workflows that are tedious, complex, or repetitive.
+
+### DESIGN
+
+Let's start with **DESIGN** to learn the basics like designing splash screens, importing images, and working with Repeat Grid.
+
+<a href="https://helpx.adobe.com/ca/xd/how-to/what-is-xd.html#tour_the_workspace" target=”_blank”>![Tour the workspace](./XDworkspace.png)</a>
+
+
+
+
 
 Android uses the Java Virtual Machine (JVM) to run the apps. The JVM is included in the Java Runtime Environment (JRE). Most OS come with this already installed for use.
 
