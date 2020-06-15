@@ -40,9 +40,9 @@ In **DESIGN** step, we will learn the basics for designing splash screens, impor
 
 ### PROTOTYPE
 
-In **PROTOTYPE** step, we will turn our designs into interactive visual mockups. We will wire artboards together, switch back and forth between design and prototype mode and preview our UI experience.*
+In **PROTOTYPE** step, we will turn our designs into interactive visual mockups. We will wire artboards together, switch back and forth between design and prototype mode and preview our UI experience.
 
-Note: 
+[*Share designs and prototypes*](https://helpx.adobe.com/ca/xd/help/share-designs-prototypes.html) is a user guide that contains the current *Xd* UI features and screenshots. 
 
 <a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_3___prototype" target=”_blank”>![Prototype with Xd](./XDprototype.png)</a>
 
@@ -63,7 +63,7 @@ In **PREVIEW & SHARE** step, we will learn to preview our interactive prototpye 
 
 **Links**
 
-[Share designs and prototypes](https://helpx.adobe.com/ca/xd/help/share-designs-prototypes.html)
+[*Share designs and prototypes*](https://helpx.adobe.com/ca/xd/help/share-designs-prototypes.html)
 
 ## Cloud documents in XD
 
