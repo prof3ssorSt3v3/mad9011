@@ -22,27 +22,27 @@ We will get familiar with the workspace and the interface by exploring the in-ap
 
 [Design, prototype, and share with Adobe XD](https://helpx.adobe.com/ca/xd/help/adobe-xd-overview.html) article provides a quick reference in XD User Guide.
 
-Adobe XD general workflow includes 3 steps: Design, Prototype, Share. Follow the Xd tutorials below to obtain a hands-on mobile app prototype building experience. Xd supports SVG and bitmap files without any loss of fidelity. It integrates with Illustrator, Photoshop, and After Effects. You can also use plugins to automate repeat operations or parts of designer workflows that are tedious, complex, or repetitive.
+Follow the Xd tutorials below to obtain a hands-on mobile app prototype building experience. Xd supports SVG and bitmap files without any loss of fidelity. It integrates with Illustrator, Photoshop, and After Effects. You can also use plugins to automate repeat operations or parts of designer workflows that are tedious, complex, or repetitive. Let's begin the general XD workflow of: Design, Prototype, Share. 
 
 ### DESIGN
 
-*Let's start with **DESIGN** to learn the basics like designing splash screens, importing images, and working with Repeat Grid.*
+In **DESIGN** step, we will learn the basics for designing splash screens, importing images, and working with Repeat Grid.
 
-<a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_2___design" target=”_blank”>![XD: Design](./XDdesign.png)</a>
+<a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_2___design" target=”_blank”>![Design with Xd](./XDdesign.png)</a>
 
 ### PROTOTYPE
 
-*Turn your designs into interactive prototypes. Wire artboards together, switch back and forth between design and prototype mode and preview your experience.*
+In **PROTOTYPE** step, we will turn our designs into interactive visual mockups. We will wire artboards together, switch back and forth between design and prototype mode and preview our UI experience.*
 
-<a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_2___design" target=”_blank”>![XD: Design](./XDdesign.png)</a>
+<a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_3___prototype" target=”_blank”>![Prototype with Xd](./XDprototype.png)</a>
+
+### SHARE 
+
+In **PREVIEW & SHARE** step, we will learn to preview our interactive prototpye on a mobile device and share prototype and design specs for feedback with developers and other stakehocers. 
+
+<a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_4___share_and_preview" target=”_blank”>![Preview and share Xd prototype](./XDshare.png)</a>
 
 
-
-Android uses the Java Virtual Machine (JVM) to run the apps. The JVM is included in the Java Runtime Environment (JRE). Most OS come with this already installed for use.
-
-However, if you want to be able to build and compile applications for Android, you need to have the Java Developer Kit (JDK) Standard Edition (SE) installed. [JDK Download](https://www.oracle.com/java/technologies/jdk8-downloads.html).
-
-We will need the JDK version 8.X 64 bit version for Windows 10. The version number will be listed as 8u221 or something like that. As long as it starts with an 8 and is the 64 bit version we are good.
 
 ## Setting up Android Studio
 
