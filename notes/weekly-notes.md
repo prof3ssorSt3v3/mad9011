@@ -9,6 +9,8 @@
 - Install Adobe CC  
 - Install Illustrator
 
+#### work
+
 - Hybrid: Next week learning module videos
 
 

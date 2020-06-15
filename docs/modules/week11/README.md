@@ -210,7 +210,7 @@ Sarah Drasner's presentation in 2019, *SVG Will Save Us*, nicely summarizes the 
 - [Download code](../week10/svg.md#resources)
 - [**Pocket Guide to Writing SVG**](http://svgpocketguide.com/)
 - [Advanced CSS on w3school.com](https://www.w3schools.com/css/css3_2dtransforms.asp)
-- [CSS Animations](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/)
+- [Animating SVG with CSS](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/)
 
 
 ## TODO
