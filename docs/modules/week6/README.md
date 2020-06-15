@@ -32,7 +32,7 @@ Think of an artboard as **a special type of layer group**. We will learn all kin
 
 ### CHANGING IMAGE SIZE
 
-We will learn to resize, crop, and straighten an image and change the canvas size. **NOTE:** Canvas and image resize won't work when artboards are used. Resize artboards instead. Let's Begin the video tutorials to [**Change the image size.**](https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html)
+We will learn to resize, crop, and straighten an image and change the canvas size. **NOTE:** Canvas and image resize won't work when artboards are used. Resize artboards instead. Let's Begin the video tutorials to [**Change the image size.** (4 videos)](https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html)
 
 - Resize an image
 - Set the resolution
@@ -42,7 +42,7 @@ We will learn to resize, crop, and straighten an image and change the canvas siz
 
 ### MAKING SELECTIONS
 
-A selection isolates part of an image so you can work on that area without affecting the rest of the image. Take a look at this series of short tutorials and practice [**making selections.**](https://helpx.adobe.com/photoshop/how-to/selection-tools-basics.html)
+A selection isolates part of an image so you can work on that area without affecting the rest of the image. Take a look at this series of short tutorials and practice [**making selections.** (3 videos)](https://helpx.adobe.com/photoshop/how-to/selection-tools-basics.html)
 
 - Learn selection basics
 - Learn how to use the Quick Selection and Lasso tools
