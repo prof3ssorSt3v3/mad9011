@@ -39,7 +39,7 @@ Take a look at this short [**Artboard tutorial.** (3 videos)](https://helpx.adob
 - Edit artboards
 
 ### CREATING, SELECTING AND EDITING SHAPES
- Let's learn how to draw and manipulate shapes in Illustrator with this [**drawing tools tutorial** (5 videos)](https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html).
+ Let's learn to draw and manipulate shapes in Illustrator with this [**drawing tools tutorial** (5 videos)](https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html).
 
 **Create with drawing tools**
 
@@ -51,7 +51,7 @@ Take a look at this short [**Artboard tutorial.** (3 videos)](https://helpx.adob
 
 **Create and edit shapes**
 
-Next, we learn in this tutorial to [**create and eidt shapes.** (4 videos)](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
+Next, we will practice how to [**create and eidt shapes.** (4 videos)](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
 - Draw simple shapes
 - Create lines 
 - Combine shapes
