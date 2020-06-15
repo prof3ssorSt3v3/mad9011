@@ -48,9 +48,7 @@ In **PROTOTYPE** step, we will turn our designs into interactive visual mockups.
 
 ### SHARE 
 
-In **PREVIEW & SHARE** step, we will learn to preview our interactive prototpye on a mobile device and share prototype and design specs for feedback with developers and other stakehocers. 
-
-
+In **PREVIEW & SHARE** step, we will learn to preview our interactive prototpye on a mobile device and share prototype and design specs for feedback with developers and other stakeholders. 
 
 <a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_4___share_and_preview" target=”_blank”>![Preview and share Xd prototype](./XDshare.png)</a>
 
@@ -61,9 +59,6 @@ In **PREVIEW & SHARE** step, we will learn to preview our interactive prototpye 
   url="https://www.youtube.com/embed/3vj03O641GA"
 />
 
-**Links**
-
-[*Share designs and prototypes*](https://helpx.adobe.com/ca/xd/help/share-designs-prototypes.html)
 
 ## Cloud documents in XD
 
