@@ -13,7 +13,7 @@ Let's watch this videos to learn how Xd let designers create UI visual mockups w
 
 ### XD WORKSPACE
 
-XD has been improved/updated veryfrequently. We should check [What's new in Adobe XD](https://helpx.adobe.com/ca/xd/help/whats-new.html) to keep up with the UI changes.
+XD has been improved/updated very frequently. We should check [What's new in Adobe XD](https://helpx.adobe.com/ca/xd/help/whats-new.html) regularly to keep up with the UI changes.
 
 [*Workspace basics*](https://helpx.adobe.com/ca/xd/help/workspace-basics.html) is a quick reference for Adobe XD user interface. 
 
