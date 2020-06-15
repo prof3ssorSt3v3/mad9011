@@ -51,7 +51,7 @@ Take a look at this short [**Artboard tutorial.** (3 videos)](https://helpx.adob
 
 **Create and edit shapes**
 
-Next, we will practice how to [**create and eidt shapes.** (4 videos)](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
+Next, we practice using the drawing tools to [**create and eidt shapes.** (4 videos)](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
 - Draw simple shapes
 - Create lines 
 - Combine shapes
