@@ -22,15 +22,19 @@ We will get familiar with the workspace and the interface by exploring the in-ap
 
 [Design, prototype, and share with Adobe XD](https://helpx.adobe.com/ca/xd/help/adobe-xd-overview.html) article provides a quick reference in XD User Guide.
 
-XD general workflow includes the following high-level steps: Design, Prototype, Share. Follow this series of XD tutorials to obtain a hands-on mobile app prototype building experience. XD supports SVG and bitmap files without any loss of fidelity. It integrates with Illustrator, Photoshop, and After Effects. You can also use plugins to automate repeat operations or parts of designer workflows that are tedious, complex, or repetitive.
+Adobe XD general workflow includes 3 steps: Design, Prototype, Share. Follow the Xd tutorials below to obtain a hands-on mobile app prototype building experience. Xd supports SVG and bitmap files without any loss of fidelity. It integrates with Illustrator, Photoshop, and After Effects. You can also use plugins to automate repeat operations or parts of designer workflows that are tedious, complex, or repetitive.
 
 ### DESIGN
 
-Let's start with **DESIGN** to learn the basics like designing splash screens, importing images, and working with Repeat Grid.
+*Let's start with **DESIGN** to learn the basics like designing splash screens, importing images, and working with Repeat Grid.*
 
-<a href="https://helpx.adobe.com/ca/xd/how-to/what-is-xd.html#tour_the_workspace" target=”_blank”>![Tour the workspace](./XDworkspace.png)</a>
+<a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_2___design" target=”_blank”>![XD: Design](./XDdesign.png)</a>
 
+### PROTOTYPE
 
+*Turn your designs into interactive prototypes. Wire artboards together, switch back and forth between design and prototype mode and preview your experience.*
+
+<a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_2___design" target=”_blank”>![XD: Design](./XDdesign.png)</a>
 
 
 
