@@ -13,6 +13,8 @@ Let's watch this videos to learn how Xd let designers create UI visual mockups w
 
 ### XD WORKSPACE
 
+![Adobe XD 2019 Workspace](./XDmacWorkspace.png)
+
 We will get familiar with the workspace and the interface by exploring the in-app resources to learn how to use Adobe XD, or to get a head start on your designs. Learn their respective tools by navigating the Design and Prototype modes.
 
 <a href="https://helpx.adobe.com/ca/xd/how-to/what-is-xd.html#tour_the_workspace" target=”_blank”>![Tour the workspace](./XDworkspace.png)</a>
@@ -20,9 +22,11 @@ We will get familiar with the workspace and the interface by exploring the in-ap
 
 ## Xd Workflow: Design > Prototype > Share
 
-[Design, prototype, and share with Adobe XD](https://helpx.adobe.com/ca/xd/help/adobe-xd-overview.html) article provides a quick reference in XD User Guide.
+[*Design, prototype, and share with Adobe XD*](https://helpx.adobe.com/ca/xd/help/adobe-xd-overview.html) article provides a quick reference in XD User Guide.
 
-Follow the Xd tutorials below to obtain a hands-on mobile app prototype building experience. Xd supports SVG and bitmap files without any loss of fidelity. It integrates with Illustrator, Photoshop, and After Effects. You can also use plugins to automate repeat operations or parts of designer workflows that are tedious, complex, or repetitive. Before we begin the general XD workflow of: Design, Prototype, Share, we will [Download the XD kits.](https://download.adobe.com/pub/adobe/xd/Wires.zip?promoid=VG52KLJG&mv=other) 
+Follow the Xd tutorials below to obtain a hands-on mobile app prototype building experience. Xd supports SVG and bitmap files without any loss of fidelity. It integrates with Illustrator, Photoshop, and After Effects. You can also use plugins to automate repeat operations or parts of designer workflows that are tedious, complex, or repetitive. 
+
+Before starting the workflow of: Design, Prototype, Share, we will [Download the XD kits.](https://download.adobe.com/pub/adobe/xd/Wires.zip?promoid=VG52KLJG&mv=other) 
 
 ### DESIGN
 
@@ -34,15 +38,19 @@ In **DESIGN** step, we will learn the basics for designing splash screens, impor
 
 In **PROTOTYPE** step, we will turn our designs into interactive visual mockups. We will wire artboards together, switch back and forth between design and prototype mode and preview our UI experience.*
 
+Note: 
+
 <a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_3___prototype" target=”_blank”>![Prototype with Xd](./XDprototype.png)</a>
 
 ### SHARE 
 
 In **PREVIEW & SHARE** step, we will learn to preview our interactive prototpye on a mobile device and share prototype and design specs for feedback with developers and other stakehocers. 
 
+
+
 <a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_4___share_and_preview" target=”_blank”>![Preview and share Xd prototype](./XDshare.png)</a>
 
-**NOTE:** Xd UI has been updated. Watch this video to locate the "Share" feature in the UI.
+**NOTE:** Xd UI has been updated. Watch this video to locate the "Share" feature in the UI and practice further.
 
 <YouTube
   title="Share Mode – Adobe XD November Release 2019"
@@ -53,11 +61,25 @@ In **PREVIEW & SHARE** step, we will learn to preview our interactive prototpye 
 
 [Share designs and prototypes](https://helpx.adobe.com/ca/xd/help/share-designs-prototypes.html)
 
-## 
+## Cloud documents in XD
 
 Your Creative Cloud plan includes different types of cloud storage—cloud documents, libraries, and Creative Cloud files (synced files). These have different uses and benefits.
 
-[Cloud documents in Adobe XD](https://helpx.adobe.com/xd/help/cloud-documents.html) article is a comprehensive guide for Adobe XD Cloud sharing and collaboration features. 
+[*Cloud documents in Adobe XD*](https://helpx.adobe.com/xd/help/cloud-documents.html) article is a comprehensive guide for Adobe XD Cloud sharing and collaboration features. 
+
+### USING XD CLOUD DOCUMENTS
+XD Cloud Documents let us **auto-save** files; **safely keep** everything in one place; make **fast and easy sharing**; work and live collaborate with others anywhere with document **versioning** control. 
+
+**Using Cloud Document Files**
+Note: UI update
+
+<YouTube
+  title="Adobe XD December 2018 Update: Cloud Document Files"
+  url="https://www.youtube.com/embed/H_TmuOJmdkI"
+/>
+
+**Cloud Document Sharing** 
+We can quickly share documents with collaborators and team members when we save them as cloud documents in Adobe XD.
 
 
 
