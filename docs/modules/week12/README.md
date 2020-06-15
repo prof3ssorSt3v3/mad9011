@@ -15,6 +15,8 @@ Let's watch this videos to learn how Xd let designers create UI visual mockups w
 
 XD has been improved/updated frequently. We should check its new updates reguarlly to keep up with the UI changes.
 
+[Workspace basics](https://helpx.adobe.com/ca/xd/help/workspace-basics.html) is a quick reference for Adobe XD user interface. 
+
 ![Adobe XD 2019 Workspace](./XDmacWorkspace.png)
 
 We will get familiar with the workspace and the interface by exploring the in-app resources to learn how to use Adobe XD, or to get a head start on your designs. Learn their respective tools by navigating the Design and Prototype modes.
