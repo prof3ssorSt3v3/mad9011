@@ -2,6 +2,8 @@
 
 ## Introduction
 
+:::
+
 Welcome to MAD9011, Mobile Design Fundamentals. In this level-one design course, we are going to explorer fundamental design concepts and learn the fun and useful tools to help you design graphics and interfaces. 
 
 To have a smooth start: 
@@ -12,8 +14,7 @@ To have a smooth start:
 
 For visual design inspirations, check out [Adobe Create online magazine](https://create.adobe.com/)
 
-Got a question for our class? Post it on **Weekly Question Page (FAQ) - MAD9011:** [http://tiny.cc/e7y5oz](http://tiny.cc/e7y5oz)
-
+:::
 
 ## Design references
 - [Psychology of colour](https://www.bcrpainting.com.au/bcrpainterblogs/2017/9/1/why-should-you-pay-attention-to-colour-psychology)
