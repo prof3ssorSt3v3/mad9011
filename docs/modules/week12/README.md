@@ -8,7 +8,10 @@ Finally, welcome to the Adobe XD, a vector-based user experience design tool for
 
 Let's watch this videos to learn how Xd let designers create UI visual mockups with speed, precision, and quality.
 
-<a href="https://helpx.adobe.com/ca/xd/how-to/what-is-xd.html#what_is_adobe_xd_" target=”_blank”>![WHAT IS ADOBE XD?](./whatisXD.png)</a>
+<YouTube
+  title="Adobe XD Explore the User Interface 2020"
+  url="https://www.youtube.com/embed/-hV9kKY5a94"
+/>
 
 
 ### XD WORKSPACE
