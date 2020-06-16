@@ -33,7 +33,6 @@ We will practice further with this set of video tutorals. [Download tutorial fil
 4. [Swapping components](https://youtu.be/vzqScGDnrEE)
 5. [Using states](https://youtu.be/U4HH8bDkK48)
 
-
 **Component Hover states & Micro-Interactions**
 
 Check this video to learn how component states allows you to save elements for future use and create additional versions of your buttons, toggles, fields, and more.
@@ -42,6 +41,7 @@ Check this video to learn how component states allows you to save elements for f
   title="Adobe XD – Hover & Micro-Interactions"
   url="https://www.youtube.com/embed/c8ov6IzFE0c"
 />
+
 
 ### XD INTERACTIONS 
 Let's watch this set of short videos to practice some common interacation design features in XD. 
