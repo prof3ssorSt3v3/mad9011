@@ -21,7 +21,7 @@ Let's follow these video to practice using some common productivity tools. First
   url="https://www.youtube.com/embed/qrsuk6zl8B8"
 />
 
-We will practice further with the following tutorials. [Download tutorial files](https://www.dropbox.com/s/vfz93h52t0nsgvz/Components_Demo.xd?dl=0)
+We will practice further with the following tutorials. Note: Download respective tutorial files on YouTube.
 
 **Creating components**
 
@@ -69,7 +69,8 @@ Check this video to learn how component states allows you to save elements for f
 />
 
 ### XD INTERACTIONS 
-Let's watch this set of short videos to practice some common interacation design features in XD.
+Let's watch this set of short videos to practice some common interacation design features in XD. 
+Note: Download respective tutorial files on YouTube.
 
 - [Auto-animate transitions](https://youtu.be/9pRgHdJrCj8)
 - [Drag gesture](https://youtu.be/8w7MdxfBRFQ)
