@@ -98,6 +98,12 @@ With XD cloud document feature, we can collaborate and coedit with others in the
 />
 
 
+**Links**
+
+- [CC Libraries Integration](https://youtu.be/GWuA1y79AT8)
+- [Convert Sketch Libraries](https://youtu.be/DHyMngVm8CA)
+
+
 ## Built-in XD Tutorial
 
 Now, let's review what we have learned so far by completing this built-in tutorial. 

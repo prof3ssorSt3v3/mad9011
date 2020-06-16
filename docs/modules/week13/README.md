@@ -61,7 +61,7 @@ Now we will creating a basic button states with hover.
 
 **Hover & Micro-Interactions**
 
-Check this video to learn how component States allows you to save elements for future use and create additional versions of your buttons, toggles, fields, and more.
+Check this video to learn how component states allows you to save elements for future use and create additional versions of your buttons, toggles, fields, and more.
 
 <YouTube
   title="Adobe XD – Hover & Micro-Interactions"
@@ -70,6 +70,12 @@ Check this video to learn how component States allows you to save elements for f
 
 ### Auto-animate transitions
 We can use `auto-animate transitions` to define micro-interactions between artboards.
+
+### Multiple Interactions
+https://youtu.be/zWQv9Qszm7c 
+
+### Content-Aware Layout
+https://youtu.be/h2yyNV4fnN0
 
 
 
@@ -82,7 +88,10 @@ We can use `auto-animate transitions` to define micro-interactions between artbo
 ### XD UI KITS
 UI Kits content contains common buttons, form elements, headers, icons, and other UI elements.Follow this XD tutorial to learn how to get UI kits and use the Kit content in your own designs
 
-## SPA Navigation
+###  Plugin Manager 
+
+https://youtu.be/YAgKDA6c9_I
+
 
 Here is an updated version of the code that we used in class to create our first SPA. This version includes the ability to right-click and load a link in a new tab.
 
