@@ -17,11 +17,11 @@ Let's follow these video to practice using some common productivity tools.  Firs
 `Compenents` are previousely called *Symbols*. This tutorial shows us how to effectively utilise the new `Master Components`, and `Component Overrides` features.
 
 <YouTube
-  title="Master Components & Overrides in Adobe XD"
-  url="https://www.youtube.com/embed/wVJrxdVW15M"
+  title="Introducing Components in Adobe XD"
+  url="https://www.youtube.com/embed/qrsuk6zl8B8"
 />
 
-We will practice further with the following tutorials. [Download tutorial file](https://www.dropbox.com/s/vfz93h52t0nsgvz/Components_Demo.xd?dl=0)
+We will practice further with the following tutorials. [Download tutorial files](https://www.dropbox.com/s/vfz93h52t0nsgvz/Components_Demo.xd?dl=0)
 
 **Creating components**
 
@@ -52,7 +52,16 @@ To make the components easy to main, we will nest components within one another 
 
 **Component States** 
 
-Now we will creating button states with hover and other micro-interactions
+Now we will creating a basic button states with hover. 
+
+<YouTube
+  title="Adobe XD – Hover & Micro-Interactions"
+  url="https://www.youtube.com/embed/U4HH8bDkK48"
+/>
+
+**Hover & Micro-Interactions**
+
+Check this video to learn how component States allows you to save elements for future use and create additional versions of your buttons, toggles, fields, and more.
 
 <YouTube
   title="Adobe XD – Hover & Micro-Interactions"
