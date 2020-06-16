@@ -95,12 +95,15 @@ We can quickly share documents with collaborators and team members when we save 
   url="https://www.youtube.com/embed/wHlcOCJycxw"
 />
 
-## XD Resources
+## Built-in XD Tutorial
 
-[**Adobe XD resources**](https://www.adobe.com/ca/products/xd/resources.html) site provides free tools to optimize our workflow and speed up the process: UI kits, icon sets, plugins, app integrations, and more. 
+Now, let's review what we have learned so far by completing this built-in tutorial. 
 
-### XD UI KITS
-UI Kits content contains common buttons, form elements, headers, icons, and other UI elements.Follow this XD tutorial to learn how to get UI kits and use the Kit content in your own designs
+![XD Tutorial](XDbuiltin-tutorial.png)
+
+1. Start Adobe XD
+2. From `Help` menu, click to open `XD Tutorial` 
+3. Follow the 10 short steps to complete the tutorial   
 
 
 
