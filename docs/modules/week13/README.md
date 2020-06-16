@@ -1,11 +1,11 @@
 # Week 13 - Cordova
 
-::: danger SWITCH TO WINDOWS
+## XD Resources
 
-- We will now be switching over to Windows 10.
-- Make sure that you have installed NodeJS and VSCode for Windows
+[**Adobe XD resources**](https://www.adobe.com/ca/products/xd/resources.html) site provides free tools to optimize our workflow and speed up the process: UI kits, icon sets, plugins, app integrations, and more. 
 
-:::
+### XD UI KITS
+UI Kits content contains common buttons, form elements, headers, icons, and other UI elements.Follow this XD tutorial to learn how to get UI kits and use the Kit content in your own designs
 
 ## SPA Navigation
 

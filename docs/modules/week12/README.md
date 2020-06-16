@@ -99,12 +99,11 @@ We can quickly share documents with collaborators and team members when we save 
 
 Now, let's review what we have learned so far by completing this built-in tutorial. 
 
-![XD Tutorial](XDbuiltin-tutorial.png)
+![XD Tutorial](./XDbuiltin-tutorial.png)
 
 1. Start Adobe XD
 2. From `Help` menu, click to open `XD Tutorial` 
 3. Follow the 10 short steps to complete the tutorial   
-
 
 
 ## TODO
