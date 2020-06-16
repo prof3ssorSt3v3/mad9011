@@ -5,7 +5,7 @@ In this lesson, we will harness our Adobe XD knowledge by using XD productivity 
 
 ## Xd Productivity Tools
 
-Let's follow these video to practice using some common productivity tools.  First, we will learn `Object Flip`, `Search Layers`, `Linked Symbols (now components)` features.
+Let's follow these video to practice using some common productivity tools. First, we will learn `Object Flip`, `Search Layers`, `Linked Symbols (now components)` features.
 
 <YouTube
   title="Adobe XD December 2018 Release: Cloud Document Sharing"
@@ -59,7 +59,7 @@ Now we will creating a basic button states with hover.
   url="https://www.youtube.com/embed/U4HH8bDkK48"
 />
 
-**Hover & Micro-Interactions**
+**Component Hover states & Micro-Interactions**
 
 Check this video to learn how component states allows you to save elements for future use and create additional versions of your buttons, toggles, fields, and more.
 
@@ -68,15 +68,43 @@ Check this video to learn how component states allows you to save elements for f
   url="https://www.youtube.com/embed/c8ov6IzFE0c"
 />
 
-### Auto-animate transitions
-We can use `auto-animate transitions` to define micro-interactions between artboards.
+### XD INTERACTIONs 
+Let's watch this set of short videos to practice interacation design features in XD. 
 
-### Multiple Interactions
-https://youtu.be/zWQv9Qszm7c 
+**Auto-animate transitions** https://youtu.be/9pRgHdJrCj8
 
-### Content-Aware Layout
-https://youtu.be/h2yyNV4fnN0
+<YouTube
+  title="Auto-animate transitions"
+  url="https://www.youtube.com/embed/9pRgHdJrCj8"
+/>
 
+**Drag gesture** https://youtu.be/8w7MdxfBRFQ
+
+<YouTube
+  title="Drag gesture"
+  url="https://www.youtube.com/embed/8w7MdxfBRFQ"
+/>
+
+**Overlay** https://youtu.be/3tu1_j4PCnE
+
+<YouTube
+  title="Drag gesture"
+  url="https://www.youtube.com/embed/3tu1_j4PCnE"
+/>
+
+**Multiple Interactions** https://youtu.be/zWQv9Qszm7c 
+
+<YouTube
+  title="Multiple Interactions"
+  url="https://www.youtube.com/embed/zWQv9Qszm7c"
+/>
+
+**Content-Aware Layout** https://youtu.be/h2yyNV4fnN0
+
+<YouTube
+  title="Content-Aware Layout"
+  url="https://www.youtube.com/embed/h2yyNV4fnN0"
+/>
 
 
 ## XD Resources
