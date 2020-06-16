@@ -21,43 +21,18 @@ Let's follow these video to practice using some common productivity tools. First
   url="https://www.youtube.com/embed/qrsuk6zl8B8"
 />
 
-We will practice further with the following tutorials. Note: Download respective tutorial files on YouTube.
+### USING COMPONENTS
 
-**Creating components**
+![Using Componenets](./usingComponents.png)
 
-Let's create components by converting a group of objects to a component, and creating multiple instances on the design canvas. 
+We will practice further with this set of video tutorals. [Download tutorial files](https://www.dropbox.com/s/vfz93h52t0nsgvz/Components_Demo.xd?dl=0)
 
-<YouTube
-  title="Creating components"
-  url="https://www.youtube.com/embed/mKp50knMz00"
-/>
+1. [Creating components](https://youtu.be/mKp50knMz00)
+2. [Updating master components](https://youtu.be/lK9JBk4eIFQ)
+3. [Nesting components](https://youtu.be/DPSlmgaF1J8)
+4. [Swapping components](https://youtu.be/vzqScGDnrEE)
+5. [Using states](https://youtu.be/U4HH8bDkK48)
 
-**Updating master components**
-
-Next, we will customize the multiple instances of a component we create and then better understand their parent/child relationship.
-
-<YouTube
-  title="Updating master components"
-  url="https://www.youtube.com/embed/lK9JBk4eIFQ"
-/>
-
-**Nesting components**
-
-To make the components easy to main, we will nest components within one another to build out a molecular design structure.
-
-<YouTube
-  title="Updating master components"
-  url="https://www.youtube.com/embed/DPSlmgaF1J8"
-/>
-
-**Component States** 
-
-Now we will creating a basic button states with hover. 
-
-<YouTube
-  title="Adobe XD – Hover & Micro-Interactions"
-  url="https://www.youtube.com/embed/U4HH8bDkK48"
-/>
 
 **Component Hover states & Micro-Interactions**
 
