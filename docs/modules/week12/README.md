@@ -88,12 +88,22 @@ We can quickly share documents with collaborators and team members when we save 
   url="https://www.youtube.com/embed/qICToKxlxAc"
 />
 
-**Xd Productivity features**: Object Flip, Search Layers, Linked Symbols
+### Xd PRODUCTIVITY
+
+Follow this video to learn `Object Flip`, `Search Layers`, `Linked Symbols` features.
 
 <YouTube
   title="Adobe XD December 2018 Release: Cloud Document Sharing"
   url="https://www.youtube.com/embed/wHlcOCJycxw"
 />
+
+**?? Component States** in Adobe XD – Hover & Micro-Interactions
+
+<YouTube
+  title="Adobe XD – Hover & Micro-Interactions"
+  url="https://www.youtube.com/embed/c8ov6IzFE0c"
+/>
+
 
 ## Built-in XD Tutorial
 
