@@ -3,7 +3,6 @@
 In this lesson, we will harness our Adobe XD knowledge by using XD productivity tools, UI Kits, and plugins. We will learn the common mobile user interface elements with ease and get an introduction to the industry design standards and guidelines: Human Interface Guidelines (Mac), Material Design (Android), and Universal Windows Platform (UWP) design guidance. 
 
 
-
 ## Xd Productivity
 
 Let's follow these video to practice using some common productivity tools.  First, we will learn `Object Flip`, `Search Layers`, `Linked Symbols (now components)` features.
@@ -13,24 +12,48 @@ Let's follow these video to practice using some common productivity tools.  Firs
   url="https://www.youtube.com/embed/wHlcOCJycxw"
 />
 
+
+### COMPONENTS
+
+First, we will practice using compenents. [Download tutorial file](https://www.dropbox.com/s/vfz93h52t0nsgvz/Components_Demo.xd?dl=0)
+
+**Updating master components**
+_Let's create multiple instances of a component, customize those instances, then better understand the parent/child relationship._ 
+
+<YouTube
+  title="Updating master components"
+  url="https://www.youtube.com/embed/lK9JBk4eIFQ"
+/>
+
+**Nesting components**
+_Nest components within one another to build out a molecular design structure for easy maintenance of your design._
+
+<YouTube
+  title="Updating master components"
+  url="https://www.youtube.com/embed/DPSlmgaF1J8"
+/>
+
 **Master Components**
 
-`Compenents` are previousely called *Symbols*. Let's watch this Adobe XD tutorial to learn how to effectively utilise the new `Master Components`, and `Component Overrides` features.
+`Compenents` are previousely called *Symbols*. Let's watch this tutorial to learn how to effectively utilise the new `Master Components`, and `Component Overrides` features.
 
 <YouTube
   title="Master Components & Overrides in Adobe XD"
   url="https://www.youtube.com/embed/wVJrxdVW15M"
 />
 
-
 **Component States** 
 
-Creating button states in Adobe XD – Hover & Micro-Interactions
+Now we will creating button states with hover and other micro-interactions
 
 <YouTube
   title="Adobe XD – Hover & Micro-Interactions"
   url="https://www.youtube.com/embed/c8ov6IzFE0c"
 />
+
+### Auto-animate transitions
+We can use `auto-animate transitions` to define micro-interactions between artboards.
+
 
 
 ## XD Resources
