@@ -3,7 +3,7 @@
 In this lesson, we will harness our Adobe XD knowledge by using XD productivity tools, UI Kits, and plugins. We will learn the common mobile user interface elements with ease and get an introduction to the industry design standards and guidelines: Human Interface Guidelines (Mac), Material Design (Android), and Universal Windows Platform (UWP) design guidance. 
 
 
-## Xd Productivity
+## Xd Productivity Tools
 
 Let's follow these video to practice using some common productivity tools.  First, we will learn `Object Flip`, `Search Layers`, `Linked Symbols (now components)` features.
 
@@ -12,13 +12,29 @@ Let's follow these video to practice using some common productivity tools.  Firs
   url="https://www.youtube.com/embed/wHlcOCJycxw"
 />
 
-
 ### COMPONENTS
 
-First, we will practice using compenents. [Download tutorial file](https://www.dropbox.com/s/vfz93h52t0nsgvz/Components_Demo.xd?dl=0)
+`Compenents` are previousely called *Symbols*. This tutorial shows us how to effectively utilise the new `Master Components`, and `Component Overrides` features.
+
+<YouTube
+  title="Master Components & Overrides in Adobe XD"
+  url="https://www.youtube.com/embed/wVJrxdVW15M"
+/>
+
+We will practice further with the following tutorials. [Download tutorial file](https://www.dropbox.com/s/vfz93h52t0nsgvz/Components_Demo.xd?dl=0)
+
+**Creating components**
+
+Let's create components by converting a group of objects to a component, and creating multiple instances on the design canvas. 
+
+<YouTube
+  title="Creating components"
+  url="https://www.youtube.com/embed/mKp50knMz00"
+/>
 
 **Updating master components**
-_Let's create multiple instances of a component, customize those instances, then better understand the parent/child relationship._ 
+
+Next, we will customize the multiple instances of a component we create and then better understand their parent/child relationship.
 
 <YouTube
   title="Updating master components"
@@ -26,20 +42,12 @@ _Let's create multiple instances of a component, customize those instances, then
 />
 
 **Nesting components**
-_Nest components within one another to build out a molecular design structure for easy maintenance of your design._
+
+To make the components easy to main, we will nest components within one another to build out a molecular design structure.
 
 <YouTube
   title="Updating master components"
   url="https://www.youtube.com/embed/DPSlmgaF1J8"
-/>
-
-**Master Components**
-
-`Compenents` are previousely called *Symbols*. Let's watch this tutorial to learn how to effectively utilise the new `Master Components`, and `Component Overrides` features.
-
-<YouTube
-  title="Master Components & Overrides in Adobe XD"
-  url="https://www.youtube.com/embed/wVJrxdVW15M"
 />
 
 **Component States** 
