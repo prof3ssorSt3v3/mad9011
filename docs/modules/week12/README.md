@@ -4,27 +4,24 @@
 
 Finally, welcome to the Adobe XD, a vector-based user experience design tool for mobile and web apps. XD supports rapid wireframing and interactive click-through visual prototypes. UI/UX designers use Adobe XD to seamlessly iterate and share interactive visual prototypes with team members and reviewers across devices and platforms.  
 
+[What's new in Adobe XD](https://helpx.adobe.com/ca/xd/help/whats-new.html) will help us keep up with the UI changes because Adobe releases XD updates monthly. 
+
 ### WHAT IS ADOBE XD?
 
-Let's watch this videos to learn how Xd let designers create UI visual mockups with speed, precision, and quality.
+Let's watch this videos to get an overview of how Xd let designers create UI visual mockups with speed, precision, and quality. 
 
 <YouTube
   title="Adobe XD Explore the User Interface 2020"
   url="https://www.youtube.com/embed/-hV9kKY5a94"
 />
 
-
 ### XD WORKSPACE
-
-XD has been improved/updated very frequently. We should check [What's new in Adobe XD](https://helpx.adobe.com/ca/xd/help/whats-new.html) regularly to keep up with the UI changes.
-
-[*Workspace basics*](https://helpx.adobe.com/ca/xd/help/workspace-basics.html) is a quick reference for Adobe XD user interface. 
-
-![Adobe XD 2019 Workspace](./XDmacWorkspace.png)
 
 We will get familiar with the workspace and the interface by exploring the in-app resources to learn how to use Adobe XD, or to get a head start on your designs. Learn their respective tools by navigating the Design and Prototype modes.
 
-<a href="https://helpx.adobe.com/ca/xd/how-to/what-is-xd.html#tour_the_workspace" target=”_blank”>![Tour the workspace](./XDworkspace.png)</a>
+[*Workspace basics*](https://helpx.adobe.com/ca/xd/help/workspace-basics.html) is a quick reference for Adobe XD user interface. 
+
+![Adobe XD 2020 Workspace](./XDmacWorkspace.png)
 
 
 ## Xd Workflow: Design > Prototype > Share
@@ -37,11 +34,11 @@ Before starting the workflow of: Design, Prototype, Share, we will [Download the
 
 ### DESIGN
 
-In **DESIGN** step, we will learn the basics for designing splash screens, importing images, and working with Repeat Grid.  
+In **DESIGN** step, we will learn the basics for designing splash screens, importing images, and working with Repeat Grid. 
 
 <a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_2___design" target=”_blank”>![Design with Xd](./XDdesign.png)</a>
 
-Note: Do you notice that you can click on the artboard name to select/move the artboard and double-click to edit the name?
+Note: Do you notice that you can click on the artboard name to select/move the artboard and double-click to edit the name? 
 
 ### PROTOTYPE
 
@@ -91,6 +88,8 @@ We can quickly share documents with collaborators and team members when we save 
   url="https://www.youtube.com/embed/qICToKxlxAc"
 />
 
+### COEDITING & DOCUMENT HISTORY  
+
 ### Xd PRODUCTIVITY
 
 Follow this video to learn `Object Flip`, `Search Layers`, `Linked Symbols (now components)` features.
@@ -126,7 +125,9 @@ Now, let's review what we have learned so far by completing this built-in tutori
 
 1. Start Adobe XD
 2. From `Help` menu, click to open `XD Tutorial` 
-3. Follow the 10 short steps to complete the tutorial   
+3. Follow the 10 short steps to complete the tutorial  
+4. Share for co-editing 
+5. Share for development & Comments 
 
 
 ## TODO
