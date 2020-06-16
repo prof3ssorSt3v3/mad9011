@@ -68,44 +68,41 @@ Check this video to learn how component states allows you to save elements for f
   url="https://www.youtube.com/embed/c8ov6IzFE0c"
 />
 
-### XD INTERACTIONs 
-Let's watch this set of short videos to practice interacation design features in XD. 
+### XD INTERACTIONS 
+Let's watch this set of short videos to practice some common interacation design features in XD.
 
-**Auto-animate transitions** https://youtu.be/9pRgHdJrCj8
+- [Auto-animate transitions](https://youtu.be/9pRgHdJrCj8)
+- [Drag gesture](https://youtu.be/8w7MdxfBRFQ)
+- [Overlay](https://youtu.be/3tu1_j4PCnE)
+- [Multiple Interactions](https://youtu.be/zWQv9Qszm7c)(Xd 2020) 
+- [Content-Aware Layout](https://youtu.be/h2yyNV4fnN0)(Xd 2020)
 
 <YouTube
   title="Auto-animate transitions"
   url="https://www.youtube.com/embed/9pRgHdJrCj8"
 />
 
-**Drag gesture** https://youtu.be/8w7MdxfBRFQ
-
 <YouTube
   title="Drag gesture"
   url="https://www.youtube.com/embed/8w7MdxfBRFQ"
 />
-
-**Overlay** https://youtu.be/3tu1_j4PCnE
 
 <YouTube
   title="Drag gesture"
   url="https://www.youtube.com/embed/3tu1_j4PCnE"
 />
 
-**Multiple Interactions** https://youtu.be/zWQv9Qszm7c 
-
 <YouTube
   title="Multiple Interactions"
   url="https://www.youtube.com/embed/zWQv9Qszm7c"
 />
-
-**Content-Aware Layout** https://youtu.be/h2yyNV4fnN0
 
 <YouTube
   title="Content-Aware Layout"
   url="https://www.youtube.com/embed/h2yyNV4fnN0"
 />
 
+---
 
 ## XD Resources
 
