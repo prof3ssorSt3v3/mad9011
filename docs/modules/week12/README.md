@@ -90,12 +90,22 @@ We can quickly share documents with collaborators and team members when we save 
 
 ### Xd PRODUCTIVITY
 
-Follow this video to learn `Object Flip`, `Search Layers`, `Linked Symbols` features.
+Follow this video to learn `Object Flip`, `Search Layers`, `Linked Symbols (now components)` features.
 
 <YouTube
   title="Adobe XD December 2018 Release: Cloud Document Sharing"
   url="https://www.youtube.com/embed/wHlcOCJycxw"
 />
+
+**Master Components**
+
+`Compenents` are previousely called *Symbols*. Let's watch this Adobe XD tutorial to learn how to effectively utilise the new `Master Components`, and `Component Overrides` features.
+
+<YouTube
+  title="Master Components & Overrides in Adobe XD"
+  url="https://www.youtube.com/embed/wVJrxdVW15M"
+/>
+
 
 **?? Component States** in Adobe XD – Hover & Micro-Interactions
 
