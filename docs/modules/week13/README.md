@@ -1,8 +1,12 @@
-# Week 13 - Xd Productivity, UI Kits, Plugins, and layout best practices
+# Week 13 - Xd Productivity tools, resources and layout best practices
+
+In this lesson, we will harness our Adobe XD knowledge by using XD productivity tools, UI Kits, and plugins. We will learn the common mobile user interface elements with ease and get an introduction to the industry design standards and guidelines: Human Interface Guidelines (Mac), Material Design (Android), and Universal Windows Platform (UWP) design guidance. 
+
+
 
 ## Xd Productivity
 
-Follow this video to learn `Object Flip`, `Search Layers`, `Linked Symbols (now components)` features.
+Let's follow these video to practice using some common productivity tools.  First, we will learn `Object Flip`, `Search Layers`, `Linked Symbols (now components)` features.
 
 <YouTube
   title="Adobe XD December 2018 Release: Cloud Document Sharing"
@@ -19,7 +23,9 @@ Follow this video to learn `Object Flip`, `Search Layers`, `Linked Symbols (now 
 />
 
 
-**?? Component States** in Adobe XD – Hover & Micro-Interactions
+**Component States** 
+
+Creating button states in Adobe XD – Hover & Micro-Interactions
 
 <YouTube
   title="Adobe XD – Hover & Micro-Interactions"
