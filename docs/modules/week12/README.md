@@ -90,30 +90,11 @@ We can quickly share documents with collaborators and team members when we save 
 
 ### COEDITING & DOCUMENT HISTORY  
 
-### Xd PRODUCTIVITY
-
-Follow this video to learn `Object Flip`, `Search Layers`, `Linked Symbols (now components)` features.
+With XD cloud document feature, we can collaborate and coedit with others in the same document in real-time. With document history, we can quickly see who's made edits and revert to old versions when needed. Let's follow this tutorial to use these features.  
 
 <YouTube
-  title="Adobe XD December 2018 Release: Cloud Document Sharing"
-  url="https://www.youtube.com/embed/wHlcOCJycxw"
-/>
-
-**Master Components**
-
-`Compenents` are previousely called *Symbols*. Let's watch this Adobe XD tutorial to learn how to effectively utilise the new `Master Components`, and `Component Overrides` features.
-
-<YouTube
-  title="Master Components & Overrides in Adobe XD"
-  url="https://www.youtube.com/embed/wVJrxdVW15M"
-/>
-
-
-**?? Component States** in Adobe XD – Hover & Micro-Interactions
-
-<YouTube
-  title="Adobe XD – Hover & Micro-Interactions"
-  url="https://www.youtube.com/embed/c8ov6IzFE0c"
+  title="Coediting & Document History – Adobe XD November Release 2019"
+  url="https://www.youtube.com/embed/XDFE5DH2Z5E"
 />
 
 

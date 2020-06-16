@@ -1,8 +1,37 @@
-# Week 13 - Cordova
+# Week 13 - Xd Productivity, UI Kits, Plugins, and layout best practices
+
+## Xd Productivity
+
+Follow this video to learn `Object Flip`, `Search Layers`, `Linked Symbols (now components)` features.
+
+<YouTube
+  title="Adobe XD December 2018 Release: Cloud Document Sharing"
+  url="https://www.youtube.com/embed/wHlcOCJycxw"
+/>
+
+**Master Components**
+
+`Compenents` are previousely called *Symbols*. Let's watch this Adobe XD tutorial to learn how to effectively utilise the new `Master Components`, and `Component Overrides` features.
+
+<YouTube
+  title="Master Components & Overrides in Adobe XD"
+  url="https://www.youtube.com/embed/wVJrxdVW15M"
+/>
+
+
+**?? Component States** in Adobe XD – Hover & Micro-Interactions
+
+<YouTube
+  title="Adobe XD – Hover & Micro-Interactions"
+  url="https://www.youtube.com/embed/c8ov6IzFE0c"
+/>
+
 
 ## XD Resources
 
 [**Adobe XD resources**](https://www.adobe.com/ca/products/xd/resources.html) site provides free tools to optimize our workflow and speed up the process: UI kits, icon sets, plugins, app integrations, and more. 
+
+
 
 ### XD UI KITS
 UI Kits content contains common buttons, form elements, headers, icons, and other UI elements.Follow this XD tutorial to learn how to get UI kits and use the Kit content in your own designs
