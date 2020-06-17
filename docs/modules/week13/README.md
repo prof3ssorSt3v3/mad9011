@@ -44,33 +44,28 @@ Check out this video to learn how component states allows you to save elements f
 
 
 ### XD INTERACTIONS 
-Let's watch this set of short videos to practice some common interacation design features in XD. Note: Download respective tutorial files on YouTube.
 
-- [Auto-animate transitions](https://youtu.be/9pRgHdJrCj8)
-- [Drag gesture](https://youtu.be/8w7MdxfBRFQ)
-- [Overlay](https://youtu.be/3tu1_j4PCnE)
-- [Multiple Interactions](https://youtu.be/zWQv9Qszm7c)(Xd 2020) 
-- [Content-Aware Layout](https://youtu.be/h2yyNV4fnN0)(Xd 2020)
+Let's watch this set of short videos to practice some popular prototype interacation design  in XD. We will build prototype with screen animation, trasitions, drag gesture, screen overlay, and voice control. [Download respective tutorial files](https://www.dropbox.com/s/j12i70snyblerui/Prototyping_Demo.xd?dl=0)
 
-<YouTube
-  title="Auto-animate transitions"
-  url="https://www.youtube.com/embed/9pRgHdJrCj8"
-/>
+1. [Basic Wiring](https://youtu.be/V2cXkakhh0Q)
+2. [Auto-animate transitions](https://youtu.be/9pRgHdJrCj8)
+3. [Drag gesture](https://youtu.be/8w7MdxfBRFQ)
+4. [Overlay](https://youtu.be/3tu1_j4PCnE)
+5. [Voice](https://youtu.be/LP_fiskLYqs)
 
-<YouTube
-  title="Drag gesture"
-  url="https://www.youtube.com/embed/8w7MdxfBRFQ"
-/>
 
-<YouTube
-  title="Drag gesture"
-  url="https://www.youtube.com/embed/3tu1_j4PCnE"
-/>
+**Multiple Interactions**
+
+XD 2020 release allows desingers apply multiple interactions to the same UI object. Watch this video to make your prototype interaction more natural. 
 
 <YouTube
   title="Multiple Interactions"
   url="https://www.youtube.com/embed/zWQv9Qszm7c"
 />
+
+**Content-Aware Layout**
+
+Content-aware layout enables designers to quickly create and edit common design elements without a lot of tedious work. We can add group padding coupled with responsive resize, to take this capability even further.
 
 <YouTube
   title="Content-Aware Layout"
