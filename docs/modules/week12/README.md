@@ -2,10 +2,10 @@
 
 ## Hooray! 
 
-Finally, welcome to the Adobe XD, a vector-based user experience design tool for mobile and web apps. XD supports rapid wireframing and interactive click-through visual prototypes. UI/UX designers use Adobe XD to seamlessly iterate and share interactive visual prototypes with team members and reviewers across devices and platforms.  
+Finally, welcome to Adobe XD (Xd), a vector-based user experience design tool for mobile and web apps. Xd supports rapid wireframing and interactive click-through visual prototypes. UI/UX designers use Adobe XD to seamlessly iterate and share interactive visual prototypes with team members and reviewers across devices and platforms.  
 
 - [*Adobe XD User Guide*](https://helpx.adobe.com/ca/xd/user-guide.html) contains all reference material 
-- [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-new.html) section will help us keep up with the UI changes from Adobe XD monthly update releases. 
+- [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-new.html) section will help us keep up with the UI changes from Adobe XD monthly updates. 
 
 ### WHAT IS ADOBE XD?
 

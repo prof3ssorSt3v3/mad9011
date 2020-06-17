@@ -3,15 +3,47 @@
 To wrap up our learning in Adobe XD, here is a list of Advanced features and good
 
 
-## DOMContentLoaded vs deviceready
+## Advanced Techniques
 
-As discussed in week 11, there is a difference between Cordova and web apps, that has to do with waiting for your page to be ready.
+### Bring in content from other application
+- [Bring in content from Photoshop](https://helpx.adobe.com/xd/how-to/import-assets-from-photoshop.html)
+- [Bring in content from Illustrator](https://helpx.adobe.com/xd/how-to/import-assets-from-illustrator.html)
+- [Bring in content using Creative Cloud Libraries](https://helpx.adobe.com/xd/how-to/add-assets-from-cc-library-to-xd.html)+ [Enhanced CC LIbraries integraion](https://youtu.be/GWuA1y79AT8)
 
-With a web app we only need to wait for `DOMContentLoaded`.
 
-With a Cordova app we need to wait for `deviceready`.
+### Using Sketch or Invision?
+- [Learn how to switch to Adobe XD](https://letsxd.com/sketch)
 
-The difference is that the `deviceready` event lets us know that `DOMContentLoaded` has happened as well as all the Cordova features and plugins are ready to use. With a Cordova app we always wait for the `deviceready` event before doing anything.
+
+### Scroll Groups - carousel (June 2020)
+https://youtu.be/7FuL2BosGr0
+
+
+### Design Tokens - share for development (June 2020)
+https://youtu.be/-ifl1tl-SuE
+
+
+
+
+
+### working with Illustrator/phothoshop
+
+### Integration with Slack 
+https://slack.com/apps/A7P35MCT0-adobe-creative-cloud
+
+### Chart Plugin
+https://chartplugin.com/
+
+### Improve your Flutter UI code productivity using Adobe XD
+https://medium.com/@rakeshpandith.ts/improve-your-flutter-ui-code-productivity-using-adobe-xd-c44bfd6490c6
+
+
+### Learn Adobe XD with in-depth tutorials and quick tips and tricks.
+https://letsxd.com/
+
+### Pro Tips
+https://letsxd.com/protips
+
 
 ### Code for Both Events
 
