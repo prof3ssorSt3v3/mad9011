@@ -1,4 +1,5 @@
-# Week 14 - Cordova
+# Week 14 - Putting it all together
+
 
 ::: danger SWITCH TO WINDOWS
 

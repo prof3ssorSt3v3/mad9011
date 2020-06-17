@@ -128,6 +128,19 @@ The last plugin we will use for our class is *Google Spreadsheet Plugin* which i
   url="https://www.youtube.com/embed/g8z0l5moNIw"
 />
 
+**Links**
+
+There are two plugins you will want to try for usability testing in XD:
+
+- [Useberry](https://www.useberry.com/integrations/adobe-xd/): https://youtu.be/ecFwUeYtq78 
+- [Usertesting](https://help.usertesting.com/hc/en-us/articles/360014666372): 
+
+## Common Design Mistakes by Non Designers
+
+
+Advanced With all the tools 
+
+https://letsxd.com/videos/google-sheets (Wk 14)
 
 ## TODO
 
