@@ -1,6 +1,6 @@
 # Week 15 - Work Labs
 
-::: danger SWITCH TO WINDOWS
+::: danger Final Project Due
 
 - We will now be switching over to Windows 10.
 - Make sure that you have installed NodeJS and VSCode for Windows.
