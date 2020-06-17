@@ -23,9 +23,9 @@ Let's follow these video to practice using some common productivity tools. First
 
 ### USING COMPONENTS
 
-![Using Componenets](./usingComponents.png)
+Let's follow this set of short video tutorals to create/nest/swap componenets, update master componenets and use different componenet states. [Download tutorial files](https://www.dropbox.com/s/vfz93h52t0nsgvz/Components_Demo.xd?dl=0)
 
-We will practice further with this set of video tutorals. [Download tutorial files](https://www.dropbox.com/s/vfz93h52t0nsgvz/Components_Demo.xd?dl=0)
+![Using Componenets](./usingComponents.png)
 
 1. [Creating components](https://youtu.be/mKp50knMz00)
 2. [Updating master components](https://youtu.be/lK9JBk4eIFQ)
@@ -35,7 +35,7 @@ We will practice further with this set of video tutorals. [Download tutorial fil
 
 **Component Hover states & Micro-Interactions**
 
-Check this video to learn how component states allows you to save elements for future use and create additional versions of your buttons, toggles, fields, and more.
+Check out this video to learn how component states allows you to save elements for future use and create additional versions of your buttons, toggles, fields, and more.
 
 <YouTube
   title="Adobe XD – Hover & Micro-Interactions"
@@ -44,8 +44,7 @@ Check this video to learn how component states allows you to save elements for f
 
 
 ### XD INTERACTIONS 
-Let's watch this set of short videos to practice some common interacation design features in XD. 
-Note: Download respective tutorial files on YouTube.
+Let's watch this set of short videos to practice some common interacation design features in XD. Note: Download respective tutorial files on YouTube.
 
 - [Auto-animate transitions](https://youtu.be/9pRgHdJrCj8)
 - [Drag gesture](https://youtu.be/8w7MdxfBRFQ)
