@@ -7,7 +7,7 @@ In this lesson, we will harness our Adobe XD knowledge by using XD productivity 
 
 ## Xd Productivity Tools
 
-Let's follow this video to practice using some popular XD features of `Object Flip`, `Search Layers`, and `Linked Symbols (now components)`.
+Let's follow this video to practice using some popular XD features: `Object Flip`, `Search Layers`, and `Linked Symbols (now components)`
 
 <YouTube
   title="Adobe XD December 2018 Release: Cloud Document Sharing"
@@ -25,7 +25,7 @@ Xd `Componenets` are previousely called *Symbols*. This tutorial gives us an int
 
 ### USING COMPONENTS
 
-Let's follow this set of short video tutorals to create/nest/swap componenets, update master componenets and use different componenet states. [Download tutorial file](https://www.dropbox.com/s/vfz93h52t0nsgvz/Components_Demo.xd?dl=0)
+This set of short video tutorals teach us to create/nest/swap componenets, update master componenets and use different componenet states. We will follow along to practice. [Download tutorial file](https://www.dropbox.com/s/vfz93h52t0nsgvz/Components_Demo.xd?dl=0)
 
 ![Using Componenets](./usingComponents.png)
 
@@ -35,7 +35,7 @@ Let's follow this set of short video tutorals to create/nest/swap componenets, u
 4. [Swapping components](https://youtu.be/vzqScGDnrEE)
 5. [Using states](https://youtu.be/U4HH8bDkK48)
 
-**Component hover states & Micro-Interactions**
+#### Component hover states & Micro-Interactions**
 
 Check out this video to learn how component states allows you to save elements for future use and create additional versions of your buttons, toggles, fields, and more.
 
