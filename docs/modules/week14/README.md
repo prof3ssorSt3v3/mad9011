@@ -10,14 +10,10 @@ Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have l
   url="https://www.youtube.com/embed/7FuL2BosGr0"
 />
 
-### Scroll Groups (June 2020)
+### June 2020 features
 - [Scroll Groups - Createing carousel](https://youtu.be/7FuL2BosGr0)
-
-### Design Tokens (June 2020)
 - [Design Tokens - Enhancement for `Share for development`](https://youtu.be/-ifl1tl-SuE)
-
-### Stacks (June 2020)
-- [Stacks - Design with ease.](https://letsxd.com/stacks)
+- [Stacks - Design with ease](https://letsxd.com/stacks)
 
 ### Bring in content from other application
 - [Bring in content from Photoshop](https://helpx.adobe.com/xd/how-to/import-assets-from-photoshop.html)
