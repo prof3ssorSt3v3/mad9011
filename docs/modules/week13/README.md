@@ -125,6 +125,7 @@ Let's follow this tutorial to install some useful plugins. We will use these plu
   url="https://www.youtube.com/embed/d-Hxze_r9rU"
 />
 
+
 One last plugin we will use is `Google Spreadsheet` which is very useful when designing UI with data. 
 
 <YouTube
@@ -136,7 +137,7 @@ One last plugin we will use is `Google Spreadsheet` which is very useful when de
 
 Here are two plugins you may try for usability testing in XD. They both provide free/education access. 
 
-- [Useberry](https://www.useberry.com/integrations/adobe-xd/) - Here is a [Useberry vidoe demo](https://youtu.be/ecFwUeYtq78) 
+- [Useberry](https://www.useberry.com/integrations/adobe-xd/) - You can watch [Useberry vidoe demo](https://youtu.be/ecFwUeYtq78) 
 - [Usertesting](https://help.usertesting.com/hc/en-us/articles/360014666372)
 
 ## Layout Best Practices
