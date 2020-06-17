@@ -102,7 +102,7 @@ We will follow this video to get the *Wireframes UI Kits* and then use the conte
 **Links**
 - [Material Design Resources](https://material.io/resources)
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
-- 
+- [Design toolkits and samples for Windows apps](https://docs.microsoft.com/en-us/windows/uwp/design/downloads/)
 
 ###  Plugin Manager 
 
