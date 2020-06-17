@@ -87,7 +87,7 @@ UI Kits content contains common buttons, form elements, headers, icons, and othe
 
 We will first follow this video to try *Wireframes UI Kits*. 
 
-<a href="Start your design with UI kits" target="_blank">![Start your design with UI Kits](./wireframeUIkits.png)</a>
+<a href="https://helpx.adobe.com/xd/how-to/ui-kits.html" target="_blank">![Start your design with UI Kits](./wireframeUIkits.png)</a>
 
 
 **Use a popular **
