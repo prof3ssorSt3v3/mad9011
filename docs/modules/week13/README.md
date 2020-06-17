@@ -16,7 +16,7 @@ Let's follow this video to practice using some popular XD features for `Object F
 
 ### COMPONENTS
 
-Xd `Componenets` are previousely called *Symbols*. This tutorial shows us how to effectively utilise the `Master Components`, and `Component Overrides` features.
+Xd `Componenets` are previousely called *Symbols*. This tutorial gives us an introduction of `Master Components`, and `Component Overrides` features.
 
 <YouTube
   title="Introducing Components in Adobe XD"
@@ -47,7 +47,7 @@ Check out this video to learn how component states allows you to save elements f
 
 ### XD INTERACTIONS 
 
-Let's watch this set of short videos to practice some popular prototype interacation design  in Adobe XD. We will build prototype with screen animation, transitions, drag gesture, componenet overlay, and voice control. [Download this tutorial file](https://www.dropbox.com/s/j12i70snyblerui/Prototyping_Demo.xd?dl=0)
+Let's watch this set of short videos to practice popular prototype interacation design in Adobe XD. We will build prototype with screen animation, transitions, drag gesture, componenet overlay, and voice control. [Download tutorial file](https://www.dropbox.com/s/j12i70snyblerui/Prototyping_Demo.xd?dl=0)
 
 1. [Basic Wiring](https://youtu.be/V2cXkakhh0Q)
 2. [Auto-animate transitions](https://youtu.be/9pRgHdJrCj8)
@@ -78,21 +78,23 @@ Content-aware layout enables designers to quickly create and edit common design 
 
 ## XD Resources
 
-[*Adobe XD resources*](https://www.adobe.com/ca/products/xd/resources.html) website provides powerful great resources we can use to optimize our workflow and speed up the design process. They include `UI kits`, `icon sets`, `plugins`, `app integrations`, and more. 
+[*Adobe XD resources*](https://www.adobe.com/ca/products/xd/resources.html) website provides great resources we can use to optimize our workflow and speed up the design process. They include `UI kits`, `icon sets`, `plugins`, `app integrations`, and more. 
 
 <a href="https://www.adobe.com/ca/products/xd/resources.html" target="_blank">![Adobe XD resources](./XdResources.png)</a>
 
 
 ### XD UI KITS
 
-UI Kits content contains common buttons, form elements, headers, icons, and other UI elements.Follow this XD tutorial to learn how to get UI kits and use the Kit content in your own designs. Note: We will explorer UI Kits for [**Apple iOS**](https://developer.apple.com/design/resources/) and [**Material Design**](http://download.adobe.com/pub/adobe/xd/ui-kits/xd-resources-material-design-ui.zip?promoid=98SH4RH2&mv=other) in class to understand the platform standards together. 
+UI Kits content contains common buttons, form elements, headers, icons, and other UI elements.Follow this XD tutorial to learn how to get UI kits and use the Kit content in your own designs. 
 
-**Let's start our design with UI kits:** We will follow this video to get the *Wireframes UI Kits* and then use the content in our own XD file. 
+Note: We will explorer UI Kits for [**Apple iOS**](https://developer.apple.com/design/resources/) and [**Material Design**](http://download.adobe.com/pub/adobe/xd/ui-kits/xd-resources-material-design-ui.zip?promoid=98SH4RH2&mv=other) in class to understand the platform standards together. Download [Apple iOS fonts](https://developer.apple.com/fonts/) and [Roboto fonts for Android devices](https://material.io/design/typography/the-type-system.html#type-scale)
+
+**Let's start our design with UI kits.** We will follow this video to get the *Wireframes UI Kits* and use the content in our own XD file. 
 
 <a href="https://helpx.adobe.com/xd/how-to/ui-kits.html" target="_blank">![Start your design with UI Kits](./wireframeUIkits.png)</a>
 
 
-**Leveraging UI Kits** shows multiple ways to access different UI KITs in Xd. Let's download and try *Tractiv* UI Kits from [Adobe Ressources.](https://www.adobe.com/ca/products/xd/resources.html) 
+**Leveraging UI Kits** tutorial shows multiple ways to access UI Kits in Xd and how to download *Tractiv* UI Kits from [Adobe Ressources.](https://www.adobe.com/ca/products/xd/resources.html) 
 
 <YouTube
   title="Leveraging UI Kits"
@@ -107,7 +109,7 @@ UI Kits content contains common buttons, form elements, headers, icons, and othe
 
 ### XD PLUGIN MANAGER  
 
-This tutorial provides a quick overview of XD Plugin Manager and shows multiple ways to access it in Xd. 
+This tutorial provides a quick overview of `XD Plugin Manager` and shows multiple ways to access it in Xd. 
 
 <YouTube
   title="XD Plugin Manager"
@@ -116,14 +118,14 @@ This tutorial provides a quick overview of XD Plugin Manager and shows multiple 
 
 **Adobe XD Top 10 Plugins (2020)** 
 
-Let's follow this tutorial to install a some useful plugins. Feel free to try as many as you like. We will use these plugins for our class excercises: `Photosplash 2`, `Icons 4 Design`, `UI Faces`
+Let's follow this tutorial to install some useful plugins. We will use these plugins for our class excercises: `Photosplash 2`, `Icons 4 Design`, and `UI Faces` but feel free to try as many as you like.
 
 <YouTube
   title="Adobe XD Top 10 Plugins (2020)"
   url="https://www.youtube.com/embed/d-Hxze_r9rU"
 />
 
-The last plugin we will use for our class is *Google Spreadsheet Plugin* which is very useful when designing with data.
+One last plugin we will use is *Google Spreadsheet* which is very useful when designing UI with data. 
 
 <YouTube
   title="Google Sheets Plugin for Adobe XD – Design with Data"
@@ -132,17 +134,13 @@ The last plugin we will use for our class is *Google Spreadsheet Plugin* which i
 
 **Links**
 
-There are two plugins you will want to try for usability testing in XD:
+Here are two plugins you may try for usability testing in XD. They both provide free/educatinal access. 
 
-- [Useberry](https://www.useberry.com/integrations/adobe-xd/): https://youtu.be/ecFwUeYtq78 
+- [Useberry](https://www.useberry.com/integrations/adobe-xd/) - [Watch this vidoe demo](https://youtu.be/ecFwUeYtq78) 
 - [Usertesting](https://help.usertesting.com/hc/en-us/articles/360014666372): 
 
-## Common Design Mistakes by Non Designers
+### Managing Fonts
 
-
-Advanced With all the tools 
-
-https://letsxd.com/videos/google-sheets (Wk 14)
 
 ## TODO
 

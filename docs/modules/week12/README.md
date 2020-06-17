@@ -104,6 +104,15 @@ We can collaborate and coedit with others in the same document in real-time with
   url="https://www.youtube.com/embed/XDFE5DH2Z5E"
 />
 
+**Managing fonts**
+
+The design may be altered unexpectedly during collaboration if someone doesn't have the right fonts installed. This tutorial will teach us to identify potential font issues and how to resolve them. 
+
+<YouTube
+  title="March 2019: Missing fonts will now load automatically"
+  url="https://www.youtube.com/embed/QD1TVEuNNcQ"
+/>
+
 
 **Links**
 
@@ -120,8 +129,8 @@ Now, let's review what we have learned so far by completing this built-in tutori
 1. Start Adobe XD
 2. From `Help` menu, click to open `XD Tutorial` 
 3. Follow the 10 short steps to complete the tutorial  
-4. Share for co-editing 
-5. Share for development & Comments 
+4. Share with a classmate for co-editing 
+5. Share for development review to obtain comments from two classmates
 
 
 ## TODO
