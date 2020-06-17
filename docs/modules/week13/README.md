@@ -83,6 +83,8 @@ Content-aware layout enables designers to quickly create and edit common design 
 
 UI Kits content contains common buttons, form elements, headers, icons, and other UI elements.Follow this XD tutorial to learn how to get UI kits and use the Kit content in your own designs
 
+*Start your design with UI kits* provides quick refereces 
+
 <YouTube
   title="Leveraging UI Kits"
   url="https://www.youtube.com/embed/Jgk83qXOYSk"
