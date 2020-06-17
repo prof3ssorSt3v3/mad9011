@@ -35,7 +35,7 @@ This set of short video tutorals teach us to create/nest/swap componenets, updat
 4. [Swapping components](https://youtu.be/vzqScGDnrEE)
 5. [Using states](https://youtu.be/U4HH8bDkK48)
 
-#### Component hover states & Micro-Interactions**
+#### Component hover states & Micro-Interactions
 
 Check out this video to learn how component states allows you to save elements for future use and create additional versions of your buttons, toggles, fields, and more.
 
@@ -56,7 +56,7 @@ Let's watch this set of short videos to practice popular prototype interacation 
 5. [Voice](https://youtu.be/LP_fiskLYqs)
 
 
-**Multiple Interactions**
+#### Multiple Interactions
 
 XD 2020 release allows desingers to apply multiple interactions to the same UI object. Follow this video to make our prototype interaction more natural. 
 
@@ -65,7 +65,7 @@ XD 2020 release allows desingers to apply multiple interactions to the same UI o
   url="https://www.youtube.com/embed/zWQv9Qszm7c"
 />
 
-**Content-Aware Layout**
+#### Content-Aware Layout
 
 Content-aware layout enables designers to quickly create and edit common design elements without a lot of tedious step. We can add group padding coupled with responsive resize.
 
