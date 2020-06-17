@@ -5,7 +5,7 @@ In this lesson, we will harness our Adobe XD knowledge by using XD productivity 
 
 ## Xd Productivity Tools
 
-Let's follow these video to practice using some common productivity tools. First, we will learn `Object Flip`, `Search Layers`, `Linked Symbols (now components)` features.
+Let's follow this video to practice using some popular XD features for `Object Flip`, `Search Layers`, and `Linked Symbols (now components)`.
 
 <YouTube
   title="Adobe XD December 2018 Release: Cloud Document Sharing"
@@ -14,7 +14,7 @@ Let's follow these video to practice using some common productivity tools. First
 
 ### COMPONENTS
 
-`Compenents` are previousely called *Symbols*. This tutorial shows us how to effectively utilise the new `Master Components`, and `Component Overrides` features.
+Xd `Componenets` are previousely called *Symbols*. This tutorial shows us how to effectively utilise the `Master Components`, and `Component Overrides` features.
 
 <YouTube
   title="Introducing Components in Adobe XD"
@@ -23,7 +23,7 @@ Let's follow these video to practice using some common productivity tools. First
 
 ### USING COMPONENTS
 
-Let's follow this set of short video tutorals to create/nest/swap componenets, update master componenets and use different componenet states. [Download tutorial files](https://www.dropbox.com/s/vfz93h52t0nsgvz/Components_Demo.xd?dl=0)
+Let's follow this set of short video tutorals to create/nest/swap componenets, update master componenets and use different componenet states. [Download tutorial file](https://www.dropbox.com/s/vfz93h52t0nsgvz/Components_Demo.xd?dl=0)
 
 ![Using Componenets](./usingComponents.png)
 
@@ -33,7 +33,7 @@ Let's follow this set of short video tutorals to create/nest/swap componenets, u
 4. [Swapping components](https://youtu.be/vzqScGDnrEE)
 5. [Using states](https://youtu.be/U4HH8bDkK48)
 
-**Component Hover states & Micro-Interactions**
+**Component hover states & Micro-Interactions**
 
 Check out this video to learn how component states allows you to save elements for future use and create additional versions of your buttons, toggles, fields, and more.
 
@@ -45,7 +45,7 @@ Check out this video to learn how component states allows you to save elements f
 
 ### XD INTERACTIONS 
 
-Let's watch this set of short videos to practice some popular prototype interacation design  in XD. We will build prototype with screen animation, trasitions, drag gesture, screen overlay, and voice control. [Download respective tutorial files](https://www.dropbox.com/s/j12i70snyblerui/Prototyping_Demo.xd?dl=0)
+Let's watch this set of short videos to practice some popular prototype interacation design  in Adobe XD. We will build prototype with screen animation, transitions, drag gesture, componenet overlay, and voice control. [Download this tutorial file](https://www.dropbox.com/s/j12i70snyblerui/Prototyping_Demo.xd?dl=0)
 
 1. [Basic Wiring](https://youtu.be/V2cXkakhh0Q)
 2. [Auto-animate transitions](https://youtu.be/9pRgHdJrCj8)
@@ -56,7 +56,7 @@ Let's watch this set of short videos to practice some popular prototype interaca
 
 **Multiple Interactions**
 
-XD 2020 release allows desingers apply multiple interactions to the same UI object. Watch this video to make your prototype interaction more natural. 
+XD 2020 release allows desingers to apply multiple interactions to the same UI object. Follow this video to make our prototype interaction more natural. 
 
 <YouTube
   title="Multiple Interactions"
@@ -65,7 +65,7 @@ XD 2020 release allows desingers apply multiple interactions to the same UI obje
 
 **Content-Aware Layout**
 
-Content-aware layout enables designers to quickly create and edit common design elements without a lot of tedious work. We can add group padding coupled with responsive resize, to take this capability even further.
+Content-aware layout enables designers to quickly create and edit common design elements without a lot of tedious step. We can add group padding coupled with responsive resize.
 
 <YouTube
   title="Content-Aware Layout"
@@ -76,49 +76,27 @@ Content-aware layout enables designers to quickly create and edit common design 
 
 ## XD Resources
 
-[**Adobe XD resources**](https://www.adobe.com/ca/products/xd/resources.html) site provides free tools to optimize our workflow and speed up the process: UI kits, icon sets, plugins, app integrations, and more. 
-
+[*Adobe XD resources*](https://www.adobe.com/ca/products/xd/resources.html) website provides powerful free resources we can use to optimize our workflow and speed up the design process. They include `UI kits`, `icon sets`, `plugins`, `app integrations`, and more. 
 
 
 ### XD UI KITS
+
 UI Kits content contains common buttons, form elements, headers, icons, and other UI elements.Follow this XD tutorial to learn how to get UI kits and use the Kit content in your own designs
+
+<YouTube
+  title="Leveraging UI Kits"
+  url="https://www.youtube.com/embed/Jgk83qXOYSk"
+/>
+
+https://youtu.be/Jgk83qXOYSk
+
 
 ###  Plugin Manager 
 
 https://youtu.be/YAgKDA6c9_I
 
 
-Here is an updated version of the code that we used in class to create our first SPA. This version includes the ability to right-click and load a link in a new tab.
 
-[Simple-SPA repo](https://github.com/prof3ssorSt3v3/simple-spa-demo)
-
-You can feel free to use any of this code as a starting point or reference for your first Movie SPA Project.
-
-## Cordova Splashscreens
-
-Splashscreen images for your Cordova app need to be available in both Portrait and Landscape orientations and at a variety of sizes and resolutions.
-
-You should use Photoshop to create the images and then you will need to use the `config.xml` to link to the images.
-
-[Learn more about Splashscreens in Cordova](./splash.md)
-
-## Cordova Launcher Icons
-
-Just like the splashscreen images, the launcher icons need to be created at different sizes for different resolutions. Then you will put the links inside the `config.xml` file.
-
-[Learn more about Launcher Icons in Cordova](./launcher.md)
-
-## Cordova Building Apps
-
-If you need to re-compile your project and include the latest splashscreen or launcher icons then we can use the `cordova build` command.
-
-[Learn more about Building Apps in Cordova](./build.md)
-
-## Cordova Emulating Apps
-
-To launch your app in an emulator or simulator you can use the `cordova emulate` command.
-
-[Learn more about Emulating Apps in Cordova](./emulate.md)
 
 ## Cordova Running apps
 
@@ -132,4 +110,6 @@ Cordova also has a `cordova run` command which will compile your project, instal
 
 - If you have not read all these notes and watched the videos from this week, do that first.
 - Finish reading the notes for week 13 and watch all the videos in the notes for week 14.
+- Hybrid 9 - In-class: Mobile layout in XD
+
   :::
