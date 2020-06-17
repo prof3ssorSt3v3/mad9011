@@ -5,6 +5,11 @@ Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have l
 
 ## Advanced Xd Techniques
 
+<YouTube
+  title="Scroll Groups"
+  url="https://www.youtube.com/embed/7FuL2BosGr0"
+/>
+
 ### Scroll Groups (June 2020)
 - [Scroll Groups - Createing carousel](https://youtu.be/7FuL2BosGr0)
 
@@ -48,8 +53,8 @@ Reference: [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-n
 
 - Video: [New Adobe XD Update | June 2020](https://youtu.be/e6R9QiyB3YQ)
     - Blog: [June 2020 Release of Adobe XD](https://theblog.adobe.com/xd-june-2020-scroll-groups-stacks-more/)
-- []()
-
+- Video: [New Adobe XD Update | June 2020](https://youtu.be/e6R9QiyB3YQ)
+    - Blog: [June 2020 Release of Adobe XD](https://theblog.adobe.com/xd-june-2020-scroll-groups-stacks-more/)
 
 ## TODO
 
