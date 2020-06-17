@@ -18,7 +18,8 @@ Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have l
 ### Bring in content from other applications
 - [Bring in content from Photoshop](https://helpx.adobe.com/xd/how-to/import-assets-from-photoshop.html)
 - [Bring in content from Illustrator](https://helpx.adobe.com/xd/how-to/import-assets-from-illustrator.html)
-- [Bring in content using Creative Cloud Libraries](https://helpx.adobe.com/xd/how-to/add-assets-from-cc-library-to-xd.html)+ [Enhanced CC LIbraries integraion](https://youtu.be/GWuA1y79AT8)
+- [Bring in content using Creative Cloud Libraries](https://helpx.adobe.com/xd/how-to/add-assets-from-cc-library-to-xd.html) 
+    - [Enhanced CC LIbraries integraion](https://youtu.be/GWuA1y79AT8)
 
 ### Using Sketch or Invision?
 - [Learn how to switch to Adobe XD](https://letsxd.com/sketch)
@@ -36,7 +37,7 @@ Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have l
 - [Pro Tips](https://letsxd.com/protips)
 
 
-## What's New in Adobe XD (Release 2020)
+## What's New in Adobe XD
 
 Adobe XD releases new updates almost every month. Let's watch the tutorial videos *Caler Edwards* produces on YouTube to keep up with the UI changes. 
 
