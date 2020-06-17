@@ -78,19 +78,21 @@ Content-aware layout enables designers to quickly create and edit common design 
 
 [*Adobe XD resources*](https://www.adobe.com/ca/products/xd/resources.html) website provides powerful free resources we can use to optimize our workflow and speed up the design process. They include `UI kits`, `icon sets`, `plugins`, `app integrations`, and more. 
 
+<a href="https://www.adobe.com/ca/products/xd/resources.html" target="_blank">![Adobe XD resources](./XdResources.png)</a>
+
 
 ### XD UI KITS
 
-UI Kits content contains common buttons, form elements, headers, icons, and other UI elements.Follow this XD tutorial to learn how to get UI kits and use the Kit content in your own designs. Note: We will explorer UI Kits for Apple iOS and Material Design in class to understand the platform standards together. 
+UI Kits content contains common buttons, form elements, headers, icons, and other UI elements.Follow this XD tutorial to learn how to get UI kits and use the Kit content in your own designs. Note: We will explorer UI Kits for [**Apple iOS**](https://developer.apple.com/design/resources/) and [**Material Design**](http://download.adobe.com/pub/adobe/xd/ui-kits/xd-resources-material-design-ui.zip?promoid=98SH4RH2&mv=other) in class to understand the platform standards together. 
 
 **Start your design with UI kits**
 
-We will first follow this video to try *Wireframes UI Kits*. 
+We will follow this video to get the *Wireframes UI Kits* and then use the content in our own XD file. 
 
 <a href="https://helpx.adobe.com/xd/how-to/ui-kits.html" target="_blank">![Start your design with UI Kits](./wireframeUIkits.png)</a>
 
 
-**Use a popular **
+**Leveraging UI Kits** shows multiple ways to access UI KITs in Xd. 
 
 <YouTube
   title="Leveraging UI Kits"
@@ -98,7 +100,8 @@ We will first follow this video to try *Wireframes UI Kits*.
 />
 
 **Links**
-
+- [Material Design Resources](https://material.io/resources)
+- [Apple Design Resources](https://developer.apple.com/design/resources/)
 - 
 
 ###  Plugin Manager 
