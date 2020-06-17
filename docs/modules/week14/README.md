@@ -1,13 +1,7 @@
 # Week 14 - Putting it all together
 
+To wrap up our learning in Adobe XD, here is a list of Advanced features and good
 
-::: danger SWITCH TO WINDOWS
-
-- We are now using Windows 10.
-- Make sure that you have installed NodeJS and VSCode for Windows.
-- You also need Gradle, Android Studio version 3.x, JDK version 8.x, and Cordova installed.
-
-:::
 
 ## DOMContentLoaded vs deviceready
 
