@@ -48,8 +48,8 @@ Reference: [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-n
   url="https://www.youtube.com/embed/e6R9QiyB3YQ"
 />
 
-- Video: [New Adobe XD Update | June 2020](https://youtu.be/e6R9QiyB3YQ)
-    - Blog: [June 2020 Release of Adobe XD](https://theblog.adobe.com/xd-june-2020-scroll-groups-stacks-more)
+- Video - [New Adobe XD Update | June 2020](https://youtu.be/e6R9QiyB3YQ)
+    - Blog -  [June 2020 Release of Adobe XD](https://theblog.adobe.com/xd-june-2020-scroll-groups-stacks-more): Design Tokens, Stacks, Scroll Groups, and More
 
 - Video: [New Adobe XD Update | May 2020](https://youtu.be/g1ZfTi3-ypE)
     - Blog: [May 2020 Release of Adobe XD](https://theblog.adobe.com/xd-may-2020-offline-coediting-sharing-improvements)
@@ -71,7 +71,7 @@ Reference: [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-n
 
 - Video: [New Adobe XD Update | August 2019](https://youtu.be/nPy8HaVhkbw)
     - Blog: [August 2019 Release of Adobe XD](https://theblog.adobe.com/xd-august-2019-update-auto-css-plugins-panel-more)
-    
+
 - Video: [New Adobe XD Update | June 2019](https://youtu.be/iDI1ykinExI)
     - Blog: [August 2019 Release of June XD](https://theblog.adobe.com/xd-june-2019-update-property-inspector-superscript-subscript-more)    
 
