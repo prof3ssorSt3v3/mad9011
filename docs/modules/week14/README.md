@@ -53,13 +53,13 @@ Reference: [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-n
 - Video - [New Adobe XD Update | May 2020](https://youtu.be/g1ZfTi3-ypE)
     - Blog - [May 2020 Release of Adobe XD](https://theblog.adobe.com/xd-may-2020-offline-coediting-sharing-improvements): Offline Support for Coediting and Sharing Improvements
 - Video - [New Adobe XD Update | March 2020*](https://youtu.be/kPib1jYFnd4)
-    - Blog - [March 2020 Release of Adobe XD](https://theblog.adobe.com/xd-march-2020-audio-prototyping-anchor-links-more): Prototype with Audio, Anchor Links, and More
+    - Blog - [March 2020 Release of Adobe XD*](https://theblog.adobe.com/xd-march-2020-audio-prototyping-anchor-links-more): Prototype with Audio, Anchor Links, and More
 - Video - [New Adobe XD Update | February 2020](https://youtu.be/oq3wBgff2XY)
     - Blog: [February 2020 Release of Adobe XD](https://theblog.adobe.com/announcing-mac-os-voice-control-adobe-xd/): Designing Out Loud, Voice Control in Adobe XD
 - Video - [New Adobe XD Update | January 2020](https://youtu.be/_4Wf9P5lV1c)
     - Blog - [January 2020 Release of Adobe XD](https://theblog.adobe.com/xd-january-2020-content-aware-layout-plugin-apis): Content-Aware Layout, New Plugin APIs, and More
 - Video - [New Adobe XD Update | November 2019*](https://youtu.be/k5aumarZ4sQ)
-    - Blog - [November 2019 Release of Adobe XD](https://theblog.adobe.com/xd-november-2019-update-coediting-more/): Coediting, Document History, Component States, and More
+    - Blog - [November 2019 Release of Adobe XD*](https://theblog.adobe.com/xd-november-2019-update-coediting-more/): Coediting, Document History, Component States, and More
 - Video - [New Adobe XD Update | October 2019](https://youtu.be/0ttcgqg4XG4)
     - Blog - [October 2019 Release of Adobe XD](https://theblog.adobe.com/xd-october-2019-update-blend-modes-shortcuts-more): Blend Modes, New Keyboard Shortcuts, Updated Collaboration Integrations, and More
 - Video - [New Adobe XD Update | August 2019](https://youtu.be/nPy8HaVhkbw)
