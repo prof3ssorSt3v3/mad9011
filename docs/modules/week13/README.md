@@ -121,7 +121,7 @@ Let's follow this tutorial to install a some useful plugins. Feel free to try as
   url="https://www.youtube.com/embed/d-Hxze_r9rU"
 />
 
-**Google Spreadsheet Plugin** is very useful when designing with data
+**Google Spreadsheet Plugin** is very useful when designing with data.
 <YouTube
   title="Google Sheets Plugin for Adobe XD – Design with Data"
   url="https://www.youtube.com/embed/g8z0l5moNIw"
