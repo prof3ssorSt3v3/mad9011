@@ -139,7 +139,14 @@ Here are two plugins you may try for usability testing in XD. They both provide 
 - [Useberry](https://www.useberry.com/integrations/adobe-xd/) - [Watch this vidoe demo](https://youtu.be/ecFwUeYtq78) 
 - [Usertesting](https://help.usertesting.com/hc/en-us/articles/360014666372): 
 
-### Managing Fonts
+## Layout Best Practices
+
+**Common Design Mistakes by Non Designers** – *A compilation of 15 most common design mistakes committed by non-designers and amateur visual artists. They include how to avoid using too many words instead of visuals, Poor readability, and lack of negative space.* 
+
+<YouTube
+  title="GLearn the Most Common Design Mistakes by Non Designers"
+  url="https://www.youtube.com/embed/mOA0WH00reA"
+/>
 
 
 ## TODO
