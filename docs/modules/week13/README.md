@@ -74,6 +74,10 @@ Content-aware layout enables designers to quickly create and edit common design 
   url="https://www.youtube.com/embed/h2yyNV4fnN0"
 />
 
+**Links**
+- [GETTING STARTED in Adobe XD](https://letsxd.com/getting-started)
+- [Prototyping 101](https://letsxd.com/prototyping)
+
 ---
 
 ## XD Resources
