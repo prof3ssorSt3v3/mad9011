@@ -157,5 +157,4 @@ Here are two plugins you may try for usability testing in XD. They both provide 
 - If you have not read all these notes and watched the videos from this week, do that first.
 - Finish reading the notes for week 13 and watch all the videos in the notes for week 14.
 - Hybrid 9 - In-class: Mobile layout in XD
-
   :::

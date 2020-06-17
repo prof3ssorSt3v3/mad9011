@@ -1,87 +1,62 @@
 # Week 14 - Putting it all together
 
-To wrap up our learning in Adobe XD, here is a list of Advanced features and good
+Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have learned to use the common Xd features in the post two weeks. In our final lesson, we will go over some of the advanced features and wrap up the course with a list of What's new in Xd videos. 
 
 
-## Advanced Techniques
+## Advanced Xd Techniques
+
+### Scroll Groups (June 2020)
+- [Scroll Groups - Createing carousel](https://youtu.be/7FuL2BosGr0)
+
+### Design Tokens (June 2020)
+- [Design Tokens - Enhancement for `Share for development`](https://youtu.be/-ifl1tl-SuE)
+
+### Stacks (June 2020)
+- [Stacks - Design with ease.](https://letsxd.com/stacks)
 
 ### Bring in content from other application
 - [Bring in content from Photoshop](https://helpx.adobe.com/xd/how-to/import-assets-from-photoshop.html)
 - [Bring in content from Illustrator](https://helpx.adobe.com/xd/how-to/import-assets-from-illustrator.html)
 - [Bring in content using Creative Cloud Libraries](https://helpx.adobe.com/xd/how-to/add-assets-from-cc-library-to-xd.html)+ [Enhanced CC LIbraries integraion](https://youtu.be/GWuA1y79AT8)
 
-
 ### Using Sketch or Invision?
 - [Learn how to switch to Adobe XD](https://letsxd.com/sketch)
 
 
-### Scroll Groups - carousel (June 2020)
-https://youtu.be/7FuL2BosGr0
+### App Integrations and Plugins
+
+- [Integration with Slack](https://slack.com/apps/A7P35MCT0-adobe-creative-cloud)
+- [Improve your Flutter UI code productivity using Adobe XD](https://medium.com/@rakeshpandith.ts/improve-your-flutter-ui-code-productivity-using-adobe-xd-c44bfd6490c6)
+- [Chart Plugin](https://chartplugin.com)
 
 
-### Design Tokens - share for development (June 2020)
-https://youtu.be/-ifl1tl-SuE
+### Learn Adobe XD with in-depth tutorials and quick tips and tricks
+- [Home](https://letsxd.com)
+- [Pro Tips](https://letsxd.com/protips)
 
 
+## What's New in Adobe Xd
+
+Adobe XD releases new updates almost every month. Let's watch the tutorial videos *Caler Edwards* produced on YouTube to keep up with the UI changes. 
+
+Reference: [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-new.html)
+
+<YouTube
+  title="New Adobe XD Update | June 2020"
+  url="https://www.youtube.com/embed/e6R9QiyB3YQ"
+/>
+
+- Video: [New Adobe XD Update | June 2020](https://youtu.be/e6R9QiyB3YQ)
+    - Blog: [June 2020 Release of Adobe XD](https://theblog.adobe.com/xd-june-2020-scroll-groups-stacks-more/)
+- []()
 
 
+## TODO
 
-### working with Illustrator/phothoshop
+::: tip TODO Before next week
 
-### Integration with Slack 
-https://slack.com/apps/A7P35MCT0-adobe-creative-cloud
+- 
+- Finish reading the notes for week 13 and watch all the videos in the notes for week 14.
+- Hybrid 9 - In-class: Mobile layout in XD
 
-### Chart Plugin
-https://chartplugin.com/
-
-### Improve your Flutter UI code productivity using Adobe XD
-https://medium.com/@rakeshpandith.ts/improve-your-flutter-ui-code-productivity-using-adobe-xd-c44bfd6490c6
-
-
-### Learn Adobe XD with in-depth tutorials and quick tips and tricks.
-https://letsxd.com/
-
-### Pro Tips
-https://letsxd.com/protips
-
-
-### Code for Both Events
-
-When building Cordova apps, we typically start testing in the browser before we move to the emulator or devices. In the browser there is no `deviceready` event. So, we need to write code that will work in both places - the browser as a webpage AND in the emulator or Android device as a Cordova App.
-
-```js
-let ready = "cordova" in window ? "deviceready" : "DOMContentLoaded";
-//check if cordova object exists and use deviceready if it does
-document.addEventListener(ready, init);
-//assuming that init is your function to run to start your app
-```
-
-This code sample checks to see if there is an object called `cordova` inside the `Window` object. If the cordova JS file is loaded, this is something that it will create. That object will create the `deviceready` event.
-
-So, if the `cordova` object exists inside the Window object, that means the cordova JS file was loaded and ran. This script is only added to our webpage through the Cordova compiling process. If you don't compile your app then the script and the object will not exist.
-
-## Custom Events
-
-We have been working, until now, with events that are built into core JavaScript or the DOM. Things like `DOMContentLoaded`, `load`, and `click` are always available in our webpages. However, you can also use JavaScript to create your own.
-
-As some of you have noticed by now, some of the SPA code samples include events like `pageShow`. This is not something built into JS.
-
-Cordova includes the `deviceready` event. This is a JavaScript event that the Cordova JS file creates.
-
-You can create your own custom events too.
-
-[MDN custom Event reference](https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent/CustomEvent)
-
-Here is a CodePen showing how a Custom Event could be created and used.
-
-<iframe height="500" style="width: 100%;" scrolling="no" title="PageShow Event " src="https://codepen.io/mad-d/embed/raweyY?height=500&theme-id=default&default-tab=js,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-</iframe>
-
-[CodePen Link](https://codepen.io/mad-d/pen/raweyY)
-
-## Cordova Cheatsheet
-
-Here is a CodePen with a summary of the majority of the Android, iOS and Cordova commands that you will use when building Cordova apps.
-
-<iframe height="500" style="width: 100%;" scrolling="no" title="Cordova Cheatsheet" src="https://codepen.io/mad-d/embed/OPPyOw?height=500&theme-id=default&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-</iframe>
+  :::
