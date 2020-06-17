@@ -1,13 +1,13 @@
 # Week 13 - Mobile UI Layout
 
-## Xd Productivity tools, resources and layout best practices**
+## Xd Productivity tools, resources and layout best practices
 
-In this lesson, we will harness our Adobe XD knowledge by using XD productivity tools, UI Kits, and plugins. We will learn the common mobile user interface elements with ease and get an introduction to the industry design standards and guidelines: Human Interface Guidelines (Mac), Material Design (Android), and Universal Windows Platform (UWP) design guidance. 
+In this lesson, we will harness our Adobe XD knowledge by using XD productivity tools, UI Kits, and plugins. We will learn the common mobile user interface elements with ease and get an introduction to the industry design standards and guidelines: Human Interface Guidelines (Mac), Material Design (Android), and Universal Windows Platform (UWP) design guidance 
 
 
 ## Xd Productivity Tools
 
-Let's follow this video to practice using some popular XD features for `Object Flip`, `Search Layers`, and `Linked Symbols (now components)`.
+Let's follow this video to practice using some popular XD features of `Object Flip`, `Search Layers`, and `Linked Symbols (now components)`.
 
 <YouTube
   title="Adobe XD December 2018 Release: Cloud Document Sharing"
@@ -85,7 +85,7 @@ Content-aware layout enables designers to quickly create and edit common design 
 
 ### XD UI KITS
 
-UI Kits content contains common buttons, form elements, headers, icons, and other UI elements.Follow this XD tutorial to learn how to get UI kits and use the Kit content in your own designs. 
+UI Kits content contains common buttons, form elements, headers, icons, and other UI elements. Follow this XD tutorial to learn how to get UI kits and use the Kit content in your own designs. 
 
 Note: We will explorer UI Kits for [**Apple iOS**](https://developer.apple.com/design/resources/) and [**Material Design**](http://download.adobe.com/pub/adobe/xd/ui-kits/xd-resources-material-design-ui.zip?promoid=98SH4RH2&mv=other) in class to understand the platform standards together. Download [Apple iOS fonts](https://developer.apple.com/fonts/) and [Roboto fonts for Android devices](https://material.io/design/typography/the-type-system.html#type-scale)
 
@@ -109,7 +109,7 @@ Note: We will explorer UI Kits for [**Apple iOS**](https://developer.apple.com/d
 
 ### XD PLUGIN MANAGER  
 
-This tutorial provides a quick overview of `XD Plugin Manager` and shows multiple ways to access it in Xd. 
+This tutorial provides a quick overview of `XD Plugin Manager` and multiple ways to access it. 
 
 <YouTube
   title="XD Plugin Manager"
@@ -125,7 +125,7 @@ Let's follow this tutorial to install some useful plugins. We will use these plu
   url="https://www.youtube.com/embed/d-Hxze_r9rU"
 />
 
-One last plugin we will use is *Google Spreadsheet* which is very useful when designing UI with data. 
+One last plugin we will use is `Google Spreadsheet` which is very useful when designing UI with data. 
 
 <YouTube
   title="Google Sheets Plugin for Adobe XD – Design with Data"
@@ -134,14 +134,14 @@ One last plugin we will use is *Google Spreadsheet* which is very useful when de
 
 **Links**
 
-Here are two plugins you may try for usability testing in XD. They both provide free/educatinal access. 
+Here are two plugins you may try for usability testing in XD. They both provide free/education access. 
 
-- [Useberry](https://www.useberry.com/integrations/adobe-xd/) - [Watch this vidoe demo](https://youtu.be/ecFwUeYtq78) 
-- [Usertesting](https://help.usertesting.com/hc/en-us/articles/360014666372): 
+- [Useberry](https://www.useberry.com/integrations/adobe-xd/) - Here is a [Useberry vidoe demo](https://youtu.be/ecFwUeYtq78) 
+- [Usertesting](https://help.usertesting.com/hc/en-us/articles/360014666372)
 
 ## Layout Best Practices
 
-**Common Design Mistakes by Non Designers** – *A compilation of 15 most common design mistakes committed by non-designers and amateur visual artists. They include how to avoid using too many words instead of visuals, Poor readability, and lack of negative space.* 
+**Common Design Mistakes by Non Designers** – *A compilation of 15 most common design mistakes committed by non-designers and amateur visual artists. They include how to avoid using too many words instead of visuals, poor readability, and lack of negative space.* 
 
 <YouTube
   title="GLearn the Most Common Design Mistakes by Non Designers"
