@@ -76,7 +76,7 @@ Content-aware layout enables designers to quickly create and edit common design 
 
 ## XD Resources
 
-[*Adobe XD resources*](https://www.adobe.com/ca/products/xd/resources.html) website provides powerful free resources we can use to optimize our workflow and speed up the design process. They include `UI kits`, `icon sets`, `plugins`, `app integrations`, and more. 
+[*Adobe XD resources*](https://www.adobe.com/ca/products/xd/resources.html) website provides powerful great resources we can use to optimize our workflow and speed up the design process. They include `UI kits`, `icon sets`, `plugins`, `app integrations`, and more. 
 
 <a href="https://www.adobe.com/ca/products/xd/resources.html" target="_blank">![Adobe XD resources](./XdResources.png)</a>
 
@@ -85,14 +85,12 @@ Content-aware layout enables designers to quickly create and edit common design 
 
 UI Kits content contains common buttons, form elements, headers, icons, and other UI elements.Follow this XD tutorial to learn how to get UI kits and use the Kit content in your own designs. Note: We will explorer UI Kits for [**Apple iOS**](https://developer.apple.com/design/resources/) and [**Material Design**](http://download.adobe.com/pub/adobe/xd/ui-kits/xd-resources-material-design-ui.zip?promoid=98SH4RH2&mv=other) in class to understand the platform standards together. 
 
-**Start your design with UI kits**
-
-We will follow this video to get the *Wireframes UI Kits* and then use the content in our own XD file. 
+**Let's start our design with UI kits:** We will follow this video to get the *Wireframes UI Kits* and then use the content in our own XD file. 
 
 <a href="https://helpx.adobe.com/xd/how-to/ui-kits.html" target="_blank">![Start your design with UI Kits](./wireframeUIkits.png)</a>
 
 
-**Leveraging UI Kits** shows multiple ways to access UI KITs in Xd. 
+**Leveraging UI Kits** shows multiple ways to access different UI KITs in Xd. Let's download and try *Tractiv* UI Kits from [Adobe Ressources.](https://www.adobe.com/ca/products/xd/resources.html) 
 
 <YouTube
   title="Leveraging UI Kits"
@@ -104,18 +102,32 @@ We will follow this video to get the *Wireframes UI Kits* and then use the conte
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
 - [Design toolkits and samples for Windows apps](https://docs.microsoft.com/en-us/windows/uwp/design/downloads/)
 
-###  Plugin Manager 
 
-https://youtu.be/YAgKDA6c9_I
+### XD PLUGIN MANAGER  
 
+This tutorial provides a quick overview of XD Plugin Manager and shows multiple ways to access it in Xd. 
 
+<YouTube
+  title="XD Plugin Manager"
+  url="https://www.youtube.com/embed/YAgKDA6c9_I"
+/>
 
+**Adobe XD Top 10 Plugins (2020)** 
 
-## Cordova Running apps
+Let's follow this tutorial to install a some useful plugins. Feel free to try as many as you like. We will use these plugins for our class excercises: `Photosplash 2`, `Icons 4 Design`, `UI Faces`
 
-Cordova also has a `cordova run` command which will compile your project, install it on an attached device, and launch the app on the device.
+<YouTube
+  title="Adobe XD Top 10 Plugins (2020)"
+  url="https://www.youtube.com/embed/d-Hxze_r9rU"
+/>
 
-[Learn more about Running Apps in Cordova](./run.md)
+**`Google Spreadsheet` plugin is very useful when designing with data**
+
+<YouTube
+  title="Google Sheets Plugin for Adobe XD – Design with Data"
+  url="https://www.youtube.com/embed/g8z0l5moNIw"
+/>
+
 
 ## TODO
 

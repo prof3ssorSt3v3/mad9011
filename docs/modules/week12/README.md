@@ -50,7 +50,7 @@ In **PROTOTYPE** step, we will turn our designs into interactive visual mockups.
 
 ### SHARE 
 
-In **PREVIEW & SHARE** step, we will learn to preview our interactive prototpye on a mobile device and share prototype and design specs for feedback with developers and other stakeholders. 
+In **PREVIEW & SHARE** step, we will learn to preview our interactive prototpye on a mobile device and share prototype and design specs for feedback with other designers, developers and even for usability testing. 
 
 <a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_4___share_and_preview" target=”_blank”>![Preview and share Xd prototype](./XDshare.png)</a>
 
@@ -61,10 +61,17 @@ In **PREVIEW & SHARE** step, we will learn to preview our interactive prototpye 
   url="https://www.youtube.com/embed/3vj03O641GA"
 />
 
+**For Usability Studies**
+
+<YouTube
+  title="Adobe XD for Usability Studies"
+  url="https://www.youtube.com/embed/swKI-M-RViQ"
+/>
+
 
 ## Cloud documents in XD
 
-Your Creative Cloud plan includes different types of cloud storage—cloud documents, libraries, and Creative Cloud files (synced files). These have different uses and benefits.
+Creative Cloud plan includes different types of cloud storage-cloud documents, libraries, and Creative Cloud files (synced files). These have different uses and benefits.
 
 [*Cloud documents in Adobe XD*](https://helpx.adobe.com/xd/help/cloud-documents.html) article is a comprehensive guide for Adobe XD Cloud sharing and collaboration. 
 
@@ -90,7 +97,7 @@ We can quickly share documents with collaborators and team members when we save 
 
 ### COEDITING & DOCUMENT HISTORY  
 
-With XD cloud document feature, we can collaborate and coedit with others in the same document in real-time. With document history, we can quickly see who's made edits and revert to old versions when needed. Let's follow this tutorial to use these features.  
+We can collaborate and coedit with others in the same document in real-time with XD. We can also check document history to quickly see who's made edits and revert to old versions when needed. Let's follow this tutorial to use these features.  
 
 <YouTube
   title="Coediting & Document History – Adobe XD November Release 2019"
