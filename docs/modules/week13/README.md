@@ -87,7 +87,7 @@ Content-aware layout enables designers to quickly create and edit common design 
 
 UI Kits content contains common buttons, form elements, headers, icons, and other UI elements. Follow this XD tutorial to learn how to get UI kits and use the Kit content in your own designs. 
 
-Note: We will explorer UI Kits for [**Apple iOS**](https://developer.apple.com/design/resources/) and [**Material Design**](http://download.adobe.com/pub/adobe/xd/ui-kits/xd-resources-material-design-ui.zip?promoid=98SH4RH2&mv=other) in class to understand the platform standards together. Download [Apple iOS fonts](https://developer.apple.com/fonts/) and [Roboto fonts for Android devices](https://material.io/design/typography/the-type-system.html#type-scale)
+Note: We will explorer UI Kits for [**Apple iOS**](https://developer.apple.com/design/resources/) and [**Material Design**](http://download.adobe.com/pub/adobe/xd/ui-kits/xd-resources-material-design-ui.zip?promoid=98SH4RH2&mv=other) in class to understand the platform standards together. Download [Apple iOS fonts](https://developer.apple.com/fonts/) and [Roboto fonts for Android devices](https://material.io/design/typography/understanding-typography.html#system-fonts)
 
 **Let's start our design with UI kits.** We will follow this video to get the *Wireframes UI Kits* and use the content in our own XD file. 
 
