@@ -79,7 +79,7 @@ Creative Cloud plan includes different types of cloud storage-cloud documents, l
 ### USING XD CLOUD DOCUMENTS
 XD Cloud Documents let us **auto-save** files; **safely keep** everything in one place; make **fast and easy sharing**; work and **live collaborate** with others anywhere with document **versioning** control. 
 
-**Using Cloud Document Files**
+#### Using Cloud Document Files
 
 If you notice minor UI differences in the video, you can find your way around in the reference of [*Workspace basics*](https://helpx.adobe.com/ca/xd/help/workspace-basics.html) page. 
 
@@ -88,7 +88,8 @@ If you notice minor UI differences in the video, you can find your way around in
   url="https://www.youtube.com/embed/H_TmuOJmdkI"
 />
 
-**Cloud Document Sharing** 
+#### Cloud Document Sharing
+
 We can quickly share documents with collaborators and team members when we save them as cloud documents in Adobe XD.
 
 <YouTube
@@ -105,7 +106,7 @@ We can collaborate and coedit with others in the same document in real-time with
   url="https://www.youtube.com/embed/XDFE5DH2Z5E"
 />
 
-**Managing fonts**
+#### Managing fonts
 
 The design may be altered unexpectedly during collaboration if someone doesn't have the right fonts installed. This tutorial will teach us to identify potential font issues and how to resolve them. 
 
