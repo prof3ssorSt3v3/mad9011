@@ -73,6 +73,6 @@ Reference: [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-n
 
 ::: tip TODO Before next week
 
-- Finish reading the notes and watch all the videos for week 14.
+- Finish reading the notes and watch the videos of your interest for week 14.
 - Hybrid: Work on your final project [Mobile UI Visual Prototype](../assignments/proj.md) and show your work progress to the instructor.
   :::
