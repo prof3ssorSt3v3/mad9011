@@ -98,7 +98,7 @@ Note: We will explorer UI Kits for [**Apple iOS**](https://developer.apple.com/d
 <a href="https://helpx.adobe.com/xd/how-to/ui-kits.html" target="_blank">![Start your design with UI Kits](./wireframeUIkits.png)</a>
 
 
-**Leveraging UI Kits** tutorial shows multiple ways to access UI Kits in Xd and how to download *Tractiv* UI Kits from [Adobe Ressources.](https://www.adobe.com/ca/products/xd/resources.html) 
+**Leveraging UI Kits** tutorial shows multiple ways to access UI Kits in Xd and how to download *Tractiv* UI Kits from [Adobe Ressources](https://www.adobe.com/ca/products/xd/resources.html) website. 
 
 <YouTube
   title="Leveraging UI Kits"
@@ -139,14 +139,14 @@ One last plugin we will use is `Google Spreadsheet` which is very useful when de
 
 **Links**
 
-Here are two plugins you may try for usability testing in XD. They both provide free/education access. 
+Here are two plugins you may try for usability testing in Xd. They both provide free/education access. 
 
 - [Useberry](https://www.useberry.com/integrations/adobe-xd/) - You can watch [Useberry vidoe demo](https://youtu.be/ecFwUeYtq78) 
 - [Usertesting](https://help.usertesting.com/hc/en-us/articles/360014666372)
 
 ## Layout Best Practices
 
-**Common Design Mistakes by Non Designers** – *A compilation of 15 most common design mistakes committed by non-designers and amateur visual artists. They include how to avoid using too many words instead of visuals, poor readability, and lack of negative space.* 
+**Common Design Mistakes by Non-designers** – *A compilation of 15 most common design mistakes committed by non-designers and amateur visual artists. They include how to avoid using too many words instead of visuals, poor readability, and lack of negative space.* 
 
 <YouTube
   title="GLearn the Most Common Design Mistakes by Non Designers"
