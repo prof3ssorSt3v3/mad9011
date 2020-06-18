@@ -67,7 +67,7 @@ In **PREVIEW & SHARE** step, we will learn to preview our interactive prototpye 
 
 <a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_4___share_and_preview" target=”_blank”>![Preview and share Xd prototype](./XDshare.png)</a>
 
-**NOTE:** Xd UI has been updated. Watch this video to locate the "Share" feature in the UI and practice further.
+**NOTE:** Xd UI has been updated. Watch the video below to locate the "Share" feature in the UI and practice further.
 
 <YouTube
   title="Share Mode – Adobe XD November Release 2019"
