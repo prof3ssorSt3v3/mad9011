@@ -74,7 +74,7 @@ In **PREVIEW & SHARE** step, we will learn to preview our interactive prototpye 
   url="https://www.youtube.com/embed/3vj03O641GA"
 />
 
-#### For Usability Studies
+#### Use Xd for Usability Studies
 
 <YouTube
   title="Adobe XD for Usability Studies"
@@ -84,7 +84,7 @@ In **PREVIEW & SHARE** step, we will learn to preview our interactive prototpye 
 
 ## Cloud documents in XD
 
-Creative Cloud plan includes different types of cloud storage-cloud documents, libraries, and Creative Cloud files (synced files). These have different uses and benefits.
+Creative Cloud plan includes different types of cloud storage features for different uses and benefits: cloud documents, libraries, and Creative Cloud files (synced files).
 
 [*Cloud documents in Adobe XD*](https://helpx.adobe.com/xd/help/cloud-documents.html) article is a comprehensive guide for Adobe XD Cloud sharing and collaboration. 
 
