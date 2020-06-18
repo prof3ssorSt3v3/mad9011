@@ -29,7 +29,7 @@ We will get familiar with the workspace and the interface by exploring the in-ap
 
 We can quickly create graphics and texts using the `shape` tools, `Pen` tool, and `text` tools in Adobe XD. Read [*Work with drawing and text tools*](https://helpx.adobe.com/ca/xd/help/drawing-text-tools.html) article for a quick reference.
 
-Let's check out the new shape feature in this video to create customizable star shapes. 
+Let's check out the improved shape feature in this video to create customizable star shapes. 
 
 <YouTube
   title="Star Ratio (Jan-2020)"
