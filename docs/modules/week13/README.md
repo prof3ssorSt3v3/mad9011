@@ -25,7 +25,7 @@ Xd `Componenets` are previousely called *Symbols*. This tutorial gives us an int
 
 ### USING COMPONENTS
 
-This set of short video tutorals teach us to create/nest/swap componenets, update master componenets and use different componenet states. We will follow along to practice. [Download tutorial file](https://www.dropbox.com/s/vfz93h52t0nsgvz/Components_Demo.xd?dl=0)
+This set of short video tutorals teaches us to create/nest/swap componenets, update master componenets and use different componenet states. We will follow along to practice. [Download tutorial file](https://www.dropbox.com/s/vfz93h52t0nsgvz/Components_Demo.xd?dl=0)
 
 ![Using Componenets](./usingComponents.png)
 
