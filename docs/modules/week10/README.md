@@ -58,7 +58,7 @@ Using text directly inside our SVG has lots of benefits: We can apply web fonts,
 [Reference: SVG text](./svg.md#svg-text)
 
 #### Text & web fonts
-We will follow along this video tutorial to practice using live, accessible `<text>` inside an embedded SVG and applying web fonts.
+We will follow along this video tutorial to practice using `<text>` elements to add live/accessible texts inside an embedded SVG and apply web fonts to it.
 
 <YouTube
   title="SVG: text & web fonts"
