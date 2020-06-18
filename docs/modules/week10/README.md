@@ -58,7 +58,7 @@ Using text directly inside our SVG has lots of benefits: We can apply web fonts,
 [Reference: SVG text](./svg.md#svg-text)
 
 #### Text & web fonts
-We will follow along this video tutorial to practice using `<text>` elements to add live/accessible texts inside an embedded SVG and apply web fonts to it.
+We will follow along this video tutorial to practice using `<text>` element to add live/accessible texts inside an embedded SVG and apply web fonts to it.
 
 <YouTube
   title="SVG: text & web fonts"
@@ -94,7 +94,7 @@ These online tools let us generate code for *SVG gradients*, *CSS gradients* and
 
 #### Textures on text
 
-We can also add image textures to text using SVG and the `<pattern>` tag. In this video, we make the pattern big enough to only show it once.
+We can also add image textures to text using SVG and the `<pattern>` tag. In this video, we will make the pattern big enough to only show it once.
 
 [Reference: Adding texture to text](./svg.md#adding-textures-to-text)
 
