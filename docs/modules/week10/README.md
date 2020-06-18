@@ -76,11 +76,7 @@ Continue with this video to learn how to use `<mask>` element to mask out pieces
 #### Gradients on text
 In this video, we will apply gradients into the text letters using SVG. 
 
-These **online tools** let us generate code for *SVG gradients*, *CSS gradients* and edit their code. 
-
-- [Gradient Generator](https://briangrinstead.com/gradient/) 
-- [CSS Gradient Generator](https://cssgradient.io/)
-- [SVG Editor](http://petercollingridge.appspot.com/svg-editor)
+[Reference: SVG Gradients](https://www.w3schools.com/graphics/svg_grad_linear.asp)
 
 <YouTube
   title="SVG: gradients on text"
@@ -88,7 +84,12 @@ These **online tools** let us generate code for *SVG gradients*, *CSS gradients*
 />
 
 **Links**
-- [Reference: SVG Gradients](https://www.w3schools.com/graphics/svg_grad_linear.asp)
+
+These online tools let us generate code for *SVG gradients*, *CSS gradients* and edit their code. 
+
+- [Gradient Generator](https://briangrinstead.com/gradient/) 
+- [CSS Gradient Generator](https://cssgradient.io/)
+- [SVG Editor](http://petercollingridge.appspot.com/svg-editor)
 
 
 #### Textures on text
