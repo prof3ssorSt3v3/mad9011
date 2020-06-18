@@ -89,7 +89,7 @@ Creative Cloud plan includes different types of cloud storage features for diffe
 [*Cloud documents in Adobe XD*](https://helpx.adobe.com/xd/help/cloud-documents.html) article is a comprehensive guide for Adobe XD Cloud sharing and collaboration. 
 
 ### USING XD CLOUD DOCUMENTS
-XD Cloud Documents let us **auto-save** files; **safely keep** everything in one place; make **fast and easy sharing**; work and **live collaborate** with others anywhere with document **versioning** control. 
+XD Cloud Documents let us **auto-save** files; **safely keep** everything in one place; make **fast and easy sharing**; work and **live collaborate** with others anywhere by using the **document versioning control**. 
 
 #### Using Cloud Document Files
 
