@@ -67,7 +67,7 @@ Xd 2020 release allows desingers to apply multiple interactions to the same UI o
 
 #### Content-Aware Layout
 
-Content-aware layout enables designers to quickly create and edit common design elements without a lot of tedious step. We can add group padding coupled with responsive resize.
+We will learn content-aware layout to quickly create and edit common design elements without a lot of tedious steps. We can also add group padding coupled with responsive resize.
 
 <YouTube
   title="Content-Aware Layout"
