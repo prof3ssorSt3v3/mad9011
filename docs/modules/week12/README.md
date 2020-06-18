@@ -43,7 +43,7 @@ Let's check out the new shape feature in this video to create customizable star 
 
 Follow the Xd tutorials below to obtain a hands-on mobile app prototype building experience. Xd supports SVG and bitmap files without any loss of fidelity. It integrates with Illustrator, Photoshop, and After Effects. You can also use plugins to automate repeat operations or parts of designer workflows that are tedious, complex, or repetitive. 
 
-Before starting the workflow of: Design, Prototype, Share, we will [Download this XD kits.](https://download.adobe.com/pub/adobe/xd/Wires.zip?promoid=VG52KLJG&mv=other) 
+Before starting the workflow of: Design, Prototype, Share, we will [Download the XD kits.](https://download.adobe.com/pub/adobe/xd/Wires.zip?promoid=VG52KLJG&mv=other) 
 
 ### DESIGN
 
