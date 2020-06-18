@@ -93,7 +93,7 @@ XD Cloud Documents let us **auto-save** files; **safely keep** everything in one
 
 #### Using Cloud Document Files
 
-If you notice minor UI differences in the video, you can find your way around in the reference of [*Workspace basics*](https://helpx.adobe.com/ca/xd/help/workspace-basics.html) page. 
+Let's practice using cloud document files. If you notice minor UI differences in the video, you can find your way around in the reference of [*Workspace basics*](https://helpx.adobe.com/ca/xd/help/workspace-basics.html) page. 
 
 <YouTube
   title="Adobe XD December 2018 Update: Cloud Document Files"
@@ -102,7 +102,7 @@ If you notice minor UI differences in the video, you can find your way around in
 
 #### Cloud Document Sharing
 
-We can quickly share documents with collaborators and team members when we save them as cloud documents in Adobe XD.
+We will learn how to quickly share documents with collaborators and team members when we save them as cloud documents in Adobe XD.
 
 <YouTube
   title="Adobe XD December 2018 Release: Cloud Document Sharing"
@@ -111,7 +111,7 @@ We can quickly share documents with collaborators and team members when we save 
 
 ### COEDITING & DOCUMENT HISTORY  
 
-We can collaborate and coedit with others in the same document in real-time with XD. We can also check document history to quickly see who's made edits and revert to old versions when needed. Let's follow this tutorial to use these features.  
+We can collaborate and coedit with others in the same document in **real-time** with Xd. We can also check document history to quickly see who's made edits and revert to old versions when needed. Let's follow this tutorial to use these features.  
 
 <YouTube
   title="Coediting & Document History – Adobe XD November Release 2019"
