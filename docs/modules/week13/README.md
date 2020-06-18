@@ -7,7 +7,7 @@ In this lesson, we will harness our Adobe XD knowledge by using Xd productivity 
 
 ## Xd Productivity Tools
 
-Let's follow this video to practice using some popular XD features: `Object Flip`, `Search Layers`, and `Linked Symbols (now components)`
+Let's follow this video to practice using some popular Xd features: `Object Flip`, `Search Layers`, and `Linked Symbols (now components)`
 
 <YouTube
   title="Adobe XD December 2018 Release: Cloud Document Sharing"
@@ -58,7 +58,7 @@ Let's watch this set of short videos to practice popular prototype interacation 
 
 #### Multiple Interactions
 
-XD 2020 release allows desingers to apply multiple interactions to the same UI object. Follow this video to make our prototype interaction more natural. 
+Xd 2020 release allows desingers to apply multiple interactions to the same UI object. Follow this video to make our prototype interaction more natural. 
 
 <YouTube
   title="Multiple Interactions"
