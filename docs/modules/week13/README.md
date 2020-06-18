@@ -2,7 +2,7 @@
 
 ## Xd Productivity tools, resources and layout best practices
 
-In this lesson, we will harness our Adobe XD knowledge by using XD productivity tools, UI Kits, and plugins. We will learn the common mobile user interface elements with ease and get an introduction to the industry design standards and guidelines: Human Interface Guidelines (Mac), Material Design (Android), and Universal Windows Platform (UWP) design guidance 
+In this lesson, we will harness our Adobe XD knowledge by using Xd productivity tools, UI Kits, and plugins. We will learn the common mobile user interface elements with ease and get an introduction to the industry design standards and guidelines: Human Interface Guidelines (AppleOS), Material Design (Android), and Universal Windows Platform (UWP) design guidance 
 
 
 ## Xd Productivity Tools
