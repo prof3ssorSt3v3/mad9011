@@ -1,6 +1,6 @@
 # Week 14 - Putting it all together
 
-Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have learned to use the common Xd features in the past two weeks. In our final lesson, we will go over some of the advanced features and wrap up the course with a list of *What's New in Adobe XD* videos. 
+Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have learned to use the common Xd features in the past two weeks. In our final lesson, we will go over some reference matetial to understand the advanced features and wrap up the course with a list of *What's New in Adobe XD* videos. 
 
 
 ## Advanced Xd Techniques
@@ -29,17 +29,17 @@ Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have l
 
 - [Integration with Slack](https://slack.com/apps/A7P35MCT0-adobe-creative-cloud)
 - [Improve your Flutter UI code productivity using Adobe XD](https://medium.com/@rakeshpandith.ts/improve-your-flutter-ui-code-productivity-using-adobe-xd-c44bfd6490c6)
-- [Chart Plugin](https://chartplugin.com)
+- [Chart Plugin (data viusalization)](https://chartplugin.com)
 
 
 ### Learn Adobe XD with in-depth tutorials and quick tips and tricks
-- [Home](https://letsxd.com)
+- [LetsXD Overview](https://letsxd.com)
 - [Pro Tips](https://letsxd.com/protips)
 
 
 ## What's New in Adobe XD
 
-Adobe XD releases new updates almost every month. Let's watch the tutorial videos *Caler Edwards* produces on YouTube to keep up with the UI changes. 
+Adobe XD releases new updates almost every month. Let's watch the tutorial videos *Caler Edwards* produces on YouTube and the monthly Adobe XD blog post to keep up with the enhancement. 
 
 Reference: [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-new.html)
 
