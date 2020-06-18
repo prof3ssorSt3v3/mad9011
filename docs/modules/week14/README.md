@@ -1,6 +1,6 @@
 # Week 14 - Putting it all together
 
-Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have learned to use the common Xd features in the past two weeks. In our final lesson, we will go over some reference matetial to understand the advanced features and wrap up the course with a list of *What's New in Adobe XD* videos. 
+Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have learned to use the common Xd features in the past two weeks. In our final lesson, we will go over some reference matetial to understand the advanced features and wrap up the course with a list of *What's New in Adobe XD* videos and articles. 
 
 
 ## Advanced Xd Techniques

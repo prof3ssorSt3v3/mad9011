@@ -1,10 +1,10 @@
-# Week 15 - Work Labs
+# Week 15 - Putting it all together
 
 ::: danger Final Project Due
 
-- We will now be switching over to Windows 10.
-- Make sure that you have installed NodeJS and VSCode for Windows.
-- You also need Gradle, Android Studio version 3.x, JDK version 8.x, and Cordova installed.
+- Last day to sumbit any work: December ___, 2020
+- Ensure you follow the assignment outlines to meet the requirements.
+- Happy prototyping! 
 
 :::
 
