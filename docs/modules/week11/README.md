@@ -108,7 +108,7 @@ We will follow along this video to practice adding transitions to an SVG by usin
 
 #### Transform Origin pixels 
 
-The SVG `transform-origin` attribute sets the origin for an item's transformations and its default value is the top left corner of the *SVG* canvas. However, the default transform origin for *HTML* elements is in the middle of themselves. To ensure the SVG animation working correctly in all browsers, we may need to set the pixel value to CSS `transform-origin` property. 
+The SVG `transform-origin` attribute sets the origin for an item's transformations and its default value is the top left corner of the *SVG* canvas. However, the default transform origin for *HTML* elements is in the middle of themselves. To ensure the SVG animation working correctly in all browsers, we may need to set the pixel value to CSS `transform-origin` property. Let's follow this video to practice. 
 
 <YouTube
   title="SVG transform-origin"
