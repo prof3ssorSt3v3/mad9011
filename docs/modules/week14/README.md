@@ -69,6 +69,13 @@ Reference: [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-n
 
 ---
 
+### Additional references
+
+- [Feature summary | Adobe XD (2020 releases...)](https://helpx.adobe.com/ca/xd/help/whats-new/2020.html)
+- [Feature summary | Adobe XD | 2019 releases](https://helpx.adobe.com/ca/xd/help/whats-new/2019.html)
+- [Feature summary | Adobe XD | 2018 releases](https://helpx.adobe.com/ca/xd/help/whats-new/2018.html)
+
+
 ## TODO
 
 ::: tip TODO Before next week
