@@ -272,7 +272,7 @@ A good svg example: attributes with CSS animation
 - Rapid prototyping tool: 
   - What is Adobe XD (Xd)
   - XD Workspace
-   ⧫ Work with drawing & text tools
+    - Work with drawing & text tools
 - Xd Workflow
   - Design
   - Prototype
@@ -280,7 +280,7 @@ A good svg example: attributes with CSS animation
 - Collaboration features in Adobe XD
   - Using Xd Cloud documents
   - Coediting & Document history
-   ⧫ Managing fonts
+    - Managing fonts
 - Built-in Xd tutorial
 
 
@@ -295,9 +295,16 @@ A good svg example: attributes with CSS animation
 - Discussion of hybrid learning module videos
 - Recap of learning module notes and videos
   - •••
-- Tips and tricks, new features (voice/animation)
-- Final Project work period
-- Final Project individual work review
+- XD productivity tools
+  - Components
+  - Using Components
+  - XD interactions 
+- Xd Resources
+  - Xd UI kits 
+  - Xd Plugin Manager  
+- Layout Best Practices
+  - iOS & Android UI Kits
+
 
 ```
 - Hybrid: Final Project individual review
@@ -306,4 +313,12 @@ A good svg example: attributes with CSS animation
 
 ## Week 14
 
+- Advanced Xd Techniques
+- What’s New in Adobe XD
+- Additional References
+
+```
 - Work on Final Project
+```
+
+## Week 15 – Open Lab
