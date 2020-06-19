@@ -215,7 +215,7 @@ A good svg example: attributes with CSS animation
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
-
+- *** 
 - Rapid prototyping tool: 
   - What is Adobe XD (Xd)
   - Xd Workspace 
