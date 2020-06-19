@@ -214,22 +214,25 @@ A good svg example: attributes with CSS animation
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
-- Rapid prototyping tool: Adobe XD (Xd)
-- Workspace overview
+- Rapid prototyping tool: 
+  - What is Adobe XD (Xd)
+  - Xd Workspace 
+    - Work with drawing & text tools
+- Xd Workflow
   - Design
   - Prototype
   - Share
-- Xd Cloud documents
-  - File management
-  - Team collaboration
-  - Features introduced in 2019
-- Free Xd resources
-- Extra (e.g. Managing fonts)
----
+- Collaboration features in Adobe XD
+  - Using Xd Cloud documents
+  - Coediting & Document history
+    - Managing fonts
+- Built-in Xd tutorial
+
+```
 - Hybrid: Next week learning module videos
 - Final Project: Mobile UI Visual Prototype (20%) 
 - Due: 8. Coding an SVG
-
+```
 
 ## Week 12 - Mobile layout with Xd
 
