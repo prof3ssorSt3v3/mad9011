@@ -17,7 +17,7 @@
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
-  - ...
+  - •••
 - Graphic fundamental: Raster and vector graphics
 - Introduction to Adobe Illustrator (Ai)
 - Illustrator Artboards
@@ -34,7 +34,7 @@
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
-  - ...
+  - •••
 - Colour dos & don’ts
 - Elements of design
 - Illustrator colour swatches
@@ -54,7 +54,7 @@
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
-  - ...
+  - •••
 - The Pen Tool 
 - The Pencils and Paintbrush tools
 - Pathfinder and Builder tools
@@ -74,7 +74,7 @@
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
-  - ...
+  - •••
 - Typography
   - Adding and formatting texts,
   - Placing texts on or inside a path
@@ -106,6 +106,7 @@
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
+  - •••
 - Raster-based graphic/photo editor: Adobe Photoshop (Ps)
 - Workspace overview (control options bar, history panel, layer panel etc)
 - Opening, creating, saving documents
@@ -115,13 +116,15 @@
 - Creating silhouettes (select & mask)
 - Content-aware Fill layer
 - Clone Stamp Tool
----
+
+```
 - In-class Exercise: 5. Cut a silhouette (3%)
 - Hybrid: Next week learning module videos
 - Peer Review for Assignment 01 (marked)
 - Due: Assignment 01
-
 ```
+
+``` tip
 1. Create/open/save document:  Use Adobe provided exercise files.
 2. Go through Workspace UI: Everyone uses/resets to "Essential" workspace.
 3. Walkthrough tools panel: focus on the move, selection tools, crop (can't undock tool group)
