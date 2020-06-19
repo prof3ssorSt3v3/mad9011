@@ -228,11 +228,11 @@ A good svg example: attributes with CSS animation
     - Managing fonts
 - Built-in Xd tutorial
 
-```
+:::
 - Hybrid: Next week learning module videos
 - Final Project: Mobile UI Visual Prototype (20%) 
 - Due: 8. Coding an SVG
-```
+:::
 
 ## Week 12 - Mobile layout with Xd
 
