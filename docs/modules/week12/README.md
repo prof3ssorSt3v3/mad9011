@@ -82,7 +82,7 @@ In **PREVIEW & SHARE** step, we will learn to preview our interactive prototpye 
 />
 
 
-## Collaboration in Adobe XD
+## Collaboration features in Adobe XD
 
 Creative Cloud plan includes different types of cloud storage features for different uses and benefits: cloud documents, libraries, and Creative Cloud files (synced files).
 
