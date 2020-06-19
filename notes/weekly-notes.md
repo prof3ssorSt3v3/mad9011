@@ -9,10 +9,9 @@
 - Install Adobe CC  
 - Install Illustrator
 
-#### work
-
-- Hybrid: Next week learning module videos
-
+:::
+- Hybrid: Next week learning module notes and videos
+:::
 
 ## Week 2 - Meeting Adobe Illustrator
 
@@ -23,9 +22,11 @@
 - Illustrator Artboards
 - Creating, selecting, and editing shapes and strokes 
 - Colour of fill and stroke 
----
+
+:::
 - Hybrid Exercise: 1. Nike logo (3%)
-- Hybrid: Next week learning module videos
+- Hybrid: Next week learning module notes and videos
+:::
 
 
 ## Week 3 - Time to colour (Colour theory and Illustrator tools)
@@ -214,6 +215,7 @@ A good svg example: attributes with CSS animation
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
+```
 - Rapid prototyping tool: 
   - What is Adobe XD (Xd)
   - Xd Workspace 
