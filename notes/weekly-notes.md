@@ -189,6 +189,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
+  - •••
 - Scalable Vector Graphics are code
 - Writing SVG code
 - SVG texts and effects
@@ -198,17 +199,20 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
   - Textures on text
 - SVG Optimizing & cleaning
 - SVG Attributes & CSS
----
+
+```
 - Hybrid Exercise: 8. Coding an SVG (3% due: Week 11)
 - Hybrid: Online Quiz 2 (10%)
 - Hybrid: Next learning module videos & **Reading**
 - Due: Assignment 02
+```
 
 
 ## Week 10 - SVG Animation
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
+  - •••
 - Animation with CSS
   - Transitions
   - Transform origin with pixels
@@ -216,9 +220,12 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 - SVG icons
   - Icon symbols reuse
 - SVG Accessibility
----
+
+```
 - Hybrid Adobe Xd Exercise (not marked)
 - Hybrid: Next week learning module videos 
+```
+
 
 #### tip
 
@@ -235,7 +242,7 @@ A good svg example: attributes with CSS animation
 ## Week 11 - Introduction to Adobe XD 
 
 - Discussion of hybrid learning module videos
-- Recap of learning module videos
+- Recap of learning module notes and videos
 - ••• 
 - Rapid prototyping tool: 
   - What is Adobe XD (Xd)
@@ -260,24 +267,30 @@ A good svg example: attributes with CSS animation
 ## Week 12 - Mobile layout with Xd
 
 - Discussion of hybrid learning module videos
-- Recap of learning module videos
+- Recap of learning module notes and videos
+  - •••
 - Creating mobile layout from scratch
 - Creating mobile layout form UI Kits: iOS, Android
 - Working with Xd Plugins
----
+
+```
 - In-class Exercise: 9. Mobile layout in Xd (3%)
 - Hybrid: Next week learning module video
+```
 
 
 ## Week 13 - Xd Advanced features
 
 - Discussion of hybrid learning module videos
-- Recap of learning module videos
+- Recap of learning module notes and videos
+  - •••
 - Tips and tricks, new features (voice/animation)
 - Final Project work period
 - Final Project individual work review
----
+
+```
 - Hybrid: Final Project individual review
+```
 
 
 ## Week 14
