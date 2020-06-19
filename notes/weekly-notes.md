@@ -125,14 +125,15 @@
 ```
 
 ``` tip
-1. Create/open/save document:  Use Adobe provided exercise files.
+1. Create/open/save document: Use Adobe provided exercise files.
 2. Go through Workspace UI: Everyone uses/resets to "Essential" workspace.
 3. Walkthrough tools panel: focus on the move, selection tools, crop (can't undock tool group)
 4. Artboards(layers) > Silhouette (select/mask)> content-aware fill (remove) > Clone stamp tool 
   - exercise-files-silhouette.zip
 5. What's not covered: Perspective Crop, Slice, Frame tools
 
-multiple access to content aware fill: Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
+Multiple access to content aware fill: 
+Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 ```
 
 
@@ -140,6 +141,7 @@ multiple access to content aware fill: Edit > Content-Aware Fill... // Edit > Fi
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
+  - •••
 - Non-destructive editing layers
 - Non-destructive image editing
   - Text and Shape layers
@@ -149,18 +151,22 @@ multiple access to content aware fill: Edit > Content-Aware Fill... // Edit > Fi
   - Smart objects
   - Blend modes
 - Creating an image composition
----
+
+```
 - Hybrid Exercise: 6. Compositing an image (3%)
 - Hybrid: Next week learning module videos
 - Assignment 02: Employee profile page (10%)
+```
 
 
 **READING WEEK HERE**
+
 
 ## Week 8 - Photo retouching and image optimization (Photoshop)
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
+  - •••
 - Photo retouching and restoration 
   - Basic Retouch tools
   - History brush tools
@@ -169,10 +175,12 @@ multiple access to content aware fill: Edit > Content-Aware Fill... // Edit > Fi
 - Photoshop Export As feature 
   - Export as
   - Save for Web (legacy)
----
+
+```
 - In-class Exercise: 7. Clean me up (3%)
 - Hybrid: Next week learning module videos & **Reading**
 - Due: Peer Reviews for Assignment 01
+```
 
 
 ## MODULE THREE: Scalable vector-based graphics and SVG mockups
