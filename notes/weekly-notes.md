@@ -9,30 +9,32 @@
 - Install Adobe CC  
 - Install Illustrator
 
-:::
+```
 - Hybrid: Next week learning module notes and videos
-:::
+```
 
 ## Week 2 - Meeting Adobe Illustrator
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
+  - ...
 - Graphic fundamental: Raster and vector graphics
 - Introduction to Adobe Illustrator (Ai)
 - Illustrator Artboards
 - Creating, selecting, and editing shapes and strokes 
 - Colour of fill and stroke 
 
-:::
+```
 - Hybrid Exercise: 1. Nike logo (3%)
 - Hybrid: Next week learning module notes and videos
-:::
+```
 
 
 ## Week 3 - Time to colour (Colour theory and Illustrator tools)
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
+  - ...
 - Colour dos & don’ts
 - Elements of design
 - Illustrator colour swatches
@@ -40,24 +42,29 @@
 - Recoloring artwork
 - Gradient tool
 - Transform options (rotate, reflect, and shear)
----
+
+```
 - Hybrid Exercise: 2. Design a Button (3%)
 - Hybrid: Next week learning module videos
 - Pertinent Discussion (3%)
+```
 
 
 ## Week 4 - Time to draw (Illustrator drawing tools)
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
+  - ...
 - The Pen Tool 
 - The Pencils and Paintbrush tools
 - Pathfinder and Builder tools
 - Clipping mask
----
+
+```
 - Hybrid Exercise: 3. Character vectorization (3%)
 - Hybrid: Next week learning module videos
 - Assignment 01: Avatar icon for Apple (15%, peer reviews in week 6)
+```
 
 #### Reference
 - [The Design Elements of Composing a Drawing](https://www.dummies.com/art-center/performing-arts/drawing/the-design-elements-of-composing-a-drawing/)
@@ -67,6 +74,7 @@
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
+  - ...
 - Typography
   - Adding and formatting texts,
   - Placing texts on or inside a path
@@ -80,7 +88,8 @@
 - Blend tool
 - Exporting options
 - Image composition
----
+
+```
 - In-class Exercise: 4. Typography (3%)
 - Hybrid: Online Quiz 1 (10%)
 - Hybrid: Next week learning module videos
@@ -88,6 +97,7 @@
   - Week 04 Hybrid
   - Assignment 01 Requirements 
   - Peer Review Discussion Posts
+```
 
 
 ## MODULE TWO: Layout concepts and raster-based graphics
@@ -215,7 +225,7 @@ A good svg example: attributes with CSS animation
 
 - Discussion of hybrid learning module videos
 - Recap of learning module videos
-- •• 
+- ••• 
 - Rapid prototyping tool: 
   - What is Adobe XD (Xd)
   - Xd Workspace 
