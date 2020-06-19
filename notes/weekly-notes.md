@@ -243,7 +243,7 @@ A good svg example: attributes with CSS animation
 
 - Discussion of hybrid learning module videos
 - Recap of learning module notes and videos
-- ••• 
+  - ••• 
 - Rapid prototyping tool: 
   - What is Adobe XD (Xd)
   - Xd Workspace 
@@ -269,9 +269,20 @@ A good svg example: attributes with CSS animation
 - Discussion of hybrid learning module videos
 - Recap of learning module notes and videos
   - •••
-- Creating mobile layout from scratch
-- Creating mobile layout form UI Kits: iOS, Android
-- Working with Xd Plugins
+- Rapid prototyping tool: 
+  - What is Adobe XD (Xd)
+  - XD Workspace
+   ⧫ Work with drawing & text tools
+- Xd Workflow
+  - Design
+  - Prototype
+  - Share
+- Collaboration features in Adobe XD
+  - Using Xd Cloud documents
+  - Coediting & Document history
+   ⧫ Managing fonts
+- Built-in Xd tutorial
+
 
 ```
 - In-class Exercise: 9. Mobile layout in Xd (3%)
