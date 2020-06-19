@@ -67,9 +67,8 @@ Reference: [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-n
 - Video - [New Adobe XD Update | June 2019](https://youtu.be/iDI1ykinExI)
     - Blog - [August 2019 Release of June XD](https://theblog.adobe.com/xd-june-2019-update-property-inspector-superscript-subscript-more): Property Inspector in Prototyping Mode, Subscript and Superscript Text Transformations, XD for Jira Integration 2.0, a New Plugins Panel, and More   
 
----
 
-### Additional references
+## Additional references
 
 - [Feature summary | Adobe XD (2020 releases...)](https://helpx.adobe.com/ca/xd/help/whats-new/2020.html)
 - [Feature summary | Adobe XD | 2019 releases](https://helpx.adobe.com/ca/xd/help/whats-new/2019.html)
