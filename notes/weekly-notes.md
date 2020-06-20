@@ -319,6 +319,7 @@ A good svg example: attributes with CSS animation
 
 ```
 - Work on Final Project
+- Review student's work progress
 ```
 
 ## Week 15 – Open Lab
