@@ -8,10 +8,10 @@ To have a smooth start:
 
 - Download and install the Adobe Creative Suite and Adobe Illustrator today 
 - Ensure all tools are ready for the course this week, including Photoshop and XD
-- Go over **Course [Overview](../../overview/)**
-  - Overview of Mobile Design Fundamentals Course
+- Go over **Course [Overview](../../overview/) and Policies**
+  - Mobile Design Fundamentals Course Overview
   - Course Policies
-  - Professor Contact Information
+  - Professor Contact Info.
 
 For visual design inspirations, check out [Adobe Create online magazine](https://create.adobe.com/)
 
