@@ -8,7 +8,7 @@ Students are introduced to mobile design fundamentals and graphical user interfa
 ## Course Description
 
 - [Course Outline](./2020-2021_mad9011.pdf)
-- [CSI](./2020-2021_CSI_mad9011.pdf)
+- [Course Section Information](./2020-2021_CSI_mad9011.pdf)
 
 ## Student Workload Expectations
 
