@@ -6,9 +6,10 @@ Worth <Badge type="error" text="35%"/> of Final Grade
 
 Every week there will be exercises for you to complete inside or outside of class. Some exercises will be larger than others and each is worth 3% of your final grade. There will be 9 exercises (9x3%) and some will be completed quickly and others will take longer. All together, the hybrid exercises, in-class exercises, and discussions are worth 35% of your final grade.
 
-[BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
+[BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/admin/folders_manage.d2l?ou=187946)
 
-[BS LMS MAD9011_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
+[BS LMS MAD9011_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/admin/folders_manage.d2l?ou=187946)
+
 
 ### Hybrid 1 - Nike recreation
 
@@ -103,9 +104,9 @@ Worth <Badge type="error" text="25%"/> of Final Grade
 
 Thre are two main assignments for you to complete. Together they are worth 25% of your final grade.
 
-[BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
+[BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/admin/folders_manage.d2l?ou=187946)
 
-[BS LMS MAD9011_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
+[BS LMS MAD9011_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/admin/folders_manage.d2l?ou=187946)
 
 ### Assignment 1 - Avatar icon for Apple (15%)
 
@@ -128,9 +129,9 @@ Worth <Badge type="error" text="20%"/> of Final Grade
 
 Put all acquired skills to test to create an Android app launching experiece. This project is worth 20% of your final grade. 
 
-[BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
+[BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/admin/folders_manage.d2l?ou=187946)
 
-[BS LMS MAD9011_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=187946&isprv=0)
+[BS LMS MAD9011_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/admin/folders_manage.d2l?ou=187946)
 
 ### Final Project - Mobile UI Visual Prototype (20%)
 <Badge text="Due Fri. Dec 18 by 5pm" />
