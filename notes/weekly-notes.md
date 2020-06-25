@@ -5,6 +5,10 @@
 ## Week 1 - Introduction to MAD9011
 
 - Introduction to MAD9011 Course
+  - Brightspace: Inter-communication within the course; attendance; assignment submissions; grading (& rubric); and, for online discussions 
+  - Course website: Course content
+    - Top nav: home, overview, deliverables, resources (top nav) 
+    - Left-side nav: Content Modules & Deliverables 
 - Course Policy & Resources
 - Install Adobe CC  
 - Install Illustrator
@@ -15,33 +19,31 @@
 
 ## Week 2 - Meeting Adobe Illustrator
 
-- Discussion of hybrid learning module videos
-- Recap of learning module videos
-  - •••
-- Graphic fundamental: Raster and vector graphics
-- Introduction to Adobe Illustrator (Ai)
-- Illustrator Artboards
-- Creating, selecting, and editing shapes and strokes 
-- Colour of fill and stroke 
+- Discussion of Week 2 hybrid notes and videos 
+- Recap of Week 2 notes and videos 
+  - Graphic fundamental: Raster and vector graphics
+  - Introduction to Adobe Illustrator (Ai)
+  - Illustrator Artboards
+  - Creating, selecting, and editing shapes and strokes 
+  - Colour of fill and stroke 
 
 ```
-- Hybrid Exercise: 1. Nike logo (3%)
 - Hybrid: Next week learning module notes and videos
+- Hybrid Exercise: 1. Nike logo (3%)
 ```
 
 
 ## Week 3 - Time to colour (Colour theory and Illustrator tools)
 
-- Discussion of hybrid learning module videos
-- Recap of learning module videos
-  - •••
-- Colour dos & don’ts
-- Elements of design
-- Illustrator colour swatches
-- Tracing images
-- Recoloring artwork
-- Gradient tool
-- Transform options (rotate, reflect, and shear)
+- Discussion of Week 3 hybrid notes and videos 
+- Recap of Week 3 notes and videos
+  - Colour dos & don’ts
+  - Elements of design
+  - Illustrator colour swatches
+  - Tracing images
+  - Recoloring artwork
+  - Gradient tool
+  - Transform options (rotate, reflect, and shear)
 
 ```
 - Hybrid Exercise: 2. Design a Button (3%)
@@ -52,13 +54,12 @@
 
 ## Week 4 - Time to draw (Illustrator drawing tools)
 
-- Discussion of hybrid learning module videos
-- Recap of learning module videos
-  - •••
-- The Pen Tool 
-- The Pencils and Paintbrush tools
-- Pathfinder and Builder tools
-- Clipping mask
+- Discussion of Week 4 hybrid notes and videos 
+- Recap of Week 4 notes and videos
+  - The Pen Tool 
+  - The Pencils and Paintbrush tools
+  - Pathfinder and Builder tools
+  - Clipping mask
 
 ```
 - Hybrid Exercise: 3. Character vectorization (3%)
@@ -72,22 +73,21 @@
 
 ## Week 5 - Typography & Depth
 
-- Discussion of hybrid learning module videos
-- Recap of learning module videos
-  - •••
-- Typography
-  - Adding and formatting texts,
-  - Placing texts on or inside a path
-  - Reshaping texts as vector image  
-- Special effects 
-  - Adding and editing effects
-  - Using creative brush strokes
-  - Creating customized pattern
-- Respective Grid tool
-- Flare tool
-- Blend tool
-- Exporting options
-- Image composition
+- Discussion of Week 5 hybrid notes and videos 
+- Recap of Week 5 notes and videos
+  - Typography
+    - Adding and formatting texts,
+    - Placing texts on or inside a path
+    - Reshaping texts as vector image  
+  - Special effects 
+    - Adding and editing effects
+    - Using creative brush strokes
+    - Creating customized pattern
+  - Respective Grid tool
+  - Flare tool
+  - Blend tool
+  - Exporting options
+  - Image composition
 
 ```
 - In-class Exercise: 4. Typography (3%)
@@ -95,7 +95,7 @@
 - Hybrid: Next week learning module videos
 - Upcoming due dates
   - Week 04 Hybrid
-  - Assignment 01 Requirements 
+  - Assignment 01 (Requirements) 
   - Peer Review Discussion Posts
 ```
 
@@ -104,18 +104,17 @@
 
 ## Week 6 - Introduction to Adobe Photoshop
 
-- Discussion of hybrid learning module videos
-- Recap of learning module videos
-  - •••
-- Raster-based graphic/photo editor: Adobe Photoshop (Ps)
-- Workspace overview (control options bar, history panel, layer panel etc)
-- Opening, creating, saving documents
-- Using artboards
-- Changing image size
-- Making selections (selection tools)
-- Creating silhouettes (select & mask)
-- Content-aware Fill layer
-- Clone Stamp Tool
+- Discussion of Week 6 hybrid notes and videos 
+- Recap of Week 6 notes and videos
+  - Raster-based graphic/photo editor: Adobe Photoshop (Ps)
+  - Workspace overview (control options bar, history panel, layer panel etc)
+  - Opening, creating, saving documents
+  - Using artboards
+  - Changing image size
+  - Making selections (selection tools)
+  - Creating silhouettes (select & mask)
+  - Content-aware Fill layer
+  - Clone Stamp Tool
 
 ```
 - In-class Exercise: 5. Cut a silhouette (3%)
@@ -139,18 +138,17 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 ## Week 7 - Photo manipulation and image composite (Photoshop)
 
-- Discussion of hybrid learning module videos
-- Recap of learning module videos
-  - •••
-- Non-destructive editing layers
-- Non-destructive image editing
-  - Text and Shape layers
-  - Layer Styles (fx layers)
-  - Adjustment layers
-  - Smart Filters
-  - Smart objects
-  - Blend modes
-- Creating an image composition
+- Discussion of Week 7 hybrid notes and videos 
+- Recap of Week 7 notes and videos
+  - Non-destructive editing layers
+  - Non-destructive image editing
+    - Text and Shape layers
+    - Layer Styles (fx layers)
+    - Adjustment layers
+    - Smart Filters
+    - Smart objects
+    - Blend modes
+  - Creating an image composition
 
 ```
 - Hybrid Exercise: 6. Compositing an image (3%)
@@ -164,17 +162,16 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 ## Week 8 - Photo retouching and image optimization (Photoshop)
 
-- Discussion of hybrid learning module videos
-- Recap of learning module videos
-  - •••
-- Photo retouching and restoration 
-  - Basic Retouch tools
-  - History brush tools
-  - Dodge, Burn, Sponge tools
-- Image Optimization
-- Photoshop Export As feature 
-  - Export as
-  - Save for Web (legacy)
+- Discussion of Week 8 hybrid notes and videos 
+- Recap of Week 8 notes and videos
+  - Photo retouching and restoration 
+    - Basic Retouch tools
+    - History brush tools
+    - Dodge, Burn, Sponge tools
+  - Image Optimization
+  - Photoshop Export As feature 
+    - Export as
+    - Save for Web (legacy)
 
 ```
 - In-class Exercise: 7. Clean me up (3%)
