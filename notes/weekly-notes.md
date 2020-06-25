@@ -6,14 +6,23 @@
 
 - Introduction to MAD9011 Course
   - Brightspace: Inter-communication within the course; attendance; assignment submissions; grading (& rubric); and, for online discussions 
+    - Home page (announcement) 
+    - `Activities` tab  
+      - Assignments (submission folders & Rubrics for major assingments) 
+      - Discussions 
+      - Quizzes
+    - `Content` tab 
+      - `Overview` left-nav: link to course website 
+      - `Coruse Schedule` left nav: Due dates
+    - `Grades` tab
+    - Top-right **nav icons**: Email, Notification, Profile 
   - Course website: Course content
     - Top nav pages: `home`, `overview`, `deliverables`, `resources` (top nav) 
     - Left-side nav pages: `Content Modules` & `Deliverables` (Week 1-5 will be available)
-- Course Policy & Resources (recap from the `Overview` page)
+- Course Policy & Resources (recap from the `Overview` page & Plagiarism Declaration)
 - Weekly routine: Complete learning modules notes/videos before coming to class each week.  
-  - Ask online or bring questions to class
+  - Bring questions to class or ask online
   - Share learning experience 
-  - 
 - Install Adobe CC  
 - Install Illustrator
 - Install Photoshop and XD
@@ -42,6 +51,7 @@
 ## Week 3 - Time to colour (Colour theory and Illustrator tools)
 
 - Discussion of Week 3 hybrid notes and videos 
+  - Nike logo hybrid
 - Recap of Week 3 notes and videos
   - Colour dos & don’ts
   - Elements of design
