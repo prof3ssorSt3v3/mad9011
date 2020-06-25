@@ -10,9 +10,14 @@
     - Top nav pages: `home`, `overview`, `deliverables`, `resources` (top nav) 
     - Left-side nav pages: `Content Modules` & `Deliverables` (Week 1-5 will be available)
 - Course Policy & Resources (recap from the `Overview` page)
+- Weekly routine: Complete learning modules notes/videos before coming to class each week.  
+  - Ask online or bring questions to class
+  - Share learning experience 
+  - 
 - Install Adobe CC  
 - Install Illustrator
 - Install Photoshop and XD
+
 
 ```
 - Hybrid: Next week learning module notes and videos
