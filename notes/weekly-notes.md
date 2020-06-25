@@ -184,18 +184,17 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 ## Week 9 - Introduction to Scalable Vector Graphics (SVG) 
 
-- Discussion of hybrid learning module videos
-- Recap of learning module videos
-  - •••
-- Scalable Vector Graphics are code
-- Writing SVG code
-- SVG texts and effects
-  - Text & web fonts
-  - Masking text
-  - Gradients on text
-  - Textures on text
-- SVG Optimizing & cleaning
-- SVG Attributes & CSS
+- Discussion of Week 9 hybrid notes and videos 
+- Recap of Week 9 notes and videos
+  - Scalable Vector Graphics are code
+  - Writing SVG code
+  - SVG texts and effects
+    - Text & web fonts
+    - Masking text
+    - Gradients on text
+    - Textures on text
+  - SVG Optimizing & cleaning
+  - SVG Attributes & CSS
 
 ```
 - Hybrid Exercise: 8. Coding an SVG (3% due: Week 11)
@@ -207,16 +206,15 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 ## Week 10 - SVG Animation
 
-- Discussion of hybrid learning module videos
-- Recap of learning module videos
-  - •••
-- Animation with CSS
-  - Transitions
-  - Transform origin with pixels
-  - Animations
-- SVG icons
-  - Icon symbols reuse
-- SVG Accessibility
+- Discussion of Week 10 hybrid notes and videos 
+- Recap of Week 10 notes and videos
+  - Animation with CSS
+    - Transitions
+    - Transform origin with pixels
+    - Animations
+  - SVG icons
+    - Icon symbols reuse
+  - SVG Accessibility
 
 ```
 - Hybrid Adobe Xd Exercise (not marked)
@@ -238,22 +236,21 @@ A good svg example: attributes with CSS animation
 
 ## Week 11 - Introduction to Adobe XD 
 
-- Discussion of hybrid learning module videos
-- Recap of learning module notes and videos
-  - ••• 
-- Rapid prototyping tool: 
-  - What is Adobe XD (Xd)
-  - Xd Workspace 
-    - Work with drawing & text tools
-- Xd Workflow
-  - Design
-  - Prototype
-  - Share
-- Collaboration features in Adobe XD
-  - Using Xd Cloud documents
-  - Coediting & Document history
-    - Managing fonts
-- Built-in Xd tutorial
+- Discussion of Week 11 hybrid notes and videos 
+- Recap of Week 11 notes and videos
+  - Rapid prototyping tool: 
+    - What is Adobe XD (Xd)
+    - Xd Workspace 
+      - Work with drawing & text tools
+  - Xd Workflow
+    - Design
+    - Prototype
+    - Share
+  - Collaboration features in Adobe XD
+    - Using Xd Cloud documents
+    - Coediting & Document history
+      - Managing fonts
+  - Built-in Xd tutorial
 
 ```
 - Hybrid: Next week learning module videos
@@ -263,22 +260,21 @@ A good svg example: attributes with CSS animation
 
 ## Week 12 - Mobile layout with Xd
 
-- Discussion of hybrid learning module videos
-- Recap of learning module notes and videos
-  - •••
-- Rapid prototyping tool: 
-  - What is Adobe XD (Xd)
-  - XD Workspace
-    - Work with drawing & text tools
-- Xd Workflow
-  - Design
-  - Prototype
-  - Share
-- Collaboration features in Adobe XD
-  - Using Xd Cloud documents
-  - Coediting & Document history
-    - Managing fonts
-- Built-in Xd tutorial
+- Discussion of Week 12 hybrid notes and videos 
+- Recap of Week 12 notes and videos
+  - Rapid prototyping tool: 
+    - What is Adobe XD (Xd)
+    - XD Workspace
+      - Work with drawing & text tools
+  - Xd Workflow
+    - Design
+    - Prototype
+    - Share
+  - Collaboration features in Adobe XD
+    - Using Xd Cloud documents
+    - Coediting & Document history
+      - Managing fonts
+  - Built-in Xd tutorial
 
 
 ```
@@ -289,18 +285,17 @@ A good svg example: attributes with CSS animation
 
 ## Week 13 - Xd Advanced features
 
-- Discussion of hybrid learning module videos
-- Recap of learning module notes and videos
-  - •••
-- XD productivity tools
-  - Components
-  - Using Components
-  - XD interactions 
-- Xd Resources
-  - Xd UI kits 
-  - Xd Plugin Manager  
-- Layout Best Practices
-  - iOS & Android UI Kits
+- Discussion of Week 13 hybrid notes and videos 
+- Recap of Week 13 notes and videos
+  - XD productivity tools
+    - Components
+    - Using Components
+    - XD interactions 
+  - Xd Resources
+    - Xd UI kits 
+    - Xd Plugin Manager  
+  - Layout Best Practices
+    - iOS & Android UI Kits
 
 
 ```
