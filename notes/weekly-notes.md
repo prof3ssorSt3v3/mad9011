@@ -7,11 +7,12 @@
 - Introduction to MAD9011 Course
   - Brightspace: Inter-communication within the course; attendance; assignment submissions; grading (& rubric); and, for online discussions 
   - Course website: Course content
-    - Top nav: home, overview, deliverables, resources (top nav) 
-    - Left-side nav: Content Modules & Deliverables 
-- Course Policy & Resources
+    - Top nav pages: `home`, `overview`, `deliverables`, `resources` (top nav) 
+    - Left-side nav pages: `Content Modules` & `Deliverables` (Week 1-5 will be available)
+- Course Policy & Resources (recap from the `Overview` page)
 - Install Adobe CC  
 - Install Illustrator
+- Install Photoshop and XD
 
 ```
 - Hybrid: Next week learning module notes and videos
