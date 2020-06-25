@@ -19,7 +19,7 @@
     - Top-right **nav icons**: Email, Notification, Profile 
   - Course website: Course content
     - Top nav pages: `home`, `overview`, `deliverables`, `resources` (top nav) 
-    - Left-side nav pages: `Content Modules` & `Deliverables` (Week 1-5 will be available)
+    - Left-side nav pages: `Content Modules` & `Deliverables` (Week 1-5 available)
 - Course Policy & Resources (recap from the `Overview` page & Plagiarism Declaration)
 - Weekly routine: Complete learning modules notes/videos before coming to class each week.  
   - Bring questions to class or ask online
@@ -111,6 +111,7 @@
   - Blend tool
   - Exporting options
   - Image composition
+- Course website (Week 6-9 available)
 - Go over TO-DOs section
 
 
@@ -204,6 +205,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
   - Photoshop Export As feature 
     - Export as
     - Save for Web (legacy)
+- Course website (Week 10-15 available)
 - Go over TO-DOs section
 
 
