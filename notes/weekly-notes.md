@@ -13,7 +13,8 @@
       - Quizzes
     - `Content` tab 
       - `Overview` left-nav: link to course website 
-      - `Coruse Schedule` left nav: Due dates
+      - `Coruse Schedule` left nav: `Full Schedule` tab to see **due dates**
+        - Hybrid Exercises due on Sundays, in-class exercises due at the end of class
     - `Grades` tab
     - Top-right **nav icons**: Email, Notification, Profile 
   - Course website: Course content
@@ -26,7 +27,7 @@
 - Install Adobe CC  
 - Install Illustrator
 - Install Photoshop and XD
-
+- Go over TODO: TODO before next week
 
 ```
 - Hybrid: Next week learning module notes and videos
@@ -34,13 +35,15 @@
 
 ## Week 2 - Meeting Adobe Illustrator
 
-- Discussion of Week 2 hybrid notes and videos 
+- Q/A & pop quiz questions
+- Discussion of Week 2 hybrid notes and videos  
 - Recap of Week 2 notes and videos 
   - Graphic fundamental: Raster and vector graphics
   - Introduction to Adobe Illustrator (Ai)
   - Illustrator Artboards
   - Creating, selecting, and editing shapes and strokes 
-  - Colour of fill and stroke 
+  - Colour of fill and stroke
+- Go over TO-DOs section
 
 ```
 - Hybrid: Next week learning module notes and videos
@@ -50,8 +53,8 @@
 
 ## Week 3 - Time to colour (Colour theory and Illustrator tools)
 
+- Q/A & Pop quiz questions (e.g. Hybrid Exercise: 1. Nike logo)
 - Discussion of Week 3 hybrid notes and videos 
-  - Nike logo hybrid
 - Recap of Week 3 notes and videos
   - Colour dos & don’ts
   - Elements of design
@@ -60,22 +63,25 @@
   - Recoloring artwork
   - Gradient tool
   - Transform options (rotate, reflect, and shear)
+- Go over TO-DOs section
 
 ```
 - Hybrid Exercise: 2. Design a Button (3%)
-- Hybrid: Next week learning module videos
+- Hybrid: Next week learning module notes & videos
 - Pertinent Discussion (3%)
 ```
 
 
 ## Week 4 - Time to draw (Illustrator drawing tools)
 
+- Q/A & Pop quiz questions
 - Discussion of Week 4 hybrid notes and videos 
 - Recap of Week 4 notes and videos
   - The Pen Tool 
   - The Pencils and Paintbrush tools
   - Pathfinder and Builder tools
   - Clipping mask
+- Go over TO-DOs section
 
 ```
 - Hybrid Exercise: 3. Character vectorization (3%)
@@ -89,6 +95,7 @@
 
 ## Week 5 - Typography & Depth
 
+- Q/A & Pop quiz questions
 - Discussion of Week 5 hybrid notes and videos 
 - Recap of Week 5 notes and videos
   - Typography
@@ -104,6 +111,8 @@
   - Blend tool
   - Exporting options
   - Image composition
+- Go over TO-DOs section
+
 
 ```
 - In-class Exercise: 4. Typography (3%)
@@ -120,6 +129,7 @@
 
 ## Week 6 - Introduction to Adobe Photoshop
 
+- Q/A & Pop quiz questions
 - Discussion of Week 6 hybrid notes and videos 
 - Recap of Week 6 notes and videos
   - Raster-based graphic/photo editor: Adobe Photoshop (Ps)
@@ -131,6 +141,8 @@
   - Creating silhouettes (select & mask)
   - Content-aware Fill layer
   - Clone Stamp Tool
+- Go over TO-DOs section
+
 
 ```
 - In-class Exercise: 5. Cut a silhouette (3%)
@@ -154,6 +166,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 ## Week 7 - Photo manipulation and image composite (Photoshop)
 
+- Q/A & Pop quiz questions
 - Discussion of Week 7 hybrid notes and videos 
 - Recap of Week 7 notes and videos
   - Non-destructive editing layers
@@ -165,6 +178,8 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
     - Smart objects
     - Blend modes
   - Creating an image composition
+- Go over TO-DOs section
+
 
 ```
 - Hybrid Exercise: 6. Compositing an image (3%)
@@ -178,6 +193,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 ## Week 8 - Photo retouching and image optimization (Photoshop)
 
+- Q/A & Pop quiz questions
 - Discussion of Week 8 hybrid notes and videos 
 - Recap of Week 8 notes and videos
   - Photo retouching and restoration 
@@ -188,6 +204,8 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
   - Photoshop Export As feature 
     - Export as
     - Save for Web (legacy)
+- Go over TO-DOs section
+
 
 ```
 - In-class Exercise: 7. Clean me up (3%)
@@ -200,6 +218,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 ## Week 9 - Introduction to Scalable Vector Graphics (SVG) 
 
+- Q/A & Pop quiz questions
 - Discussion of Week 9 hybrid notes and videos 
 - Recap of Week 9 notes and videos
   - Scalable Vector Graphics are code
@@ -211,6 +230,8 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
     - Textures on text
   - SVG Optimizing & cleaning
   - SVG Attributes & CSS
+- Go over TO-DOs section
+
 
 ```
 - Hybrid Exercise: 8. Coding an SVG (3% due: Week 11)
@@ -222,6 +243,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 ## Week 10 - SVG Animation
 
+- Q/A & Pop quiz questions
 - Discussion of Week 10 hybrid notes and videos 
 - Recap of Week 10 notes and videos
   - Animation with CSS
@@ -231,6 +253,8 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
   - SVG icons
     - Icon symbols reuse
   - SVG Accessibility
+- Go over TO-DOs section
+
 
 ```
 - Hybrid Adobe Xd Exercise (not marked)
@@ -252,6 +276,7 @@ A good svg example: attributes with CSS animation
 
 ## Week 11 - Introduction to Adobe XD 
 
+- Q/A & Pop quiz questions
 - Discussion of Week 11 hybrid notes and videos 
 - Recap of Week 11 notes and videos
   - Rapid prototyping tool: 
@@ -267,6 +292,8 @@ A good svg example: attributes with CSS animation
     - Coediting & Document history
       - Managing fonts
   - Built-in Xd tutorial
+- Go over TO-DOs section
+
 
 ```
 - Hybrid: Next week learning module videos
@@ -276,6 +303,7 @@ A good svg example: attributes with CSS animation
 
 ## Week 12 - Mobile layout with Xd
 
+- Q/A & Pop quiz questions
 - Discussion of Week 12 hybrid notes and videos 
 - Recap of Week 12 notes and videos
   - Rapid prototyping tool: 
@@ -291,6 +319,7 @@ A good svg example: attributes with CSS animation
     - Coediting & Document history
       - Managing fonts
   - Built-in Xd tutorial
+- Go over TO-DOs section
 
 
 ```
@@ -301,6 +330,7 @@ A good svg example: attributes with CSS animation
 
 ## Week 13 - Xd Advanced features
 
+- Q/A & Pop quiz questions
 - Discussion of Week 13 hybrid notes and videos 
 - Recap of Week 13 notes and videos
   - XD productivity tools
@@ -312,7 +342,7 @@ A good svg example: attributes with CSS animation
     - Xd Plugin Manager  
   - Layout Best Practices
     - iOS & Android UI Kits
-
+- Go over TO-DOs section
 
 ```
 - Hybrid: Final Project individual review
@@ -321,9 +351,11 @@ A good svg example: attributes with CSS animation
 
 ## Week 14
 
+- Q/A & Pop quiz questions
 - Advanced Xd Techniques
 - What’s New in Adobe XD
 - Additional References
+- Go over TO-DOs section
 
 ```
 - Work on Final Project
