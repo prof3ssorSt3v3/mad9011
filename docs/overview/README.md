@@ -16,7 +16,7 @@ Students are introduced to mobile design fundamentals and graphical user interfa
 - Two hours in class 
 - One hour of online exercises
 - 3 hours per week of tutorials/videos/exercises/studying/practicing outside class
-  - Complete weekly learning module notes and video before coming to class
+
 
 ## Schedule
 
