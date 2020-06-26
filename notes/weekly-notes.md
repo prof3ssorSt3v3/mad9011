@@ -72,12 +72,14 @@ Class structure (suggestion):
 - Q/A & Pop quiz questions (e.g. Hybrid Exercise: 1. Nike logo)
 - Discussion of Week 3 hybrid notes and videos 
 - Recap of Week 3 notes and videos
-  - Colour dos & don’ts
-  - Elements of design
-  - Illustrator colour swatches
-  - Tracing images
-  - Recoloring artwork
-  - Gradient tool
+  - Colour theory and tools
+    - Design fundamentals
+    – Colour fundamentals
+  - Colours in Adobe Illustrator 
+    - Colour swatches
+    - Tracing images
+    - Recoloring artwork
+    - Gradient tool
   - Transform options (rotate, reflect, and shear)
 - Go over TO-DOs section
 
