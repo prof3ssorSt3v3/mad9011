@@ -36,10 +36,10 @@ Class structure (suggestion):
     - Week 1-5 content available: Quickly walk through week 1 & 2
 - Course Policy & Resources (recap from the `Overview` page & Plagiarism Declaration)
   - Weekly routine: Complete learning modules notes/videos before coming to class each week.  
-  - Bring questions to class or ask online
+  - Bring questions to class or ask them online
   - Share learning experience 
 - Install Adobe CC  
-- Install Illustrator
+- Install Illustrator (needed for Week 1 to 5)
 - Install Photoshop and XD
 - Go over TODO: TODO before next week
 
