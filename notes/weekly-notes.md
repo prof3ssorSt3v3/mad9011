@@ -1,4 +1,17 @@
-# Weekly Class Activities (Lesson Plan)
+# Weekly Class Activities (Lesson Plan for Course Instructor)
+
+``` 
+Recommended class structure:  
+* 2 hour in-class period
+- 10-15 minutes: Q/A + Popup quiz questions
+- 5 minutes: Discuss last week's Hybrid Exercise
+- 10 minutes Discuss this week's hybrid notes/video
+- 5-10 minutes: This week's TODOs
+- 20-40 minutes hands-on guided practice (tie-in to this week's Hybrid Exercise) 
+- Worklab: Remaining class, help students start this week's Hybrid Exercise 
+
+* 1 hour online: Office hour + Q/A + Instructor assignment support
+```
 
 ## MODULE ONE: Basic design concepts and vector-based graphics 
 
@@ -33,18 +46,6 @@
 - Hybrid: Next week learning module notes and videos 
 ```
 
-``` 
-Recommended class structure:  
-* 2 hour in-class period
-- 10-15 minutes: Q/A + Popup quiz questions
-- 5 minutes: Discuss last week's Hybrid Exercise
-- 10 minutes Discuss this week's hybrid notes/video
-- 5-10 minutes: This week's TODOs
-- 20-40 minutes hands-on guided practice (tie-in to this week's Hybrid Exercise) 
-- Worklab: Remaining class, help students start this week's Hybrid Exercise 
-
-* 1 hour online: Office hour + Q/A + Instructor assignment support
-```
 
 ## Week 2 - Meeting Adobe Illustrator
 
