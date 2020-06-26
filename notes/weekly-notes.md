@@ -8,7 +8,7 @@
   - Brightspace: Inter-communication within the course; attendance; assignment submissions; grading (& rubric); and, for online discussions 
     - Home page (announcement) 
     - `Activities` tab  
-      - Assignments (submission folders & Rubrics for major assingments) 
+      - Assignments (submission folders & Rubrics for hybrib exercises, assignments, final project) 
       - Discussions 
       - Quizzes
     - `Content` tab 
