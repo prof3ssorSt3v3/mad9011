@@ -35,7 +35,7 @@ Class structure (suggestion):
     - Left-side nav pages: `Content Modules` & `Deliverables` 
     - Week 1-5 content available: Quickly walk through week 1 & 2
 - Course Policy & Resources (recap from the `Overview` page & Plagiarism Declaration)
-- Weekly routine: Complete learning modules notes/videos before coming to class each week.  
+  - Weekly routine: Complete learning modules notes/videos before coming to class each week.  
   - Bring questions to class or ask online
   - Share learning experience 
 - Install Adobe CC  
@@ -45,7 +45,7 @@ Class structure (suggestion):
 
 ```
 - Hybrid: Next week learning module notes and videos 
-- Remind students there will be pop quiz questions form Hybrid notes/videos  
+- In-class pop quizzes: Begin next week (from hybrid notes/videos)  
 ```
 
 
@@ -211,7 +211,6 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 - Hybrid Exercise: 6. Compositing an image (3%)
 - Hybrid: Next week learning module notes and videos 
 - Assignment 02: Employee profile page (10%)
-- Due: Peer Reviews for Assignment 01 (Nov 01)
 ```
 
 
@@ -238,6 +237,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 ```
 - In-class Exercise: 7. Clean me up (3%)
 - Hybrid: Next week learning module *notes* and videos (SVG)
+- Due: Peer Reviews for Assignment 01 (Nov 08)
 - Due: Pertinent discussion (Nov 08)
 ```
 
