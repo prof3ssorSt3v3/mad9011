@@ -381,3 +381,10 @@ A good svg example: SVG attributes with CSS animation
 ```
 
 ## Week 15 – Open Lab
+
+- Q/A & Pop quiz questions if necessary
+
+```
+- Work on Final Project
+- Review student's work progress
+```
