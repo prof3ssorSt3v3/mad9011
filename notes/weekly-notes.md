@@ -93,9 +93,10 @@ Class structure (suggestion):
 - Q/A & Pop quiz questions
 - Discussion of Week 4 hybrid notes and videos 
 - Recap of Week 4 notes and videos
-  - The Pen Tool 
-  - The Pencils and Paintbrush tools
-  - Pathfinder and Builder tools
+  - Drawing tools
+    - The Pen Tool 
+    - The Pencils and Paintbrush tools
+    - Pathfinder and Builder tools
   - Clipping mask
 - Go over TO-DOs section
 
@@ -133,12 +134,12 @@ Class structure (suggestion):
 
 ```
 - In-class Exercise: 4. Typography (3%)
-- Hybrid: Online Quiz 1 (10%)
+- Hybrid: Online Quiz 1 (10%): Basic design knowledge and tools (Ai)
 - Hybrid: Next week learning module notes and videos (Photoshop)
-- Upcoming due dates
-  - Week 04 Hybrid
-  - Assignment 01 (Requirements) 
-  - Peer Review Discussion Posts
+- Upcoming due dates (multiple dates)
+  - Week 04 Hybrid Exercise
+  - Assignment 01 (Requirements, due week 6) 
+  - Peer Review Discussion Posts (Week 6 or earlier if the students are ready.)
 ```
 
 
