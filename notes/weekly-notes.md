@@ -1,7 +1,7 @@
 # Weekly Class Activities (Lesson Plan for Course Instructor)
 
 ``` 
-Class structure idea:  
+Class structure (suggestion):  
 * 2 hour in-class period
 - 10-15 minutes: Q/A + Popup quiz questions
 - 5 minutes: Discuss last week's Hybrid Exercise
