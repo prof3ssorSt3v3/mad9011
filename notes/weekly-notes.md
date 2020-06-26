@@ -44,6 +44,7 @@ Recommended class structure:
 
 ```
 - Hybrid: Next week learning module notes and videos 
+- Remind students there will be pop quiz questions form Hybrid notes/videos  
 ```
 
 
