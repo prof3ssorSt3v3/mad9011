@@ -33,6 +33,19 @@
 - Hybrid: Next week learning module notes and videos 
 ```
 
+``` 
+Recommended class structure for the 2 hour in-class period:  
+- 10-15 minutes: Q/A + Popup quiz questions
+- 5 minutes: Discuss last week's Hybrid Exercise
+- 10 minutes Discuss this week's hybrid notes/video
+- 5-10 minutes: This week's TODOs
+- 20-40 minutes hands-on guided practice (tie-in to this week's Hybrid Exercise) 
+- Worklab: Remaining class, students work on the this week's Hybrid Exercise 
+
+1 hour online: Office hour + Instructor support for assignments
+
+```
+
 ## Week 2 - Meeting Adobe Illustrator
 
 - Q/A & pop quiz questions
