@@ -41,10 +41,9 @@ Recommended class structure:
 - 10 minutes Discuss this week's hybrid notes/video
 - 5-10 minutes: This week's TODOs
 - 20-40 minutes hands-on guided practice (tie-in to this week's Hybrid Exercise) 
-- Worklab: Remaining class, students work on the this week's Hybrid Exercise 
+- Worklab: Remaining class, help students start this week's Hybrid Exercise 
 
-* 1 hour online: Office hour + Instructor support for assignments
-
+* 1 hour online: Office hour + Q/A + Instructor assignment support
 ```
 
 ## Week 2 - Meeting Adobe Illustrator
