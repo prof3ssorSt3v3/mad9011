@@ -152,13 +152,14 @@ Class structure (suggestion):
   - Howdy! 
     - Raster-based graphic/photo editor: Adobe Photoshop (Ps)
     - Workspace overview (control options bar, history panel, layer panel etc)
-  - Opening, creating, saving documents
-  - Using artboards
-  - Changing image size
-  - Making selections (selection tools)
-  - Creating silhouettes (select & mask)
-  - Content-aware Fill layer
-  - Clone Stamp Tool
+  - Common features & tools
+    - Opening, creating, saving documents
+    - Using artboards
+    - Changing image size
+    - Making selections (selection tools)
+    - Creating silhouettes (select & mask)
+    - Content-aware Fill layer
+    - Clone Stamp Tool
 - Go over TO-DOs section
 
 
