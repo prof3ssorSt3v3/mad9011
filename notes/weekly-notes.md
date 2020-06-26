@@ -6,7 +6,7 @@ Class structure (suggestion):
 - 10-15 minutes: Q/A + Popup quiz questions
 - 5 minutes: Discuss last week's Hybrid Exercise
 - 10 minutes Discuss this week's hybrid notes/video
-- 30-40+ minutes hands-on guided practice (tie in to this week's hybrid notes/videos)
+- 30-40+ minutes: Hands-on guided practice (tie in to this week's hybrid notes/videos)
 - 5-10 minutes: This week's TODOs
 - 5-10 minutes: Help students start with their Hybrid Exercise/assignment 
 
