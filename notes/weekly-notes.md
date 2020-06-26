@@ -149,8 +149,9 @@ Class structure (suggestion):
 - Q/A & Pop quiz questions
 - Discussion of Week 6 hybrid notes and videos 
 - Recap of Week 6 notes and videos
-  - Raster-based graphic/photo editor: Adobe Photoshop (Ps)
-  - Workspace overview (control options bar, history panel, layer panel etc)
+  - Howdy! 
+    - Raster-based graphic/photo editor: Adobe Photoshop (Ps)
+    - Workspace overview (control options bar, history panel, layer panel etc)
   - Opening, creating, saving documents
   - Using artboards
   - Changing image size
@@ -253,7 +254,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 ```
 - Hybrid Exercise: 8. Coding an SVG (3% due: Week 11)
-- Hybrid: Online Quiz 2 (10%)
+- Hybrid: Online Quiz 2 (10%): UI graphic knowledge and tools
 - Hybrid: Next learning module *notes* and videos
 - Due: Assignment 02
 ```
@@ -266,7 +267,8 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 - Recap of Week 10 notes and videos
   - Animation with CSS
     - Transitions
-    - Transform origin with pixels
+      - Transforms
+      - Transform origin with pixels
     - Animations
   - SVG icons
     - Icon symbols reuse
@@ -342,7 +344,7 @@ A good svg example: SVG attributes with CSS animation
 ```
 
 
-## Week 14 - Advanced prototype features: Putting it all together
+## Week 14 - Putting it all together (Advanced XD prototype features)
 
 - Q/A & Pop quiz questions
 - Advanced Xd Techniques
