@@ -265,11 +265,11 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 
 ``` tip
-A good in-class exercise 
+A good in-class exercise: animated SVG loader 
 - https://codepen.io/nat-king/pen/bGGjgNe?editors=1100 
 - video: https://youtu.be/nor4VK9al4c
 
-A good svg example: attributes with CSS animation
+A good svg example: SVG attributes with CSS animation
 - https://codepen.io/team/css-tricks/pen/LGVryo
 ```
 
