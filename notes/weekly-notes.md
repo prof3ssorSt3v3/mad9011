@@ -54,11 +54,13 @@ Class structure (suggestion):
 - Q/A & pop quiz questions
 - Discussion of Week 2 hybrid notes and videos  
 - Recap of Week 2 notes and videos 
-  - Graphic fundamental: Raster and vector graphics
+  - Graphic fundamental
+    - Raster and vector graphics
   - Introduction to Adobe Illustrator (Ai)
-  - Illustrator Artboards
-  - Creating, selecting, and editing shapes and strokes 
-  - Colour of fill and stroke
+    - The basics
+    - Illustrator Artboards
+    - Creating, selecting, and editing shapes and strokes 
+    - Colour of fill and stroke
 - Go over TO-DOs section
 
 ```
