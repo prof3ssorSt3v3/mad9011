@@ -102,7 +102,7 @@ Class structure (suggestion):
 ```
 - Hybrid Exercise: 3. Character vectorization (3%)
 - Assignment 01: Avatar icon for Apple (15%, peer reviews in week 6)
-- Hybrid: Next week learning module videos
+- Hybrid: Next week learning module notes and videos
 ```
 
 #### Reference
@@ -134,7 +134,7 @@ Class structure (suggestion):
 ```
 - In-class Exercise: 4. Typography (3%)
 - Hybrid: Online Quiz 1 (10%)
-- Hybrid: Next week learning module videos
+- Hybrid: Next week learning module notes and videos
 - Upcoming due dates
   - Week 04 Hybrid
   - Assignment 01 (Requirements) 
@@ -163,7 +163,7 @@ Class structure (suggestion):
 
 ```
 - In-class Exercise: 5. Cut a silhouette (3%)
-- Hybrid: Next week learning module videos
+- Hybrid: Next week learning module notes and videos
 - Peer Review for Assignment 01 (marked)
 - Due: Assignment 01
 ```
@@ -200,7 +200,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 ```
 - Hybrid Exercise: 6. Compositing an image (3%)
-- Hybrid: Next week learning module videos
+- Hybrid: Next week learning module notes and videos
 - Assignment 02: Employee profile page (10%)
 ```
 
@@ -227,7 +227,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 ```
 - In-class Exercise: 7. Clean me up (3%)
-- Hybrid: Next week learning module videos & **Reading**
+- Hybrid: Next week learning module *notes* and videos
 - Due: Peer Reviews for Assignment 01
 ```
 
@@ -254,7 +254,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 ```
 - Hybrid Exercise: 8. Coding an SVG (3% due: Week 11)
 - Hybrid: Online Quiz 2 (10%)
-- Hybrid: Next learning module videos & **Reading**
+- Hybrid: Next learning module *notes* and videos
 - Due: Assignment 02
 ```
 
@@ -276,7 +276,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 ```
 - Hybrid Adobe Xd Exercise (not marked)
-- Hybrid: Next week learning module videos 
+- Hybrid: Next week learning module notes and videos 
 ```
 
 
@@ -314,7 +314,7 @@ A good svg example: SVG attributes with CSS animation
 
 
 ```
-- Hybrid: Next week learning module videos
+- Hybrid: Next week learning module notes and videos
 - Final Project: Mobile UI Visual Prototype (20%) 
 - Due: 8. Coding an SVG
 ```
@@ -342,7 +342,7 @@ A good svg example: SVG attributes with CSS animation
 
 ```
 - In-class Exercise: 9. Mobile layout in Xd (3%)
-- Hybrid: Next week learning module video
+- Hybrid: Next week learning module notes and videos
 ```
 
 
