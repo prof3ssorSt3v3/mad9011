@@ -2,14 +2,14 @@
 
 ## Make me look good!
 
-To make an image look good, we will first go over the fundation of design for Layout & Composition.
+To make an image look good, we will first go over the **Fundation of Design for Layout & Composition**.
 
 <YouTube
   title="Beginning Graphic Design: Layout & Composition"
   url="https://www.youtube.com/embed/a5KYlHNKQB8"
 />
 
-Now, let's get familiar with the powerful, nondestructive editing features in Photoshop. We will composite images with text layers, shape layers, layer effects, adjustment layers, smart filter layers, smart objects, and the blending mode to make changes to an image without overwriting its original image data.
+Now, let's get familiar with the powerful feature of **nondestructive editing layers** in Photoshop. We will composite images with text layers, shape layers, layer effects, adjustment layers, smart filter layers, smart objects, and the blending mode to make changes to an image without overwriting its original image data.
 
 ![Different Types of Photoshop Layers](./different-types-of-layers.png)
 
