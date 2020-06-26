@@ -46,8 +46,8 @@
 - Go over TO-DOs section
 
 ```
-- Hybrid: Next week learning module notes and videos
 - Hybrid Exercise: 1. Nike logo (3%)
+- Hybrid: Next week learning module notes and videos
 ```
 
 
@@ -85,8 +85,8 @@
 
 ```
 - Hybrid Exercise: 3. Character vectorization (3%)
-- Hybrid: Next week learning module videos
 - Assignment 01: Avatar icon for Apple (15%, peer reviews in week 6)
+- Hybrid: Next week learning module videos
 ```
 
 #### Reference
@@ -264,14 +264,14 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 ```
 
 
-#### tip
-
+``` tip
 A good in-class exercise 
 - https://codepen.io/nat-king/pen/bGGjgNe?editors=1100 
 - video: https://youtu.be/nor4VK9al4c
 
 A good svg example: attributes with CSS animation
 - https://codepen.io/team/css-tricks/pen/LGVryo
+```
 
 
 ## MODULE FOUR: User interface interaction design concepts – Putting it all together
