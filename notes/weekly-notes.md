@@ -292,7 +292,7 @@ A good svg example: SVG attributes with CSS animation
 
 ## MODULE FOUR: User interface interaction design concepts – Putting it all together
 
-## Week 11 - Introduction to Adobe XD 
+## Week 12 - Introduction to Adobe XD 
 
 - Q/A & Pop quiz questions
 - Discussion of Week 11 hybrid notes and videos 
@@ -320,7 +320,7 @@ A good svg example: SVG attributes with CSS animation
 ```
 
 
-## Week 12 - Mobile layout with Xd
+## Week 13 - Mobile layout with Xd
 
 - Q/A & Pop quiz questions
 - Discussion of Week 13 hybrid notes and videos 
