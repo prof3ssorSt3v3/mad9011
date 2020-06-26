@@ -101,7 +101,7 @@ Class structure (suggestion):
 
 ```
 - Hybrid Exercise: 3. Character vectorization (3%)
-- Assignment 01: Avatar icon for Apple (15%, peer reviews in week 6)
+- Assignment 01: Avatar icon for Apple (15%, peer reviews begin in week 6)
 - Hybrid: Next week learning module notes and videos
 ```
 
@@ -134,7 +134,7 @@ Class structure (suggestion):
 ```
 - In-class Exercise: 4. Typography (3%)
 - Hybrid: Online Quiz 1 (10%)
-- Hybrid: Next week learning module notes and videos
+- Hybrid: Next week learning module notes and videos (Photoshop)
 - Upcoming due dates
   - Week 04 Hybrid
   - Assignment 01 (Requirements) 
@@ -200,15 +200,15 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 ```
 - Hybrid Exercise: 6. Compositing an image (3%)
-- Hybrid: Next week learning module notes and videos
+- Hybrid: Next week learning module notes and videos 
 - Assignment 02: Employee profile page (10%)
 ```
 
 
-**READING WEEK HERE**
+## Week 8 - READING WEEK HERE
 
 
-## Week 8 - Photo retouching and image optimization (Photoshop)
+## Week 9 - Photo retouching and image optimization (Photoshop)
 
 - Q/A & Pop quiz questions
 - Discussion of Week 8 hybrid notes and videos 
@@ -227,14 +227,14 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 ```
 - In-class Exercise: 7. Clean me up (3%)
-- Hybrid: Next week learning module *notes* and videos
+- Hybrid: Next week learning module *notes* and videos (SVG)
 - Due: Peer Reviews for Assignment 01
 ```
 
 
 ## MODULE THREE: Scalable vector-based graphics and SVG mockups
 
-## Week 9 - Introduction to Scalable Vector Graphics (SVG) 
+## Week 10 - Introduction to Scalable Vector Graphics (SVG) 
 
 - Q/A & Pop quiz questions
 - Discussion of Week 9 hybrid notes and videos 
@@ -259,7 +259,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 ```
 
 
-## Week 10 - SVG Animation
+## Week 11 - SVG Animation
 
 - Q/A & Pop quiz questions
 - Discussion of Week 10 hybrid notes and videos 
@@ -276,7 +276,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 
 ```
 - Hybrid Adobe Xd Exercise (not marked)
-- Hybrid: Next week learning module notes and videos 
+- Hybrid: Next week learning module notes and videos (Adobe XD)
 ```
 
 
@@ -319,34 +319,8 @@ A good svg example: SVG attributes with CSS animation
 - Due: 8. Coding an SVG
 ```
 
+
 ## Week 12 - Mobile layout with Xd
-
-- Q/A & Pop quiz questions
-- Discussion of Week 12 hybrid notes and videos 
-- Recap of Week 12 notes and videos
-  - Rapid prototyping tool: 
-    - What is Adobe XD (Xd)
-    - XD Workspace
-      - Work with drawing & text tools
-  - Xd Workflow
-    - Design
-    - Prototype
-    - Share
-  - Collaboration features in Adobe XD
-    - Using Xd Cloud documents
-    - Coediting & Document history
-      - Managing fonts
-  - Built-in Xd tutorial
-- Go over TO-DOs section
-
-
-```
-- In-class Exercise: 9. Mobile layout in Xd (3%)
-- Hybrid: Next week learning module notes and videos
-```
-
-
-## Week 13 - Xd Advanced features
 
 - Q/A & Pop quiz questions
 - Discussion of Week 13 hybrid notes and videos 
@@ -363,11 +337,12 @@ A good svg example: SVG attributes with CSS animation
 - Go over TO-DOs section
 
 ```
-- Hybrid: Final Project individual review
+- In-class Exercise: 9. Mobile layout in Xd (3%)
+- Hybrid: Next week learning module notes and videos
 ```
 
 
-## Week 14
+## Week 14 - Advanced prototype features: Putting it all together
 
 - Q/A & Pop quiz questions
 - Advanced Xd Techniques
