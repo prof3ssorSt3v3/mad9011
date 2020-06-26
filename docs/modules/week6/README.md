@@ -9,6 +9,8 @@ Welcome to Adobe Photoshop, we will use Ps to create **raster-based** (bitmap) g
 
 ## Common features & tools
 
+### OPEN, CREATE, SAVE
+
  We will learn the how's and why's of setting up documents to open or create a new document, save a document, navigate the work area, zoom in/out, and undo mistakes. Take a look at this series of short tutorials to [**Get to know Photoshop.** (5 videos)](https://helpx.adobe.com/photoshop/how-to/ps-basics-fundamentals.html)
 
 - Open images
