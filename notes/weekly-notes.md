@@ -7,8 +7,8 @@ Recommended class structure:
 - 5 minutes: Discuss last week's Hybrid Exercise
 - 10 minutes Discuss this week's hybrid notes/video
 - 5-10 minutes: This week's TODOs
-- 20-40 minutes hands-on guided practice (tie-in to this week's Hybrid Exercise) 
-- Worklab: Remaining class, help students start this week's Hybrid Exercise 
+- 20-40 minutes hands-on guided practice (tie in to this week's hybrid notes/videos)
+- Worklab: Remaining class, help students start with their Hybrid Exercise/assignment 
 
 * 1 hour online: Office hour + Q/A + Instructor assignment support
 ```
