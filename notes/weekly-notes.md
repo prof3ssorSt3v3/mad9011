@@ -29,7 +29,7 @@ Recommended class structure:
       - `Coruse Schedule` left nav: `Full Schedule` tab to see **due dates**
         - Hybrid Exercises due on Sundays, in-class exercises due at the end of class
     - `Grades` tab
-    - Top-right **nav icons**: Email, Notification, Profile 
+    - Top-right **nav icons**: `Email`, `Notification`, `Profile` 
   - Course website: Course content
     - Top nav pages: `home`, `overview`, `deliverables`, `resources` (top nav, go through each of them) 
     - Left-side nav pages: `Content Modules` & `Deliverables` (Week 1-5 available, go through week 1 & 2)
