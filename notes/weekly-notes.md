@@ -385,6 +385,6 @@ A good svg example: SVG attributes with CSS animation
 - Q/A & Pop quiz questions if necessary
 
 ```
-- Work on Final Project
-- Review student's work progress
+- Due: Final Project
+- Review student's work 
 ```
