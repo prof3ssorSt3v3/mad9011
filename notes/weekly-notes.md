@@ -33,10 +33,6 @@
 - Hybrid: Next week learning module notes and videos 
 ```
 
-```
-Noet: Hybrid assignments are in theory Pass/Fail marked in points but the instructors do take points off for poor work. We generally follow the category of Incomplete [0-1] | partially complete [1-2] | complete [2-3] marking scheme.
-```
-
 ## Week 2 - Meeting Adobe Illustrator
 
 - Q/A & pop quiz questions
