@@ -32,7 +32,8 @@ Recommended class structure:
     - Top-right **nav icons**: `Email`, `Notification`, `Profile` 
   - Course website: Course content
     - Top nav pages: `home`, `overview`, `deliverables`, `resources` (top nav, go through each of them) 
-    - Left-side nav pages: `Content Modules` & `Deliverables` (Week 1-5 available, go through week 1 & 2)
+    - Left-side nav pages: `Content Modules` & `Deliverables` 
+    - Week 1-5 content available: Quickly walk through week 1 & 2
 - Course Policy & Resources (recap from the `Overview` page & Plagiarism Declaration)
 - Weekly routine: Complete learning modules notes/videos before coming to class each week.  
   - Bring questions to class or ask online
@@ -126,7 +127,7 @@ Recommended class structure:
   - Blend tool
   - Exporting options
   - Image composition
-- Course website (Week 6-9 available)
+- Course website: Week 6-9 content available
 - Go over TO-DOs section
 
 
@@ -220,7 +221,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
   - Photoshop Export As feature 
     - Export as
     - Save for Web (legacy)
-- Course website (Week 10-15 available)
+- Course website: Week 10-15 content available
 - Go over TO-DOs section
 
 
