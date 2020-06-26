@@ -191,7 +191,9 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 - Q/A & Pop quiz questions
 - Discussion of Week 7 hybrid notes and videos 
 - Recap of Week 7 notes and videos
-  - Non-destructive editing layers
+  - Make me look good 
+    - Layout & Composition 
+    - Non-destructive editing layers
   - Non-destructive image editing
     - Text and Shape layers
     - Layer Styles (fx layers)
