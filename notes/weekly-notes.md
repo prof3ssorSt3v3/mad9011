@@ -88,7 +88,7 @@ Class structure (suggestion):
 ```
 - Hybrid Exercise: 2. Design a Button (3%)
 - Hybrid: Next week learning module notes & videos
-- Pertinent Discussion (3%)
+- Pertinent Discussion (3% due in week 10)
 ```
 
 
@@ -211,6 +211,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 - Hybrid Exercise: 6. Compositing an image (3%)
 - Hybrid: Next week learning module notes and videos 
 - Assignment 02: Employee profile page (10%)
+- Due: Peer Reviews for Assignment 01 (Nov 01)
 ```
 
 
@@ -237,7 +238,7 @@ Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
 ```
 - In-class Exercise: 7. Clean me up (3%)
 - Hybrid: Next week learning module *notes* and videos (SVG)
-- Due: Peer Reviews for Assignment 01
+- Due: Pertinent discussion (Nov 08)
 ```
 
 
