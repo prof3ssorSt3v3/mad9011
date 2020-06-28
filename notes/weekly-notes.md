@@ -6,7 +6,7 @@ Class structure (suggestion):
 - 10-15 minutes: Q/A + Popup quiz questions
 - 5 minutes: Discuss last week's Hybrid Exercise
 - 10 minutes Discuss this week's hybrid notes/video
-- 30-40+ minutes: Hands-on guided practice (tie in to this week's hybrid notes/videos)
+- 30-40+ minutes: Hands-on guided practice (tie in to this week's hybrid notes/videos/exercise)
 - 5-10 minutes: This week's TODOs
 - 5-10 minutes: Help students start with their Hybrid Exercise/assignment 
 
@@ -343,9 +343,10 @@ A good svg example: SVG attributes with CSS animation
     - XD interactions 
   - Xd Resources
     - Xd UI kits 
+    - **iOS & Android UI Kits**
     - Xd Plugin Manager  
   - Layout Best Practices
-    - iOS & Android UI Kits
+  
 - Go over TO-DOs section
 
 ```
