@@ -345,13 +345,12 @@ A good svg example: SVG attributes with CSS animation
     - Xd UI kits 
     - **iOS & Android UI Kits**
     - Xd Plugin Manager  
-  - Layout Best Practices
-  
+  - Layout Best Practices 
 - Go over TO-DOs section
 
 ```
 - In-class Exercise: 9. Mobile layout in Xd (3%)
-- Hybrid: Next week learning module notes and videos
+- Hybrid: Next week learning module notes and videos (reference material)
 ```
 
 
