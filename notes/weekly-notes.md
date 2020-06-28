@@ -357,8 +357,10 @@ A good svg example: SVG attributes with CSS animation
 ## Week 14 - Putting it all together (Advanced XD prototype features)
 
 - Q/A & Pop quiz questions
+- Discussion of 2 assigned videos and the rest of the notes
 - Advanced Xd Techniques
-- What’s New in Adobe XD
+- What’s New in Adobe XD 
+  - Go over the latest "What's New in Adobe XD" (Sc will update the list monthly up to November, 2020)
 - Additional References
 - Go over TO-DOs section
 
