@@ -359,8 +359,9 @@ A good svg example: SVG attributes with CSS animation
 - Q/A & Pop quiz questions
 - Discussion of 2 assigned videos and the rest of the notes
 - Advanced Xd Techniques
+  - Another example video: https://youtu.be/ZyoFDy2eWqc?t=484
 - What’s New in Adobe XD 
-  - Go over the latest "What's New in Adobe XD" (Sc will update the list monthly up to November, 2020)
+  - Go over the latest "What's New in Adobe XD" video (Sc will update the list monthly up to November, 2020)
 - Additional References
 - Go over TO-DOs section
 
