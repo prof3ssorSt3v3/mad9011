@@ -1,6 +1,6 @@
 # Week 14 - Putting it all together
 
-Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have learned to use the common Xd features in the past two weeks. In our final lesson, we will go over some reference matetial to understand the advanced features and wrap up the course with a list of *What's New in Adobe XD* videos and articles. 
+Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have learned to use the common Xd features in the past two weeks. In our final lesson, we will go over some reference matetial to understand the advanced features and wrap up the course with a list of *What's New in Adobe XD* videos and articles.
 
 
 ## Advanced Xd Techniques
@@ -48,6 +48,7 @@ Reference: [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-n
   url="https://www.youtube.com/embed/e6R9QiyB3YQ"
 />
 
+
 - Video - [New Adobe XD Update | June 2020](https://youtu.be/e6R9QiyB3YQ)
     - Blog -  [June 2020 Release of Adobe XD](https://theblog.adobe.com/xd-june-2020-scroll-groups-stacks-more): Design Tokens, Stacks, Scroll Groups, and More
 - Video - [New Adobe XD Update | May 2020](https://youtu.be/g1ZfTi3-ypE)
@@ -80,5 +81,5 @@ Reference: [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-n
 ::: tip TODO Before next week
 
 - Finish reading the notes and watch the videos of your interest for week 14.
-- Hybrid: Work on your final project [Mobile UI Visual Prototype](../assignments/proj.md) and show your work progress to the instructor.
+- Hybrid: Work on your final project **Mobile UI Visual Prototype** and show your work progress to the instructor.
   :::
