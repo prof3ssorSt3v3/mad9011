@@ -350,7 +350,7 @@ A good svg example: SVG attributes with CSS animation
 
 ```
 - In-class Exercise: 9. Mobile layout in Xd (3%)
-- Hybrid: Next week learning module notes and videos (reference material)
+- Hybrid: Next week learning module notes and videos (must watch the 2 embeded videos)
 ```
 
 
