@@ -104,7 +104,7 @@ Worth <Badge type="error" text="25%"/> of Final Grade
 
 Thre are two main assignments for you to complete. Together they are worth 25% of your final grade.
 
-[BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/quizzing/admin/quizzes_manage.d2l?ou=282592)
+[BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/admin/folders_manage.d2l?ou=282592)
 
 [BS LMS MAD9011_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/admin/folders_manage.d2l?ou=187946)
 
@@ -129,7 +129,7 @@ Worth <Badge type="error" text="20%"/> of Final Grade
 
 Put all acquired skills to test to create an Android app launching experiece. This project is worth 20% of your final grade. 
 
-[BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/quizzing/admin/quizzes_manage.d2l?ou=282592)
+[BS LMS MAD9011_300 Group 1 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/admin/folders_manage.d2l?ou=282592)
 
 [BS LMS MAD9011_310 Group 2 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/admin/folders_manage.d2l?ou=187946)
 
