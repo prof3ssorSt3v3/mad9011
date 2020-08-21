@@ -7,8 +7,8 @@ Students are introduced to mobile design fundamentals and graphical user interfa
 
 ## Course Description
 
-- [Course Outline](./2020-2021_mad9011.pdf)
-- [Course Section Information (CSI)](./2020-2021_CSI_mad9011.pdf)
+- [Course Outline](https://ecoursemap.com/Outline?coursecode=MAD9011&courseversion=&academicyearid=107)
+- [Course Section Information (CSI)](https://brightspace.algonquincollege.com/d2l/le/content/282592/Home)
 
 ## Student Workload Expectations
 
@@ -20,7 +20,7 @@ Students are introduced to mobile design fundamentals and graphical user interfa
 
 ## Schedule
 
-Room T127
+Zoom Calssroom
 
 **Section 010:** 
 
