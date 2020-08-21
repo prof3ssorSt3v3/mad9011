@@ -12,11 +12,11 @@
 />
 
 <ContactCard 
-  name="firstName lastName"
-  title="instructor"
+  name="Adam Robillard"
+  title="Instructor"
   bio="Instructor of the Mobile Application Design & Development Program at Algonquin College."
   :details="[
-      { label: 'email', value: 'lees1@algonquincollege.com' }, 
+      { label: 'email', value: 'robilla@algonquincollege.com' }, 
       { label: 'office', value: 'office info' }
     ]"
 />
