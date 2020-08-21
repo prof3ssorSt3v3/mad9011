@@ -21,12 +21,12 @@ Class structure (suggestion):
   - Brightspace: Inter-communication within the course; attendance; assignment submissions; grading (& rubric); and, for online discussions 
     - Home page (announcement) 
     - `Activities` tab  
-      - Assignments (submission folders & Rubrics for hybrib exercises, assignments, final project) 
+      - Assignments (submission folders & Rubrics for hybrid exercises, assignments, final project) 
       - Discussions 
       - Quizzes
     - `Content` tab 
       - `Overview` left-nav: link to course website 
-      - `Coruse Schedule` left nav: `Full Schedule` tab to see **due dates**
+      - `Course Schedule` left nav: `Full Schedule` tab to see **due dates**
         - Hybrid Exercises due on Sundays, in-class exercises due at the end of class
     - `Grades` tab
     - Top-right **nav icons**: `Email`, `Notification`, `Profile` 
@@ -185,7 +185,7 @@ Class structure (suggestion):
 5. What's not covered: Perspective Crop, Slice, Frame tools
 
 Multiple access to content aware fill: 
-Edit > Content-Aware Fill... // Edit > Fill > Content-Awre // Spot Healing brush
+Edit > Content-Aware Fill... // Edit > Fill > Content-Aware // Spot Healing brush
 ```
 
 
@@ -350,7 +350,7 @@ A good svg example: SVG attributes with CSS animation
 
 ```
 - In-class Exercise: 9. Mobile layout in Xd (3%)
-- Hybrid: Next week learning module notes and videos (must watch the 2 embeded videos)
+- Hybrid: Next week learning module notes and videos (must watch the 2 embedded videos)
 ```
 
 
