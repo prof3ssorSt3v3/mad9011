@@ -106,7 +106,7 @@ This course complies with the college directives. Please complete this [**Plagia
 />
 
 <ContactCard 
-  name="fistName lastName"
+  name="Adam Robillard"
   title="Instructor"
   bio="Instructor of the Mobile Application Design & Development Program at Algonquin College."
   :details="[
