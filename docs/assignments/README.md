@@ -80,7 +80,7 @@ Every week there will be exercises for you to complete inside or outside of clas
 - Online Discussions (3%): 
     - [BS LMS MAD9011_300 Group 1 Discussions page](https://brightspace.algonquincollege.com/d2l/le/282592/discussions/List)
 
-    - [BS LMS MAD9011_310 Group 2 Discussions page](https://brightspace.algonquincollege.com/d2l/le/187946/discussions/List)
+    - [BS LMS MAD9011_310 Group 2 Discussions page](https://brightspace.algonquincollege.com/d2l/le/282593/discussions/List)
 
 - In-class Dicussions (pop-quiz 5%): 
 
