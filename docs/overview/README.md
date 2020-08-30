@@ -22,12 +22,12 @@ Students are introduced to mobile design fundamentals and graphical user interfa
 
 Zoom Calssroom
 
-**Section 010:** 
+**Section 300:** 
 
 - Thursday 10am - 12pm
 - one hour online
 
-**Section 020:**
+**Section 310:**
 
 - Wednesday 8am - 10am
 - one hour online
