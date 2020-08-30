@@ -2,7 +2,7 @@
 
 ::: danger Final Project Due
 
-- Last day to sumbit any work: December ___, 2020
+- Last day to sumbit any work: December 16/17, 2020
 - Ensure you follow the assignment outlines to fulfill the project requirements.
 - Happy prototyping! 
 
