@@ -108,6 +108,7 @@ This course complies with the college directives. **Please complete this Plagiar
 <ContactCard 
   name="Adam Robillard"
   title="Instructor"
+  img-url="/F2020/AdamRobillard.jpg"
   bio="Instructor of the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'robilla@algonquincollege.com' }, 
