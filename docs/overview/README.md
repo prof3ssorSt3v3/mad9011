@@ -8,7 +8,7 @@ Students are introduced to mobile design fundamentals and graphical user interfa
 ## Course Description
 
 - [Course Outline](https://ecoursemap.com/Outline?coursecode=MAD9011&courseversion=&academicyearid=107)
-- Course Section Information (CSI): [Section 300](https://brightspace.algonquincollege.com/d2l/le/content/282592/Home), [Section 310](https://brightspace.algonquincollege.com/d2l/le/content/282593/Home)
+- Course Section Information (CSI) on Brightspace LMS: [Section 300](https://brightspace.algonquincollege.com/d2l/le/content/282592/Home), [Section 310](https://brightspace.algonquincollege.com/d2l/le/content/282593/Home)
 
 ## Student Workload Expectations
 
