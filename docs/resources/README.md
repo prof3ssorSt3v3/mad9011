@@ -79,7 +79,7 @@ Links to Adobe software:
 
 - Platform Specific Design Resources
     - [Apple Design Resource (Kits) for Sketch, Adobe XD and Photoshop](https://developer.apple.com/design/resources/)
-    - [Android Material Design Kit for Sketch, Adobe XD, and Figma](https://materialdesignkit.com/android-gui/)
+    - [Android Material Design Kit for Sketch, Adobe XD, and Figma](https://material.io/resources)
     - [MAC System Fonts](https://developer.apple.com/fonts/)
     - [Material Design Fonts: Roboto, the default system font for Android](https://material.io/design/typography/understanding-typography.html#system-fonts)
 
