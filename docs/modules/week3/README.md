@@ -56,9 +56,9 @@ Adobe Illustrator has many shortcuts and ways to get to the same place. It is al
 
 ### GRADIENT TOOL     
 
-The gradient tool allows you to color any vector shape in illustrator with a set of colors while transitioning smoothly between them; this tool is used very frequently and you will use it to do some of your assignments.
+The gradient tool allows you to color any vector shape in illustrator with a set of colors while transitioning smoothly between them; this tool is used very frequently and you will use it to do some of your assignments. Let's follow this video to create, edit, and apply custom gradients.
 
-<a href="https://helpx.adobe.com/illustrator/how-to/gradient-tool.html" target=”_blank”>![Gradient Tool](./gradientTool.png)</a>
+<a href="https://helpx.adobe.com/illustrator/how-to/color-basics.html#create_color_gradients" target=”_blank”>![Gradient Tool](./customGradient.png)</a>
 
 
 ## Transform optoins: Rotate, reflect, and shear   
