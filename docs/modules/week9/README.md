@@ -39,10 +39,6 @@ Byron Heal covers dodge tool, burn tool, sponge tool, and two dodge/burn example
   url="https://www.youtube.com/embed/ShmOZGt1l04"
 />
 
-Let's combine your skills in this tutorial to remove objects with Content-Aware Fill.
-
-<a href="https://helpx.adobe.com/photoshop/how-to/content-aware-hide-objects.html" target="_blandk">![Content-aware technology for object removal](./contentAwareRemove.png)</a>
-
 
 ## Export as 
 
