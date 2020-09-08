@@ -54,7 +54,7 @@ Take a look at this short [**Artboard tutorial.** (3 videos)](https://helpx.adob
 Next, we practice using the drawing tools to [**create and edit shapes.** (4 videos)](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
 - Draw simple shapes
 - Create lines 
-- Combine shapes
+- Combine shapes with the Shape Builder tool
 - Trace to make shapes
 
 
