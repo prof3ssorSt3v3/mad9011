@@ -112,7 +112,7 @@ This course complies with the college directives. **Please complete this Plagiar
   bio="Instructor of the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'robilla@algonquincollege.com' }, 
-      { label: 'github', value: 'instructor' }, 
+      { label: 'github', value: 'arobillard' }, 
       { label: 'phone', value: '(613) 727-4723 x0' }, 
       { label: 'office', value: 'By appointment' }
     ]"
