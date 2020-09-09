@@ -114,7 +114,7 @@ This course complies with the college directives. **Please complete this Plagiar
       { label: 'email', value: 'robilla@algonquincollege.com' }, 
       { label: 'github', value: 'instructor' }, 
       { label: 'phone', value: '(613) 727-4723 x0' }, 
-      { label: 'office', value: 'Zoom Meeting ID:' }
+      { label: 'office', value: 'By appointment' }
     ]"
 />
 
