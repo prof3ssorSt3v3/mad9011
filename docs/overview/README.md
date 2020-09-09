@@ -100,7 +100,7 @@ This course complies with the college directives. **Please complete this Plagiar
   :details="[
       { label: 'email', value: 'lees1@algonquincollege.com' }, 
       { label: 'github', value: 'lees1' },  
-      { label: 'office', value: 'Zoom Meeting ID:713 343 1761' },
+      { label: 'office', value: 'Zoom - by appointment' },
       { label: 'twitter', value: '@UXResearchLab' },
     ]"
 />
