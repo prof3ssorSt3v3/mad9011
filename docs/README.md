@@ -12,7 +12,7 @@ features:
     details: Create scalable SVG graphics and markups. Design mobile user interface with Adobe XD. Create interactive visual mockups with all tools learned. 
 footer: Authored by SuCheng Lee ~ Copyright © 2020, Algonquin College of Applied Arts and Technology
 ---
-
+<!--
 <ContactCard 
   name="SuCheng Lee"
   img-url="/F2020/slee_h.png"
@@ -23,4 +23,5 @@ footer: Authored by SuCheng Lee ~ Copyright © 2020, Algonquin College of Applie
       { label: 'github', value: 'lees1' }, 
       { label: 'office', value: 'Zoom - by appt' }
     ]"
-/>
+/> 
+-->
