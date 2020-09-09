@@ -82,7 +82,7 @@ In-class work progress review is part of the performance assessment. A student 
 
 ### Discussions
 
-Under the Discussion section, you will already find some started, remember the conversation history exists as long as the course exists. Discussions will be moderated by your instructor for coherence. Please participate, ask questions, respond to some, also attach some of your better design for peer viewing and thoughts. Participation counts for 13% of the total for the course so please join in.
+Under the Discussion section, you will already find some started, remember the conversation history exists as long as the course exists. Discussions will be moderated by your instructor for coherence. Please participate, ask questions, respond to some, also attach some of your better design for peer viewing and thoughts. Participation counts for 8% of the total for the course so please join in.
 
 ### Copyright
 
