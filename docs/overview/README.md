@@ -61,7 +61,7 @@ Zoom Calssroom
 - Adobe Illustrator (Ai)
 - Layout concepts and raster-based graphics
 - Adobe Photoshop (Ps)
-- Scalable Vector Graphics (SVG) and SVG mockups 
+- Scalable Vector Graphics (SVG) and SVG markups 
 - User interface interaction design concepts – Putting it all together
 - Adobe XD (Xd)
 
