@@ -19,7 +19,7 @@ module.exports = {
   },
   themeConfig: {
     lastUpdated: 'Last Updated',
-    displayAllHeaders: true,
+    //displayAllHeaders: true,
     nextLinks: true,
     prevLinks: true,
     serviceWorker: {
