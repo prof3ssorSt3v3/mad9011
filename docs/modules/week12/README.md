@@ -152,7 +152,7 @@ Now, let's review what we have learned so far by completing this Xd built-in tut
 ::: tip TODO Before next week
 
 - If you have not read all these notes and watched the videos from this week, do that first.
-- Finish reading the notes for week 12 and watch all the videos in the notes for week 13.
+- Read the notes and watch all the videos for Week 13.
 - [In-class Xd Exercise:](https://www.youtube.com/playlist?list=PLHjwuoik-ep1zZ_xheCvRL8KluMJMjYsV) Adding Interaction to UI layout 
 - Final Project: Mobile UI Visual Prototype  
 - Hybrid 8 - Coding an SVG Due

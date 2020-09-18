@@ -3,6 +3,6 @@
 
 ::: tip TODO: Catch up Week
 
-- If you have not read all these notes and watched the videos from this week, do that first.
-- Finish reading the notes for week 7 and watch all the videos in the notes for week 9.
+- If you have not read all these notes and watched the videos from the previous weeks, do that first.
+- Read the notes and watch all the videos for Week 9.
   :::
