@@ -90,7 +90,7 @@ The `Spot Healing Brush` and `Clone Stamp` tools are also content-aware fill too
 ::: tip TODO Before next week
 
 - If you have not read all these notes and watched the videos from this week, do that first.
-- Finish reading the notes for week 6 and watch all the videos and the notes for week 7.
+- Read the notes and watch all the videos for Week 7.
 - Hybrid 5 - In-class: Cut a silhouette
 - Assignment 1 Due 
   :::

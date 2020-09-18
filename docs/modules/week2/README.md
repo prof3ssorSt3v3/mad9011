@@ -71,6 +71,6 @@ To make our designs more interesting and clear, we need to use colour. Take a lo
 ::: tip TODO Before next week
 
 - If you have not read all these notes and watched the videos from this week, do that first.
-- Watch all the videos and the notes for Week 3.
+- Read the notes and watch all the videos for Week 3.
 - Hybrid 1 - Nike recreation
   :::
