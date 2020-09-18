@@ -64,7 +64,7 @@ Finally, let's take a look at the clipping mask tool. This tool allows us to app
 ::: tip TODO Before next week
 
 - If you have not read all these notes and watched the videos from this week, do that first.
-- Finish reading the notes for week 4 and watch all the videos in the notes for week 5.
+- Finish reading the notes for week 4 and watch all the videos and the notes for week 5.
 - Hybrid 3 - Character vectorization
 - Assignment 01 - Avatar icon for Apple (including peer review)
   :::
