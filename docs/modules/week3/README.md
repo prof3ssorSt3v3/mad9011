@@ -55,7 +55,9 @@ Adobe Illustrator works with vectors, we learned that last week, but we can impo
 
 Adobe Illustrator has many shortcuts and ways to get to the same place. It is always useful to keep it in your notes for later. In the following video, you will learn how to recolor artwork and how to access this tool from more than one place in your workspace. This workflow will help a lot and is a fun way to achieve different results with only a few clicks.
 
-<a href="https://www.linkedin.com/learning/illustrator-coloring-artwork-2/tour-of-recolor-artwork" target=”_blank”>![Recolor Artwork](./recolorArtwork.png)</a>
+
+
+<a href="https://helpx.adobe.com/illustrator/how-to/color-basics.html#recolor_artwork" target=”_blank”>![Recolor Artwork](./recolorArtwork.png)</a>
 
 ### GRADIENT TOOL     
 
