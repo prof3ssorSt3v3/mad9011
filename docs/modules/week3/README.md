@@ -44,20 +44,20 @@ Take a look at this tutorial from lynda.com (Linkedin Learning) on color swatche
 
 ### TRACING IMAGES 
 
-Adobe Illustrator works with vectors, we learned that last week, but we can import an image to illustrator and make it a vector object (or a collection of objects), take a look at this tutorial and see how it works. 
+Adobe Illustrator works with vectors, we learned that last week, but we can import an image to illustrator and make it a vector object (or a collection of objects), take a look at this tutorial and see how to set options and preferences to optimise your conversion from raster to vector. (Created by Solopress.com)
 
 <YouTube
   title="Beginning Graphic Design: Color"
   url="https://www.youtube.com/embed/Qgsm-Hx-lTE"
 />
 
+
 ### RECOLORING ARTWORK 
 
 Adobe Illustrator has many shortcuts and ways to get to the same place. It is always useful to keep it in your notes for later. In the following video, you will learn how to recolor artwork and how to access this tool from more than one place in your workspace. This workflow will help a lot and is a fun way to achieve different results with only a few clicks.
 
-
-
 <a href="https://helpx.adobe.com/illustrator/how-to/color-basics.html#recolor_artwork" target=”_blank”>![Recolor Artwork](./recolorArtwork.png)</a>
+
 
 ### GRADIENT TOOL     
 
