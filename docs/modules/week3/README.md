@@ -48,7 +48,7 @@ Adobe Illustrator works with vectors, we learned that last week, but we can impo
 
 <YouTube
   title="Beginning Graphic Design: Color"
-  url="https://youtu.be/Qgsm-Hx-lTE"
+  url="https://www.youtube.com/embed/Qgsm-Hx-lTE"
 />
 
 ### RECOLORING ARTWORK 
