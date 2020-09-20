@@ -44,9 +44,12 @@ Take a look at this tutorial from lynda.com (Linkedin Learning) on color swatche
 
 ### TRACING IMAGES 
 
-Adobe Illustrator works with vectors, we learned that last week, but we can import an image to illustrator and make it a vector object (or a collection of objects), take a look at this tutorial and see how it works. Make sure to sign in to your [**LinkedIn Learning**](https://www.linkedin.com/learning) account before clicking the video. If you are having difficulties getting into your LinkedIn learning account, take a look at this page from the school.
+Adobe Illustrator works with vectors, we learned that last week, but we can import an image to illustrator and make it a vector object (or a collection of objects), take a look at this tutorial and see how it works. 
 
-<a href="https://www.linkedin.com/learning/cert-prep-adobe-certified-associate-illustrator-2/using-image-trace" target=”_blank”>![Tracing Images](./imageTrace.png)</a>
+<YouTube
+  title="Beginning Graphic Design: Color"
+  url="https://youtu.be/Qgsm-Hx-lTE"
+/>
 
 ### RECOLORING ARTWORK 
 
