@@ -48,11 +48,14 @@ To access `Perspective Grid` Tool and `Perspective Selection` Tool in the Advanc
 
 ### FLARE TOOL
 
-The flare tool is an effect you can add to your design and manipulate to mimic the effect of light.
+The flare tool is an effect you can add to your design and manipulate to mimic the effect of light. The video below created by *Jeremy Mura* shows us how it works and how we can quickly modify the colours.  
 
 You can find the `Flare tool` in the `Shape tools` group in the **Advanced toolbar.** 
 
-<a href="https://www.linkedin.com/learning/illustrator-cc-2013-one-on-one-fundamentals/using-the-flare-tool" target=”_blank”>![How to use Flare tool](./flareTool.png)</a>
+<YouTube
+  title="Beginning Graphic Design: Color"
+  url="https://www.youtube.com/embed/gIck9RHQshk"
+/>
 
 
 ### EXPORTING OPTIONS
