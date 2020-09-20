@@ -40,7 +40,10 @@ The perspective grid tool allows you to easily create three-dimensional designs 
 
 To access `Perspective Grid` Tool and `Perspective Selection` Tool in the Advanced toolbar, read [helpx.adobe.com/illustrator/using/tools.html](https://helpx.adobe.com/illustrator/using/tools.html)
 
-<a href="https://www.linkedin.com/learning/drawing-simplified-maps-in-illustrator/perspective-grid" target=”_blank”>![Perspective Grid tools](./perspectiveGrid.png)</a>
+<YouTube
+  title="Beginning Graphic Design: Color"
+  url="https://www.youtube.com/embed/Uzig2s7pNss"
+/>
 
 
 ### FLARE TOOL
