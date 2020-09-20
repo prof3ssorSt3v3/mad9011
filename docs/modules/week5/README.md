@@ -36,7 +36,7 @@ The effects menu has a set of really interesting options that can make your desi
 
 ### PERSPECTIVE GRID
 
-The perspective grid tool allows you to easily create three-dimensional designs starting from two-dimensional shapes and in only a couple of steps. 
+The perspective grid tool allows you to easily create three-dimensional designs starting from two-dimensional shapes and in only a couple of steps. Let's follow this *Satori Graphics* video tutorial to try it out.  
 
 To access `Perspective Grid` Tool and `Perspective Selection` Tool in the Advanced toolbar, read [helpx.adobe.com/illustrator/using/tools.html](https://helpx.adobe.com/illustrator/using/tools.html)
 
