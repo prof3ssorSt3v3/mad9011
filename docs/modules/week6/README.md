@@ -78,11 +78,14 @@ Content-Aware Fill makes removing unwanted objects or distracting elements from 
 <a href="https://helpx.adobe.com/photoshop/how-to/content-aware-hide-objects.html" target=”_blank”>![Content-aware Fill Tutorial](./content-aware-fill.png)</a>
 
 
-### CLONE STAMP TOOL 
+### CONTENT AWARE FILL TOOLS 
 
-The `Spot Healing Brush` and `Clone Stamp` tools are also content-aware fill tools. We use Spot Healing Brush to retouch unwanted dust spots, blemishes, scratches, stray hairs and other small image imperfections. In this short video (login required), it introduces the both tools to us. We will go over all other content-aware tools later when going over photo retouching lesson. 
+The `Clone Stamp`, `Spot Healing Brush` and `Patch` tools are also content-aware fill tools. We use Spot Healing Brush to retouch unwanted dust spots, blemishes, scratches, stray hairs and other small image imperfections. In this short video, it introduces the all these tools to us. We will go over all other content-aware tools later when going over photo retouching lesson. (Created by *Lorelei Lacey*)
 
-<a href="https://www.linkedin.com/learning/photoshop-cc-2019-essential-training-the-basics/using-the-clone-stamp-tool" target=”_blank”>![Using the Clone Stamp Tool](./clone-stamp-tool.png)</a>
+<YouTube
+  title="Object Selection Tool"
+  url="https://www.youtube.com/embed/aC3eyz7evBo"
+/>
 
 
 ## TODO
