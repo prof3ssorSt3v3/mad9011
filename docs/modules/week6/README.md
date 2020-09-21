@@ -87,7 +87,7 @@ The `Clone Stamp`, `Healing Brush` and `Patch` tools are also content-aware fill
   url="https://www.youtube.com/embed/aC3eyz7evBo"
 />
 
-The Adobe tutorials listed below will renforce your knowledge of those tools.  
+The Adobe tutorials listed below will reinforce your knowledge of those tools.  
 - Remove objects with the <a href="https://helpx.adobe.com/photoshop/how-to/clone-stamp-remove-object.html" target=”_blank”>Clone Stamp tool</a> 
 - Retouch photos with the <a href="https://helpx.adobe.com/photoshop/how-to/healing-brush-hide-content.html" target=”_blank”>Healing Brush tool</a>
 - Hide unwanted content with the <a href="https://helpx.adobe.com/photoshop/how-to/patch-tool-replace-content.html" target=”_blank”>Patch Tool</a>
