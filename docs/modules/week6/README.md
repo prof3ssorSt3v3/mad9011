@@ -83,7 +83,7 @@ Content-Aware Fill makes removing unwanted objects or distracting elements from 
 The `Clone Stamp`, `Healing Brush` and `Patch` tools are also content-aware fill tools. We use Spot Healing Brush to retouch unwanted dust spots, blemishes, scratches, stray hairs and other small image imperfections. In this short video, it introduces these tools to us. We will go over all other content-aware tools later in the photo retouching lesson. 
 
 <YouTube
-  title="Object Selection Tool"
+  title="Photoshop- Clone Tool vs Healing Brush & Patch Tools"
   url="https://www.youtube.com/embed/aC3eyz7evBo"
 />
 

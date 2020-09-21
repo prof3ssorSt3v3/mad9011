@@ -44,10 +44,10 @@ Take a look at this tutorial from lynda.com (Linkedin Learning) on color swatche
 
 ### TRACING IMAGES 
 
-Adobe Illustrator works with vectors, we learned that last week, but we can import an image to illustrator and make it a vector object (or a collection of objects), take a look at this tutorial and see how to set options and preferences to optimise your conversion from raster to vector. (Created by Solopress.com)
+Adobe Illustrator works with vectors, we learned that last week, but we can import an image to illustrator and make it a vector object (or a collection of objects), take a look at this tutorial and see how to set options and preferences to optimise your conversion from raster to vector.
 
 <YouTube
-  title="Beginning Graphic Design: Color"
+  title="How to use Image Trace in Illustrator by Solopress.com"
   url="https://www.youtube.com/embed/Qgsm-Hx-lTE"
 />
 
