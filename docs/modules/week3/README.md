@@ -37,7 +37,7 @@ Let's continue working with colors in Adobe Illustrator, including how to create
 
 To learn how to change color, create swatches, recolor artwork, we will begin with this set of short video tutorials on [**Change color and strokes.** (5 videos)](https://helpx.adobe.com/illustrator/how-to/color-basics.html)
 
-- Change the color of artwork
+- Change the color of artwork (Week 2)
 - Create color swatches
 - Add dashed lines and arrows
 - Create color gradients
