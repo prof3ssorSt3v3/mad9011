@@ -10,9 +10,11 @@ Vectorize your favorite character in Adobe Illustrator.
 - When the work is completed, screen capture the work of your Ai workspace including the layer view and select the shapes in your version.
 - File naming example: *TomSmith-vectorization.png* [firstnameLastname-vectorization.png]
 
-Partially completed Character Vectorization Assignment Example
+Partially completed Character Vectorization Assignment Example: 
 
 <img src="../assets/3_character-vectorization-example.png" alt="Character Vectorization Assignment Example">
+
+[See an in-clas exercise result](https://drive.google.com/file/d/1eLbVOrUTxzpRPuPwh8J_uJVP2LEiMIg3/view?usp=sharing)
 
 ## Submission
 
