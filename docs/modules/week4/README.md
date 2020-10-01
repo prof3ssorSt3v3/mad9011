@@ -43,7 +43,7 @@ You will also see the properties panel in action and a few quick actions, such a
 
 ### BLEND TOOL 
 
-The Blend tool (W) creates a series of objects blended between the color and shape of multiple objects.
+The Blend tool (W) creates a series of objects blended between the color and shape of multiple objects. Let's follow this video to transform shapes and colors into beautiful objects.  
 
 <YouTube
   title="Blend Tool Features You Might Not Know!"
