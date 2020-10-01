@@ -54,7 +54,7 @@ Both tools can be used to achieve the same result using different methods, try t
 
 ## Clipping Mask
 
-Finally, let's take a look at the clipping mask tool. This tool allows us to apply a pattern or style to an object by having the object act as a cookie cutter and the patter as the cookie dough. 
+Finally, let's take a look at the clipping mask effect. Clipping masks are objects that mask other artwork so only areas within the shape are visible.
 
 <a href="https://helpx.adobe.com/ca/illustrator/how-to/illustrator-creating-basic-clipping-mask.html" target=”_blank”>![Create a basic clipping mask](./clippingmask.png)</a>
 
