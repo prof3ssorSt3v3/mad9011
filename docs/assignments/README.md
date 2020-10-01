@@ -77,7 +77,7 @@ Every week there will be exercises for you to complete inside or outside of clas
 ### Discussions
 <Badge text="Various due dates"/>
 
-- Online Discussions (3%): 
+- Online Discussions (3%) + Peer Review (2%): 
     - [BS LMS MAD9011_300 Group 1 Discussions page](https://brightspace.algonquincollege.com/d2l/le/282592/discussions/List)
 
     - [BS LMS MAD9011_310 Group 2 Discussions page](https://brightspace.algonquincollege.com/d2l/le/282593/discussions/List)
