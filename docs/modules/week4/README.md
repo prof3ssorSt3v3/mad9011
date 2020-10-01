@@ -54,7 +54,7 @@ Both tools can be used to achieve the same result using different methods, try t
 
 ## Clipping Mask
 
-Finally, let's take a look at the clipping mask effect. Clipping masks are objects that mask other artwork so only areas within the shape are visible. Challenge: Try to edit the clipping mask or image sets in Isolation mode. 
+Finally, let's take a look at the clipping mask effect. Clipping masks are objects that mask other artwork so only areas within the shape are visible. You can edit the clipping mask or image sets in Isolation mode, too. 
 
 <a href="https://helpx.adobe.com/ca/illustrator/how-to/illustrator-creating-basic-clipping-mask.html" target=”_blank”>![Create a basic clipping mask](./clippingmask.png)</a>
 
