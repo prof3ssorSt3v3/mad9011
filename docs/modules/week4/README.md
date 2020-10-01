@@ -41,6 +41,16 @@ You will also see the properties panel in action and a few quick actions, such a
 <a href="https://helpx.adobe.com/ca/illustrator/how-to/create-edit-artwork-with-paintbrush-pencil-tools.html" target=”_blank”>![Create artwork with the Paintbrush and Pencil tools](./paintbrush.png)</a>
 
 
+### Blend Tool
+
+The Blend tool (W) creates a series of objects blended between the color and shape of multiple objects.
+
+<YouTube
+  title="Blend Tool Features You Might Not Know!"
+  url="https://www.youtube.com/embed/c_ZA5FPxkAo"
+/>
+
+
 ### PATHFINDER AND BUILDER TOOLS 
 
 Some more complex geometric shapes are more easily created starting from the basic geometric shapes and breaking them and combining them.
