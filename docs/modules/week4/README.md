@@ -41,7 +41,7 @@ You will also see the properties panel in action and a few quick actions, such a
 <a href="https://helpx.adobe.com/ca/illustrator/how-to/create-edit-artwork-with-paintbrush-pencil-tools.html" target=”_blank”>![Create artwork with the Paintbrush and Pencil tools](./paintbrush.png)</a>
 
 
-### Blend Tool
+### BLEND TOOL 
 
 The Blend tool (W) creates a series of objects blended between the color and shape of multiple objects.
 
