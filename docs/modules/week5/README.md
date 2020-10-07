@@ -4,7 +4,7 @@
 
 In this module, you will be learning how to add text to your designs, apply `effects` to that text and other objects, use the `perspective grid` to give a three-dimensional effect to the artboard contents and use the `flare` tool to replicate the effect of light.
 
-Once your design is complete, you are going to need to `export` it to be able to use it for the online and print projects. Here you will learn how to export to different types of files.
+Once your design is complete, you are going to need to `export` it to be able to use it for the online or print projects. Here you will learn how to export to different types of files.
 
 **Let's get familiar with the BASIC OF TYPOGRAPHY.**
 <YouTube
