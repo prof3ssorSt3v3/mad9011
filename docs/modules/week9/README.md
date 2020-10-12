@@ -50,7 +50,7 @@ There are a few types of images that can be used on the web and mobile devices: 
 
 Let's follow along this video tutorial to pratice `Export As` feature in Photoshop. 
 
-<a href="https://helpx.adobe.com/photoshop/how-to/content-aware-hide-objects.html" target="_blandk">![Choosing an image format](./ps-export-as.png)</a>
+<a href="https://helpx.adobe.com/photoshop/how-to/export-image-web.html" target="_blank">![Choosing an image format](./ps-export-as.png)</a>
 
 ## Everything New in Adobe Photoshop CC 2020
 [*What's new in Photoshop*](https://helpx.adobe.com/photoshop/using/whats-new.html) has the most recent Photoshop information. Photoshop CC 2020 is a big update with a lot of exciting new features. Watch this video to review and learn new tools: `Object Selection` tool, enhanced `Warp Transformation`, improved `Properties panel`, `Lens Blur` effect, `Cloud Documents` 
