@@ -8,6 +8,7 @@ Composite(blend) your animal on a *UNIQUE* background in Adobe Photoshop.
 
 - All visual elements must have a common look and feel. 
 - When the work is completed, screen capture your artwork in Ps workspace including the layer view.
+- Organize and name your layers accordingly
 - Upload your screen capture file for submission.
 - File naming example: *TomSmith-composite.png* [firstnameLastname-composite.png]
 

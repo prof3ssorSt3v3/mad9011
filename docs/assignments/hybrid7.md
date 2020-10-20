@@ -9,6 +9,7 @@ Based on what you have learned in Adobe Photoshop, you are to restore one of the
 
 - Download one of the photos.
 - Restore the photo with the tools you have learned in Ps.
+- Organize and name your layers accordingly
 - When the work is completed, screen capture your artwork in Ps workspace including the layer view. 
 - Submit your work at the end of the class.
 - File naming example: *TomSmith-restoration.png* [firstnameLastname-restoration.png]
