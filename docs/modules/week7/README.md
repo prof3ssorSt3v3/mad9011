@@ -94,5 +94,6 @@ Get inspired by this 1-min video tutorial: [How to make a photo composite](https
 
 - If you have not read all these notes and watched the videos from this week, do that first.
 - Read the notes and watch all the videos for Week 9.
+- Hybrid 6 - Composite an image
 - Assignment 2 - Employee profile page
   :::
