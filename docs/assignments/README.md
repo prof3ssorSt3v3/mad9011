@@ -48,7 +48,7 @@ Every week there will be exercises for you to complete inside or outside of clas
 
 ### Hybrid 6 - Composite an image
 
-<Badge text="Due Thu. Oct 25 by 11:59pm"/>
+<Badge text="Due Sun. Oct 25 by 11:59pm"/>
 
 [Hybrid 6 details](./hybrid6.md)
 
