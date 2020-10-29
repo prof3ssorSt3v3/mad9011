@@ -5,7 +5,7 @@
 SVG can have lots of effects inside it, including hovers, transitions, animations, masking, filter, and patterns etc. First, we will put our SVG into our HTML document and then apply some of these effects in our CSS file. We will learn how to use/reuse SVG symbols and icons and apply animation to them. Lastly, we will make SVG accessible and discuss SVG best practices.
 
 - [Reference: SVG Animation](../week10/svg.md#svg-animation)
-- [Download code (right click > Safe Link As)](../week10/svgCode.zip)
+- [Download code](../week10/svgCode.zip)
 
 
 ## Animation with CSS
