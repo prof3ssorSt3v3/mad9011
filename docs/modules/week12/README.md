@@ -4,7 +4,6 @@
 
 Finally, welcome to Adobe XD (Xd), a vector-based user experience design tool for mobile and web apps. Xd supports rapid wireframing and click-through prototyping. 
 
-
 UI/UX designers use Adobe XD to seamlessly iterate and share interactive visual prototypes with team members and reviewers across devices and platforms.  
 
 - [*Adobe XD User Guide*](https://helpx.adobe.com/ca/xd/user-guide.html) contains all reference material 
@@ -23,12 +22,13 @@ Before we dive into Adobe Xd, we need to know what wireframe is.
 
 ### EXPLORE ADOBE XD USER INTERFACE
 
-Watch this video to get an overview of how Xd let designers create wireframes and interactive visual mockups (prototype) with speed, precision, and quality. 
+Watch this video to get an overview of how Xd let designers create wireframes and interactive visual prototypes with speed, precision, and quality. 
 
 <YouTube
   title="Adobe XD Explore the User Interface 2020"
   url="https://www.youtube.com/embed/-hV9kKY5a94"
 />
+
 
 ### XD WORKSPACE
 
