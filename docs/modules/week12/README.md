@@ -11,7 +11,7 @@ UI/UX designers use Adobe XD to seamlessly iterate and share interactive visual 
 - [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-new.html) section will help us keep up with the UI changes from Adobe XD monthly updates. 
 
 
-### WHAT IS Wireframe?
+### WHAT IS WIREFRAME?
 
 Before we dive into Adobe Xd, we need to know what wireframe is.
 
@@ -21,7 +21,7 @@ Before we dive into Adobe Xd, we need to know what wireframe is.
 />
 
 
-### WHAT IS ADOBE XD?
+### EXPLORE ADOBE XD USER INTERFACE
 
 Watch this video to get an overview of how Xd let designers create wireframes and interactive visual mockups (prototype) with speed, precision, and quality. 
 
