@@ -50,7 +50,7 @@ Reference: [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-n
 
 
 - Video - [New Adobe XD Update | June 2020](https://youtu.be/e6R9QiyB3YQ)
-    - Blog -  [June 2020 Release of Adobe XD](https://theblog.adobe.com/xd-june-2020-scroll-groups-stacks-more): Design Tokens, Stacks, Scroll Groups, and More
+    - Blog -  [June 2020 Release of Adobe XD](https://blog.adobe.com/en/2020/06/16/xd-june-2020-scroll-groups-stacks-more.html): Design Tokens, Stacks, Scroll Groups, and More
 - Video - [New Adobe XD Update | May 2020](https://youtu.be/g1ZfTi3-ypE)
     - Blog - [May 2020 Release of Adobe XD](https://theblog.adobe.com/xd-may-2020-offline-coediting-sharing-improvements): Offline Support for Coediting and Sharing Improvements
 - Video - [New Adobe XD Update | March 2020*](https://youtu.be/kPib1jYFnd4)
