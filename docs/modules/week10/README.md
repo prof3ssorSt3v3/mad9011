@@ -104,7 +104,7 @@ We can also add image textures to text using SVG and the `<pattern>` tag. In thi
 **References**
 
 - [SVG Reference](./svg.md)
-- [Download code (right click > safe link as)](./svgCode.zip)
+- [Download code (right click > Safe Link As)](./svgCode.zip)
 
 
 ## TODO
