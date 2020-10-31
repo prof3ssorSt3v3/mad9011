@@ -12,7 +12,7 @@ UI/UX designers use Adobe XD to seamlessly iterate and share interactive visual 
 
 ### WHAT IS WIREFRAME?
 
-Before we dive into Adobe Xd, we need to know what wireframe is. After watching the video below, see various stages of [**Wireframes**](https://drive.google.com/file/d/16C07K95B-lh-V1UpEyMmZWIbI3TvpTrj/view?usp=sharing) in a presentation slide deck.
+Before we dive into Adobe Xd, we need to know what wireframe is. After watching the video below, see various stages of [**wireframes**](https://drive.google.com/file/d/16C07K95B-lh-V1UpEyMmZWIbI3TvpTrj/view?usp=sharing) in a presentation slide deck.
 
 <YouTube
   title="Adobe XD Explore the User Interface 2020"
