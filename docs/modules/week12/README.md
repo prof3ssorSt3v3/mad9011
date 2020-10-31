@@ -12,7 +12,7 @@ UI/UX designers use Adobe XD to seamlessly iterate and share interactive visual 
 
 ### WHAT IS WIREFRAME?
 
-Before we dive into Adobe Xd, we need to know what wireframe is.
+Before we dive into Adobe Xd, we need to know what wireframe is. After watching the video below, see various stages of [**Wireframes**](https://drive.google.com/file/d/16C07K95B-lh-V1UpEyMmZWIbI3TvpTrj/view?usp=sharing) in a presentation slide deck.
 
 <YouTube
   title="Adobe XD Explore the User Interface 2020"
@@ -58,7 +58,7 @@ Let's check out the improved shape feature in this video to create customizable 
 Follow the Xd tutorials below to obtain a hands-on mobile app prototyping experience. Xd supports SVG and bitmap files without any loss of fidelity. It integrates with Illustrator, Photoshop, and After Effects. You can also use plugins to automate repeat operations or parts of designer workflows that are tedious, complex, or repetitive. 
 
 Before starting the workflow of: Design, Prototype, Share, we will [Download the XD kits.](https://download.adobe.com/pub/adobe/xd/Wires.zip?promoid=VG52KLJG&mv=other)
- 
+
 
 ### DESIGN
 
