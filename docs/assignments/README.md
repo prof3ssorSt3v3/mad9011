@@ -95,7 +95,7 @@ Worth <Badge type="error" text="20%"/> of Final Grade
 [BS LMS MAD9011_310 Group 2 Quiz page](https://brightspace.algonquincollege.com/d2l/lms/quizzing/user/quizzes_list.d2l?ou=282593)
 
 - Online Quiz 1 – Basic design knowledge and tools <Badge text="Due Fri. Oct 9 by 11:59pm"/>
-- Online Quiz 2 – User Interface graphic knowledge and tools <Badge text="Due Fri. Nov 6 by 11:59pm"/>
+- Online Quiz 2 – User Interface graphic knowledge and tools <Badge text="Due Fri. Nov 13 by 11:59pm"/>
 
 
 ## Evaluated Assignments
@@ -119,7 +119,7 @@ Thre are two main assignments for you to complete. Together they are worth 25% o
 
 ### Assignment 2 - Employee profile page (10%)
 
-<Badge text="Due Tue. Nov 15 by 11:59pm" />
+<Badge text="Due Sun. Nov 15 by 11:59pm" />
 
 [Assignment 2 details](./assg2.md)
 
