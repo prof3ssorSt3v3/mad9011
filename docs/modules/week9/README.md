@@ -48,7 +48,7 @@ There are a few types of images that can be used on the web and mobile devices: 
 
 [*Export documents, artboards, and layers in various image file formats*](https://helpx.adobe.com/photoshop/using/export-artboards-layers.html) provides information to help you export images into correct PNG, JPG, GIF, and SVG file formats.
 
-Let's follow along this video tutorial to pratice `Export As` feature in Photoshop. 
+Let's follow along this video tutorial to pratice `Export As` feature in Photoshop. Note: You will use it for your final project. 
 
 <a href="https://helpx.adobe.com/photoshop/how-to/export-image-web.html" target="_blank">![Choosing an image format](./ps-export-as.png)</a>
 
