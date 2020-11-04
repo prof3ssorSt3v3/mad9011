@@ -65,7 +65,7 @@ Adobe Experience Design **(Xd)** is ideal for rapid prototyping. We will learn t
 - [Xd tutorials](https://helpx.adobe.com/ca/xd/tutorials.html)
 - [free Xd resources](https://www.adobe.com/ca/products/xd/resources.html)
 - [Xd Pro Tips](https://letsxd.com/protips)
-- [Xd 2019 was a major release. Let's see soom advanced features.](https://helpx.adobe.com/ca/xd/help/whats-new/2019.html)
+- [Xd 2019 was a major release. Let's see some advanced features.](https://helpx.adobe.com/ca/xd/help/whats-new/2019.html)
 - [Xd Keyboard Shortcuts](https://helpx.adobe.com/ca/xd/user-guide.html/ca/xd/help/keyboard-shortcuts.ug.html)
 - [What's new in Adobe XD](https://helpx.adobe.com/ca/xd/help/whats-new.html)
 
