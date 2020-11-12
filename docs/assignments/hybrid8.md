@@ -2,7 +2,7 @@
 
 ## Description
 
-Based on what you learn in Week 9 and 10, you are to design a small Scalable Vector Graphic (SVG) with a hover/click state and CSS animation.
+Based on what you learn in Week 10 and 11, you are to design a small Scalable Vector Graphic (SVG) with a hover/click state and CSS animation.
 
 - Design a Scalable Vector Graphic.
 - Apply visual style CSS.
