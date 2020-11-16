@@ -582,7 +582,7 @@ If you are using the SVG `<text>` element inside your embedded SVG, but don’t 
 - [Advanced SVG: icon sprite sheets](https://www.youtube.com/watch?v=NI-qGP5m-6M&list=PLWjCJDeWfDdeYtU0NMvYvfqqFA1Jsh3NM&index=14)
 
 ### Resources
-- [Download code](./svgCode.zip)
+- [Download code](https://drive.google.com/file/d/1kvqgp2yvfkYex0Wc9aRedU5iTnKOrYUo/view?usp=sharing)
 - [SVG cheat sheet](https://learn-the-web.algonquindesign.ca/topics/svg-cheat-sheet/)
 
 
