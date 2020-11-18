@@ -14,7 +14,7 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
 
 1. _`.svg`_ loader icon (only visual not functional) – Animated SVG [tools: Illustrator > Code editor]
 
-   Example: [samherbert.net/svg-loaders/](http://samherbert.net/svg-loaders/)
+   Example: [Example 1](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/) / [Example 2](https://codepen.io/Souleste/pen/oNvVdYx)
 
 2. 5 launcher _`.png`_ icons for Android [tool: Illustrator]: **48px × 48px** (mdpi), 72 × 72 px (hdpi), 96 × 96 px (xhdpi), 144 × 144 px (xxhdpi), 192 × 192 px (xxxhdpi) 
 
