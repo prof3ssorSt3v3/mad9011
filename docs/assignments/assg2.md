@@ -2,7 +2,7 @@
 
 ## Employee Profile Page
 
-Create a mobile personal profile page, be creative, including name (nicknames), skills, hobbies, interest, contact, shoe size and special abilities etc. **Note:** Your profile card could be treated as a game profile card, digital business card, or a card-style personal profile. 
+Create a mobile personal profile page in Adobe PhotoShop, be creative, including name (nicknames), skills, hobbies, interest, contact, shoe size and special abilities etc. **Note:** Your profile card could be treated as a game profile card, digital business card, or a card-style personal profile. 
 
 
 ## Profile Page Requirements
