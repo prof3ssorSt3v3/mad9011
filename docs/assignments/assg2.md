@@ -14,7 +14,7 @@ Create a mobile personal profile page in Adobe PhotoShop, be creative, including
 - Hand in as .psd file (1 file with multiple Artboards).
 - Dimension: iPhone X/XS 1125px X 2436px @72ppi (portrait or landscape).
      - Bonus marks for making a design for portrait and landscape.
-- Ensure to name and organize your artboards and LAYERS so I can mark consciously.
+- Ensure to name and organize your ARTBOARDS and LAYERS so I can mark consciously. (See example below.)
 - Required features
     - silhouette
     - blending options
