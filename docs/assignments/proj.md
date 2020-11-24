@@ -12,7 +12,7 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
 
 ## App Requirements
 
-1. _`.svg`_ loader icon (only visual not functional) – Animated SVG [tools: Illustrator > Code editor]
+1. _`.svg`_ loader icon – Animated SVG in HTML [tools: Illustrator > Code editor]
 
    Example: [Example 1](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/) / [Example 2](https://codepen.io/Souleste/pen/oNvVdYx) / [Example 3](https://codepen.io/Souleste/pen/oNvVdYx) 
 
