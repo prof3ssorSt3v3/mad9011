@@ -6,7 +6,7 @@ Based on Week 12 and 13 lessons, you are to create an interactive prototype in A
 
 - Find a well designed mobile app of your like, take screenshots of its onboarding process and main UI screens.  
 - Recreate an interactive prototype in Adobe Xd.
-- Submit the URL created by using the sharing features: Share for Development.  
+- Submit 2 URLs created by using the sharing features: Share for Design Review & Share for Development  
 - Include your XD file and the prototype URL for submission at the end of the class.
 - File naming example: *TomSmith-mobilelayout.xd* [firstnameLastname-mobilelayout.xd]
 
