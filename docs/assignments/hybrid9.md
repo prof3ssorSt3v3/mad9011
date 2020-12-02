@@ -2,7 +2,7 @@
 
 ## Description
 
-Based on Week 11 and 12 lessons, you are to create an interactive prototype in Adobe XD.
+Based on Week 12 and 13 lessons, you are to create an interactive prototype in Adobe XD.
 
 - Find a well designed mobile app of your like, take screenshots of its onboarding process and main UI screens.  
 - Recreate an interactive prototype in Adobe Xd.
