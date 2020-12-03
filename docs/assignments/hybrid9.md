@@ -5,7 +5,7 @@
 Based on Week 12 and 13 lessons, you are to create an interactive prototype in Adobe XD.
 
 - Find a well designed mobile app of your like, take screenshots of its onboarding process and main UI screens.  
-- Recreate an interactive prototype in Adobe Xd. 
+- Create the click through based on those screenshots (interactive prototype) in Adobe Xd. 
 - (Challenge: Add voice interaction)
 - Submit 2 URLs created by using the sharing features for: 1) Design Review 2) Development  
 - Include your XD file and the prototype URL for submission at the end of the class.
