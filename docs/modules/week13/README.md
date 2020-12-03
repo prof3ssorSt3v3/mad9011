@@ -80,9 +80,9 @@ We will learn content-aware layout to quickly create and edit common design elem
 
 ---
 
-## XD Resources
+## XD Resources (Under "Features" Tab)
 
-[*Adobe XD resources*](https://www.adobe.com/ca/products/xd/resources.html) website provides great resources we can use to optimize our workflow and speed up the design process. They include `UI kits`, `icon sets`, `plugins`, `app integrations`, and more. 
+[*Adobe XD resources*, now under Features tab](https://www.adobe.com/products/xd/features/ui-kits.html) provides resources we can use to optimize our workflow and speed up the design process. They include `UI kits`, `icon sets`, `plugins`, `app integrations`, and more. 
 
 <a href="https://www.adobe.com/ca/products/xd/resources.html" target="_blank">![Adobe XD resources](./XdResources.png)</a>
 
@@ -91,7 +91,7 @@ We will learn content-aware layout to quickly create and edit common design elem
 
 UI Kits content contains common buttons, form elements, headers, icons, and other UI elements. Follow this XD tutorial to learn how to get UI kits and use the Kit content in your own designs. 
 
-Note: We will explorer UI Kits for [**Apple iOS**](https://developer.apple.com/design/resources/) and [**Material Design**](http://download.adobe.com/pub/adobe/xd/ui-kits/xd-resources-material-design-ui.zip?promoid=98SH4RH2&mv=other) in class to understand the platform standards together. Download [Apple iOS fonts](https://developer.apple.com/fonts/) and [Roboto fonts for Android devices](https://material.io/design/typography/understanding-typography.html#system-fonts)
+Note: We will explorer UI Kits for [**Apple iOS**](https://developer.apple.com/design/resources/) and [**Material Design**](https://material.io/resources) in class to understand the platform standards together. Download [Apple iOS fonts & symbols](https://developer.apple.com/fonts/) and [Roboto fonts for Android devices](https://material.io/design/typography/understanding-typography.html#system-fonts)
 
 **Let's start our design with UI kits.** We will follow this video to get the *Wireframes UI Kits* and use the content in our own XD file. 
 
