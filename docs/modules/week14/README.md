@@ -11,7 +11,7 @@ Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have l
 />
 
 
-### [Hightlights of 2020 release new features and enhancements](https://helpx.adobe.com/ca/xd/user-guide.html/ca/xd/help/whats-new.ug.html)
+### Hightlights of 2020 release new features and enhancements
 - [Expressive prototyping with **3D transforms**](https://youtu.be/DuVAAxaAjwQ)
 - [Flexible designing with nested components](https://youtu.be/NTwxxWnh16w)
 - [One document. Multiple flows](https://youtu.be/28GUEHUJVmc)
