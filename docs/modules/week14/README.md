@@ -12,6 +12,9 @@ Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have l
 
 
 ### Hightlights of 2020 release new features and enhancements
+
+Reference (Features > New Features): [What's New.](https://www.adobe.com/products/xd/features/whats-new.html) 
+
 - [Expressive prototyping with **3D transforms**](https://youtu.be/DuVAAxaAjwQ)
 - [Nested Components Update with Nested Hover](https://youtu.be/NTwxxWnh16w)
 - [One document. Multiple flows](https://youtu.be/28GUEHUJVmc)
@@ -48,7 +51,8 @@ Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have l
 
 Adobe XD releases new updates almost every month. Let's watch the tutorial videos *Caler Edwards* produces on YouTube and the monthly Adobe XD blog post to keep up with the enhancement. 
 
-Reference: [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-new.html)
+References: [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-new.html) (User Guide)
+
 
 <YouTube
   title="New Adobe XD Update | June 2020"
