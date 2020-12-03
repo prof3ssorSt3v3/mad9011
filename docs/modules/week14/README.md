@@ -10,7 +10,11 @@ Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have l
   url="https://www.youtube.com/embed/7FuL2BosGr0"
 />
 
-### June 2020 features highlight
+
+### [Hightlights of 2020 release new features and enhancements](https://helpx.adobe.com/ca/xd/user-guide.html/ca/xd/help/whats-new.ug.html)
+- [Expressive prototyping with **3D transforms**](https://youtu.be/DuVAAxaAjwQ)
+- [Flexible designing with nested components](https://youtu.be/NTwxxWnh16w)
+- [One document. Multiple flows](https://youtu.be/28GUEHUJVmc)
 - [Scroll Groups - Createing carousel](https://youtu.be/7FuL2BosGr0)
 - [Design Tokens - Enhancement for `Share for development`](https://youtu.be/-ifl1tl-SuE)
 - [Stacks - Design with ease](https://letsxd.com/stacks)
@@ -71,7 +75,8 @@ Reference: [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-n
 
 ## Additional references
 
-- [Feature summary | Adobe XD (2020 releases...)](https://helpx.adobe.com/ca/xd/help/whats-new/2020.html)
+- [Feature summary | Adobe XD (2021 releases)](https://helpx.adobe.com/ca/xd/help/whats-new/2021.html)
+- [Feature summary | Adobe XD (2020 releases)](https://helpx.adobe.com/ca/xd/help/whats-new/2020.html)
 - [Feature summary | Adobe XD | 2019 releases](https://helpx.adobe.com/ca/xd/help/whats-new/2019.html)
 - [Feature summary | Adobe XD | 2018 releases](https://helpx.adobe.com/ca/xd/help/whats-new/2018.html)
 
