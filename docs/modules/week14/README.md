@@ -33,7 +33,7 @@ Adobe XD is a powerful, collaborative, easy-to-use prototype platform. We have l
 
 ### App Integrations and Plugins
 
-- [From Adobe Xd to Code using Anima](https://youtu.be/YHDMR92VP9A)
+- [From Adobe Xd to Code using Anima](https://youtu.be/YHDMR92VP9A): Apply for free pro access as students
 - [Integration with Slack](https://slack.com/apps/A7P35MCT0-adobe-creative-cloud)
 - [Improve your Flutter UI code productivity using Adobe XD](https://medium.com/@rakeshpandith.ts/improve-your-flutter-ui-code-productivity-using-adobe-xd-c44bfd6490c6)
 - [Chart Plugin (data viusalization)](https://chartplugin.com)
