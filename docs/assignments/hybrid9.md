@@ -1,4 +1,4 @@
-# Hybrid Exercise 9 - In-class Exercise:  Mobile UI Layout
+# Hybrid Exercise 9 - In-class Exercise:  Mobile UI Prototype
 
 ## Description
 

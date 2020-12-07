@@ -26,7 +26,7 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
 
     Size reference: 
     - [github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes](https://github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes)
-    - [developer.android.com/training/multiscreen/screensizes](https://developer.android.com/training/multiscreen/screensizes)
+    - [developer.android.com/training/multiscreen/screensizes](https://developer.android.com/training/multiscreen/screensizes#TaskUseSWQuali)
 
    **Note:** Use 10 separate artboards in PhotoShop to create 10 different size of splash graphics. 
 
