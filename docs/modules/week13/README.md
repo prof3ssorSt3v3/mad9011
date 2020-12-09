@@ -109,6 +109,8 @@ Note: We will explorer UI Kits for [**Apple iOS**](https://developer.apple.com/d
 - [Material Design Resources](https://material.io/resources)
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
 - [Design toolkits and samples for Windows apps](https://docs.microsoft.com/en-us/windows/uwp/design/downloads/)
+- [Auto Animated UI Kit by Howard Pinsky & Jonathan Pimento](https://www.behance.net/gallery/72065227/Auto-Animate-UI-Kit-for-Adobe-XD)
+- [Component States UI Kit](https://letsxd.com/states)
 
 
 ### XD PLUGIN MANAGER  
