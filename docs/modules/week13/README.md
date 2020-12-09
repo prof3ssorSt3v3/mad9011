@@ -105,7 +105,7 @@ Note: We will explorer UI Kits for [**Apple iOS**](https://developer.apple.com/d
   url="https://www.youtube.com/embed/Jgk83qXOYSk"
 />
 
-**Links**
+#### Resources
 - [Material Design Resources](https://material.io/resources)
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
 - [Design toolkits and samples for Windows apps](https://docs.microsoft.com/en-us/windows/uwp/design/downloads/)
