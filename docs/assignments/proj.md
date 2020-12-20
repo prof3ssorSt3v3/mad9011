@@ -8,7 +8,10 @@ The final project for this semester is to create an Android app experience.
 
 Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to complete an app launching experiece. (Design in mind that these graphics will be presented in Web front-end coding: html, css, and svg.)
 
+:::
 **Usage scenario:** A user takes out their Android phone, tap on the "Launcher" icon to start the application, while loading, the animated loading icon is spinning on top of the Application splash screen.
+
+:::
 
 ## App Requirements
 
