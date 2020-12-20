@@ -12,15 +12,15 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
 
 ## App Requirements
 
-1. _`.svg`_ loader icon – Animated SVG in HTML [tools: Illustrator > Code editor]
-
-   Example: [Example 1](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/) / [Example 2](https://codepen.io/Souleste/pen/oNvVdYx) / [Example 3](https://codepen.io/gareys/pen/meRgLG) 
-
-2. 5 launcher _`.png`_ icons for Android [tool: Illustrator]: **48px × 48px** (mdpi), 72 × 72 px (hdpi), 96 × 96 px (xhdpi), 144 × 144 px (xxhdpi), 192 × 192 px (xxxhdpi) 
+1. 5 launcher _`.png`_ icons for Android [tool: Illustrator]: **48px × 48px** (mdpi), 72 × 72 px (hdpi), 96 × 96 px (xhdpi), 144 × 144 px (xxhdpi), 192 × 192 px (xxxhdpi) 
 
    Size reference: [iconhandbook.co.uk/reference/chart/android/](http://iconhandbook.co.uk/reference/chart/android/)
 
    **Note:** Create one icon (48x48) and output all 5 PNG icons in various dimensions in Illustrator. 
+
+2. _`.svg`_ loader icon – Animated SVG in HTML [tools: Illustrator > Code editor]
+
+   Example: [Example 1](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/) / [Example 2](https://codepen.io/Souleste/pen/oNvVdYx) / [Example 3](https://codepen.io/gareys/pen/meRgLG) 
 
 3. landscape and portrait _`.png`_ splash screens all sizes(10) [tool: Photoshop]:
 
