@@ -48,7 +48,7 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
     - Landscape: 1920x1280px
 
 4. UI prototype URLs [tool: Xd]: 
-   **Note:** Follow the usage scenario above to layout your screens in Xd. Add interactivity and create a sharable link for submission: Share for Development
+   **Note:** Follow the usage scenario above and use the HDPI splash screen size to layout your prototype in Xd. Add interactivity and create a sharable link (Share for Development) for submission.
 
 
 ## Submission
