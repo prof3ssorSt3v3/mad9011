@@ -18,9 +18,10 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
 
 1. Five launcher icons for Android [format: _`.png`_  / tool: Illustrator]: **48px × 48px** (mdpi), 72 × 72 px (hdpi), 96 × 96 px (xhdpi), 144 × 144 px (xxhdpi), 192 × 192 px (xxxhdpi) 
 
+   **Note:** Create one icon (48x48) and output all 5 PNG icons in various dimensions in Illustrator. 
+
    Size reference: [iconhandbook.co.uk/reference/chart/android/](http://iconhandbook.co.uk/reference/chart/android/)
 
-   **Note:** Create one icon (48x48) and output all 5 PNG icons in various dimensions in Illustrator. 
 
 2. One animated loader icon – Animated SVG with CSS in HTML [tools: Illustrator > Code editor]
 
@@ -44,12 +45,13 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
         - Portrait: 1280px1920px
         - Landscape: 1920x1280px
 
+    **Note:** Use 10 separate artboards in PhotoShop to create 10 different size of splash graphics. 
+   
     Size reference: 
     - [github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes](https://github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes)
     - [developer.android.com/training/multiscreen/screensizes](https://developer.android.com/training/multiscreen/screensizes#TaskUseSWQuali)
     - [Provide alternative bitmaps](https://developer.android.com/training/multiscreen/screendensities#TaskProvideAltBmp)
 
-   **Note:** Use 10 separate artboards in PhotoShop to create 10 different size of splash graphics. 
 
 4. UI prototype URLs [tool: Xd]: 
     - Based on the usage scenario above, use HDPI splash screen size to create an interactive prototype in Xd. Generate a sharable link (Share for Development) for submission.
