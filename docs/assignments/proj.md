@@ -52,7 +52,7 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
    **Note:** Use 10 separate artboards in PhotoShop to create 10 different size of splash graphics. 
 
 4. UI prototype URLs [tool: Xd]: 
-   **Note:** Follow the usage scenario above and use the HDPI splash screen size to layout your prototype in Xd. Add interactivity and create a sharable link (Share for Development) for submission.
+    - Based on the usage scenario above, use HDPI splash screen size to create an interactive prototype in Xd. Generate a sharable link (Share for Development) for submission.
 
 
 ## Submission
