@@ -6,7 +6,7 @@ It's time for the finale!
 
 The final project for this semester is to create an Android app experience.
 
-Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to complete an app launching experiece. (Design in mind that these graphics will be presented in Web front-end coding: html, css, and svg.)
+Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to complete an app launching experiece. Design in mind that these graphics will be presented in Web front-end coding: html, css, and svg.
 
 ::: tip Usage scenario
 
@@ -16,17 +16,17 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
 
 ## App Requirements
 
-1. 5 launcher icons for Android [format: _`.png`_  / tool: Illustrator]: **48px × 48px** (mdpi), 72 × 72 px (hdpi), 96 × 96 px (xhdpi), 144 × 144 px (xxhdpi), 192 × 192 px (xxxhdpi) 
+1. Five launcher icons for Android [format: _`.png`_  / tool: Illustrator]: **48px × 48px** (mdpi), 72 × 72 px (hdpi), 96 × 96 px (xhdpi), 144 × 144 px (xxhdpi), 192 × 192 px (xxxhdpi) 
 
    Size reference: [iconhandbook.co.uk/reference/chart/android/](http://iconhandbook.co.uk/reference/chart/android/)
 
    **Note:** Create one icon (48x48) and output all 5 PNG icons in various dimensions in Illustrator. 
 
-2. 1 animated loader icon – Animated SVG with CSS in HTML [tools: Illustrator > Code editor]
+2. One animated loader icon – Animated SVG with CSS in HTML [tools: Illustrator > Code editor]
 
    Example: [Example 1](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/) / [Example 2](https://codepen.io/Souleste/pen/oNvVdYx) / [Example 3](https://codepen.io/gareys/pen/meRgLG) 
 
-3. 10 landscape and portrait splash screens in the following sizes [format: _`.png`_  / tool: Photoshop]:
+3. Ten landscape and portrait splash screens in the following sizes [format: _`.png`_  / tool: Photoshop]:
 
     - MDPI:
         - Portrait: 320x480px
