@@ -10,23 +10,39 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
 
 ::: tip Usage scenario
 
-**Usage scenario:** A user takes out their Android phone, tap on the "Launcher" icon to start the application, while loading, the animated loading icon is spinning on top of the Application splash screen.
+*A user takes out their Android phone, tap on the "Launcher" icon to start the application, while loading, the animated loading icon is spinning on top of the Application splash screen.*
 
 :::
 
 ## App Requirements
 
-1. 5 launcher _`.png`_ icons for Android [tool: Illustrator]: **48px × 48px** (mdpi), 72 × 72 px (hdpi), 96 × 96 px (xhdpi), 144 × 144 px (xxhdpi), 192 × 192 px (xxxhdpi) 
+1. 5 launcher icons for Android [format: _`.png`_  / tool: Illustrator]: **48px × 48px** (mdpi), 72 × 72 px (hdpi), 96 × 96 px (xhdpi), 144 × 144 px (xxhdpi), 192 × 192 px (xxxhdpi) 
 
    Size reference: [iconhandbook.co.uk/reference/chart/android/](http://iconhandbook.co.uk/reference/chart/android/)
 
    **Note:** Create one icon (48x48) and output all 5 PNG icons in various dimensions in Illustrator. 
 
-2. _`.svg`_ loader icon – Animated SVG in HTML [tools: Illustrator > Code editor]
+2. 1 animated loader icon – Animated SVG with CSS in HTML [tools: Illustrator > Code editor]
 
    Example: [Example 1](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/) / [Example 2](https://codepen.io/Souleste/pen/oNvVdYx) / [Example 3](https://codepen.io/gareys/pen/meRgLG) 
 
-3. landscape and portrait _`.png`_ splash screens all sizes(10) [tool: Photoshop]:
+3. 10 landscape and portrait splash screens in the following sizes [format: _`.png`_  / tool: Photoshop]:
+
+    - MDPI:
+        - Portrait: 320x480px
+        - Landscape: 480x320px
+    - HDPI:
+        - Portrait: 480x800px
+        - Landscape: 800x480px
+    - XHDPI:
+        - Portrait: 720px1280px
+        - Landscape: 1280x720px
+    - XXHDPI:
+        - Portrait: 960px1600px
+        - Landscape: 1600x960px
+    - XXXHDPI:
+        - Portrait: 1280px1920px
+        - Landscape: 1920x1280px
 
     Size reference: 
     - [github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes](https://github.com/phonegap/phonegap/wiki/App-Splash-Screen-Sizes)
@@ -34,22 +50,6 @@ Putting our Illustrator, Photoshop, SVG, and Xd prototype skills to test to comp
     - [Provide alternative bitmaps](https://developer.android.com/training/multiscreen/screendensities#TaskProvideAltBmp)
 
    **Note:** Use 10 separate artboards in PhotoShop to create 10 different size of splash graphics. 
-
-- MDPI:
-    - Portrait: 320x480px
-    - Landscape: 480x320px
-- HDPI:
-    - Portrait: 480x800px
-    - Landscape: 800x480px
-- XHDPI:
-    - Portrait: 720px1280px
-    - Landscape: 1280x720px
-- XXHDPI:
-    - Portrait: 960px1600px
-    - Landscape: 1600x960px
-- XXXHDPI:
-    - Portrait: 1280px1920px
-    - Landscape: 1920x1280px
 
 4. UI prototype URLs [tool: Xd]: 
    **Note:** Follow the usage scenario above and use the HDPI splash screen size to layout your prototype in Xd. Add interactivity and create a sharable link (Share for Development) for submission.
