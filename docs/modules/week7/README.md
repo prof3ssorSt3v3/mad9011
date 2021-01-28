@@ -1,8 +1,8 @@
 # Week 7 - Nondestructive editing & image composite
 
-## Make me look good!
+## Fundation of Design for Layout & Composition
 
-To make an image look good, we will first go over the **Fundation of Design for Layout & Composition**.
+To make an image look good, we will first go over the Fundation of Design for Layout & Composition.
 
 <YouTube
   title="Beginning Graphic Design: Layout & Composition"
