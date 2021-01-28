@@ -1,6 +1,6 @@
 # Week 7 - Nondestructive editing & image composite
 
-## Fundation of Design for Layout & Composition
+## Layout & Composition, Fundation of Design
 
 To make an image look good, we will first go over the Fundation of Design for Layout & Composition.
 
