@@ -6,7 +6,7 @@ In this module, you will be learning how to add text to your designs, apply `eff
 
 Once your design is complete, you are going to need to `export` it to be able to use it for the online or print projects. Here you will learn how to export to different types of files.
 
-**Let's get familiar with the BASIC OF TYPOGRAPHY.**
+### Let's get familiar with the BASIC OF TYPOGRAPHY.
 <YouTube
   title="Beginning Graphic Design: Typography"
   url="https://www.youtube.com/embed/sByzHoiYFX0"
