@@ -113,6 +113,6 @@ Links to Adobe software:
 ### UI Design Examples
 
 - [Android App on pttrns.:](https://pttrns.com/android-patterns)
-- [Apple Design Awards 2019:](https://developer.apple.com/design/awards/)
+- [Apple Design Awards:](https://developer.apple.com/design/awards/)
     - [Top 9 Apps Of The Year](https://www.mobileappdaily.com/apple-design-awards)
 - [10 Progressive Web App Examples that Brand Owners can Learn From](https://www.iflexion.com/blog/pwa-examples)
