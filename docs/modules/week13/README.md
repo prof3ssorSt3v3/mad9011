@@ -75,8 +75,8 @@ We will learn content-aware layout to quickly create and edit common design elem
 />
 
 **Links**
-- [GETTING STARTED in Adobe XD](https://letsxd.com/getting-started)
-- [Prototyping 101](https://letsxd.com/prototyping)
+- [GETTING STARTED in Adobe XD](https://www.adobe.com/products/xd/learn/get-started.html)
+- [Prototype](https://www.adobe.com/products/xd/learn/prototype.html)
 
 ---
 
