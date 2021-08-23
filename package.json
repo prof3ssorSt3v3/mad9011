@@ -5,15 +5,19 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.0.3"
+    "@vuepress/plugin-active-header-links": "^1.8.2",
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "@vuepress/plugin-nprogress": "^1.8.2",
+    "@vuepress/plugin-register-components": "^1.8.2",
+    "@vuepress/plugin-search": "^1.8.2",
+    "vuepress": "^1.8.2"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "deploy": "/bin/bash deploy.sh",
-    "sucheng": "npm run docs:build && git pull origin master && git add . && git commit -m 'course update' && git push -f git@github.com:lees1/mad9011-f20.git master && cd docs/.vuepress/dist && git init && git add -A && git commit -m 'deploy' && git push -f git@github.com:MAD9011/F2020.git master"
+    "deploy": "/bin/bash deploy.sh"
   },
   "dependencies": {
-    "workbox-cli": "^4.3.1"
+    "workbox-cli": "^5.1.3"
   }
 }

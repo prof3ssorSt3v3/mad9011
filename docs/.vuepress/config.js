@@ -1,7 +1,7 @@
 module.exports = {
   title: 'MAD9011',
   description: 'Mobile Design Fundamentals',
-  base: '/F2020/', //used as the root location of the site (repo name)
+  base: '/F2021/', //used as the root location of the site (repo name)
   // then we can <img :src="$withBase('/foo.png')" alt="foo">
   markdown: {
     lineNumbers: true,
@@ -17,6 +17,17 @@ module.exports = {
       },
     },
   },
+  theme: '@vuepress/theme-default',
+  plugins: [
+    '@vuepress/back-to-top',
+    [
+      '@vuepress/search',
+      {
+        searchMaxSuggestions: 10,
+      },
+    ],
+    '@vuepress/last-updated',
+  ],
   themeConfig: {
     lastUpdated: 'Last Updated',
     //displayAllHeaders: true,
@@ -67,7 +78,6 @@ module.exports = {
           '/modules/week13/',
           '/modules/week14/',
           '/modules/week15/',
-          // '/modules/week00/',
         ],
       },
       {
