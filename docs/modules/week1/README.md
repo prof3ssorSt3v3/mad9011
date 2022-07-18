@@ -1,97 +1,92 @@
 # Week 1 - Introduction to Mobile Design Fundamentals
 
+::: tip Introduction Slides
+
+- [Course Introduction](/F2021/w1-course-introduction-f21.pdf)
+- [Set Up & Intro to Illustrator](/F2021/w1-set-up-intro-to-illustrator.pdf)
+
+:::
+
 ## Introduction
 
-Welcome to MAD9011, Mobile Design Fundamentals. In this level-one design course, we are going to explorer fundamental design concepts and learn the fun and useful tools to help you design graphics and interfaces. 
+Welcome to MAD9010, Graphic Technologies. In this design course, we are going to explorer fundamental design concepts and learn the fun and useful tools to help you design graphics and interfaces.
 
-To have a smooth start: 
+To have a smooth start:
 
-- Download and install the Adobe Creative Suite and Adobe Illustrator today 
-- Ensure all tools are ready for the course this week, including Photoshop and XD
+- Download and install the Adobe Creative Cloud as well as the following programs:
+  - Adobe Illustrator
+  - Adobe Photoshop
+  - Adobe Xd
 - Go over the [**Overview**](../../overview/) page to review
   - Mobile Design Fundamentals Course Overview
   - Course Policies
   - Professor Contact Info.
 
-For visual design inspirations, check out [Adobe Create online magazine](https://create.adobe.com/)
+## Installing Adobe Creative Cloud
 
+For more information, visit the Algonquin College Bring Your Own Device (BYOD) [Adobe installation guide](https://www.algonquincollege.com/byod/adobe/) for more information.
 
-## Design references
-- [Psychology of colour](https://www.bcrpainting.com.au/bcrpainterblogs/2017/9/1/why-should-you-pay-attention-to-colour-psychology)
-- [The Design Elements of Composing a Drawing](https://www.dummies.com/art-center/performing-arts/drawing/the-design-elements-of-composing-a-drawing/)
-- [Designing for Readability](https://www.toptal.com/designers/typography/web-typography-infographic)
-- [Accessibility checklists](https://learn-the-web.algonquindesign.ca/topics/accessibility-checklist/)
-- [Understanding Typography(Material Design)](https://material.io/design/typography/understanding-typography.html#type-properties)
-- [Mobile UI Design: 15 Basic Types of Screens](https://blog.tubikstudio.com/mobile-ui-design-15-basic-types-of-screens/)
-- [User Interface Elements](https://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html)
-- [Performance](https://learn-the-web.algonquindesign.ca/topics/performance/)
+### Step 1: Request a license for Adobe Creative Cloud
 
+To request a license for Adobe Creative Cloud, send an email to ITS at [5555@algonquincollege.com](mailto:5555@algonquincollege.com) or call the ITS Service Desk at ext. 5555.
 
-## Tools and Software
+We ask that you provide the following information:
 
-The design tools we use are: Adobe Illustrator, Photoshop, XD, SVG mockup editors. You can find most of the links on the [Resources](../../resources/).
+1. First and last name
+2. Student number
+3. Algonquin College email address
+4. Which program you are enrolled in
 
-- Download and install Illustrator, Photoshop, and Xd this week. [Adobe software download link](http://www7.algonquincollege.com/byod/adobe.htm)
+Your request will take up to **two (2) business days** for the license to be assigned to you, so make sure to do this right away to avoid not having access to the software during class.
 
-- You can aslo download other tools from [BYOD Digital Resources.](http://www7.algonquincollege.com/byod/software.htm) 
+Once the request is processed, you will receive an email notification from Adobe to your college email.
 
+### Step 2: Creating Your Adobe ID or Sign-in to an Existing Account
 
-### ADOBE ILLUSTRATOR
+Open the email you received from Adobe and click “Get Started”. You will be redirected to the Adobe website.
 
-We will use several tools in **Adobe Creative Could.** Adobe Illustrator **(Ai)** will be the first tool we use to create vector-based graphics.
+If you do not have an Adobe account:
 
-- [Adobe Illustrator User Guide](https://helpx.adobe.com/illustrator/user-guide.html)
-- [Ai Tool Gallery](https://helpx.adobe.com/illustrator/using/tool-galleries.html)
-- [Ai Keyboard Shortcuts](https://helpx.adobe.com/illustrator/using/default-keyboard-shortcuts.html)
-- [What's new in Illustrator](https://helpx.adobe.com/ca/illustrator/using/whats-new.html)
+1. Click Create an Adobe ID
+2. Fill in the required information. **Note: Use your Algonquin College email address for your Adobe ID**
+3. Read and accept the terms
+4. If prompted, log in to your newly created account
 
+If you do have an Adobe account, log into it now.
 
-### ADOBE PHOTOSHOP
+### Step 3: Installing the Desktop Application & Software
 
-We will start using Adobe Photoshop **(Ps)** in Week 5/6 to design raster-based graphics. 
+1. Visit the Creative Cloud Download webpage
+2. The Creative Cloud installer should automatically prompt to download, or download automatically
+3. Run/open the Creative Cloud installer and follow the prompts
+4. Once installed, the program should open.
+   If it doesn’t, look for the Creative Cloud icon in your taskbar and double click it to open
+5. Log into your Adobe account if prompted
+6. Navigate to the All Apps tab in the application
+7. Click Install on any programs you wish to install on your computer
 
-- [Photoshop User Guide](https://helpx.adobe.com/photoshop/user-guide.html)
-- [Ps Artboards](https://helpx.adobe.com/photoshop/using/artboards.html)
-- [Ps Tool galleries](https://helpx.adobe.com/photoshop/using/tools.html)
-  - [A comprehensive tutorial for Photoshop Tools](http://www.photoshop-bootcamp.com/beginners-guide-photoshop-tools-toolbar/)
-- [Ps Keyboard Shortcuts](https://helpx.adobe.com/ca/photoshop/using/default-keyboard-shortcuts.html)
-- [What's new in Photoshop](https://helpx.adobe.com/ca/photoshop/using/whats-new.html)
+You can install the Creative Cloud Application on as many computers as you wish, but can only run Adobe software concurrently on **two computers at a time**.
 
+## Intro to Adobe Illustrator
 
-### ADOBE XD
-Adobe Experience Design **(Xd)** is ideal for rapid prototyping. We will learn the basic UI interaction design in Xd to design screen layout, interaction and transition. 
+Adobe Illustrator is a vector-based illustration program. What does that mean?
 
-- [Adobe XD User Guide](https://helpx.adobe.com/ca/xd/user-guide.html)
-- [Xd tutorials](https://helpx.adobe.com/ca/xd/tutorials.html)
-- [free Xd resources](https://www.adobe.com/ca/products/xd/resources.html)
-- [Xd Pro Tips](https://letsxd.com/protips)
-- [Xd 2019 was a major release. Let's see some advanced features.](https://helpx.adobe.com/ca/xd/help/whats-new/2019.html)
-- [Xd Keyboard Shortcuts](https://helpx.adobe.com/ca/xd/user-guide.html/ca/xd/help/keyboard-shortcuts.ug.html)
-- [What's new in Adobe XD](https://helpx.adobe.com/ca/xd/help/whats-new.html)
+- A vector image is an image created using anchor points (or coordinates) and paths to draw shapes
+- Vector images are infinitely scalable, allowing them to be rendered on a web page or printed at any size without losing quality
 
+Adobe Illustrator is considered the industry standard for vector based illustration programs.
 
-### SVG
+### Illustrator Resources
 
-We will use **Ai** and **VSCode** to create Scalable Vector Graphics (SVG) and edit SVG mockups with CSS to design interactive SVG animations.
+- [Illustrator Toolbar Chart](https://helpx.adobe.com/content/dam/help/en/illustrator/using/tools/jcr_content/main-pars/image_2118360399/Tool-bar-chart.png)
+- [Illustrator Keyboard Shortcuts](https://helpx.adobe.com/illustrator/using/default-keyboard-shortcuts.html)
+- [Tool Galleries](https://helpx.adobe.com/illustrator/using/tool-galleries.html)
 
-- [Pocket Guide to Writing SVG](https://svgpocketguide.com/book)
-- [w3schools SVG Tutorial](https://www.w3schools.com/graphics/svg_intro.asp)
-- [Online SVG Editor](http://petercollingridge.appspot.com/svg-editor)
-- [SVG OMG – SVGO's Missing GUI](https://jakearchibald.github.io/svgomg)
-- [cubic-bezier.com](https://cubic-bezier.com/#.17,.67,.83,.67)
-- [SVG cheat sheet](https://learn-the-web.algonquindesign.ca/topics/svg-cheat-sheet)
+## To Do
 
-```html w/ SVG
-<body>
-  <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" >
-      <!-- Write all the SVG code in here -->
-  </svg>
-</body>
-```
+::: tip To Do for Next Week
 
-## TODO
-
-::: tip TODO before next week
-
-- Read all the notes for Week 2 and watch the videos. This will help you answer pop-quiz questions and prepare you for the lectures and the Hybrid exercises.
+- Install Adobe Creative Cloud
+- Install Adobe Illustrator
+- Read and review Week 2 content
   :::

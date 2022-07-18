@@ -1,7 +1,7 @@
 module.exports = {
   title: 'MAD9011',
   description: 'Mobile Design Fundamentals',
-  base: '/F2021/', //used as the root location of the site (repo name)
+  base: '/f2022/', //used as the root location of the site (repo name)
   // then we can <img :src="$withBase('/foo.png')" alt="foo">
   markdown: {
     lineNumbers: true,
@@ -10,14 +10,14 @@ module.exports = {
     resolve: {
       alias: {
         '@alias': 'path/to/some/dir',
-        '@root': '/F2020',
+        '@root': '/f2022',
         //![Image from alias](~@alias/image.png)
         // ![Image alt text](~@root/modules/week3/myimg.jpg)
         // images inside /docs/.vuepress/public will be copied to repo root
       },
     },
   },
-  theme: '@vuepress/theme-default',
+  // themeEntry or theme?: '@vuepress/theme-default',
   plugins: [
     '@vuepress/back-to-top',
     [
@@ -46,7 +46,7 @@ module.exports = {
       },
       {
         text: 'Deliverables',
-        link: '/assignments/',
+        link: '/deliverables/',
       },
       {
         text: 'Modules',
@@ -84,7 +84,7 @@ module.exports = {
         title: 'Deliverables',
         collapsable: true,
         sidebarDepth: 2,
-        children: ['/assignments/'],
+        children: ['/deliverables/'],
       },
     ],
   },

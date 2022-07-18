@@ -1,179 +1,202 @@
-# Week 12 - Introduction to Adobe XD
+# Week 12 - CSS Animation & SVG
 
-## Hooray! 
+::: tip Files
+[Week 12 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1i1J4KErKhQh0UGHYR3AjWTX88DxE9a1i)
+:::
 
-Finally, welcome to Adobe XD (Xd), a vector-based user experience design tool for mobile and web apps. Xd supports rapid wireframing and click-through prototyping. 
+## Introduction
 
-UI/UX designers use Adobe XD to seamlessly iterate and share interactive visual prototypes with team members and reviewers across devices and platforms.  
+There are SVG specific animations, named SMIL, but they are becoming deprecated. So CSS animations are a better way to go. Just treat your SVG elements like any other HTML elements. We will cover transition, transform, transform-origin with pixels, and animation in this lesson.
 
-- [*Adobe XD User Guide*](https://helpx.adobe.com/ca/xd/user-guide.html) contains all reference material 
-- [*What's new in Adobe XD*](https://helpx.adobe.com/ca/xd/help/whats-new.html) section will help us keep up with the UI changes from the Adobe XD monthly updates. 
+To begin, let's review adding a CSS hover state to an SVG and then we will apply transitions to it.
 
+```html
+<svg width="120" height="120" viewBox="0 0 120 120">
+  <rect class="button" x="10" y="10" width="100" height="60" />
+</svg>
+```
 
-### WHAT IS WIREFRAME?
+Then in CSS, we can do this:
 
-Before we dive into Adobe Xd, we need to know what wireframe is. After watching the video below, see various stages of [**wireframes**](https://drive.google.com/file/d/16C07K95B-lh-V1UpEyMmZWIbI3TvpTrj/view?usp=sharing) in a presentation slide deck.
+```css
+.button {
+  fill: gold;
+}
 
-<YouTube
-  title="Adobe XD Explore the User Interface 2020"
-  url="https://www.youtube.com/embed/8-vTd7GRk-w"
-/>
+.button:hover {
+  fill: green;
+  stroke: red;
+  stroke-width: 8;
+  stroke-dasharray: 4;
+}
+```
 
+## CSS Transitions
 
-### EXPLORE ADOBE XD USER INTERFACE
+CSS transitions allows you to change property values from one state to another smoothly, over a given duration.
 
-Watch this video to get an overview of how Xd let designers create wireframes and interactive visual prototypes with speed, precision, and quality. 
+### Transition Property
 
-<YouTube
-  title="Adobe XD Explore the User Interface 2020"
-  url="https://www.youtube.com/embed/-hV9kKY5a94"
-/>
+The CSS transition property is a shorthand property for transition-property, transition-duration, transition-timing-function, and transition-delay.
 
+```css
+/* Apply to 1 property */
+/* property name | duration | timing function | delay */
+.button {
+  transition: fill 4s ease-in-out 1s;
+}
 
-### XD WORKSPACE
+/* Apply to 2 properties */
+.button {
+  transition: fill 4s, stroke-width 1s;
+}
 
-We will get familiar with the workspace and the interface by exploring the in-app resources to learn how to use Adobe XD, or to get a head start on your designs. Learn their respective tools by navigating the Design and Prototype modes.
+/* Apply to all (default) changed properties */
+.button {
+  transition: all 0.5s ease-out;
+}
+```
 
-[*Workspace basics*](https://helpx.adobe.com/ca/xd/help/workspace-basics.html) is a quick reference for Adobe XD user interface. 
-
-![Adobe XD 2020 Workspace](./XDmacWorkspace.png)
-
-
-#### Work with drawing and text tools
-
-We can quickly create graphics and texts using the `shape` tools, `Pen` tool, and `text` tools in Adobe XD. Read [*Work with drawing and text tools*](https://helpx.adobe.com/ca/xd/help/drawing-text-tools.html) article for a quick reference.
-
-Let's check out the improved shape feature in this video to create customizable star shapes. 
-
-<YouTube
-  title="Star Ratio (Jan-2020)"
-  url="https://www.youtube.com/embed/RYWiPfNSWkg"
-/>
-
-
-#### Tutorial: How to Wireframe with Adobe Xd
-<a href="https://www.adobe.com/products/xd/learn/design/productivity/how-to-wireframe-xd.html" target=”_blank”>![How to Wireframe with Xd](./how2wireframe.png)</a>
-
-
-
-## Xd Workflow: Design > Prototype > Share
-
-[*Design, prototype, and share with Adobe XD*](https://helpx.adobe.com/ca/xd/help/adobe-xd-overview.html) article provides a quick reference in *Adobe XD User Guide*.
-
-Follow the Xd tutorials below to obtain a hands-on mobile app prototyping experience. Xd supports SVG and bitmap files without any loss of fidelity. It integrates with Illustrator, Photoshop, and After Effects. You can also use plugins to automate repeat operations or parts of designer workflows that are tedious, complex, or repetitive. 
-
-Before starting the workflow of: Design, Prototype, Share, we will [Download the XD kits.](https://download.adobe.com/pub/adobe/xd/Wires.zip?promoid=VG52KLJG&mv=other)
-
-
-### DESIGN
-
-In **DESIGN** step, we will learn the basics for designing splash screens, importing images, and working with Repeat Grid. 
-
-<a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_2___design" target=”_blank”>![Design with Xd](./XDdesign.png)</a>
-
-Note: Do you notice that you can click on the artboard name to select/move the artboard and double-click to edit the name? 
-
-### PROTOTYPE
-
-In **PROTOTYPE** step, we will turn our designs into interactive visual mockups. We will wire artboards together, switch back and forth between design and prototype mode and preview our UI experience.
-
-[*Share designs and prototypes*](https://helpx.adobe.com/ca/xd/help/share-designs-prototypes.html) is a user guide that contains the current *Xd* UI features and screenshots. 
-
-<a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_3___prototype" target=”_blank”>![Prototype with Xd](./XDprototype.png)</a>
-
-### SHARE 
-
-In **PREVIEW & SHARE** step, we will learn to preview our interactive prototpye on a mobile device and share prototype and design specs for feedback with other designers, developers and even for usability testing. 
-
-<a href="https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_4___share_and_preview" target=”_blank”>![Preview and share Xd prototype](./XDshare.png)</a>
-
-**NOTE:** Xd UI has been updated. Watch the video below to locate the "Share" tab in the top left corner and practice further. 
+Watch this video tutorial to understand how CSS `transistion` properties work.
 
 <YouTube
-  title="Share Mode – Adobe XD November Release 2019"
-  url="https://www.youtube.com/embed/3vj03O641GA"
+  url="https://www.youtube.com/embed/Nloq6uzF8RQ"
+  title="Animating with CSS Transitions - A look at the transition properties"
 />
 
-#### Use Xd for Usability Studies
+### Transform Property
+
+CSS `transform` properties let us move, rotate, scale, and skew elements. We can apply 2D or 3D transformations to an element.
+
+2D transform methods:
+
+- `translate()`
+- `rotate()`
+- `scaleX()`
+- `scaleY()`
+- `scale()`
+- `skewX()`
+- `skewY()`
+- `skew()`
+- `matrix()`
+
+3D transform methods:
+
+- `rotateX()`
+- `rotateY()`
+- `rotateZ()`
+
+```css
+/* 
+  CSS Transition
+  property name | duration | timing function
+*/
+
+.button {
+  transition: transform 2s linear;
+}
+
+/* 2D transform */
+.button:hover {
+  transform: scale(1.5);
+}
+```
+
+We will follow along this video to practice adding transitions to an SVG by using CSS transform and transition properties. Let's create an HTML file, and then add flower.svg and CSS code to your HTML file. [Click here to download code](https://github.com/acgd-learn-the-web/advanced-svg-code/archive/master.zip).
 
 <YouTube
-  title="Adobe XD for Usability Studies"
-  url="https://www.youtube.com/embed/swKI-M-RViQ"
+  url="https://www.youtube.com/embed/vwIVdI3WMIc"
+  title="Advanced SVG: transitions"
 />
 
+### Transform Origin Property
 
-## Collaboration features in Adobe XD
-
-Creative Cloud plan includes different types of cloud storage features for different uses and benefits: cloud documents, libraries, and Creative Cloud files (synced files).
-
-[*Cloud documents in Adobe XD*](https://helpx.adobe.com/xd/help/cloud-documents.html) article is a comprehensive guide for Adobe XD Cloud sharing and collaboration. 
-
-### USING XD CLOUD DOCUMENTS
-XD Cloud Documents let us **auto-save** files; **safely keep** everything in one place; make **fast and easy sharing**; work and **live collaborate** with others anywhere by using the **document versioning control**. 
-
-#### Using Cloud Document Files
-
-Let's practice using cloud document files. If you notice minor UI differences in the video, you can find your way around in the reference of [*Workspace basics*](https://helpx.adobe.com/ca/xd/help/workspace-basics.html) page. 
+The SVG transform-origin attribute sets the origin for an item's transformations and its default value is the top left corner of the SVG canvas. However, the default transform origin for HTML elements is in the middle of themselves. To ensure the SVG animation working correctly in all browsers, we may need to set the pixel value to CSS transform-origin property. Let's follow this video to practice.
 
 <YouTube
-  title="Adobe XD December 2018 Update: Cloud Document Files"
-  url="https://www.youtube.com/embed/H_TmuOJmdkI"
+  url="https://www.youtube.com/embed/AcdOzdoB390"
+  title="Advanced SVG: transform-origin with pixels"
 />
 
-#### Cloud Document Sharing
+## Applying CSS Animations
 
-We will learn how to quickly share documents with collaborators and team members when we save them as cloud documents in Adobe XD.
+The three most common SVG properties we can animate with CSS, are SVG `fill`, `opacity`, and CSS `transform` on SVG elements.
+
+To use CSS animation, we will first specify some keyframes for the animation. Keyframes hold what styles the element will have at certain times.
+
+### The @keyframes Rule
+
+In traditional animation, **keyframes** are important points in the timeline of an animation used for reference for figuring out how the animation will look and transition throughout the movement. For example, if I were to make an animation of someone lifting their arm and waving, the keyframes would be something like:
+
+- Arm down at side
+- Arm is raised
+- Hand begins waving
+- Hand stops waving
+- Arm is lowered to side.
+
+The animator would first create the animation at each of these stages, and then adjust how the figure changes and transitions between each stage.
+
+In CSS Animations, we do something very similar with the `@keyframes` rule. We set CSS values at different stages of our animation and then the browser automatically creates the transition between those keyframes. Our animation can be simple with just a beginning keyframe (represented by `0%` or `from`) and an end keyframe (represented by `100%` or `to`), or can have multiple keyframes (for example `0%`, `25%`, `50%`, `75%`, `100%`).
+
+```css
+/* A simple animation that does a full rotation. */
+
+@keyframes rotate {
+  from {
+    transform: rotate(0);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* A multiple step animation that moves up then back down. */
+
+@keyframes jump {
+  0% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(5rem);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+```
+
+### Animation Property
+
+The animation property is a shorthand property for animation-name, animation-duration, animation-timing-function, animation-delay, animation-iteration-count, animation-direction, animation-fill-mode, and animation-play-state.
+
+```css
+/* name | duration | timing-function | delay | 
+iteration-count | direction | fill-mode | play-state */
+
+.box {
+  animation: rotate 3s ease-in 1s 2 reverse forwards paused;
+}
+```
 
 <YouTube
-  title="Adobe XD December 2018 Release: Cloud Document Sharing"
-  url="https://www.youtube.com/embed/qICToKxlxAc"
+  url="https://www.youtube.com/embed/8s70jpw5B5c"
+  title="Advanced SVG: animations"
 />
 
-### COEDITING & DOCUMENT HISTORY  
+## Resources
 
-We can collaborate and coedit with others in the same document in **real-time** with Xd. We can also check document history to quickly see who's made edits and revert to old versions when needed. Let's follow this tutorial to use these features.  
+- [CSS animations & effects cheat sheet](https://learn-the-web.algonquindesign.ca/topics/css-animations-effects-cheat-sheet/)
+- [MDN Docs — CSS animation shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+- [Using Multi-Step Animations and Transitions](https://css-tricks.com/using-multi-step-animations-transitions/)
 
-<YouTube
-  title="Coediting & Document History – Adobe XD November Release 2019"
-  url="https://www.youtube.com/embed/XDFE5DH2Z5E"
-/>
+## To Do
 
-#### Managing fonts
+::: tip To Do for Next Week
 
-The design may be altered unexpectedly during collaboration if someone doesn't have the right fonts installed. This tutorial will teach us to identify potential font issues and how to resolve them. 
-
-<YouTube
-  title="March 2019: Missing fonts will now load automatically"
-  url="https://www.youtube.com/embed/QD1TVEuNNcQ"
-/>
-
-
-**Links**
-
-- [CC Libraries Integration](https://youtu.be/GWuA1y79AT8)
-- [Convert Sketch Libraries](https://youtu.be/DHyMngVm8CA)
-
-
-## Built-in XD Tutorial
-
-Now, let's review what we have learned so far by completing this Xd built-in tutorial. 
-
-![XD Tutorial](./XDbuiltin-tutorial.png)
-
-1. Start Adobe XD
-2. From `Help` menu, click to open `XD Tutorial` 
-3. Follow the 10 short steps to complete the tutorial  
-4. Share with a classmate for co-editing 
-5. Share for development review to obtain comments from two classmates
-
-
-## TODO
-
-::: tip TODO Before next week
-
-- If you have not read all these notes and watched the videos from this week, do that first.
-- Read the notes and watch all the videos for Week 13.
-- [In-class Xd Exercise:](https://www.youtube.com/playlist?list=PLHjwuoik-ep1zZ_xheCvRL8KluMJMjYsV) Adding Interaction to UI layout 
-- Final Project: Mobile UI Visual Prototype  
-- Hybrid 8 - Coding an SVG Due
+- Complete the Interactive SVG exercise
+- Review the App Branding assignment
+- Review week 13 content
   :::

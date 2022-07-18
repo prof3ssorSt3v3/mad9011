@@ -1,13 +1,11 @@
-# Week 15 - Putting it all together
+# Week 15 - Final Hand-In
 
-::: danger Final Project Due
+## App Branding Review &amp; Hand-In
 
-- Last day to sumbit any work: December 16/17, 2020
-- Ensure you follow the assignment outlines to fulfill the project requirements.
-- Happy prototyping! 
+Our class time today will fully be dedicated to review, feedback, and help with completing the App Branding assignment. We will not be covering any new content.
 
-:::
+Make sure you hand in your assignment on time! It is due at 11:59pm of the day of the semester, Friday, December 17th.
 
-## Work Labs
+## Good luck with your finals!
 
-Class time during week 15 is reserved for working on your final project, [Mobile UI Visual Prototype](../../assignments/proj.md) and showing your work progress to the instructor.
+Good luck with your finals and I hope you have a great summer break!

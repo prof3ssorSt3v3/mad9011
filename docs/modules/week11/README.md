@@ -1,223 +1,140 @@
-# Week 11 - SVG Animation 
+# Week 11 - Introduction to SVG
 
-## Applying CSS animations to SVG elements
+::: tip Files
+[Week 11 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1fb6H6CIZn1I8uqtq4vXb5TiC7YyT2eot)
+:::
 
-SVG can have lots of effects inside it, including hovers, transitions, animations, masking, filter, and patterns etc. First, we will put our SVG into our HTML document and then apply some of these effects in our CSS file. We will learn how to use/reuse SVG symbols and icons and apply animation to them. Lastly, we will make SVG accessible and discuss SVG best practices.
+## What are SVGs?
 
-- [Reference: SVG Animation](../week10/svg.md#svg-animation)
-- [Download code](https://drive.google.com/file/d/1kvqgp2yvfkYex0Wc9aRedU5iTnKOrYUo/view?usp=sharing)
+Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation. SVG images are defined in XML text files. In this section, we are going to learn how to generate good SVG code using Adobe Illustrator and preparing it to be animated and used on the web as well as how to write our own SVG code from scratch.
 
+## SVGs are code
 
-## Animation with CSS
+SVGs are purely vector graphics written in XML markup language. We can use a pure code editor to create an SVG. Let's follow along this series of video tutorial and write SVG markup with VSCode.
 
-There are SVG specific animations, named SMIL, but they are becoming deprecated. So CSS animations are a better way to go. Just treat your SVG elements like any other HTML elements. We will cover `transition`, `transform`, `transform-origin` with pixels, and `animation` in this lesson. 
+### Writing SVG Code
 
-To begin, let's review adding a CSS `hover` state to an SVG and then we will apply trasitions to it.
-
-```xml
-<svg width="120" height="120" viewBox="0 0 120 120">
-   <rect class="button" x="10" y="10" width="100" height="60" />
-</svg>
-```
-
-Then in CSS, we can do this:
-
-```css
-.button {
-  fill: gold;
-}
-
-.button:hover {
-  fill: green;
-  stroke: red;
-  stroke-width: 8;
-  stroke-dasharray: 4;
-}
-```
-
-### ADDING TRANSITIONS
-
-CSS transitions allows you to change property values from one state to another smoothly, over a given duration.
-
-#### CSS transitions
-
-The CSS `transition` property is a shorthand property for `transition-property`, `transition-duration`, `transition-timing-function`, and `transition-delay`. 
-
-```css
-/* Apply to 1 property */
-/* property name | duration | timing function | delay */
-.button {
-  transition: fill 4s ease-in-out 1s;
-}
-
-/* Apply to 2 properties */
-.button {
-  transition: fill 4s, stroke-width 1s;
-}
-
-/* Apply to all (default) changed properties */
-.button {
-  transition: all 0.5s ease-out;
-}
-```
-
-Watch this video tutorial to understand how CSS `transistion` properties work.
+In this video we will learn to write SVG code from scratch and integrate it into an HTML document. Read SVG reference of Writing SVG code for basic syntax and SVG shapes.
 
 <YouTube
-  title="Animating with CSS Transitions - A look at the transition properties"
-  url="https://www.youtube.com/embed/Nloq6uzF8RQ"
-/> 
+  url="https://www.youtube.com/embed/q_3Q9HHcXuA"
+  title="Advanced SVG: writing SVG code"
+/>
 
-**Links**
+### SVG Attributes and CSS
 
-- [CSS `transition`](https://www.w3schools.com/css/css3_transitions.asp)
-- [Try them on w3schools.com](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_transitions5)
-
-
-#### CSS transforms
-
-CSS `transform` properties let us move, rotate, scale, and skew elements. We can apply 2D or 3D transformations to an element.
-
-**2D transform methods**: `translate()`, `rotate()`, `scaleX()`, `scaleY()`, `scale()`, `skewX()`, `skewY()`, `skew()`, `matrix()`
-
-**3D transform methods**: `rotateX()`, `rotateY()`, `rotateZ()`
-
-```css
-/* CSS transform syntax */
-transform: none|transform-functions|initial|inherit;
-```
-
-```css
-/* property name | duration | timing function */
-.button {
-  transition: transform 2s linear;
-}
-
-/* 2D transform */
-.button:hover {
-  transform: scale(1.5);
-}
-```
-
-We will follow along this video to practice adding transitions to an SVG by using CSS `transform` and `transition` properties. Let's create an HTML file, and then add _`flower.svg`_ and _`CSS`_ code to your HTML file. [Download code](https://drive.google.com/file/d/1kvqgp2yvfkYex0Wc9aRedU5iTnKOrYUo/view?usp=sharing)
+It's common practice to use both SVG style attributes and CSS to style SVGs. Watch this video to learn the why and how.
 
 <YouTube
-  title="SVG Transitions"
-  url="https://www.youtube.com/embed/vwIVdI3WMIc"
-/> 
+  url="https://www.youtube.com/embed/EEtnu8OMD3o"
+  title="Advanced SVG: attributes & CSS"
+/>
 
-#### Transform Origin pixels 
+### SVG Text
 
-The SVG `transform-origin` attribute sets the origin for an item's transformations and its default value is the top left corner of the *SVG* canvas. However, the default transform origin for *HTML* elements is in the middle of themselves. To ensure the SVG animation working correctly in all browsers, we may need to set the pixel value to CSS `transform-origin` property. Let's follow this video to practice. 
+Using text directly inside our SVG has lots of benefits: We can apply web fonts, masking, gradients, and textures to them and they are fully accessible.
 
-<YouTube
-  title="SVG transform-origin"
-  url="https://www.youtube.com/embed/AcdOzdoB390"
-/> 
+Reference: SVG text
 
+#### Text & web fonts
 
-**Links**
-
-- [CSS 2D Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
-- [CSS 3D Transforms](https://www.w3schools.com/cssref/css3_pr_transform.asp)
-- [Try them on Codepen](https://codepen.io/nat-king/pen/LKgeoE)
-
----
-
-### ADDING CSS ANIMATIONS
-
-The three most common SVG properties we can animate with CSS, are SVG `fill`, `opacity`, and CSS `transform` on SVG elements. 
-
-To use CSS animation, we will first specify some keyframes for the animation. Keyframes hold what styles the element will have at certain times.
-
-#### The @keyframes Rule
-
-When we specify CSS styles inside the `@keyframes` rule, the `animation` will gradually change from the current style to the new style at certain times. To get an animation to work, you must bind the animation to an element.
-
-#### CSS animation
-
-The `animation` property is a shorthand property for `animation-name`, `animation-duration`, `animation-timing-function`, `animation-delay`, `animation-iteration-count`, `animation-direction`, `animation-fill-mode`, and `animation-play-state`.
-
-```css
-/* @keyframes duration | timing-function | delay | 
-iteration-count | direction | fill-mode | play-state | name */
-animation: 3s ease-in 1s 2 reverse both paused slidein;
-```
-
-Watch this video to complete our practice to create SVG animation with CSS. 
-<YouTube
-  title="SVG animations"
-  url="https://www.youtube.com/embed/8s70jpw5B5c"
-/> 
-
-This time, we will watch the 3rd video, [Animate SVG with CSS](https://www.linkedin.com/learning/css-animation/animate-svg-with-css) on LinkedIn Learning *CSS: Animation* tutorial to review what we have learned. 
-
-Before you dive into Hybrid 8 - Coding an SVG, let's check out some cool [SVG with CSS animations made by *Hope Armstrong*.](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/)
-
-
-**Links**
-
-- [CSS `animation` shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
-- [CSS Animations](https://www.w3schools.com/cssref/css3_pr_animation.asp)
-- [Using Multi-Step Animations and Transitions](https://css-tricks.com/using-multi-step-animations-transitions/)
-
----
-
-## SVG icons & symbols
-
-Animated SVGs are great for icons which can indicate micro-interactions and state changes and guide a user to the next action in an onboarding tour. They are commonly used to show status of loading, uploading, menu toggling, and playing/pausing a video. We will practice using SVG icons in this video tutorial. 
-
-[Reference: SVG Icons](../week10/svg.md#svg-icons)
+We will follow along this video tutorial to practice using `<text>` element to add live/accessible texts inside an embedded SVG and apply web fonts to it.
 
 <YouTube
-  title="SVG icons"
+  url="https://www.youtube.com/embed/UKXRwuXd7rA"
+  title="Advanced SVG: text & web fonts"
+/>
+
+#### Masking text
+
+Continue with this video to learn how to use `<mask>` element to mask out pieces of text to create different effects:
+
+<YouTube
+  url="https://www.youtube.com/embed/B5ol4ss-mi4"
+  title="Advanced SVG: masking text"
+/>
+
+#### Gradients on text
+
+In this video, we will apply gradients into the text letters using SVG.
+
+<YouTube
+  url="https://www.youtube.com/embed/xgZkRVCS07Q"
+  title="Advanced SVG: gradients on text"
+/>
+
+These online tools let us generate code for SVG gradients, CSS gradients and edit their code.
+
+- [Gradient Generator](https://briangrinstead.com/gradient/)
+- [CSS Gradient Generator](https://cssgradient.io/)
+
+#### Textures on text
+
+We can also add image textures to text using SVG and the `<pattern>` tag. In this video, we will make the pattern big enough to only show it once.
+
+<YouTube
+  url="https://www.youtube.com/embed/lSNnVbfvJJ0"
+  title="Advanced SVG: textures on text"
+/>
+
+## From AI to SVG
+
+Using Adobe Illustrator (Ai) to design graphics and then export them in SVG format allows us to use that code directly on the web and animate it using CSS. The cleaner and more organized our Ai file is, the easier it will be to manipulate the SVG code later on. Follow this videos to exporting SVGs from Illustrator for animation.
+
+<YouTube
+  url="https://www.youtube.com/embed/bWcweY66DL8"
+  title="Advanced SVG: icons"
+/>
+
+### Cleaning generated SVG
+
+Now we know that if we use SVGs generated by a tool like Adobe Illustrator, Sketch, or Inkscape, there’s lots of extra cruft that we don’t need in the files. We can use some optimization tools to clean up the SVG. Here are the two popular online tools to use.
+
+- [SVG Editor](http://petercollingridge.appspot.com/svg-editor)
+- [SVGOMG](https://jakearchibald.github.io/svgomg/)
+
+## SVG Icons & Symbols
+
+Animated SVGs are great for icons which can indicate micro-interactions and state changes and guide a user to the next action in an onboarding tour. They are commonly used to show status of loading, uploading, menu toggling, and playing/pausing a video. We will practice using SVG icons in this video tutorial.
+
+<YouTube
   url="https://www.youtube.com/embed/EhNHe-f0LBI"
-/> 
+  title="Advanced SVG: icons"
+/>
 
-#### SVG symbols
+### SVG symbols
 
 We will practice using SVG elements `<symbol>` and `<use>` to make SVG icon systems.
 
 <YouTube
-  title="SVG symbols"
   url="https://www.youtube.com/embed/BO13gECyiuE"
-/> 
+  title="Advanced SVG: icon symbols"
+/>
 
----
+### Spritebot
 
-## SVG accessiblity
+Spritebot is a tool used to clean up our SVGs. It can also combine numerous SVGs into a single sprite sheet for easier use on our websites.
+
+[Download here.](https://github.com/thomasjbradley/spritebot)
+
+## SVG Accessiblity
+
 Lastly, we will learn the extended accessibility features of SVG and know when/how to hide embedded SVG from accessibility tools when needed.
 
-[Reference: SVG accessiblity](../week10/svg.md#embedded-svg-accessibility)
-
 <YouTube
-  title="SVG accessiblity"
   url="https://www.youtube.com/embed/BieUh304KDA"
-/> 
+  title="Advanced SVG: accessibility"
+/>
 
-## Conclusion
+## Resources
 
-Sarah Drasner's presentation in 2019, *SVG Will Save Us*, nicely summarizes the importance of using SVG for mobile and web development and some best practices.
+- [Advanced SVG Lesson](https://learn-the-web.algonquindesign.ca/topics/advanced-svg/) — Text reference for all topics covered in the videos from this week.
+- [SVG Cheat Sheet](https://learn-the-web.algonquindesign.ca/topics/svg-cheat-sheet/) — Quick reference for all things SVG
 
-<YouTube
-  title="SVG Will Save Us"
-  url="https://www.youtube.com/embed/sxte3WpyO60"
-/> 
+::: tip To Do for Next Week
 
-
-**References**
-- [SVG References](../week10/svg.md)
-- [Download code](https://drive.google.com/file/d/1kvqgp2yvfkYex0Wc9aRedU5iTnKOrYUo/view?usp=sharing)
-- [**Pocket Guide to Writing SVG**](http://svgpocketguide.com/)
-- [Advanced CSS on w3school.com](https://www.w3schools.com/css/css3_2dtransforms.asp)
-- [Animating SVG with CSS](https://blog.logrocket.com/animating-svg-with-css-83e8e27d739c/)
-
-
-## TODO
-
-::: tip TODO Before next week
-
-- If you have not read all these notes and watched the videos from this week, do that first.
-- Read the notes and watch all the videos for Week 12.
-- Hybrid Exercise: Built-in Adobe `XD Tutorial`
+- Begin the Interactive SVG exercise
+- Review the App Branding assignment
+- Complete the Photoshop Quiz
+- Review week 12 content
   :::

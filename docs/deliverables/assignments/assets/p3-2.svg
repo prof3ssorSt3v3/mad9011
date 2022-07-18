@@ -1,0 +1,264 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 299.5 551">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #e6e6e6;
+            }
+
+            .cls-2 {
+                fill: #ffe482;
+            }
+
+            .cls-2,
+            .cls-3,
+            .cls-4,
+            .cls-5,
+            .cls-6,
+            .cls-7,
+            .cls-8 {
+                stroke: #000;
+                stroke-miterlimit: 10;
+            }
+
+            .cls-2,
+            .cls-3,
+            .cls-4,
+            .cls-6 {
+                stroke-width: 11px;
+            }
+
+            .cls-3,
+            .cls-7 {
+                fill: none;
+            }
+
+            .cls-4,
+            .cls-5 {
+                fill: #fef4bf;
+            }
+
+            .cls-5 {
+                stroke-width: 6.24px;
+            }
+
+            .cls-6 {
+                fill: #fff;
+            }
+
+            .cls-7,
+            .cls-8 {
+                stroke-width: 9px;
+            }
+
+            .cls-8 {
+                fill: #84b2d1;
+            }
+
+            #Sunny {
+                animation: rotate1 4s linear infinite;
+            }
+
+            #Moon {
+                animation: rotate2 4s linear infinite;
+            }
+
+            #Cloudy {
+                animation: rotate3 4s linear infinite;
+            }
+
+            #Rainning {
+                animation: rotate4 4s linear infinite;
+            }
+
+            #Shadow {
+                opacity: 0;
+                animation: shadow .5s ease-in infinite alternate;
+            }
+            
+            #Weather{
+                animation: rotate .5s ease-in infinite alternate;
+            }
+
+            @keyframes shadow {
+
+                100% {
+                    opacity: 1;
+                }
+            }
+            
+            @keyframes rotate {
+
+                100% {
+                    transform: translateY(100px);
+                }
+            }
+
+            @keyframes rotate1 {
+
+                0% {
+                    opacity: 1;
+                } 
+                12.49% {
+                    opacity: 1;
+                }
+
+                12.5% {
+                    opacity: 0;
+                }
+
+                87.49% {
+                    opacity: 0;
+                }
+
+                87.5% {
+                    opacity: 1;
+                }
+
+                100% {
+                    opacity: 1;
+                }
+            }
+
+            @keyframes rotate2 {
+
+                0% {
+                    opacity: 0;
+                }
+
+                12.49% {
+
+                    opacity: 0;
+                }
+
+                12.5% {
+                    opacity: 1;
+                }
+
+                37.49% {
+
+                    opacity: 1;
+                }
+
+                37.5% {
+                    opacity: 0;
+                }
+
+                100% {
+                    opacity: 0;
+                }
+            }
+
+            @keyframes rotate3 {
+
+                0% {
+                    opacity: 0;
+                }
+
+                37.49% {
+                    opacity: 0;
+                }
+
+                37.5% {
+                    opacity: 1;
+                }
+            
+                62.49% {
+                    opacity: 1;
+                }
+
+                62.5% {
+                    opacity: 0;
+                }
+
+                100% {
+                    opacity: 0;
+                }
+            }
+
+
+            @keyframes rotate4 {
+
+                0% {
+                    opacity: 0;
+                }
+            
+                62.49% {
+                    opacity: 0;
+                }
+
+                62.5% {
+                    opacity: 1;
+                }
+
+                87.49% {
+                    opacity: 1;
+                }
+
+                87.5% {
+                    opacity: 0;
+                }
+
+                100% {
+                    opacity: 0;
+                }
+            }
+
+        </style>
+    </defs>
+    <title>loading</title>
+    <g id="Shadow">
+        <ellipse class="cls-1" cx="144" cy="523.5" rx="63.5" ry="27.5" transform="translate(0 -130)" />
+    </g>
+    <g id="Weather">
+    <g id="Sunny">
+        <g id="sun">
+            <circle class="cls-2" cx="144.5" cy="141" r="81" />
+            <line class="cls-3" x1="145" x2="145" y2="44" />
+            <line class="cls-3" x1="145" y1="238" x2="145" y2="282" />
+            <line class="cls-3" x1="47.5" y1="141.5" x2="3.5" y2="141.5" />
+            <line class="cls-3" x1="285.5" y1="141.5" x2="241.5" y2="141.5" />
+            <line class="cls-3" x1="64" y1="55.5" x2="78.5" y2="70" />
+            <line class="cls-3" x1="62" y1="225" x2="76.5" y2="210.5" />
+            <line class="cls-3" x1="229.5" y1="225" x2="215" y2="210.5" />
+            <line class="cls-3" x1="229.5" y1="57.5" x2="215" y2="72" />
+        </g>
+    </g>
+    <g id="Moon">
+        <path class="cls-4" d="M703.4,931A84.4,84.4,0,1,1,619,846.6s-39.6,50.6-5.7,84.4C649.1,966.9,703.4,931,703.4,931Z" transform="translate(-476.5 -739)" />
+        <polygon class="cls-5" points="184 79.2 193.6 63 200.6 80.5 219 84.6 204.5 96.7 206.3 115.4 190.3 105.4 173.1 112.8 177.7 94.6 165.2 80.5 184 79.2" />
+    </g>
+    <g id="Cloudy">
+        <g id="sun-2" data-name="sun">
+            <circle class="cls-2" cx="187.5" cy="169" r="64.3" />
+            <line class="cls-3" x1="187.9" y1="57" x2="187.9" y2="92" />
+            <line class="cls-3" x1="187.9" y1="246" x2="187.9" y2="281" />
+            <line class="cls-3" x1="110.5" y1="169.4" x2="75.5" y2="169.4" />
+            <line class="cls-3" x1="299.5" y1="169.4" x2="264.5" y2="169.4" />
+            <line class="cls-3" x1="123.6" y1="101.1" x2="135.1" y2="112.6" />
+            <line class="cls-3" x1="122" y1="235.7" x2="133.5" y2="224.2" />
+            <line class="cls-3" x1="255" y1="235.7" x2="243.5" y2="224.2" />
+            <line class="cls-3" x1="255" y1="102.7" x2="243.5" y2="114.2" />
+        </g>
+        <path class="cls-6" d="M575,940s-7.2-40.1-41-36c-37.5,4.5-27,46-27,46s-25,10-25,34c0,19,25,32,25,32H682s24-13,24-33c0-50-58-38-58-38s3.5-42.5-25-56c-45.2-21.4-66,22-66,22" transform="translate(-476.5 -739)" />
+    </g>
+    <g id="Rainning">
+        <path class="cls-6" d="M602,833.5s-7.2-40.1-41-36c-37.5,4.5-27,46-27,46s-25,10-25,34c0,19,25,32,25,32H709s24-13,24-33c0-50-58-38-58-38s3.5-42.5-25-56c-45.2-21.4-66,22-66,22" transform="translate(-476.5 -739)" />
+        <g>
+            <line class="cls-7" x1="75" y1="197" x2="75" y2="241.5" />
+            <circle class="cls-8" cx="75.5" cy="264" r="13.5" />
+        </g>
+        <g>
+            <line class="cls-7" x1="120.7" y1="180" x2="120.7" y2="224.5" />
+            <circle class="cls-8" cx="121.2" cy="247" r="13.5" />
+        </g>
+        <g>
+            <line class="cls-7" x1="166.3" y1="197" x2="166.3" y2="241.5" />
+            <circle class="cls-8" cx="166.8" cy="264" r="13.5" />
+        </g>
+        <g>
+            <line class="cls-7" x1="212" y1="180" x2="212" y2="224.5" />
+            <circle class="cls-8" cx="212.5" cy="247" r="13.5" />
+        </g>
+    </g>
+    </g>
+</svg>

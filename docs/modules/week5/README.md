@@ -1,21 +1,21 @@
-# Week 5 - Typography & Depth
+# Week 5 - Typography, Appearance, & Exporting
 
-## Typography, special effects, perspective grid, flare tool and exporting
+::: tip Files
+[Week 5 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1mdDizV8gdjXNZDiHo1akAPKbxpeUPd6Y)
+:::
 
-In this module, you will be learning how to add text to your designs, apply `effects` to that text and other objects, use the `perspective grid` to give a three-dimensional effect to the artboard contents and use the `flare` tool to replicate the effect of light.
+## Introduction
 
-Once your design is complete, you are going to need to `export` it to be able to use it for the online or print projects. Here you will learn how to export to different types of files.
+In this module, you will be learning how to add properly styled text to your designs, apply effects to that text and other objects, how to properly export your artwork properly for the web to multiple sizes and file types all at once.
 
-### Let's get familiar with the BASIC OF TYPOGRAPHY.
+## Basics of Typography
+
 <YouTube
   title="Beginning Graphic Design: Typography"
   url="https://www.youtube.com/embed/sByzHoiYFX0"
 />
 
-
-### TYPOGRAPHY
-
-Typography is the arrangement of type to reflect a particular style and appearance. Take a look at this series of short tutorials and practice [**adding text to your designs.**](https://helpx.adobe.com/ca/illustrator/how-to/text-basics.html)
+Typography is the arrangement of type to reflect a particular style and appearance. Take a look at this series of short tutorials and practice [adding text to your designs](https://helpx.adobe.com/ca/illustrator/how-to/text-basics.html).
 
 - Add a line of text
 - Add paragraphs of text
@@ -23,56 +23,139 @@ Typography is the arrangement of type to reflect a particular style and appearan
 - Place text on or inside a path
 - Re-shape text
 
+### Font Classifications
 
-### SPECIAL EFFECTS
+The two most common types of font classifications are Serif and Sans-serif. A serif is the small line or stroke at the end of characters in some type faces. Other common classifications you may run into include script (or cursive in CSS), slab serif, mono, and decorative, however there are many other classifications.
 
-The effects menu has a set of really interesting options that can make your design really interesting. Check this set of short tutorials to [**add images and artistic effects.**](https://helpx.adobe.com/ca/illustrator/how-to/image-effects-basics.html)
+::: tip Font classifications
 
-- Add images (vector vs raster)
-- Understand effects
-- Add effects
-- Add creative brush strokes
+  <p>
+    <span class="scale-1" style="font-family: serif;">Serif</span>
+    <span style="font-family: serif;"> Ex: Georgia, Times New Roman</span>
+  </p>
+  <p>
+    <span class="scale-1" style="font-family: sans-serif;">Sans Serif</span>
+    <span style="font-family: sans-serif;"> Ex: Arial, Helvetica</span>
+  </p>
+  <p>
+    The font used on this site is called {% include snippets/link-external.liquid link="https://fonts.google.com/specimen/Poppins" text="Poppins" %}, which is a <strong>sans-serif</strong> font.
+  </p>
+:::
 
+#### Recommended Font Sites
 
-### PERSPECTIVE GRID
+- [Adobe Fonts](https://fonts.adobe.com) - large collection of premium fonts that are included in your subscription. Can be used effectively for both print and web.
+- [Google Fonts](https://fonts.google.com) - large collection of well made free fonts. Great for use on the web and for clients with small budgets.
 
-The perspective grid tool allows you to easily create three-dimensional designs starting from two-dimensional shapes and in only a couple of steps. Let's follow this *Satori Graphics* video tutorial to try it out.  
+::: tip Careful of Free Font Websites!
+There are a lot of websites that give away free fonts, however you need to be careful with the fonts you find online. Often, they are community made fonts that will have issues such as lacking all the proper characters needed for the web, or are just poorly designed and hard to read. Some sites also provide free downloads for fonts that they do not have the legal right to provide, which could land you in trouble in the future if you use that font for a real job/client.
 
-To access `Perspective Grid` Tool and `Perspective Selection` Tool in the Advanced toolbar, read [helpx.adobe.com/illustrator/using/tools.html](https://helpx.adobe.com/illustrator/using/tools.html)
+In general, I would suggest sticking with the above font site suggestions!
+:::
 
-<YouTube
-  title="Beginning Graphic Design: Color"
-  url="https://www.youtube.com/embed/Uzig2s7pNss"
-/>
+## Type Tools
 
+### Character Panel
 
-### FLARE TOOL
+The character panel is used to format the styles of characters of your type. Here you can pick your fonts, weight, style, size, and numerous other settings.
 
-The flare tool is an effect you can add to your design and manipulate to mimic the effect of light. The video below created by *Jeremy Mura* shows us how it works and how we can quickly modify the colours.  
+<figure>
+<img src="./panel-character-styles.jpg" alt="" />
+<figcaption>
+<ol>
+<li><strong>Font Family</strong> <p>
+  A group of fonts containing varying weight and styles options of the same design.
+</p></li>
+<li><strong>Font Weight/Style</strong> <p>
+  The weight and style options within a single font family.
+</p></li>
+<li><strong>Font Size</strong> <p>
+  The size of the characters.
+</p></li>
+<li><strong>Leading</strong> <p>
+  The space between lines of type. Measured from the bottom of one line of characters to the bottom of the next line of characters.
+</p></li>
+<li><strong>Kerning</strong> <p>
+  Modify spacing between specific characters.
+</p></li>
+<li><strong>Tracking</strong> <p>
+  Modify spacing between all characters.
+</p></li>
+<li><strong>Vertical Scaling</strong> <p>
+  Vertically stretches type. <span class="bold">Do not stretch type</span>. Stretching type is considered bad typography. You should always see 100% here.
+</p></li>
+<li><strong>Horizontal Scaling</strong> <p>
+  Horizontal stretches type. <span class="bold">Do not stretch type</span>. Stretching type is considered bad typography. You should always see 100% here.
+</p></li>
+<li><strong>Baseline Shift</strong> <p>
+  Shifts the baseline (the invisible line which type sits on) up or down.
+</p></li>
+<li><strong>Character Rotation</strong> <p>
+  Rotates characters within the text box.
+</p></li>
+<li><strong>Character Options</strong> <p>
+  Allows you to apply styling options such as All Caps, Small Caps, Superscript, Subscript, Underline, and Strikethrough
+</p></li>
+</ol>
+</figcaption>
+</figure>
 
-You can find the `Flare tool` in the `Shape tools` group in the **Advanced toolbar.** 
+### Paragraph Panel
 
-<YouTube
-  title="Beginning Graphic Design: Color"
-  url="https://www.youtube.com/embed/gIck9RHQshk"
-/>
+The paragraph panel is used to format styles that affect a group of text, or a paragraph. Paragraph styles include text alignment, indentation, spacing before and after, and hyphenation.
 
+Different paragraphs within the same text box can have different paragraph styles, however they must be divided by new line or a hard return. Characters within the same paragraph all share the same paragraph styles.
 
-### EXPORTING OPTIONS
+<figure>
+<img src="./panel-paragraph-styles.jpg" alt="" />
+<figcaption>
+<ol>
+  <li><strong>Text Alignment</strong><p>
+    Text alignment options including align left, align center, align right, justify left, justify center, justify right, and full justify.
+  </p></li>
+  <li><strong>Left Indent</strong><p>
+    Control how much indent is on the left hand side of text.
+  </p></li>
+  <li><strong>Right Indent</strong><p>
+    Control how much indent is on the right hand side of text.
+  </p></li>
+  <li><strong>First-Line Left Indent</strong><p>
+    Control how much indent is on only the first line of the left hand side of text.
+  </p></li>
+  <li><strong>Space Before</strong><p>
+    Controls how much space is made before the paragraph separating it from the previous paragraph in the same text box.
+  </p></li>
+  <li><strong>Space After</strong><p>
+    Controls how much space is made after the paragraph separating it from the next paragraph in the same text box.
+  </p></li>
+  <li><strong>Hyphenation</strong><p>
+    Turns on or off automatic word hyphenation. Word hyphenation is used to balance the length of lines in a paragraph and spacing between words. Hyphenation is generally not used on the web so you should have this unchecked.
+  </p></li>
+</ol>
+</figcaption>
+</figure>
 
-There are many applications to the designs you produce in illustrator, and depending on the purpose of the design, you may want to export file in a different format for different purposes.
+## Appearance panel
 
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/export-assets-web-app-design.html" target=”_blank”>![How to export assets for the web using Illustrator](./exportOptions.png)</a>
+The Appearance panel gives us more direct control over the styling of our shapes and type. It allows us to apply and layer multiple strokes, fills, and effects to make more interesting designs.
 
-#### Final note: Check out [What's new in Illustrator](https://helpx.adobe.com/illustrator/using/whats-new.html) to keep up with the updates. 
+![Appearance panel](./appearance-panel.png)
 
+- **A.** Path with stroke, fill, and drop shadow effect
+- **B.** Path with effect
+- **C.** Add New Stroke button
+- **D.** Add New Fill button
+- **E.** Add Effect button\*
+- **F.** Clear Appearance button
+- **G.** Duplicate Selected Item button
 
-## TODO
+\* Effects can be applied to the entire shape, or individual strokes or fills.
 
-::: tip TODO Before next week
+::: tip To Do for Next Week
 
-- If you have not read all these notes and watched the videos from this week, do that first.
-- Finish reading the notes for week 5 and watch all the videos and the notes for week 6.
-- Hybrid 4 - In-class: Typography
-- Online Quiz 1 – Basic design knowledge and tools
+- Complete Personalized Name exercise
+- Complete App Icon
+- Complete Illustrator Quiz
+- Install Adobe Photoshop
+- Review week 6 Introduction to Photoshop content
   :::

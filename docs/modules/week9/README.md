@@ -1,79 +1,113 @@
-# Week 9 - Photo retouching & Image optimization
+# Week 9 - Photo Manipulation & Composition
 
-## Last but not least of Photoshop
+::: tip Files
+[Week 9 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1GbhSjtr2Xcd04uYC-9zqTDUc-lRYABCx)
+:::
 
-It's time to have fun with intuitive photo retouching and restoring tools. We will work on optimizing images for the web. User hates to wait, taking 2-3 seconds to load an image is a long time for them. Our goal is to deliver high-quality images in the right format, dimension, resolution while keeping the smallest possible size with the least loading time. Finally, we will wrap up our learning by explorering the new and popular 2020 Adobe Photoshop CC features. 
+## Introduction
 
-## Photo Retouching & Restoration
-
-[*Tool galleries*](https://helpx.adobe.com/photoshop/using/tools.html#tool_galleries) provides us a quick access to `Retouching tools gallery`. We will practice these tools when working on Hybrid 7 - Clean me up exercise.
-
-![Photoshop Retouching tools](./retouching-tools.png)
-
-
-### BASIC RETOUCH TOOLS
-
-In this short video, Jeff Rojas discusses 5 basic retouching tools and where they're best used: Spot Healing Brush, Healing Brush, Patch, Content-Aware Move, and Clone Stamp tools
+Before we dive into how we make our photo manipulations and composites, let's take some time to consider **layout and composition** fundamentals. It is incredibly important to properly consider and plan how are images will be laid out in order to create an effective design.
 
 <YouTube
-  title="5 Basic retouching tools"
-  url="https://www.youtube.com/embed/30lc8fW7m2Y"
+  title="Beginning Graphic Design: Typography"
+  url="https://www.youtube.com/embed/a5KYlHNKQB8"
 />
 
-### ART HISTORY BRUSH TOOLS 
+## Types of Layers
 
-You can turn a Photograph into a painting with Photoshop Art History Brush tools. This video will walk you through how to use the `Art History Brush` and `history brush` tools.
+There are a number of different layer types in Photoshop. The different layer types can be differentiated by the preview and icon that is shown beside the layer name in the `Layers` panel.
+
+![Layer types](./different-types-of-layers.png)
+
+<ol>
+  <li><strong>Type Layer</strong><p>
+    Used to display text. Text boxes can be either Point Type or Area Type boxes 
+  </p></li>
+  <li><strong>Image Layer</strong><p>
+    A basic layer that displays image content. This type of layer can be edited directly with numerous tools (for example: the paintbrush). Resizing this type of layer will result in permanent change to size and quality of layer.
+  </p></li>
+  <li><strong>Vector Shape Layer</strong><p>
+    Features vector shapes that are created directly in Photoshop with the Pen, Rectangle, Ellipse, etc. tools. Shapes on this layer are vector and can be edited and resized without loss to layer quality.
+  </p></li>
+  <li><strong>Layer Styles</strong><p>
+    Layer styles are effects and adjustments that are applied directly to a single layer or group.
+  </p></li>
+  <li><strong>Smart Object</strong><p>
+    A smart object is a layer that is protected from direct editing. Any effect, filter, or resizing done to this layer is non-destructive. The contents of the layer can be edited directly by opening the layer contents in a separate window.
+  </p></li>
+  <li><strong>Smart Filter</strong><p>
+    A filter applied to a Smart Object that is non-destructive and can be updated after initial application.
+  </p></li>
+  <li><strong>Layer Mask</strong><p>
+    A non-destructive method to show and hide certain portions of a layer. Can be applied to <strong>any</strong> layer type. Areas of the layer mask that are white will be visible, areas that are black will be fully transparent, and areas that are grey will be semi-transparent based on how dark the grey is.
+  </p></li>
+  <li><strong>Adjustment Layer</strong><p>
+    Applies an adjustment or effect to all layers below it in the Layers panel. Adjustments include color adjustments, brightness &amp; contrast, saturation and more.
+  </p></li>
+  <li><strong>Background</strong><p>
+    A default layer included in new Photoshop projects. Generally not required and can be deleted.
+  </p></li>
+</ol>
+
+## Layer Styles
+
+Layer effects and styles cover how a layer style is one or more effects applied to a layer or layer group. They change the appearance of a layer’s contents in a non-destructive way.
+
+The video below walks us through how to use layer styles, the different types of layer styles, how to remove, copy, and add them.
 
 <YouTube
-  title="Art History Brush in Photoshop CC"
-  url="https://www.youtube.com/embed/V5UPmn9uflY"
+  title="Beginning Graphic Design: Typography"
+  url="https://www.youtube.com/embed/gZZKYc7l2YA"
 />
 
+### Optional Practice
 
-### DODGE, BURN, SPONGE
-
-Byron Heal covers dodge tool, burn tool, sponge tool, and two dodge/burn examples in this 11-min tutorial. 
+Practice more with How to Create a Glowing NEON Sign Text Effect Using Layer Styles video.
 
 <YouTube
-  title="5 Basic retouching tools"
-  url="https://www.youtube.com/embed/ShmOZGt1l04"
+  title="Beginning Graphic Design: Typography"
+  url="https://www.youtube.com/embed/lrXTg7MzVyk"
 />
 
+## Adjustment Layers
 
-## Export as 
+Adjustment layer lets you apply colour and tonal adjustments to your image without permanently changing pixel values.
 
-There are a few types of images that can be used on the web and mobile devices: JPGs, PNGs, SVGs, favicons, and GIFs. This flowchart will help you choose the appropriate format.
-
-![Choosing an image format](https://learn-the-web.algonquindesign.ca/topics/image-formats/flow-chart.png)
-
-[*Export documents, artboards, and layers in various image file formats*](https://helpx.adobe.com/photoshop/using/export-artboards-layers.html) provides information to help you export images into correct PNG, JPG, GIF, and SVG file formats.
-
-Let's follow along this video tutorial to pratice `Export As` feature in Photoshop. Note: You will use it for your final project. 
-
-<a href="https://helpx.adobe.com/photoshop/how-to/export-image-web.html" target="_blank">![Choosing an image format](./ps-export-as.png)</a>
-
-## Everything New in Adobe Photoshop CC 2020
-[*What's new in Photoshop*](https://helpx.adobe.com/photoshop/using/whats-new.html) has the most recent Photoshop information. Photoshop CC 2020 is a big update with a lot of exciting new features. Watch this video to review and learn new tools: `Object Selection` tool, enhanced `Warp Transformation`, improved `Properties panel`, `Lens Blur` effect, `Cloud Documents` 
+This video explains what Photoshop adjustment layers are and the best way to work with them. Adjustment layers allow you to change the hue and situation, contrast, colour grading and the tone curve in Photoshop. You can use the adjustment layer mask to help with more refined photoshop editing techniques.
 
 <YouTube
-  title="What's new in 2020 Photoshop CC"
-  url="https://www.youtube.com/embed/f8_S8M6ZJt4"
+  title="Beginning Graphic Design: Typography"
+  url="https://www.youtube.com/embed/RPn5fTWCZnU"
 />
 
+## Smart Filters
 
-Bonus video: Photoshop 2021 All The Best NEW Features EXPLAINED!
+The first video will teach us to apply creative filters using the Filter Gallery. The edit is applied permanently to the image.
 
-<YouTube
-  title="Photoshop 2021 All The Best NEW Features EXPLAINED!"
-  url="https://www.youtube.com/embed/f3kYFnIYB0s"
-/>
+Browse the Filter Gallery
+Blur an image with Smart Filters
+Apply Smart Filters let you add filter to a Smart Object layer. Smart Filters appear in the Layers panel below the Smart Object layer applied. You can adjust, remove, or hide Smart Filters, so they are nondestructive editing. Follow along the 2nd video to Blur an image with Smart Filters.
 
+[![Adobe tutorial for Smart Filters](./smart-filters.png)](https://helpx.adobe.com/photoshop/how-to/applying-filters-basics.html#blur_an_image_with_smart_filters)
 
-## TODO
+## Blend Modes
 
-::: tip TODO Before next week
+Layer blend modes enable the colors and tones on one layer to interact with those on the layer below. We will follow this video to put everything together by combining images and applying blend modes to create an interssting composite.
 
-- If you have not read all these notes and watched the videos from this week, do that first.
-- Read the notes and watch all the videos for Week 10.
-- Hybrid 7 - In-class: Clean me up
+[![Adobe tutorial for Smart Filters](./composite-w-blending.png)](https://helpx.adobe.com/photoshop/how-to/composite-image-with-blend-modes.html)
+
+## Exercise Inspiration
+
+We can [build a composite with layer masks](https://helpx.adobe.com/photoshop/how-to/create-composite-with-layer-mask.html) and go even further to [match color in a composite](https://helpx.adobe.com/photoshop/how-to/match-color-tones-composite.html).
+
+Get inspired by this 1-min video tutorial: [How to make a photo composite](https://create.adobe.com/2019/7/16/how_to_make_a_photo_.html)
+
+## To Do
+
+::: tip To Do for Next Week
+
+- Complete Photo Composite exercise
+- Complete first draft of Profile Card assignment
+- Post your draft to the Profile Card Feedback dicussion
+- Review week 10 content
   :::

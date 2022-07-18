@@ -1,23 +1,26 @@
 {
   "name": "mad9011",
   "description": "Mobile Design Fundamentals",
-  "version": "1.0.0",
+  "version": "3.0.7",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/plugin-active-header-links": "^1.8.2",
-    "@vuepress/plugin-back-to-top": "^1.8.2",
-    "@vuepress/plugin-nprogress": "^1.8.2",
-    "@vuepress/plugin-register-components": "^1.8.2",
-    "@vuepress/plugin-search": "^1.8.2",
-    "vuepress": "^1.8.2"
+    "@vuepress/plugin-active-header-links": "^1.9.2",
+    "@vuepress/plugin-back-to-top": "^1.9.2",
+    "@vuepress/plugin-nprogress": "^1.9.2",
+    "@vuepress/plugin-register-components": "^1.9.2",
+    "@vuepress/plugin-search": "^1.9.2",
+    "date-fns": "^2.16.1",
+    "vuepress": "^1.9.2"
   },
   "scripts": {
+    "predocs:build": "npm version patch --no-git-tag-version",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "deploy": "/bin/bash deploy.sh"
   },
   "dependencies": {
-    "workbox-cli": "^5.1.3"
+    "@vuepress/theme-default": "^1.9.7",
+    "workbox-cli": "^6.5.0"
   }
 }

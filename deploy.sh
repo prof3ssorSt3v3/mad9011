@@ -7,11 +7,12 @@ set -e
 npm run docs:build
 
 # Upload the whole site to the private personal repo
-#git pull origin f2021
+git branch -M f2022
+git pull origin f2022
 git add -A 
 git commit -m 'course update'
 # REPLACE NEXT LINE with your own private repo link
-git push -f git@github.com:prof3ssorSt3v3/mad9011.git f2021
+git push -f git@github.com:prof3ssorSt3v3/mad9011.git f2022
 #               git@github.com:<username>/<repo>.git 
 
 # Upload the public github.io coursebook version
@@ -23,7 +24,7 @@ git add -A
 git commit -m 'deploy dist from private to public'
 git branch -M main
 # REPLACE NEXT LINE with public link for coursebook repo
-git push -f git@github.com:MAD9011/F2021.git main
+git push -f git@github.com:MAD9011/f2022.git main
 
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master

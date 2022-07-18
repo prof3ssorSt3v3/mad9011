@@ -1,99 +1,126 @@
-# Week 7 - Nondestructive editing & image composite
+# Week 7 - Photo Retouching
 
-## Layout & Composition, Fundation of Design
+::: tip Files
+[Week 7 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1SKVZ_Jr1jCpd7GFi-vbsPL3o0alWvBIx)
+:::
 
-To make an image look good, we will first go over the Fundation of Design for Layout & Composition.
+## Introduction
 
-<YouTube
-  title="Beginning Graphic Design: Layout & Composition"
-  url="https://www.youtube.com/embed/a5KYlHNKQB8"
-/>
+Whether they’re blemishes on skin or stains on a surface, Photoshop has a tool to remove them quite easily. Our focus here will be on working non-destructively. That means that we don’t want to paint on the original photo at all. The added advantage working this way is that our painting will be accessible on their own layers.
 
-Now, let's get familiar with the powerful feature of **nondestructive editing layers** in Photoshop. We will composite images with text layers, shape layers, layer effects, adjustment layers, smart filter layers, smart objects, and the blending mode to make changes to an image without overwriting its original image data.
+## Retouching Tools
 
-![Different Types of Photoshop Layers](./different-types-of-layers.png)
+<img src="./tool-icons-psd-cloning.svg" style="max-width: 7.5rem;" alt="Photoshop's retouching tools">
 
+1. Clone Stamp Tool
+2. Spot Healing Brush Tool
+3. Healing Brush Tool
+4. Patch Tool
+5. Red Eye Tool
 
-## Nondestructive Image Editing 
+These are the tools we’ll focus on. They’re all made to repair photographs.
 
-[*Techniques for nondestructive editing* -](https://helpx.adobe.com/ca/photoshop/using/nondestructive-editing.html) Because nondestructive editing doesn’t remove data from an image, the image quality doesn’t degrade when you make edits. Now, we will use the type and shape tools to create layers. 
+### Clone Stamp Tool
 
-### TEXTS & SHAPES
+<img src="./tool-icon-clone-stamp.svg" style="max-width: 7.5rem;" alt="Clone Stamp tool icon">
 
-Text and shape layers are editable in Photoshop just like they are in Illustrator. This set of video tutorials covers the basics of [adding texts and shapes layers.](https://helpx.adobe.com/photoshop/how-to/adding-text-shapes-basics.html)
+The Clone Stamp Tool is often called the rubber stamp tool for a reason. It works very similarly. You take a sample on your photo, then you replicate it at another location. The goal is most often to cover up something under the cloning.
 
-- Add text
-- Edit text
-- Create a graphic shape
-- Add a built-in custom shape
+![Photoshop workspace set up for clone stamping](./retouching-clone-stamp-tool.jpg)
 
+::: tip Tip
+Create a new empty layer called <strong>Retouching</strong>. Do not duplicate the photo's layer.
+:::
 
-### LAYER STYLES
+The Clone Stamp Tool doesn’t do any calculations or adjustments. It just clones the pixels you sampled, no matter whether they match or not.
 
-[*Layer effects and styles*](https://helpx.adobe.com/photoshop/using/layer-effects-styles.html) cover how a layer style is one or more effects applied to a layer or layer group. They change the appearance of a layer’s contents in a non-destructive way. 
+### Healing Brush
 
-The video below walks us through how to use layer styles, the different types of layer styles, how to remove, copy, and add them. 
+<img src="./tool-icon-healing-brush.svg" style="max-width: 7.5rem;" alt="Healing brush tool icon">
 
-<YouTube
-  title="Everything You Need To Know About Photoshop Layer Styles"
-  url="https://www.youtube.com/embed/gZZKYc7l2YA"
-/>
+The Healing Brush Tool works very similarly to the Clone Stamp Tool, except that it’s a smarter tool. You need to sample an area first. When you release the mouse while cloning, it evaluates the surrounding pixels then adjusts the cloned pixels to blend into their surroundings.
 
-Practice more with _How to Create a Glowing NEON Sign Text Effect Using Layer Styles_ video.  
+### Spot Healing Brush Tool
 
-<YouTube
-  title="How to Create a Glowing NEON Sign Text Effect Using Layer Styles"
-  url="https://www.youtube.com/embed/lrXTg7MzVyk"
-/>
+<img src="./tool-icon-spot-healing-brush.svg" style="max-width: 7.5rem;" alt="Spot healing brush tool icon">
 
+The Spot Healing Brush works by simply clicking on blemishes. There’s no need to sample pixels first. Just adjust the diameter and hardness of your brush, then click away. Just make sure you’re on a new, empty layer.
 
-### ADJUSTMENT LAYERS (BASIC)
+This is the perfect tool for removing blemishes on a subject’s skin. It should be your go-to tool. If you find it not bending to your will, go back to the Clone Stamp Tool.
 
-[*Adjustment layer*](https://helpx.adobe.com/photoshop/how-to/adjustment-layer.html) lets you apply colour and tonal adjustments to your image without permanently changing pixel values. 
+### Patch Tool
 
-This video explains what Photoshop adjustment layers are and the best way to work with them. Adjustment layers allow you to change the hue and situation, contrast, colour grading and the tone curve in Photoshop. You can use the adjustment layer mask to help with more refined photoshop editing techniques.
+<img src="./tool-icon-patch-tool.svg" style="max-width: 7.5rem;" alt="Patch tool icon">
 
-<YouTube
-  title="Photoshop adjustment layers tutorial"
-  url="https://www.youtube.com/embed/RPn5fTWCZnU?t=68"
-/>
+The Patch Tool is made to fix blemishes on large, rather flat surfaces in a photo. The idea is that you drag a good part of the photo on top of a damaged part of the photo. The tool does the work of blending the patch into its surroundings.
 
-### SMART FILTERS
+<figure>
+<img src="./retouching-scar-patch.jpg" alt=""/>
+<figcaption>
+  The scar was repaired using the Patch tool on Content Aware mode on its own layer.
+</figcaption>
+</figure>
 
-The first video will teach us to apply creative filters using the [Filter Gallery.](https://helpx.adobe.com/photoshop/how-to/applying-filters-basics.html) The edit is applied permanently to the image.
+Note that if the Patch setting is at Normal, the tool doesn’t work on a separate layer. It’s best to set it to `Content Aware`, then work on a new empty layer named Patching.
 
-- Browse the Filter Gallery
-- Blur an image with Smart Filters
+#### Patch Settings
 
-[*Apply Smart Filters*](https://helpx.adobe.com/ca/photoshop/using/applying-smart-filters.html) let you add filter to a `Smart Object` layer. Smart Filters appear in the Layers panel below the Smart Object layer applied. You can adjust, remove, or hide Smart Filters, so they are nondestructive editing. Follow along the 2nd video to [Blur an image with Smart Filters.](https://helpx.adobe.com/photoshop/how-to/applying-filters-basics.html#blur_an_image_with_smart_filters)
+<dl>
+<dt>Structure</dt>
+<dd>
+  Enter a value between 1 and 7 to specify how closely the patch should reflect existing image patterns. If you enter 7, the patch adheres very strongly to existing image patterns. If you enter 1, the patch adheres very loosely to the existing image patterns.</dd>
+<dt>Color</dt>
+<dd>
+  Enter a value between 0 and 10 to specify the extent to which you want Photoshop to apply algorithmic color-blending to the patch. If you enter 0, color blending is disabled. A Color value of 10 applies maximum color blending.
+</dd>
+<dt>Sample All Layers</dt>
+<dd>
+  Enable this option to create the result of the move in another layer using information from all layers. Select the target layer in the Layers panel.
+</dd>
+</dl>
 
-<a href="https://helpx.adobe.com/photoshop/how-to/applying-filters-basics.html#blur_an_image_with_smart_filters" target="_blank">![Blur an image with Smart Filters](./smart-filter.png)</a>
+### Red Eye Tool
 
+<img src="./tool-icon-patch-tool.svg" style="max-width: 7.5rem;" alt="Red eye tool icon">
 
-Don't forget to play with this FUN [*Liquify Filter!*](https://helpx.adobe.com/photoshop/how-to/face-aware-liquify.html)
-<img src="https://i.pinimg.com/564x/99/57/c8/9957c8529955562c6b9d4b035cdb54fb.jpg" style="width:600px;" alt="Liquify example by petapixel.com">
+<strong>Let’s avoid using this tool</strong>. We’ll use a Hue/Saturation adjustment layer instead.
 
+We’ve all seen the red eye effect in photos. Few know that it comes from light from your flash bouncing off the blood vessels at the back of the eye to return to your camera.
 
-### BLEND MODES 
+![Photoshop workspace set up for clone stamping](./repairing-blemishes-removing-red-eye.jpg)
 
-Layer blend modes enable the colors and tones on one layer to interact with those on the layer below. We will follow this video to put everything together by combining images and applying blend modes to create an interssting composite. 
+Use an Adjustmet Layer to desaturate the red from the eyes. This preserves the detail in the pupils.
+Create a Hue/Saturation Adjustment Layer. Turn the Saturation down to -100. Invert your mask to make it black. Then pain the red eyes with a very soft white brush.
 
-<a href="https://helpx.adobe.com/photoshop/how-to/composite-image-with-blend-modes.html" target="_blank">![Create a composite with blend modes](./composite-w-blending.png)</a>
+> A reflection of the camera flash in the subject’s retina causes red eye. You’ll see it more often when taking pictures in a darkened room because the subject’s iris is wide open. To avoid red eye, use the camera’s red eye reduction feature. Or, better yet, use a separate flash unit that you can mount on the camera farther away from the camera’s lens. [From: Adobe](https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html)
 
+### Key Points to Remember
 
-#### Extra
+The important factor is to never touch the original photo. Make sure edits you make are on their own layers. This allows you to return to the photo to make changes. You can also turn off your new layers to see the original photo.
 
-We can [build a composite with layer masks](https://helpx.adobe.com/photoshop/how-to/create-composite-with-layer-mask.html) which we have learned last week, and even further to [match color in a composite.](https://helpx.adobe.com/photoshop/how-to/match-color-tones-composite.html)
+## Content Aware Tools
 
-Get inspired by this 1-min video tutorial: [How to make a photo composite](https://create.adobe.com/2019/7/16/how_to_make_a_photo_.html)
+The Content Aware Tools in Photoshop are truly magical. They make a really good guess at how you want to fill in shapes. All you do is lasso the unwanted area, then `Edit > Fill > Content Aware Fill`. Presto!
 
+![Photoshop workspace set up for clone stamping](./content-aware-fill-2.jpg)
 
-## TODO
+Make a selection, then use `Edit > Fill > Content Aware Fill` to open the Content Aware Fill dialogue. In this dialogue you can select which areas of the photo to sample from by painting on the green sections. On the right side you will see a preview of the fill. When you are happy with the results, make sure **Output to** is set to **New Layer** then click **OK** and it will automatically create a new layer with the filled area.
 
-::: tip TODO Before next week
+Depending on how complex the fill needs to be, you may need to layer a couple fills for best results. However, often with simpler fixes, one is enough.
 
-- If you have not read all these notes and watched the videos from this week, do that first.
-- Read the notes and watch all the videos for Week 9.
-- Hybrid 6 - Composite an image
-- Assignment 2 - Employee profile page
+::: tip Tip
+If you're zoomed in really closely, you can hold h, then click-hold with your mouse to zoom out and choose another zoom location. Go ahead; give it a whirl.
+:::
+
+Content on this page is used with permission from [cg.algonquindesign.ca](https://cg.algonquindesign.ca/topics/retouching-fundamentals.html)
+
+## To Do
+
+::: tip To Do for Next Week
+
+- Complete Retouching exercise
+- Get planning for the Profile Card assignment
+- Post your draft to the Profile Card Feedback discussion
+- Review week 9 content
+- Have a good break week!
   :::
