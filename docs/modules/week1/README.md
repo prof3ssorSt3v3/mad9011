@@ -9,6 +9,8 @@
 
 ## Introduction
 
+Testing :D
+
 Welcome to MAD9010, Graphic Technologies. In this design course, we are going to explorer fundamental design concepts and learn the fun and useful tools to help you design graphics and interfaces.
 
 To have a smooth start:
