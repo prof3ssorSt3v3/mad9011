@@ -1,41 +1,36 @@
-# Exercise 5 — Select & Mask
+# Exercise 5 — Character Vectorization
 
 ::: tip Files
-[Exercise file download](https://drive.google.com/uc?export=download&id=1iy7-1MbKPXdiAkfPTIOTUEdLv6B7mzS0)
+[Exercise file download](https://drive.google.com/uc?export=download&id=1edMo785M-wcy76DclQJfqZSNBaMe_AE1)
 :::
 
 ## Instructions
 
-Select one of the provided images (or source your own image) and use the masking techniques learned in class to remove original background of the image. Once the original background is removed find a new image and place it as the new background. You can find free stock images for the background at [Unsplash](https:://unsplash.com), [Pixabay](https://pixabay.com), or another stock image site (just make sure your stock image does not have a watermark on it). Once you have completed masking your subject and replacing the background, export your image using the Export As... dialogue into an Exports folder.
+Find an image of a cartoon character you like (or pick from the provided options) and recreate the image by tracing over the lines of the image. The goal for this assignment is to get comfortable using the pen tool. Focus on creating good lines and curves. You can apply colours and other effects if you like, but it is not required, you will only be marked based on how well you recreate the line work of the image. If you find your own image, it must have a similar level of detail, or more, than the provided options.
+
+![Kermit the frog example](./assets/kermit-the-frog.png)
 
 ## File Set Up
 
-Your Photoshop file should be named fName-lName-section#-select-and-mask.psd. The size of your artboard will be dependent on your original subject image. Your file should have a layer named "Subject" containing your foreground image that is masked and a layer named "Background" featuring your new background image.
+Create your own Illustrator file titled **fName-lName-section#-character-vectorization.ai**. Your file should have two layers, one featuring the reference image labeled "Template", the other with your completed recreation labeled "Final Artwork".
+
+**Package** your Illustrator file so that it collects your Ai file and reference image into a folder. Within your packaged folder, create a new folder called Exports and export your artwork as a JPEG at 800px wide (height will vary depending on your artwork) using the **Export for Screens** dialogue. Make sure your artwork fits nicely inside of your Artboard to ensure your export looks good! Zip the folder and then upload your **fName-lName-section#-character-vectorization.zip** folder to BrightSpace.
 
 ## Grading
 
-| Category               | Weight |
-| ---------------------- | ------ |
-| Masking Technique      | 2      |
-| Background Replacement | 1      |
-| Exporting Image        | 1      |
-| File Organization      | 1      |
-| **Total**              | **5**  |
+| Category           | Weight |
+| ------------------ | ------ |
+| Character Creation | 3      |
+| File Organization  | 1      |
+| **Total**          | **4**  |
 
 ## Submission
 
-Compress and submit your lName-fName-section#-select-and-mask folder. The folder should contain:
-
-- lName-fName-section#-select-and-mask.psd Photoshop file
-- Links folder containing original images
-- Exports folder containing:
-  - lName-fName-section#-select-and-mask.jpg - 72dpi 1000px wide
-
 ::: warning Due Date
 
-Section 300: Tuesday, October 19, 2021 @ 7pm
+Section 300: Tuesday, October 5, 2021 @ 7pm
 
-Section 310: Wednesday, October 20, 2021 @ 7pm
+Section 310: Wednesday, October 6, 2021 @ 7pm
 
-Submit on Brightspace under Assignments > Exercise 5 — Select & Mask
+Submit on Brightspace under Assignments > Exercise 3 - Character Vectorization
 :::

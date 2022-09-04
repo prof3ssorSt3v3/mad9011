@@ -1,36 +1,37 @@
-# Exercise 3 — Character Vectorization
+# Exercise 3 — Logo Recreation
 
 ::: tip Files
-[Exercise file download](https://drive.google.com/uc?export=download&id=1edMo785M-wcy76DclQJfqZSNBaMe_AE1)
+[Exercise file download](https://drive.google.com/uc?export=download&id=1Orqe3IpIUOCBo2ZLrgctsJgryYfjTqw3)
 :::
 
-## Instructions
+## Introduction
 
-Find an image of a cartoon character you like (or pick from the provided options) and recreate the image by tracing over the lines of the image. The goal for this assignment is to get comfortable using the pen tool. Focus on creating good lines and curves. You can apply colours and other effects if you like, but it is not required, you will only be marked based on how well you recreate the line work of the image. If you find your own image, it must have a similar level of detail, or more, than the provided options.
+The goal of this assignment is to learn how basic shapes can be used to create logos and other designs. You will be recreating the three logos provided in the attached starter file. Create your version of the logos in the corresponding labeled Artboards on the "Final Artwork" layer. The logos can all be created using simple shapes to start and then using the pathfinder tools and manipulating the anchor points to get the final shapes.
 
-![Kermit the frog example](./assets/kermit-the-frog.png)
+![Three logos example](./assets/3-logos.jpg)
 
-## File Set Up
+## Requirements
 
-Create your own Illustrator file titled **fName-lName-section#-character-vectorization.ai**. Your file should have two layers, one featuring the reference image labeled "Template", the other with your completed recreation labeled "Final Artwork".
+Save and upload your Illustrator file to BrightSpace named as follows: **lName-fName-section#-logo-recreation.ai**. You do not need to export or upload JPG versions of the files. All you need to submit is your Illustrator file with the completed logo recreation. Your file should like something like this when I open it:
 
-**Package** your Illustrator file so that it collects your Ai file and reference image into a folder. Within your packaged folder, create a new folder called Exports and export your artwork as a JPEG at 800px wide (height will vary depending on your artwork) using the **Export for Screens** dialogue. Make sure your artwork fits nicely inside of your Artboard to ensure your export looks good! Zip the folder and then upload your **fName-lName-section#-character-vectorization.zip** folder to BrightSpace.
+![File setup example](./assets/logo-recreation-example.png)
 
 ## Grading
 
-| Category           | Weight |
-| ------------------ | ------ |
-| Character Creation | 3      |
-| File Organization  | 1      |
-| **Total**          | **4**  |
+| Category          | Weight |
+| ----------------- | ------ |
+| 3 Logos           | 3      |
+| File Organization | 1      |
+| **Total**         | **4**  |
 
 ## Submission
 
 ::: warning Due Date
 
-Section 300: Tuesday, October 5, 2021 @ 7pm
+Section 300: Tuesday, September 21, 2021 @ 7pm
 
-Section 310: Wednesday, October 6, 2021 @ 7pm
+Section 310: Wednesday, September 22, 2021 @ 7pm
 
-Submit on Brightspace under Assignments > Exercise 3 - Character Vectorization
+Submit on Brightspace under Assignments > Exercise 1 — Logo Recreation
+
 :::

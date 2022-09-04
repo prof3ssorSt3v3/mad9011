@@ -1,50 +1,41 @@
-# Exercise 6 — Retouching
+# Exercise 6 — Custom Icon Library
 
-::: tip Files
-[Exercise file download](https://drive.google.com/uc?export=download&id=1FnKPEyV0Q1VqDyin8cysheuK1uHgxli3)
-:::
+<!-- ::: tip Files
+[Exercise file download](https://drive.google.com/uc?export=download&id=1iy7-1MbKPXdiAkfPTIOTUEdLv6B7mzS0)
+::: -->
+
 ## Instructions
 
-Apply the retouching techniques practiced in class and apply them to the two supplied Photoshop files.
+<!-- Select one of the provided images (or source your own image) and use the masking techniques learned in class to remove original background of the image. Once the original background is removed find a new image and place it as the new background. You can find free stock images for the background at [Unsplash](https:://unsplash.com), [Pixabay](https://pixabay.com), or another stock image site (just make sure your stock image does not have a watermark on it). Once you have completed masking your subject and replacing the background, export your image using the Export As... dialogue into an Exports folder. -->
 
-### File 1: 01-photoshop-repairing-blemishes
+## File Set Up
 
-- Remove all blemishes on the model in the photo
-- Use the tools explored in class to make all edits **non-destructive**.
-
-### File 2: 02-photoshop-content-aware-fill
-
-- Use content aware fill to remove the microphone and light fixture
-- Make sure the brick texture looks good and convincing!
-
-Make sure that the original layer in both files remain unedited!
-
-## Folder Structure
-
-Submit your compressed lName-fName-section#-retouching folder to Brightspace. Your folder should contain the following:
-
-- 01-photoshop-repairing-blemishes.psd
-- 02-photoshop-content-aware-fill.psd
-- "Exports" folder containing exported jpgs using the Export As... dialogue:
-  - 01-photoshop-repairing-blemishes.jpg - 72dpi, 1500px wide
-  - 02-photoshop-content-aware-fill.jpg - 72dpi, 1000px wide
+<!-- Your Photoshop file should be named fName-lName-section#-select-and-mask.psd. The size of your artboard will be dependent on your original subject image. Your file should have a layer named "Subject" containing your foreground image that is masked and a layer named "Background" featuring your new background image. -->
 
 ## Grading
 
-| Category              | Weight |
-| --------------------- | ------ |
-| Retouching Techniques | 2      |
-| Exporting Image       | 1      |
-| File Organization     | 1      |
-| **Total**             | **4**  |
+<!-- | Category               | Weight |
+| ---------------------- | ------ |
+| Masking Technique      | 2      |
+| Background Replacement | 1      |
+| Exporting Image        | 1      |
+| File Organization      | 1      |
+| **Total**              | **5**  | -->
 
 ## Submission
 
+<!-- Compress and submit your lName-fName-section#-select-and-mask folder. The folder should contain:
+
+- lName-fName-section#-select-and-mask.psd Photoshop file
+- Links folder containing original images
+- Exports folder containing:
+  - lName-fName-section#-select-and-mask.jpg - 72dpi 1000px wide
+
 ::: warning Due Date
 
-Section 300: Tuesday, November 2, 2021 @ 7pm
+Section 300: Tuesday, October 19, 2021 @ 7pm
 
-Section 310: Wednesday, November 3, 2021 @ 7pm
+Section 310: Wednesday, October 20, 2021 @ 7pm
 
-Submit on Brightspace under Assignments > Exercise 6 — Retouching
-:::
+Submit on Brightspace under Assignments > Exercise 5 — Select & Mask
+::: -->

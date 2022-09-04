@@ -1,37 +1,41 @@
-# Exercise 1 — Logo Recreation
+# Exercise 1 — Select & Mask
 
 ::: tip Files
-[Exercise file download](https://drive.google.com/uc?export=download&id=1Orqe3IpIUOCBo2ZLrgctsJgryYfjTqw3)
+[Exercise file download](https://drive.google.com/uc?export=download&id=1iy7-1MbKPXdiAkfPTIOTUEdLv6B7mzS0)
 :::
 
-## Introduction
+## Instructions
 
-The goal of this assignment is to learn how basic shapes can be used to create logos and other designs. You will be recreating the three logos provided in the attached starter file. Create your version of the logos in the corresponding labeled Artboards on the "Final Artwork" layer. The logos can all be created using simple shapes to start and then using the pathfinder tools and manipulating the anchor points to get the final shapes.
+Select one of the provided images (or source your own image) and use the masking techniques learned in class to remove original background of the image. Once the original background is removed find a new image and place it as the new background. You can find free stock images for the background at [Unsplash](https:://unsplash.com), [Pixabay](https://pixabay.com), or another stock image site (just make sure your stock image does not have a watermark on it). Once you have completed masking your subject and replacing the background, export your image using the Export As... dialogue into an Exports folder.
 
-![Three logos example](./assets/3-logos.jpg)
+## File Set Up
 
-## Requirements
-
-Save and upload your Illustrator file to BrightSpace named as follows: **lName-fName-section#-logo-recreation.ai**. You do not need to export or upload JPG versions of the files. All you need to submit is your Illustrator file with the completed logo recreation. Your file should like something like this when I open it:
-
-![File setup example](./assets/logo-recreation-example.png)
+Your Photoshop file should be named fName-lName-section#-select-and-mask.psd. The size of your artboard will be dependent on your original subject image. Your file should have a layer named "Subject" containing your foreground image that is masked and a layer named "Background" featuring your new background image.
 
 ## Grading
 
-| Category          | Weight |
-| ----------------- | ------ |
-| 3 Logos           | 3      |
-| File Organization | 1      |
-| **Total**         | **4**  |
+| Category               | Weight |
+| ---------------------- | ------ |
+| Masking Technique      | 2      |
+| Background Replacement | 1      |
+| Exporting Image        | 1      |
+| File Organization      | 1      |
+| **Total**              | **5**  |
 
 ## Submission
 
+Compress and submit your lName-fName-section#-select-and-mask folder. The folder should contain:
+
+- lName-fName-section#-select-and-mask.psd Photoshop file
+- Links folder containing original images
+- Exports folder containing:
+  - lName-fName-section#-select-and-mask.jpg - 72dpi 1000px wide
+
 ::: warning Due Date
 
-Section 300: Tuesday, September 21, 2021 @ 7pm
+Section 300: Tuesday, October 19, 2021 @ 7pm
 
-Section 310: Wednesday, September 22, 2021 @ 7pm
+Section 310: Wednesday, October 20, 2021 @ 7pm
 
-Submit on Brightspace under Assignments > Exercise 1 — Logo Recreation
-
+Submit on Brightspace under Assignments > Exercise 5 — Select & Mask
 :::
