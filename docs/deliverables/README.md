@@ -52,31 +52,31 @@ The goal of this exercise is to put our SVG skills to the test and create an int
 <Badge text="Section 020: Wednesday November 2, 2022 @7pm" type="error" />
 The goal of this assignment is to apply your Illustrator skills to create a iOS app icon.
 
-## Project [Final Project - Basic App](./assignments/assignment-3)
+### [Final Project - Basic App](./assignments/assignment-3)
 
 The goal of the final project is to apply your weekly learnings in XD to a basic mobile application.
 
-### [Part 1 - Wireframes](./assignments/assignment-3)
+# [Part 1 - Wireframes](./assignments/assignment-3)
 
 <Badge text="Section 010: Thursday December 15, 2022 @5pm" />
 <Badge text="Section 020: Wednesday December 14, 2022 @7pm" type="error" />
 
-### [Part 2 - Design System](./assignments/assignment-3)
+# [Part 2 - Design System](./assignments/assignment-3)
 
 <Badge text="Section 010: Thursday December 15, 2022 @5pm" />
 <Badge text="Section 020: Wednesday December 14, 2022 @7pm" type="error" />
 
-### [Part 3 - Visual Design](./assignments/assignment-3)
+# [Part 3 - Visual Design](./assignments/assignment-3)
 
 <Badge text="Section 010: Thursday December 15, 2022 @5pm" />
 <Badge text="Section 020: Wednesday December 14, 2022 @7pm" type="error" />
 
-### [Part 4 - Visual Prototype](./assignments/assignment-3)
+# [Part 4 - Visual Prototype](./assignments/assignment-3)
 
 <Badge text="Section 010: Thursday December 15, 2022 @5pm" />
 <Badge text="Section 020: Wednesday December 14, 2022 @7pm" type="error" />
 
-### [Part 5 - Presentation](./assignments/assignment-3)
+# [Part 5 - Presentation](./assignments/assignment-3)
 
 <Badge text="Section 010: Thursday December 15, 2022 @5pm" />
 <Badge text="Section 020: Wednesday December 14, 2022 @7pm" type="error" />
