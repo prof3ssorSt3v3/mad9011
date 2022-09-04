@@ -56,8 +56,8 @@ The goal of this assignment is to apply your Illustrator skills to create a iOS 
 
 ### [Final Project - Basic App](./assignments/assignment-3)
 
-<Badge text="Section 010: TBD" />
-<Badge text="Section 020: TBD" type="error" />
+<Badge text="Section 010: Thursday December 15, 2022 @5:00pm" />
+<Badge text="Section 020: Wednesday December 14, 2022 @7:00pm" type="error" />
 The goal of the final project is to apply your weekly learnings in XD to a basic mobile application.
 
 ## Quizzes
