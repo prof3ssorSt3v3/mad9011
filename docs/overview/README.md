@@ -68,27 +68,15 @@ This course complies with the college directives. **Please complete this Plagiar
 ## Contacts
 
 <ContactCard 
-  name="Adam Robillard"
+  name="Tyler Bristow"
   title="Instructor"
-  img-url="/F2021/AdamRobillard.jpg"
+  img-url="/F2021/TylerBristow.jpg"
   bio="Instructor of the Mobile Application Design & Development Program at Algonquin College."
   :details="[
-      { label: 'email', value: 'robilla@algonquincollege.com' }, 
-      { label: 'github', value: 'arobillard' }, 
+      { label: 'email', value: 'britot@algonquincollege.com' },  
       { label: 'office', value: 'By appointment' }
     ]"
 />
-
-<!-- <ContactCard
-  name="Deborah Buck"
-  title="Student Success Specialist"
-  bio=""
-  :details="[
-      { label: 'email', value: 'buckd@algonquincollege.com' },
-      { label: 'phone', value: '(613) 727-4723 x5503‬' },
-      { label: 'office', value: 'N219' }
-    ]"
-/> -->
 
 <ContactCard 
   name="Ahmed Elbadri"
