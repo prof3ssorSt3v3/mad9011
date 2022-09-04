@@ -70,7 +70,7 @@ This course complies with the college directives. **Please complete this Plagiar
 <ContactCard 
   name="Tyler Bristow"
   title="Instructor"
-  img-url="/F2022/TylerBristow.jpg"
+  img-url="/f2022/TylerBristow.jpg"
   bio="Instructor of the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'bristot@algonquincollege.com' },  
