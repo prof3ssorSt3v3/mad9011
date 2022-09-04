@@ -46,15 +46,13 @@ The goal of this exercise is to put our SVG skills to the test and create an int
 
 ## Assignment
 
-### [App Icon](./assignments/assignment-1)
+### [Assignment 1 - App Icon](./assignments/assignment-1)
 
 <Badge text="Section 010: Thursday November 3, 2022 @5pm" />
 <Badge text="Section 020: Wednesday November 2, 2022 @7pm" type="error" />
 The goal of this assignment is to apply your Illustrator skills to create a iOS app icon.
 
-## Final Assignment
-
-### [Basic App](./assignments/assignment-3)
+### [Assignment 2 - Basic App](./assignments/assignment-3)
 
 The goal of the final project is to apply your weekly learnings in XD to a basic mobile application.
 
