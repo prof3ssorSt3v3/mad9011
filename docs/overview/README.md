@@ -6,28 +6,25 @@ Students are introduced to mobile design fundamentals and graphical user interfa
 
 ## Course Description
 
-- [Course Outline](/F2021/course-outline.pdf)
+- [Course Outline](/f2022/course-outline.pdf)
 
 ## Student Workload Expectations
 
-- 3 hours/week (instructional activity)
-- Two hours in class
-- One hour of online exercises
+- 1 hour/week virtual (Theory)
+- 2 hours/week (Lab)
 - 3 hours per week of tutorials/videos/exercises/studying/practicing outside class
 
 ## Schedule
 
-Zoom Calssroom
+**Section 010:**
 
-**Section 300:**
+- Theory (Virtual): Monday 5pm - 6pm
+- Lab: Thursday 5pm - 7pm
 
-- Tuesday 7pm - 9pm
-- one hour online
+**Section 020:**
 
-**Section 310:**
-
-- Wednesday 7pm - 9pm
-- one hour online
+- Theory (Virtual): Monday 4pm - 5pm
+- Lab: Wednesday 7pm - 9pm
 
 ## Technology Stack
 
