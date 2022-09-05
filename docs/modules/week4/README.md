@@ -1,7 +1,7 @@
 # Week 3 - Meeting Illustrator
 
 ::: tip Files
-[Week 2 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1Hgjbk3JQ5qSWhI_iUA4JkjYLwcm4EeCV)
+[Week 3 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1Hgjbk3JQ5qSWhI_iUA4JkjYLwcm4EeCV)
 :::
 
 ## Welcome
@@ -89,5 +89,6 @@ The export is based on the artboards in the file, so make sure to set up your fi
 ::: tip To Do for Next Week
 
 - Complete Logo Recreation exercise
-- Review week 3 content
+- Review content from this week
+- Read ahead to week 4
   :::

@@ -163,7 +163,7 @@ It is important to properly **name your artboards** as the `Export As` dialogue 
 ::: tip To Do for Next Week
 
 - Complete Select & Mask exercise
-- Review Profile Card assignment
-- Review week 2 content
+- Review content from this week
+- Read ahead to week 2
 
   :::

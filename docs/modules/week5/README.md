@@ -83,6 +83,6 @@ To streamline the process of drawing shapes and ensuring they are even, we use t
 
 - Complete Button Design exercise
 - Begin working on App Icon concepts
-- Post your concepts to App Icon Feedback discussion board
-- Review week 4 content
+- Review content from this week
+- Read ahead to week 5
   :::

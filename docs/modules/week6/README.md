@@ -90,5 +90,6 @@ Any time you submit any files that contain linked images, you **must** first pac
 
 - Complete Character Vectorization exercise
 - Continue working on App Icon
-- Post to the App Icon Feedback discussion board
+- Review content from this week
+- Read ahead to week 6
   :::

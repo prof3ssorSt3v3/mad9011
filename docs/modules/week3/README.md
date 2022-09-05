@@ -1,8 +1,10 @@
 # Week 2 - Photo Retouching
 
-<!-- ::: tip Files
-[Week 7 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1SKVZ_Jr1jCpd7GFi-vbsPL3o0alWvBIx)
-::: -->
+::: tip Files
+[Week 2 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1SKVZ_Jr1jCpd7GFi-vbsPL3o0alWvBIx)
+:::
+
+<Badge text="Reminder: Photoshop quiz this week." type="error" />
 
 ## Introduction
 
@@ -116,11 +118,10 @@ Content on this page is used with permission from [cg.algonquindesign.ca](https:
 
 ## To Do
 
-<!-- ::: tip To Do for Next Week
+::: tip To Do for Next Week
 
 - Complete Retouching exercise
-- Get planning for the Profile Card assignment
-- Post your draft to the Profile Card Feedback discussion
-- Review week 9 content
-- Have a good break week!
-  ::: -->
+- Review content from this week
+- Read ahead to week 3
+
+  :::
