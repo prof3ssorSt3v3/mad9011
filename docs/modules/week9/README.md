@@ -1,113 +1,142 @@
-# Week 9 - Photo Manipulation & Composition
+# Week 9 - Intro to Adobe Xd
 
 ::: tip Files
-[Week 9 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1GbhSjtr2Xcd04uYC-9zqTDUc-lRYABCx)
+[Week 13 Tutorial Files Download](https://drive.google.com/uc?export=download&id=131s3TLxqdlr79sz892PJK5qFlk-2UJGd)
 :::
 
 ## Introduction
 
-Before we dive into how we make our photo manipulations and composites, let's take some time to consider **layout and composition** fundamentals. It is incredibly important to properly consider and plan how are images will be laid out in order to create an effective design.
+Finally, welcome to Adobe XD (Xd), a vector-based user experience design tool for mobile and web apps. Xd supports rapid wireframing and click-through prototyping.
+
+UI/UX designers use Adobe XD to seamlessly iterate and share interactive visual prototypes with team members and reviewers across devices and platforms.
+
+- [Adobe XD User Guide](https://helpx.adobe.com/ca/xd/user-guide.html) — Contains all reference material
+- [What's new in Adobe XD](https://helpx.adobe.com/ca/xd/help/whats-new.html) — Xd is a relatively new app from Adobe and gets more frequent updates and new features. This link will help us keep up with the UI changes from the Adobe XD monthly updates.
+
+## What is Wireframe?
+
+Before we dive into Adobe Xd, we need to know what wireframe is.
 
 <YouTube
-  title="Beginning Graphic Design: Typography"
-  url="https://www.youtube.com/embed/a5KYlHNKQB8"
+  url="https://www.youtube.com/embed/KdfO_e0yK-g"
+  title="Advanced SVG: animations"
 />
 
-## Types of Layers
+## Explore Adobe Xd User Interface
 
-There are a number of different layer types in Photoshop. The different layer types can be differentiated by the preview and icon that is shown beside the layer name in the `Layers` panel.
-
-![Layer types](./different-types-of-layers.png)
-
-<ol>
-  <li><strong>Type Layer</strong><p>
-    Used to display text. Text boxes can be either Point Type or Area Type boxes 
-  </p></li>
-  <li><strong>Image Layer</strong><p>
-    A basic layer that displays image content. This type of layer can be edited directly with numerous tools (for example: the paintbrush). Resizing this type of layer will result in permanent change to size and quality of layer.
-  </p></li>
-  <li><strong>Vector Shape Layer</strong><p>
-    Features vector shapes that are created directly in Photoshop with the Pen, Rectangle, Ellipse, etc. tools. Shapes on this layer are vector and can be edited and resized without loss to layer quality.
-  </p></li>
-  <li><strong>Layer Styles</strong><p>
-    Layer styles are effects and adjustments that are applied directly to a single layer or group.
-  </p></li>
-  <li><strong>Smart Object</strong><p>
-    A smart object is a layer that is protected from direct editing. Any effect, filter, or resizing done to this layer is non-destructive. The contents of the layer can be edited directly by opening the layer contents in a separate window.
-  </p></li>
-  <li><strong>Smart Filter</strong><p>
-    A filter applied to a Smart Object that is non-destructive and can be updated after initial application.
-  </p></li>
-  <li><strong>Layer Mask</strong><p>
-    A non-destructive method to show and hide certain portions of a layer. Can be applied to <strong>any</strong> layer type. Areas of the layer mask that are white will be visible, areas that are black will be fully transparent, and areas that are grey will be semi-transparent based on how dark the grey is.
-  </p></li>
-  <li><strong>Adjustment Layer</strong><p>
-    Applies an adjustment or effect to all layers below it in the Layers panel. Adjustments include color adjustments, brightness &amp; contrast, saturation and more.
-  </p></li>
-  <li><strong>Background</strong><p>
-    A default layer included in new Photoshop projects. Generally not required and can be deleted.
-  </p></li>
-</ol>
-
-## Layer Styles
-
-Layer effects and styles cover how a layer style is one or more effects applied to a layer or layer group. They change the appearance of a layer’s contents in a non-destructive way.
-
-The video below walks us through how to use layer styles, the different types of layer styles, how to remove, copy, and add them.
+Watch this video to get an overview of how Xd let designers create wireframes and interactive visual prototypes with speed, precision, and quality.
 
 <YouTube
-  title="Beginning Graphic Design: Typography"
-  url="https://www.youtube.com/embed/gZZKYc7l2YA"
+  url="https://www.youtube.com/embed/-hV9kKY5a94"
+  title="Advanced SVG: animations"
 />
 
-### Optional Practice
+### Xd Workspace
 
-Practice more with How to Create a Glowing NEON Sign Text Effect Using Layer Styles video.
+We will get familiar with the workspace and the interface by exploring the in-app resources to learn how to use Adobe XD, or to get a head start on your designs. Learn their respective tools by navigating the Design and Prototype modes.
+
+[Workspace basics](https://helpx.adobe.com/ca/xd/help/workspace-basics.html) is a quick reference for Adobe XD user interface.
+
+![Adobe Xd workspace](./XDmacWorkspace.png)
+
+#### Work with drawing and text tools
+
+We can quickly create graphics and texts using the shape tools, Pen tool, and text tools in Adobe XD. Check out the [Work with drawing and text tools article](https://helpx.adobe.com/ca/xd/help/drawing-text-tools.html) for a quick reference.
+
+## Xd Workflow: Design > Prototype > Share
+
+Design, prototype, and share with Adobe XD article provides a quick reference in Adobe XD User Guide.
+
+Follow the Xd tutorials below to obtain a hands-on mobile app prototyping experience. Xd supports SVG and bitmap files without any loss of fidelity. It integrates with Illustrator, Photoshop, and After Effects. You can also use plugins to automate repeat operations or parts of designer workflows that are tedious, complex, or repetitive.
+
+Before starting the workflow of: Design, Prototype, Share, we will Download the XD kits.
+
+### Design
+
+In **design** step, we will learn the basics for designing splash screens, importing images, and working with Repeat Grid.
+
+[![Link to Adobe Xd tutorial on Designing with Xd](./XDdesign.png)](https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_2___design)
+
+Note: Do you notice that you can click on the artboard name to select/move the artboard and double-click to edit the name?
+
+### Prototype
+
+In **prototype** step, we will turn our designs into interactive visual mockups. We will wire artboards together, switch back and forth between design and prototype mode and preview our UI experience.
+
+Share designs and prototypes is a user guide that contains the current Xd UI features and screenshots.
+
+[![Link to Adobe Xd tutorial on Prototyping with Xd](./XDprototype.png)](https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_3___prototype)
+
+### Share
+
+In **preview &amp; share** step, we will learn to preview our interactive prototype on a mobile device and share prototype and design specs for feedback with other designers, developers and even for usability testing.
+
+[![Link to Adobe Xd tutorial on Sharing with Xd](./XDshare.png)](https://helpx.adobe.com/ca/xd/how-to/make-prototype.html#step_4___share_and_preview)
+
+::: tip Note:
+The Xd UI has been updated since the above video. There are some important features shown that are still used, so I've included it in this tutorial. However, please watch the video below to see the update "Share" tab in the top left corner and practice further.
+
+</div>
 
 <YouTube
-  title="Beginning Graphic Design: Typography"
-  url="https://www.youtube.com/embed/lrXTg7MzVyk"
+  url="https://www.youtube.com/embed/3vj03O641GA"
+  title="Advanced SVG: animations"
 />
 
-## Adjustment Layers
-
-Adjustment layer lets you apply colour and tonal adjustments to your image without permanently changing pixel values.
-
-This video explains what Photoshop adjustment layers are and the best way to work with them. Adjustment layers allow you to change the hue and situation, contrast, colour grading and the tone curve in Photoshop. You can use the adjustment layer mask to help with more refined photoshop editing techniques.
+#### Use Xd for Usability Studies
 
 <YouTube
-  title="Beginning Graphic Design: Typography"
-  url="https://www.youtube.com/embed/RPn5fTWCZnU"
+  url="https://www.youtube.com/embed/swKI-M-RViQ"
+  title="Advanced SVG: animations"
 />
 
-## Smart Filters
+## Collaboration features in Adobe XD
 
-The first video will teach us to apply creative filters using the Filter Gallery. The edit is applied permanently to the image.
+Creative Cloud plan includes different types of cloud storage features for different uses and benefits: cloud documents, libraries, and Creative Cloud files (synced files).
 
-Browse the Filter Gallery
-Blur an image with Smart Filters
-Apply Smart Filters let you add filter to a Smart Object layer. Smart Filters appear in the Layers panel below the Smart Object layer applied. You can adjust, remove, or hide Smart Filters, so they are nondestructive editing. Follow along the 2nd video to Blur an image with Smart Filters.
+Cloud documents in Adobe XD article is a comprehensive guide for Adobe XD Cloud sharing and collaboration.
 
-[![Adobe tutorial for Smart Filters](./smart-filters.png)](https://helpx.adobe.com/photoshop/how-to/applying-filters-basics.html#blur_an_image_with_smart_filters)
+### Using Xd Cloud Documents
 
-## Blend Modes
+Xd Cloud Documents let us auto-save files, safely keep everything in one place, make fast and easy sharing, and work and live collaborate with others anywhere by using the document versioning control.
 
-Layer blend modes enable the colors and tones on one layer to interact with those on the layer below. We will follow this video to put everything together by combining images and applying blend modes to create an interssting composite.
+#### Using Cloud Document Files
 
-[![Adobe tutorial for Smart Filters](./composite-w-blending.png)](https://helpx.adobe.com/photoshop/how-to/composite-image-with-blend-modes.html)
+Let's practice using cloud document files. If you notice minor UI differences in the video, you can find your way around in the reference of Workspace basics page.
 
-## Exercise Inspiration
+<YouTube
+  url="https://www.youtube.com/embed/H_TmuOJmdkI"
+  title="Advanced SVG: animations"
+/>
 
-We can [build a composite with layer masks](https://helpx.adobe.com/photoshop/how-to/create-composite-with-layer-mask.html) and go even further to [match color in a composite](https://helpx.adobe.com/photoshop/how-to/match-color-tones-composite.html).
+#### Cloud Document Sharing
 
-Get inspired by this 1-min video tutorial: [How to make a photo composite](https://create.adobe.com/2019/7/16/how_to_make_a_photo_.html)
+We will learn how to quickly share documents with collaborators and team members when we save them as cloud documents in Adobe XD.
 
-## To Do
+<YouTube
+  url="https://www.youtube.com/embed/qICToKxlxAc"
+  title="Advanced SVG: animations"
+/>
+
+### Coediting & Document History
+
+We can collaborate and coedit with others in the same document in real-time with Xd. We can also check document history to quickly see who's made edits and revert to old versions when needed. Let's follow this tutorial to use these features.
+
+<YouTube
+  url="https://www.youtube.com/embed/XDFE5DH2Z5E"
+  title="Advanced SVG: animations"
+/>
+
+## Built-in XD Tutorials & Learning
+
+Adobe Xd is a relatively new app and is constantly being updated with new features so it can be challenge to keep up with everything new. Luckily, Xd provides us with a tonne of resources and tutorials for these features in the Learn tab on the home screen and on the [Adobe Xd](https://www.adobe.com/products/xd/learn/get-started.html) page of the Adobe website.
+
+![Adobe Xd learn tab](./xd-learn.png)
 
 ::: tip To Do for Next Week
 
-- Complete Photo Composite exercise
-- Complete first draft of Profile Card assignment
-- Post your draft to the Profile Card Feedback dicussion
-- Review week 10 content
+- Complete the Basic Wireframe exercise
+- Complete first draft of the App Branding assignment
+- Complete App Branding Feedback discussion post
+- Review week 14 content
   :::

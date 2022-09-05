@@ -1,44 +1,141 @@
-# Week 10 - Vectors in Photoshop
+# Week 10 - Components, UI Kits, Plugins & More!
 
 ::: tip Files
-[Week 10 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1VY_Iej_wvmGJ1TiQc5-iXhMBCAooSpRX)
+[Week 13 Tutorial Files Download](https://drive.google.com/uc?export=download&id=131s3TLxqdlr79sz892PJK5qFlk-2UJGd)
 :::
 
 ## Introduction
 
-A number of the tools for creating vector shapes that exist in Illustrator, such as the Pen, Rectangle, Ellipse, and more, also exist in Photoshop. In general, Photoshop works and displays content in a raster format. However, certain layers can be made as vectors and can be resized infinitely as needed. Some basic layer types that are vector in Photoshop include Text layers, Shape layers, and imported Vector Smart Objects.
+In this lesson, we will harness our Adobe XD knowledge by using Xd productivity tools, UI Kits, and plugins. We will learn the common mobile user interface elements with ease and get an introduction to the industry design standards and guidelines: Human Interface Guidelines (AppleOS) and Material Design (Android).
 
-## Adding Text and Shapes
+## Xd Productivity Tools
 
-Let's start with the basics of creating text and shapes in Photoshop. This is going to feel very familiar to what we covered previously in Illustrator. Most of the tools work identically, however there is the occasional difference.
+Let's follow this video to practice using some popular Xd features: Object Flip, Search Layers, and Linked Symbols (now components).
 
-[![Adobe tutorial for creating text and shapes](./creating-text-shapes.jpg)](https://helpx.adobe.com/ca/photoshop/how-to/adding-text-shapes-basics.html)
+<YouTube
+  url="https://www.youtube.com/embed/wHlcOCJycxw"
+  title=""
+/>
 
-## Working with shape tools
+## Components
 
-Shape layers in Photoshop provide us with some pretty cool functionality. When creating our shapes, we have the option to create each shape on an independent layer (similarly to how we made shapes in Illustrator), or we can combine multiple shapes on the same shape layer to create complex shapes.
+Xd Componenets are previousely called Symbols. This tutorial gives us an introduction of Master Components, and Component Overrides features.
 
-[![Adobe tutorial for using shape tools](./shape-tools.jpg)](https://helpx.adobe.com/ca/photoshop/how-to/photoshop-vector-shape-tools.html)
+<YouTube
+  url="https://www.youtube.com/embed/qrsuk6zl8B8"
+  title=""
+/>
 
-## Copying Assets from Illustrator
+### Using Components
 
-You can create and edit vector assets right in Photoshop. However, depending on what kind of graphics you are making it may be easier to make your assets first in Illustrator and then copy them into Photoshop. Doing so is as simple as copying the desired artwork from Illustrator and pasting into Photoshop. Check out this video for more details:
+This set of short video tutorals teaches us to create/nest/swap componenets, update master componenets and use different componenet states. We will follow along to practice. [Download tutorial file](https://www.dropbox.com/s/vfz93h52t0nsgvz/Components_Demo.xd?dl=0)
 
-{% include snippets/video.liquid id="b8RG7PuqM7s" %}
+[Watch playlist on YouTube](https://youtube.com/playlist?list=PLHjwuoik-ep1PW3Dh29lgnN8X2VSBYEwt)
 
-### Some key things to note:
+#### Component hover states & Micro-Interactions
 
-- Make sure when you paste you shapes in Photoshop to paste as a Smart Object and **do not check** the `Add to my current library` option. Having this checked will put the shape as a linked file into your CC Libraries, which will create issues when you share your files.
-  ![Paste dialogue](./vector-paste.jpg)
-  &nbsp;
-- By pasting as a Smart Object, you can double-click on the layer preview to open the shape up in Illustrator to make edits to the vector. The changes will auto-update in Photoshop when you save the file (unfortunately this can be a bit glitchy sometimes).
-- If you duplicate a Vector Smart Object, the duplicates will be linked. If you update one version, they all update. However, if you paste the same graphic separately multiple times, they will be independent Vector Smart Objects that will not be linked and therefore won't both update.
-- Make sure to rename the layer! Each time you paste from Illustrator the layer will automatically be called **Vector Smart Object**, which will get confusing if you past a whole bunch!
+Check out this video to learn how component states allows you to save elements for future use and create additional versions of your buttons, toggles, fields, and more.
+
+<YouTube
+  url="https://www.youtube.com/embed/c8ov6IzFE0c"
+  title=""
+/>
+
+## Xd Interactions
+
+Let's watch this set of short videos to practice popular prototype interaction design in Adobe XD. We will build prototype with screen animation, transitions, drag gesture, componenet overlay, and voice control. [Download tutorial file](https://www.dropbox.com/s/j12i70snyblerui/Prototyping_Demo.xd?dl=0)
+
+[Watch playlist on YouTube](https://youtube.com/playlist?list=PLHjwuoik-ep2SMq4Ns1tQAHyk-Bj2kR3V)
+
+### Multiple Interactions
+
+Xd 2020 release allows desingers to apply multiple interactions to the same UI object. Follow this video to make our prototype interaction more natural.
+
+<YouTube
+  url="https://www.youtube.com/embed/zWQv9Qszm7c"
+  title=""
+/>
+
+## Content-Aware Layout
+
+We will learn content-aware layout to quickly create and edit common design elements without a lot of tedious steps. We can also add group padding coupled with responsive resize.
+
+<YouTube
+  url="https://www.youtube.com/embed/h2yyNV4fnN0"
+  title=""
+/>
+
+For more great tutorials like this, check out [Prototype](https://www.adobe.com/products/xd/learn/prototype.html) on the Let's Xd website.
+
+## Xd Ui Kits
+
+UI Kits content contains common buttons, form elements, headers, icons, and other UI elements. Follow this XD tutorial to learn how to get UI kits and use the Kit content in your own designs.
+
+Note: We will explorer UI Kits for [Apple iOS](https://developer.apple.com/design/resources/) and [Material Design]("https://material.io/resources) in class to understand the platform standards together. Download [Apple iOS fonts & symbols](https://developer.apple.com/fonts/) and [Roboto fonts for Android devices](https://material.io/design/typography/understanding-typography.html#system-fonts)
+
+Let's start our design with UI kits. We will follow this video to get the Wireframes UI Kits and use the content in our own XD file.
+
+[![Link to Adobe Xd tutorial on starting your design with UI kits](./wireframeUIkits.png)](https://helpx.adobe.com/xd/how-to/ui-kits.html)
+
+Leveraging UI Kits tutorial shows multiple ways to access UI Kits in Xd and how to download UI Kits from [Adobe Resources website](https://helpx.adobe.com/xd/how-to/ui-kits.html)
+
+<YouTube
+  url="https://www.youtube.com/embed/Jgk83qXOYSk"
+  title=""
+/>
+
+### UI Kit Resources
+
+- [Material Design Resources](https://material.io/resources)
+- [Apple Design Resources](https://developer.apple.com/design/resources/)
+- [Design toolkits and samples for Windows apps](https://docs.microsoft.com/en-us/windows/uwp/design/downloads/)
+- [Auto Animated UI Kit by Howard Pinsky & Jonathan Pimento](https://www.behance.net/gallery/72065227/Auto-Animate-UI-Kit-for-Adobe-XD)
+- [Component States UI Kit](https://letsxd.com/states)
+
+## Xd Plugin Manager
+
+This tutorial provides a quick overview of XD Plugin Manager and multiple ways to access it.
+
+<YouTube
+  url="https://www.youtube.com/embed/YAgKDA6c9_I"
+  title=""
+/>
+
+### Some Great Plugins
+
+Let's follow this tutorial to install some useful plugins. We will only use a few these plugins for our class exercises, however feel free to try as many as you like.
+
+::: tip Heads up!
+Skip to 0:55 for the start of the tutorial. Sorry the classic awkward YouTube tropes, but the content is ultimately good.
+:::
+
+<YouTube
+  url="https://www.youtube.com/embed/d-Hxze_r9rU"
+  title=""
+/>
+
+Another super cool plugin is Google Spreadsheet which is very useful when designing UI with data.
+
+<YouTube
+  url="https://www.youtube.com/embed/g8z0l5moNIw"
+  title=""
+/>
+
+### More Plugin Resources
+
+Here are two plugins you may try for usability testing in Xd. They both provide free/education access.
+
+- [Useberry](https://www.useberry.com/integrations/adobe-xd/) - You can watch [Useberry video demo](https://www.youtube.com/watch?v=ecFwUeYtq78)
+- [Usertesting](https://help.usertesting.com/hc/en-us/articles/360014666372)
+
+## Xd Resources
+
+[Adobe XD resources, now under Features tab](https://www.adobe.com/products/xd/features/ui-kits.html) provides resources we can use to optimize our workflow and speed up the design process. They include UI kits, icon sets, plugins, app integrations, and more.
+
+![Xd Resources page](./XdResources.png)
 
 ::: tip To Do for Next Week
 
-- Complete Web Banner exercise
-- Complete the Profile Card assignment
-- Complete the Photoshop Quiz
-- Review week 11 content
+- Review and implement App Branding Feedback
+- Complete App Branding assignment
   :::

@@ -1,126 +1,140 @@
-# Week 7 - Photo Retouching
+# Week 11 - Introduction to SVG
 
 ::: tip Files
-[Week 7 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1SKVZ_Jr1jCpd7GFi-vbsPL3o0alWvBIx)
+[Week 11 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1fb6H6CIZn1I8uqtq4vXb5TiC7YyT2eot)
 :::
 
-## Introduction
+## What are SVGs?
 
-Whether they’re blemishes on skin or stains on a surface, Photoshop has a tool to remove them quite easily. Our focus here will be on working non-destructively. That means that we don’t want to paint on the original photo at all. The added advantage working this way is that our painting will be accessible on their own layers.
+Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation. SVG images are defined in XML text files. In this section, we are going to learn how to generate good SVG code using Adobe Illustrator and preparing it to be animated and used on the web as well as how to write our own SVG code from scratch.
 
-## Retouching Tools
+## SVGs are code
 
-<img src="./tool-icons-psd-cloning.svg" style="max-width: 7.5rem;" alt="Photoshop's retouching tools">
+SVGs are purely vector graphics written in XML markup language. We can use a pure code editor to create an SVG. Let's follow along this series of video tutorial and write SVG markup with VSCode.
 
-1. Clone Stamp Tool
-2. Spot Healing Brush Tool
-3. Healing Brush Tool
-4. Patch Tool
-5. Red Eye Tool
+### Writing SVG Code
 
-These are the tools we’ll focus on. They’re all made to repair photographs.
+In this video we will learn to write SVG code from scratch and integrate it into an HTML document. Read SVG reference of Writing SVG code for basic syntax and SVG shapes.
 
-### Clone Stamp Tool
+<YouTube
+  url="https://www.youtube.com/embed/q_3Q9HHcXuA"
+  title="Advanced SVG: writing SVG code"
+/>
 
-<img src="./tool-icon-clone-stamp.svg" style="max-width: 7.5rem;" alt="Clone Stamp tool icon">
+### SVG Attributes and CSS
 
-The Clone Stamp Tool is often called the rubber stamp tool for a reason. It works very similarly. You take a sample on your photo, then you replicate it at another location. The goal is most often to cover up something under the cloning.
+It's common practice to use both SVG style attributes and CSS to style SVGs. Watch this video to learn the why and how.
 
-![Photoshop workspace set up for clone stamping](./retouching-clone-stamp-tool.jpg)
+<YouTube
+  url="https://www.youtube.com/embed/EEtnu8OMD3o"
+  title="Advanced SVG: attributes & CSS"
+/>
 
-::: tip Tip
-Create a new empty layer called <strong>Retouching</strong>. Do not duplicate the photo's layer.
-:::
+### SVG Text
 
-The Clone Stamp Tool doesn’t do any calculations or adjustments. It just clones the pixels you sampled, no matter whether they match or not.
+Using text directly inside our SVG has lots of benefits: We can apply web fonts, masking, gradients, and textures to them and they are fully accessible.
 
-### Healing Brush
+Reference: SVG text
 
-<img src="./tool-icon-healing-brush.svg" style="max-width: 7.5rem;" alt="Healing brush tool icon">
+#### Text & web fonts
 
-The Healing Brush Tool works very similarly to the Clone Stamp Tool, except that it’s a smarter tool. You need to sample an area first. When you release the mouse while cloning, it evaluates the surrounding pixels then adjusts the cloned pixels to blend into their surroundings.
+We will follow along this video tutorial to practice using `<text>` element to add live/accessible texts inside an embedded SVG and apply web fonts to it.
 
-### Spot Healing Brush Tool
+<YouTube
+  url="https://www.youtube.com/embed/UKXRwuXd7rA"
+  title="Advanced SVG: text & web fonts"
+/>
 
-<img src="./tool-icon-spot-healing-brush.svg" style="max-width: 7.5rem;" alt="Spot healing brush tool icon">
+#### Masking text
 
-The Spot Healing Brush works by simply clicking on blemishes. There’s no need to sample pixels first. Just adjust the diameter and hardness of your brush, then click away. Just make sure you’re on a new, empty layer.
+Continue with this video to learn how to use `<mask>` element to mask out pieces of text to create different effects:
 
-This is the perfect tool for removing blemishes on a subject’s skin. It should be your go-to tool. If you find it not bending to your will, go back to the Clone Stamp Tool.
+<YouTube
+  url="https://www.youtube.com/embed/B5ol4ss-mi4"
+  title="Advanced SVG: masking text"
+/>
 
-### Patch Tool
+#### Gradients on text
 
-<img src="./tool-icon-patch-tool.svg" style="max-width: 7.5rem;" alt="Patch tool icon">
+In this video, we will apply gradients into the text letters using SVG.
 
-The Patch Tool is made to fix blemishes on large, rather flat surfaces in a photo. The idea is that you drag a good part of the photo on top of a damaged part of the photo. The tool does the work of blending the patch into its surroundings.
+<YouTube
+  url="https://www.youtube.com/embed/xgZkRVCS07Q"
+  title="Advanced SVG: gradients on text"
+/>
 
-<figure>
-<img src="./retouching-scar-patch.jpg" alt=""/>
-<figcaption>
-  The scar was repaired using the Patch tool on Content Aware mode on its own layer.
-</figcaption>
-</figure>
+These online tools let us generate code for SVG gradients, CSS gradients and edit their code.
 
-Note that if the Patch setting is at Normal, the tool doesn’t work on a separate layer. It’s best to set it to `Content Aware`, then work on a new empty layer named Patching.
+- [Gradient Generator](https://briangrinstead.com/gradient/)
+- [CSS Gradient Generator](https://cssgradient.io/)
 
-#### Patch Settings
+#### Textures on text
 
-<dl>
-<dt>Structure</dt>
-<dd>
-  Enter a value between 1 and 7 to specify how closely the patch should reflect existing image patterns. If you enter 7, the patch adheres very strongly to existing image patterns. If you enter 1, the patch adheres very loosely to the existing image patterns.</dd>
-<dt>Color</dt>
-<dd>
-  Enter a value between 0 and 10 to specify the extent to which you want Photoshop to apply algorithmic color-blending to the patch. If you enter 0, color blending is disabled. A Color value of 10 applies maximum color blending.
-</dd>
-<dt>Sample All Layers</dt>
-<dd>
-  Enable this option to create the result of the move in another layer using information from all layers. Select the target layer in the Layers panel.
-</dd>
-</dl>
+We can also add image textures to text using SVG and the `<pattern>` tag. In this video, we will make the pattern big enough to only show it once.
 
-### Red Eye Tool
+<YouTube
+  url="https://www.youtube.com/embed/lSNnVbfvJJ0"
+  title="Advanced SVG: textures on text"
+/>
 
-<img src="./tool-icon-patch-tool.svg" style="max-width: 7.5rem;" alt="Red eye tool icon">
+## From AI to SVG
 
-<strong>Let’s avoid using this tool</strong>. We’ll use a Hue/Saturation adjustment layer instead.
+Using Adobe Illustrator (Ai) to design graphics and then export them in SVG format allows us to use that code directly on the web and animate it using CSS. The cleaner and more organized our Ai file is, the easier it will be to manipulate the SVG code later on. Follow this videos to exporting SVGs from Illustrator for animation.
 
-We’ve all seen the red eye effect in photos. Few know that it comes from light from your flash bouncing off the blood vessels at the back of the eye to return to your camera.
+<YouTube
+  url="https://www.youtube.com/embed/bWcweY66DL8"
+  title="Advanced SVG: icons"
+/>
 
-![Photoshop workspace set up for clone stamping](./repairing-blemishes-removing-red-eye.jpg)
+### Cleaning generated SVG
 
-Use an Adjustmet Layer to desaturate the red from the eyes. This preserves the detail in the pupils.
-Create a Hue/Saturation Adjustment Layer. Turn the Saturation down to -100. Invert your mask to make it black. Then pain the red eyes with a very soft white brush.
+Now we know that if we use SVGs generated by a tool like Adobe Illustrator, Sketch, or Inkscape, there’s lots of extra cruft that we don’t need in the files. We can use some optimization tools to clean up the SVG. Here are the two popular online tools to use.
 
-> A reflection of the camera flash in the subject’s retina causes red eye. You’ll see it more often when taking pictures in a darkened room because the subject’s iris is wide open. To avoid red eye, use the camera’s red eye reduction feature. Or, better yet, use a separate flash unit that you can mount on the camera farther away from the camera’s lens. [From: Adobe](https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html)
+- [SVG Editor](http://petercollingridge.appspot.com/svg-editor)
+- [SVGOMG](https://jakearchibald.github.io/svgomg/)
 
-### Key Points to Remember
+## SVG Icons & Symbols
 
-The important factor is to never touch the original photo. Make sure edits you make are on their own layers. This allows you to return to the photo to make changes. You can also turn off your new layers to see the original photo.
+Animated SVGs are great for icons which can indicate micro-interactions and state changes and guide a user to the next action in an onboarding tour. They are commonly used to show status of loading, uploading, menu toggling, and playing/pausing a video. We will practice using SVG icons in this video tutorial.
 
-## Content Aware Tools
+<YouTube
+  url="https://www.youtube.com/embed/EhNHe-f0LBI"
+  title="Advanced SVG: icons"
+/>
 
-The Content Aware Tools in Photoshop are truly magical. They make a really good guess at how you want to fill in shapes. All you do is lasso the unwanted area, then `Edit > Fill > Content Aware Fill`. Presto!
+### SVG symbols
 
-![Photoshop workspace set up for clone stamping](./content-aware-fill-2.jpg)
+We will practice using SVG elements `<symbol>` and `<use>` to make SVG icon systems.
 
-Make a selection, then use `Edit > Fill > Content Aware Fill` to open the Content Aware Fill dialogue. In this dialogue you can select which areas of the photo to sample from by painting on the green sections. On the right side you will see a preview of the fill. When you are happy with the results, make sure **Output to** is set to **New Layer** then click **OK** and it will automatically create a new layer with the filled area.
+<YouTube
+  url="https://www.youtube.com/embed/BO13gECyiuE"
+  title="Advanced SVG: icon symbols"
+/>
 
-Depending on how complex the fill needs to be, you may need to layer a couple fills for best results. However, often with simpler fixes, one is enough.
+### Spritebot
 
-::: tip Tip
-If you're zoomed in really closely, you can hold h, then click-hold with your mouse to zoom out and choose another zoom location. Go ahead; give it a whirl.
-:::
+Spritebot is a tool used to clean up our SVGs. It can also combine numerous SVGs into a single sprite sheet for easier use on our websites.
 
-Content on this page is used with permission from [cg.algonquindesign.ca](https://cg.algonquindesign.ca/topics/retouching-fundamentals.html)
+[Download here.](https://github.com/thomasjbradley/spritebot)
 
-## To Do
+## SVG Accessiblity
+
+Lastly, we will learn the extended accessibility features of SVG and know when/how to hide embedded SVG from accessibility tools when needed.
+
+<YouTube
+  url="https://www.youtube.com/embed/BieUh304KDA"
+  title="Advanced SVG: accessibility"
+/>
+
+## Resources
+
+- [Advanced SVG Lesson](https://learn-the-web.algonquindesign.ca/topics/advanced-svg/) — Text reference for all topics covered in the videos from this week.
+- [SVG Cheat Sheet](https://learn-the-web.algonquindesign.ca/topics/svg-cheat-sheet/) — Quick reference for all things SVG
 
 ::: tip To Do for Next Week
 
-- Complete Retouching exercise
-- Get planning for the Profile Card assignment
-- Post your draft to the Profile Card Feedback discussion
-- Review week 9 content
-- Have a good break week!
+- Begin the Interactive SVG exercise
+- Review the App Branding assignment
+- Complete the Photoshop Quiz
+- Review week 12 content
   :::
