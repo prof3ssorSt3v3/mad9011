@@ -44,7 +44,7 @@ The goal of this exercise is to learn how to create a custom icon library.
 <Badge text="Section 020: Wednesday November 2, 2022 @7pm" type="error" />
 The goal of this exercise is to put our SVG skills to the test and create an interactive banner.
 
-## Assignment
+## Assignments
 
 ### [Assignment 1 - App Icon](./assignments/assignment-1)
 
