@@ -3,6 +3,7 @@
 ::: tip Files
 [Exercise file download](https://drive.google.com/uc?export=download&id=1FnKPEyV0Q1VqDyin8cysheuK1uHgxli3)
 :::
+
 ## Instructions
 
 Apply the retouching techniques practiced in class and apply them to the two supplied Photoshop files.

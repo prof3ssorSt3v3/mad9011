@@ -1,9 +1,5 @@
 # Exercise 1 — Select & Mask
 
-::: tip Files
-[Exercise file download](https://drive.google.com/uc?export=download&id=1iy7-1MbKPXdiAkfPTIOTUEdLv6B7mzS0)
-:::
-
 ## Instructions
 
 Select an image and use the masking techniques learned in class to remove the original background of an image. Once the original background is removed find a new image and place it as the new background. You can find free stock images for the background at [Unsplash](https:://unsplash.com), [Pixabay](https://pixabay.com), or another stock image site (just make sure your stock image does not have a watermark on it). Once you have completed masking your subject and replacing the background, export your image using the Export As... dialogue into an Exports folder.

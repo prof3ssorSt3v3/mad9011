@@ -28,9 +28,9 @@ Create your own Illustrator file titled **fName-lName-section#-character-vectori
 
 ::: warning Due Date
 
-Section 300: Tuesday, October 5, 2021 @ 7pm
+Section 010: Thursday, October 13, 2022 @ 5pm
 
-Section 310: Wednesday, October 6, 2021 @ 7pm
+Section 020: Wednesday, October 12, 2022 @ 7pm
 
 Submit on Brightspace under Assignments > Exercise 3 - Character Vectorization
 :::

@@ -22,9 +22,9 @@ In the starter file provided, recreate the three buttons shown. Then, create a h
 
 ::: warning Due Date
 
-Section 300: Tuesday, September 28, 2021 @ 7pm
+Section 010: Thursday, October 6, 2022 @ 5pm
 
-Section 310: Wednesday, September 29, 2021 @ 7pm
+Section 020: Wednesday, October 5, 2022 @ 7pm
 
-Submit on Brightspace under Assignments > Exercise 2 — Button Design
+Submit on Brightspace under Assignments > Exercise 4 — Button Design
 :::

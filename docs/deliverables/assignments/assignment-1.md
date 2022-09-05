@@ -30,7 +30,6 @@ Once your icons are complete, use the `Export for Screens` dialogue to export ea
 ![Stock watch example icons](./assets/example-1.png)
 ![Cinema example icons](./assets/example-2.png)
 
-
 ### Level of Detail
 
 Your app icon should contain enough detail at the largest size to clearly show the skills you have learned this semester. However, do not go overboard with the amount of detail in your design. The level of detail should feel appropriate to the theme of your app. Take some time to look at the app icons on your devices and do some online research to get some direction for creating a modern, well designed icon.
@@ -56,7 +55,7 @@ To successfully complete this assignment you must submit a **lName-fName-section
 
 As part of this assignment, you must submit the first draft of your icon concept, design, and color scheme to the App Icon Feedback discussion to receive feedback from your peers and professor. You must also provide feedback to a minimum of two other students on their discussion posts.
 
-This must be completed by the start of class of **Week 5** to allow time to implement the feedback received.
+This must be completed by the start of class of **Week 9** to allow time to implement the feedback received.
 
 ## Grading
 
@@ -127,9 +126,9 @@ This must be completed by the start of class of **Week 5** to allow time to impl
 
 ::: warning Due Date
 
-Section 300: Tuesday, October 12, 2021 @ 7pm
+Section 010: Thursday, November 3, 2021 @ 5pm
 
-Section 310: Wednesday, October 13, 2021 @ 7pm
+Section 020: Wednesday, November 2, 2021 @ 7pm
 
 Submit on Brightspace under Assignments > Assignment 1 - App Icon
 :::

@@ -28,10 +28,10 @@ Save and upload your Illustrator file to BrightSpace named as follows: **lName-f
 
 ::: warning Due Date
 
-Section 300: Tuesday, September 21, 2021 @ 7pm
+Section 010: Thursday, September 29, 2021 @ 5pm
 
-Section 310: Wednesday, September 22, 2021 @ 7pm
+Section 020: Wednesday, September 28, 2021 @ 7pm
 
-Submit on Brightspace under Assignments > Exercise 1 — Logo Recreation
+Submit on Brightspace under Assignments > Exercise 3 — Logo Recreation
 
 :::

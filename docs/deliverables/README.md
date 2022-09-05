@@ -38,7 +38,7 @@ The goal of this exercise is to learn how basic shapes can be used to create log
 <Badge text="Section 020: Wednesday October 19, 2022 @7pm" type="error" />
 The goal of this exercise is to learn how to create a custom icon library.
 
-### [Exercise 7 — Interactive SVG](./exercises/ex-7.md)
+### [Exercise 7 — Animated SVG](./exercises/ex-7.md)
 
 <Badge text="Section 010: Thursday November 3, 2022 @5pm" />
 <Badge text="Section 020: Wednesday November 2, 2022 @7pm" type="error" />
