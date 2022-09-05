@@ -1,140 +1,161 @@
-# Week 11 - Introduction to SVG
+# Week 5 - Typography, Appearance, & Exporting
 
 ::: tip Files
-[Week 11 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1fb6H6CIZn1I8uqtq4vXb5TiC7YyT2eot)
+[Week 5 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1mdDizV8gdjXNZDiHo1akAPKbxpeUPd6Y)
 :::
 
-## What are SVGs?
+## Introduction
 
-Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation. SVG images are defined in XML text files. In this section, we are going to learn how to generate good SVG code using Adobe Illustrator and preparing it to be animated and used on the web as well as how to write our own SVG code from scratch.
+In this module, you will be learning how to add properly styled text to your designs, apply effects to that text and other objects, how to properly export your artwork properly for the web to multiple sizes and file types all at once.
 
-## SVGs are code
-
-SVGs are purely vector graphics written in XML markup language. We can use a pure code editor to create an SVG. Let's follow along this series of video tutorial and write SVG markup with VSCode.
-
-### Writing SVG Code
-
-In this video we will learn to write SVG code from scratch and integrate it into an HTML document. Read SVG reference of Writing SVG code for basic syntax and SVG shapes.
+## Basics of Typography
 
 <YouTube
-  url="https://www.youtube.com/embed/q_3Q9HHcXuA"
-  title="Advanced SVG: writing SVG code"
+  title="Beginning Graphic Design: Typography"
+  url="https://www.youtube.com/embed/sByzHoiYFX0"
 />
 
-### SVG Attributes and CSS
+Typography is the arrangement of type to reflect a particular style and appearance. Take a look at this series of short tutorials and practice [adding text to your designs](https://helpx.adobe.com/ca/illustrator/how-to/text-basics.html).
 
-It's common practice to use both SVG style attributes and CSS to style SVGs. Watch this video to learn the why and how.
+- Add a line of text
+- Add paragraphs of text
+- Format text
+- Place text on or inside a path
+- Re-shape text
 
-<YouTube
-  url="https://www.youtube.com/embed/EEtnu8OMD3o"
-  title="Advanced SVG: attributes & CSS"
-/>
+### Font Classifications
 
-### SVG Text
+The two most common types of font classifications are Serif and Sans-serif. A serif is the small line or stroke at the end of characters in some type faces. Other common classifications you may run into include script (or cursive in CSS), slab serif, mono, and decorative, however there are many other classifications.
 
-Using text directly inside our SVG has lots of benefits: We can apply web fonts, masking, gradients, and textures to them and they are fully accessible.
+::: tip Font classifications
 
-Reference: SVG text
+  <p>
+    <span class="scale-1" style="font-family: serif;">Serif</span>
+    <span style="font-family: serif;"> Ex: Georgia, Times New Roman</span>
+  </p>
+  <p>
+    <span class="scale-1" style="font-family: sans-serif;">Sans Serif</span>
+    <span style="font-family: sans-serif;"> Ex: Arial, Helvetica</span>
+  </p>
+  <p>
+    The font used on this site is called {% include snippets/link-external.liquid link="https://fonts.google.com/specimen/Poppins" text="Poppins" %}, which is a <strong>sans-serif</strong> font.
+  </p>
+:::
 
-#### Text & web fonts
+#### Recommended Font Sites
 
-We will follow along this video tutorial to practice using `<text>` element to add live/accessible texts inside an embedded SVG and apply web fonts to it.
+- [Adobe Fonts](https://fonts.adobe.com) - large collection of premium fonts that are included in your subscription. Can be used effectively for both print and web.
+- [Google Fonts](https://fonts.google.com) - large collection of well made free fonts. Great for use on the web and for clients with small budgets.
 
-<YouTube
-  url="https://www.youtube.com/embed/UKXRwuXd7rA"
-  title="Advanced SVG: text & web fonts"
-/>
+::: tip Careful of Free Font Websites!
+There are a lot of websites that give away free fonts, however you need to be careful with the fonts you find online. Often, they are community made fonts that will have issues such as lacking all the proper characters needed for the web, or are just poorly designed and hard to read. Some sites also provide free downloads for fonts that they do not have the legal right to provide, which could land you in trouble in the future if you use that font for a real job/client.
 
-#### Masking text
+In general, I would suggest sticking with the above font site suggestions!
+:::
 
-Continue with this video to learn how to use `<mask>` element to mask out pieces of text to create different effects:
+## Type Tools
 
-<YouTube
-  url="https://www.youtube.com/embed/B5ol4ss-mi4"
-  title="Advanced SVG: masking text"
-/>
+### Character Panel
 
-#### Gradients on text
+The character panel is used to format the styles of characters of your type. Here you can pick your fonts, weight, style, size, and numerous other settings.
 
-In this video, we will apply gradients into the text letters using SVG.
+<figure>
+<img src="./panel-character-styles.jpg" alt="" />
+<figcaption>
+<ol>
+<li><strong>Font Family</strong> <p>
+  A group of fonts containing varying weight and styles options of the same design.
+</p></li>
+<li><strong>Font Weight/Style</strong> <p>
+  The weight and style options within a single font family.
+</p></li>
+<li><strong>Font Size</strong> <p>
+  The size of the characters.
+</p></li>
+<li><strong>Leading</strong> <p>
+  The space between lines of type. Measured from the bottom of one line of characters to the bottom of the next line of characters.
+</p></li>
+<li><strong>Kerning</strong> <p>
+  Modify spacing between specific characters.
+</p></li>
+<li><strong>Tracking</strong> <p>
+  Modify spacing between all characters.
+</p></li>
+<li><strong>Vertical Scaling</strong> <p>
+  Vertically stretches type. <span class="bold">Do not stretch type</span>. Stretching type is considered bad typography. You should always see 100% here.
+</p></li>
+<li><strong>Horizontal Scaling</strong> <p>
+  Horizontal stretches type. <span class="bold">Do not stretch type</span>. Stretching type is considered bad typography. You should always see 100% here.
+</p></li>
+<li><strong>Baseline Shift</strong> <p>
+  Shifts the baseline (the invisible line which type sits on) up or down.
+</p></li>
+<li><strong>Character Rotation</strong> <p>
+  Rotates characters within the text box.
+</p></li>
+<li><strong>Character Options</strong> <p>
+  Allows you to apply styling options such as All Caps, Small Caps, Superscript, Subscript, Underline, and Strikethrough
+</p></li>
+</ol>
+</figcaption>
+</figure>
 
-<YouTube
-  url="https://www.youtube.com/embed/xgZkRVCS07Q"
-  title="Advanced SVG: gradients on text"
-/>
+### Paragraph Panel
 
-These online tools let us generate code for SVG gradients, CSS gradients and edit their code.
+The paragraph panel is used to format styles that affect a group of text, or a paragraph. Paragraph styles include text alignment, indentation, spacing before and after, and hyphenation.
 
-- [Gradient Generator](https://briangrinstead.com/gradient/)
-- [CSS Gradient Generator](https://cssgradient.io/)
+Different paragraphs within the same text box can have different paragraph styles, however they must be divided by new line or a hard return. Characters within the same paragraph all share the same paragraph styles.
 
-#### Textures on text
+<figure>
+<img src="./panel-paragraph-styles.jpg" alt="" />
+<figcaption>
+<ol>
+  <li><strong>Text Alignment</strong><p>
+    Text alignment options including align left, align center, align right, justify left, justify center, justify right, and full justify.
+  </p></li>
+  <li><strong>Left Indent</strong><p>
+    Control how much indent is on the left hand side of text.
+  </p></li>
+  <li><strong>Right Indent</strong><p>
+    Control how much indent is on the right hand side of text.
+  </p></li>
+  <li><strong>First-Line Left Indent</strong><p>
+    Control how much indent is on only the first line of the left hand side of text.
+  </p></li>
+  <li><strong>Space Before</strong><p>
+    Controls how much space is made before the paragraph separating it from the previous paragraph in the same text box.
+  </p></li>
+  <li><strong>Space After</strong><p>
+    Controls how much space is made after the paragraph separating it from the next paragraph in the same text box.
+  </p></li>
+  <li><strong>Hyphenation</strong><p>
+    Turns on or off automatic word hyphenation. Word hyphenation is used to balance the length of lines in a paragraph and spacing between words. Hyphenation is generally not used on the web so you should have this unchecked.
+  </p></li>
+</ol>
+</figcaption>
+</figure>
 
-We can also add image textures to text using SVG and the `<pattern>` tag. In this video, we will make the pattern big enough to only show it once.
+## Appearance panel
 
-<YouTube
-  url="https://www.youtube.com/embed/lSNnVbfvJJ0"
-  title="Advanced SVG: textures on text"
-/>
+The Appearance panel gives us more direct control over the styling of our shapes and type. It allows us to apply and layer multiple strokes, fills, and effects to make more interesting designs.
 
-## From AI to SVG
+![Appearance panel](./appearance-panel.png)
 
-Using Adobe Illustrator (Ai) to design graphics and then export them in SVG format allows us to use that code directly on the web and animate it using CSS. The cleaner and more organized our Ai file is, the easier it will be to manipulate the SVG code later on. Follow this videos to exporting SVGs from Illustrator for animation.
+- **A.** Path with stroke, fill, and drop shadow effect
+- **B.** Path with effect
+- **C.** Add New Stroke button
+- **D.** Add New Fill button
+- **E.** Add Effect button\*
+- **F.** Clear Appearance button
+- **G.** Duplicate Selected Item button
 
-<YouTube
-  url="https://www.youtube.com/embed/bWcweY66DL8"
-  title="Advanced SVG: icons"
-/>
-
-### Cleaning generated SVG
-
-Now we know that if we use SVGs generated by a tool like Adobe Illustrator, Sketch, or Inkscape, there’s lots of extra cruft that we don’t need in the files. We can use some optimization tools to clean up the SVG. Here are the two popular online tools to use.
-
-- [SVG Editor](http://petercollingridge.appspot.com/svg-editor)
-- [SVGOMG](https://jakearchibald.github.io/svgomg/)
-
-## SVG Icons & Symbols
-
-Animated SVGs are great for icons which can indicate micro-interactions and state changes and guide a user to the next action in an onboarding tour. They are commonly used to show status of loading, uploading, menu toggling, and playing/pausing a video. We will practice using SVG icons in this video tutorial.
-
-<YouTube
-  url="https://www.youtube.com/embed/EhNHe-f0LBI"
-  title="Advanced SVG: icons"
-/>
-
-### SVG symbols
-
-We will practice using SVG elements `<symbol>` and `<use>` to make SVG icon systems.
-
-<YouTube
-  url="https://www.youtube.com/embed/BO13gECyiuE"
-  title="Advanced SVG: icon symbols"
-/>
-
-### Spritebot
-
-Spritebot is a tool used to clean up our SVGs. It can also combine numerous SVGs into a single sprite sheet for easier use on our websites.
-
-[Download here.](https://github.com/thomasjbradley/spritebot)
-
-## SVG Accessiblity
-
-Lastly, we will learn the extended accessibility features of SVG and know when/how to hide embedded SVG from accessibility tools when needed.
-
-<YouTube
-  url="https://www.youtube.com/embed/BieUh304KDA"
-  title="Advanced SVG: accessibility"
-/>
-
-## Resources
-
-- [Advanced SVG Lesson](https://learn-the-web.algonquindesign.ca/topics/advanced-svg/) — Text reference for all topics covered in the videos from this week.
-- [SVG Cheat Sheet](https://learn-the-web.algonquindesign.ca/topics/svg-cheat-sheet/) — Quick reference for all things SVG
+\* Effects can be applied to the entire shape, or individual strokes or fills.
 
 ::: tip To Do for Next Week
 
-- Begin the Interactive SVG exercise
-- Review the App Branding assignment
-- Complete the Photoshop Quiz
-- Review week 12 content
+- Complete Personalized Name exercise
+- Complete App Icon
+- Complete Illustrator Quiz
+- Install Adobe Photoshop
+- Review week 6 Introduction to Photoshop content
   :::

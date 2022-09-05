@@ -1,88 +1,93 @@
-# Week 4 - Time to color
+# Week 3 - Meeting Illustrator
 
 ::: tip Files
-[Week 3 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1sGKaSY6reZ1I46mTjd-1hLErBD5HzJ0D)
+[Week 2 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1Hgjbk3JQ5qSWhI_iUA4JkjYLwcm4EeCV)
 :::
 
-## Colour theory and tools
+## Welcome
 
-Colour theory is simpler than you think. Before we dive into it, let's understand the fundamentals of design. Next, we are going to learn why some colours look good together and some don't, how to choose the right ones, and the tools on Adobe Illustrator to manipulate and colour shapes.
+Before we begin using Adobe Illustrator, we need to understand a few fundamentals, here is a short introduction to get you started.
 
-## Design Fundamentals
-
-The fundamentals of design are going to play a very important role in your career and you will learn more about them later on, but for now take a look at this nice video to get an introduction on the elements of design.
+### RASTER AND VECTOR GRAPHICS
 
 <YouTube
-  title="Beginning Graphic Design: Fundamentals"
-  url="https://www.youtube.com/embed/YqQx75OPRa0"
+  title="Raster and vector graphics"
+  url="https://www.youtube.com/embed/p2thSkOa_Xg"
 />
 
-## Colour Fundamentals
+## The Basics
 
-Being proficient at picking the right colours is very important but not an easy task and there is a lot of theory behind it, but if you follow some simple rules you are likely to make the right decision.
+We will be using Adobe Illustrator to create vector graphics, so let's familiarize ourselves with the software.
 
-<YouTube
-  title="Beginning Graphic Design: Color"
-  url="https://www.youtube.com/embed/_2LLXnUdUIc"
-/>
+We will start by going over this series of tutorals: [Get to know Illustrator (4 videos)](https://helpx.adobe.com/ca/illustrator/how-to/ai-basics-fundamentals.html)
 
-Creating good colour schemes can be challenging and take practice. But don't worry, there are some great resources out there to help you. Here are some great examples:
+- Illustrator workspace
+- Zoom and Pan
+- Create a new document
+- Save your work
 
-### [Adobe Color](https://color.adobe.com/)
+## Artboards
 
-Adobe Color allows you to generate create your own unique colour palettes and explore colour palettes created by others. You can also export the palettes as CSS, Sass, LESS, or save your palette into your CC Libraries and access the colours right in Illustrator, Photoshop, and other Adobe applications.
+Artboards are like pages in your document, they are very useful to separate different elements you are designing without having to create multiple files.
 
-### [Colormind.io](http://colormind.io/bootstrap/)
+Take a look at this short [Artboard tutorial. (3 videos)](https://helpx.adobe.com/ca/illustrator/how-to/artboards-basics.html)
 
-This site allows you to generate a colour palette guaranteed to look good and shows you some examples of how to use each colour as well with common elements on the web.
+**Work with artboards**
 
-## Colour in Adobe Illustrator
+- Understand and navigate artboards
+- Create artboards
+- Edit artboards
 
-Let's continue working with colors in Adobe Illustrator, including how to create swatches, trace images, recolor artwork, and more.
+## Creating, selecting, and editing shapes
 
-### Working with Colours In Illustrator
+Let's learn to draw and manipulate shapes in Illustrator with this [drawing tools tutorial (5 videos)](https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html).
 
-To learn how to change colour, create swatches, recolour artwork, we will begin with this set of short video tutorials on [Change colour and strokes. (5 videos)](https://helpx.adobe.com/illustrator/how-to/color-basics.html)
+### Create with drawing tools
 
-- Change the colour of artwork
-- Create colour swatches
-- Add dashed lines and arrows
-- Create colour gradients
-- Recolour artwork
+- Understand paths and curves
+- Draw with the Pencil tool
+- Draw with the Curvature tool
+- Edit paths and shapes
+- Join artwork together to combine paths
 
-### Tracing Images
+### Create and edit shapes
 
-Adobe Illustrator works with vectors, we learned that last week, but we can import an image to illustrator and make it a vector object (or a collection of objects), take a look at this tutorial and see how to set options and preferences to optimise your conversion from raster to vector.
+Next, we practice using the drawing tools to [create and edit shapes. (4 videos)](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
 
-<YouTube
-  title="How to use Image Trace in Illustrator by Solopress.com"
-  url="https://www.youtube.com/embed/Qgsm-Hx-lTE"
-/>
+- Draw simple shapes
+- Create lines
+- Combine shapes with the Shape Builder tool
+- Trace to make shapes
 
-### Recolouring Artwork
-
-Adobe Illustrator has many shortcuts and ways to get to the same place. It is always useful to keep it in your notes for later. In the following video, you will learn how to recolour artwork and how to access this tool from more than one place in your workspace. This workflow will help a lot and is a fun way to achieve different results with only a few clicks.
-
-<a href="https://helpx.adobe.com/illustrator/how-to/color-basics.html#recolor_artwork" target=”_blank”>![Adobe tutorial for Recolouring artwork](./recolorArtwork.png)</a>
-
-### Gradient Tool
-
-The gradient tool allows you to colour any vector shape in illustrator with a set of colours while transitioning smoothly between them; this tool is used very frequently and you will use it to do some of your assignments. Let's follow this video to create, edit, and apply custom gradients.
-
-<a href="https://helpx.adobe.com/illustrator/how-to/color-basics.html#create_color_gradients" target=”_blank”>![Adobe tutorial for using the gradient tool](./customGradient.png)</a>
-
-## Transform optoins: Rotate, reflect, and shear
+## Transform Options: Rotate, reflect, and shear
 
 To streamline the process of drawing shapes and ensuring they are even, we use this set of tools to transform them and arrange them in the artboard, take a look at this video and try to follow along. The sample files are on the website you will be redirected to, make sure to download and open it before starting.
 
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/apply-rotation-and-reflection-in-artwork.html" target=”_blank”>![Transform Tool](./transformArtwork.png)</a>
+[![Adobe tutorials for Transform Options: Rotate, reflect, and shear](./transformArtwork.png)](https://helpx.adobe.com/ca/illustrator/how-to/apply-rotation-and-reflection-in-artwork.html)
+
+## Colour of fill and stroke
+
+To make our designs more interesting and clear, we need to use colour. Take a look at [the first video on this tutorial page](https://helpx.adobe.com/illustrator/how-to/color-basics.html) to learn how to apply colour to your shapes and edit the stroke as well.
+
+## Export for Screens
+
+The Export for Screens dialogue allows us to efficiently export our artwork to numerous file types and sizes at once. To access the Export for Screens dialogue, access through the dropdown menus `File > Export > Export for Screens` or with keyboard shortcut `Option + Command + E` on Mac or `Control + Alt + E` on Windows.
+
+The export is based on the artboards in the file, so make sure to set up your file properly with correctly sized arboards for your artwork. In the example below, the icon designs have the exact same width and height as their artboard, allowing them to export cleanly with no extra space around the edges and without accidentally cropping any of the artwork. You can also choose specific artboards to export, while omitting others.
+
+![Export for screens dialogue](./export-for-screens.jpg)
+
+1. **Artboards preview** - here you can select which artboards to export and you can rename the artboards
+2. **Select export location** - use this button to find the proper location in your files to export to
+3. **Scale** - select the scale of your export. You can select a scale multiplier (1x, 2x, etc.) or a specific width or height.
+4. **Suffix** - a short string of text that will be added to the end of the filename to identify the export
+5. **Format** - choose the file format for the exported file
+6. **Create Sub-folders** - checking this will create a new folder for for each different scale or format that you export. I would recommend unchecking this, as most exports are only a few files at a time and it will just result in numerous unnecessary folders.
 
 ## To Do
 
 ::: tip To Do for Next Week
 
-- Complete Button Design exercise
-- Begin working on App Icon concepts
-- Post your concepts to App Icon Feedback discussion board
-- Review week 4 content
+- Complete Logo Recreation exercise
+- Review week 3 content
   :::

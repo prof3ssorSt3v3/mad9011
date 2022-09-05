@@ -1,126 +1,169 @@
-# Week 2 - Photo Retouching
+# Week 1 - Introduction to Photoshop
 
 <!-- ::: tip Files
-[Week 7 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1SKVZ_Jr1jCpd7GFi-vbsPL3o0alWvBIx)
+[Week 6 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1tldwDUhs1cc3Uiv_O8kAOz7kBsTDZsqU)
 ::: -->
 
 ## Introduction
 
-Whether they’re blemishes on skin or stains on a surface, Photoshop has a tool to remove them quite easily. Our focus here will be on working non-destructively. That means that we don’t want to paint on the original photo at all. The added advantage working this way is that our painting will be accessible on their own layers.
+Welcome to Adobe Photoshop, we will use Ps to create raster-based (bitmap) graphics. Our focus will be on mobile features, including designing User Interface(UI), creating/composing graphics and the necessary colour basics. Let's first get familiar with Photoshop `workspace` and then move to the basic features and tools.
 
-## Retouching Tools
+<a href="https://helpx.adobe.com/ca/photoshop/using/workspace-basics.html#workspace_overview" target=”_blank”>![Adobe Photoshop Workspace](./PSworkspace.png)</a>
 
-<img src="./tool-icons-psd-cloning.svg" style="max-width: 7.5rem;" alt="Photoshop's retouching tools">
+### Helpful Photoshop Resources
 
-1. Clone Stamp Tool
-2. Spot Healing Brush Tool
-3. Healing Brush Tool
-4. Patch Tool
-5. Red Eye Tool
+- [Photoshop User Guide](https://helpx.adobe.com/photoshop/user-guide.html)
+- [Photoshop Tool Galleries](https://helpx.adobe.com/photoshop/using/tools.html)
+- [Photoshop Artboards](https://helpx.adobe.com/photoshop/using/artboards.html)
+- [Keyboard Shortcuts](https://helpx.adobe.com/ca/photoshop/using/default-keyboard-shortcuts.html)
+- [Adobe PS Tutorials](https://helpx.adobe.com/ca/photoshop/tutorials.html)
+- [A comprehensive tutorial for Photoshop Tools](http://www.photoshop-bootcamp.com/beginners-guide-photoshop-tools-toolbar/)
 
-These are the tools we’ll focus on. They’re all made to repair photographs.
+### Free stock photos & videos sites:
 
-### Clone Stamp Tool
+- [Unsplash](https://unsplash.com/)
+- [Pixabay](https://pixabay.com/)
+- [Pexels](https://www.pexels.com/)
 
-<img src="./tool-icon-clone-stamp.svg" style="max-width: 7.5rem;" alt="Clone Stamp tool icon">
+## Common Features & Tools
 
-The Clone Stamp Tool is often called the rubber stamp tool for a reason. It works very similarly. You take a sample on your photo, then you replicate it at another location. The goal is most often to cover up something under the cloning.
+### Opening, Creating, Saving Documents
 
-![Photoshop workspace set up for clone stamping](./retouching-clone-stamp-tool.jpg)
+We will learn the how's and why's of setting up documents to open or create a new document, save a document, navigate the work area, zoom in/out, and undo mistakes. Take a look at this series of short tutorials to Get to know [Photoshop](https://helpx.adobe.com/photoshop/how-to/ps-basics-fundamentals.html). (5 videos)
 
-::: tip Tip
-Create a new empty layer called <strong>Retouching</strong>. Do not duplicate the photo's layer.
-:::
+- Open images
+- Get familiar with the work area
+- Learn how to zoom and pan
+- Undo a command
+- Save your work
 
-The Clone Stamp Tool doesn’t do any calculations or adjustments. It just clones the pixels you sampled, no matter whether they match or not.
+### Using Artboards
 
-### Healing Brush
+[Artboards](https://helpx.adobe.com/photoshop/using/artboards.html) article provides a quick reference in Photoshop User Guide.
 
-<img src="./tool-icon-healing-brush.svg" style="max-width: 7.5rem;" alt="Healing brush tool icon">
+Think of an artboard as a special type of layer group. We will learn all kinds of Photoshop layers in the next few weeks. Have you noticed how similar or different artboard layers are in PhotoShop than in Illustrator? To begin, follow along this video tutorial.
 
-The Healing Brush Tool works very similarly to the Clone Stamp Tool, except that it’s a smarter tool. You need to sample an area first. When you release the mouse while cloning, it evaluates the surrounding pixels then adjusts the cloned pixels to blend into their surroundings.
+<YouTube
+  title="Photoshop CC Artboards"
+  url="https://www.youtube.com/embed/m6Wb2R2FTAc"
+/>
 
-### Spot Healing Brush Tool
+### Changing Image Size
 
-<img src="./tool-icon-spot-healing-brush.svg" style="max-width: 7.5rem;" alt="Spot healing brush tool icon">
+We will learn to resize, crop, and straighten an image and change the canvas size. **Note:** Canvas and image resize won't work when artboards are used. Resize artboards instead. Let's Begin the video tutorials to [**Change the image size.** (4 videos)](https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html)
 
-The Spot Healing Brush works by simply clicking on blemishes. There’s no need to sample pixels first. Just adjust the diameter and hardness of your brush, then click away. Just make sure you’re on a new, empty layer.
+- Resize an image
+- Set the resolution
+- Crop and straighten an image
+- Expand the canvas
 
-This is the perfect tool for removing blemishes on a subject’s skin. It should be your go-to tool. If you find it not bending to your will, go back to the Clone Stamp Tool.
+### Making Selections
 
-### Patch Tool
+A selection isolates part of an image so you can work on that area without affecting the rest of the image. Take a look at this series of short tutorials and practice [**making selections.** (3 videos)](https://helpx.adobe.com/photoshop/how-to/selection-tools-basics.html)
 
-<img src="./tool-icon-patch-tool.svg" style="max-width: 7.5rem;" alt="Patch tool icon">
+- Learn selection basics
+- Learn how to use the Quick Selection and Lasso tools
+- Fine-tune a selection
 
-The Patch Tool is made to fix blemishes on large, rather flat surfaces in a photo. The idea is that you drag a good part of the photo on top of a damaged part of the photo. The tool does the work of blending the patch into its surroundings.
+### Object Selection Tool
+
+Don't forget to try one of the 2020 new tools: `Object Selection`
+
+<YouTube
+  title="Object Selection Tool"
+  url="https://www.youtube.com/embed/0Qm5nS2PMBs"
+/>
+
+## Creating Silhouettes with Masks
+
+First, we will make and refine selections in the Selection and Masking Space to create a masking image. Let's practice along with this [Accurately select image areas tutorial.](https://helpx.adobe.com/photoshop/how-to/selection-masking-space.html)
+
+<a href="https://helpx.adobe.com/photoshop/how-to/selection-masking-space.html" target=”_blank”>![Accurately select image areas](./accurateSelectMask.png)</a>
+
+Next, we will convert the masking image to a `Smart Object Layer` and change the `Blending Mode` of that layer to create a silhouette. To make the image more interesting, add a nice background layer. Here is a completed example.
+
+![Exercise example](./silhouetteEx.png)
+
+## Destructive V.S. Non-destructive Editing
+
+In Adobe Photoshop there is a incredibly important concept called **non-destructive editing**. What does that mean exactly? Non-destructive editing means that the edits, changes, filters, etc. that you do in your PSD file are all done in a way that is reversible and non-permanent. Meaning, if you make a mistake or make a large revision, you could easily undo certain changes and revert your work to an earlier state if necessary. This is important for a number of reasons:
+
+1. It protects your assets so you don't accidentally change the original and no longer have access to the original asset (It's really embarrassing if you accidentally permanently change an asset and have to go back to your client to ask for another copy of the originals)
+2. It makes it easy to revert to an earlier version if you decide to go another direction with your work
+3. It protects your assets and does not remove image data, preserving the quality of your images.
+
+### How do you edit non-destructively?
+
+Some best practices to insure you are working non-destructively include:
+
+1. **Maintain strong file organization** - helps to insure layers aren't deleted or modified unintentionally
+2. **Use effective `Layer Masks`** - this allows you to hide portions of a layer without deleting pixels, preserving the ability to edit and change later on
+3. **Use `Smart Objects` as much as possible** - making a layer a `Smart Object` protects the layer while allowing you to add/remove/edit filters, effects, and more without making them permanent
+
+We will go into more detail on these topics as we move through the semester, but for now just make sure to keep those terms in mind.
+
+### Destructive V.S. Non-destructive Editing Example
+
+The simplest example of destructive v.s. non-destructive, and one of the most important to **always** remember, is to use a layer mask to remove unwanted areas of an image instead of erasing. Take a look at the example below. In both images, the background is removed, showing the checkered pattern representing a transparent background. The first example is destructive, with the pixels in the background being permanently erased, which makes it difficult or impossible to edit or undo those changes afterwards. The second example accomplishes the same result in a non-destructive way. The background is simply hidden with a layer mask, which can be edited and altered as many times as necessary.
 
 <figure>
-<img src="./retouching-scar-patch.jpg" alt=""/>
+<img src="./destructive.png" alt="">
+<figcaption><strong class="text-secondary">Destructive edit:</strong> the background has been erased and the pixels data is permanently lost</figcaption>
+</figure>
+
+<figure>
+<img src="./non-destructive.png" alt="">
+<figcaption><strong class="text-secondary">Non-destructive edit:</strong> the background has been removed with a mask. That masked can be edited afterwards to show/hide more areas of the image, or undone entirely if needed.</figcaption>
+</figure>
+
+It is expected in this course to always edit non-destructively<span class="text-secondary">\*</span>, especially in the above scenario with masking. You will lose marks on exercises and assignments if destructive editing techniques are used when a non-destructive could have been used.
+
+<span class="text-secondary">\*</span>There are some edits that are only possible in a destructive manner. We will discuss some such edits throughout the course. In cases where destructive edits are required, you should create a duplicate of your layer before making a destructive edit in case you need to revert the edit. You can create a duplicate by right clicking on the layer and selecting `Duplicate Layer` or with keyboard shortcut `Command + J` on Mac or `Control + J` on Windows when the layer is selected.
+
+## Exporting from Photoshop
+
+Photoshop has numerous processes for exporting your artwork, all of which can be found in the `File > Export` dropdown menu. We are are going to focus on the `Export As` dialogue because:
+
+1. It provides us with the most efficient options for exporting our images at the correct format and resolution for the web. It will automatically export the image in **RGB colour mode** at **72ppi**.
+2. It can process multiple individual artboards at the same time, while providing options for customizing each artboards' output options.
+
+This dialogue can be can be accessed through `File > Export > Export As` or with the (dangerous) keyboard shortcut `Shift + Option + Command + W` on Mac or `Shift + Control + Alt + W` on Windows.
+
+<figure>
+<img src="./export-as-artboards.jpg" alt="">
+<figcaption>A Photoshop file that contains multiple artboards of different sizes.</figcaption>
+</figure>
+
+Take a look at the `Export As` dialogue and the options it provides. It should feel very familiar as it functions similarly to the `Export for Screens` dialogue in Adobe Illustrator.
+
+<figure>
+<img src="./export-as-dialogue.jpg" alt="" />
 <figcaption>
-  The scar was repaired using the Patch tool on Content Aware mode on its own layer.
+<ol>
+  <li><strong>Output Scales</strong><p>
+    You can output the artboard at multiple different scales at once. Keep in mind, Photoshop is <strong>raster</strong> so you can only scale down, you cannot scale up.
+  </p></li>
+  <li><strong>Artboard Select</strong><p>
+    Select which artboards you wish to export by clicking on the check box. Click on the card to select the artboard that you want to update the settings.
+  </p></li>
+  <li><strong>Preview Window</strong><p>
+    Previews the artboard currently selected.
+  </p></li>
+  <li><strong>Output Settings</strong><p>
+    Control the settings of the outputted image including format, size, etc.
+  </p></li>
+</ol>
 </figcaption>
 </figure>
 
-Note that if the Patch setting is at Normal, the tool doesn’t work on a separate layer. It’s best to set it to `Content Aware`, then work on a new empty layer named Patching.
-
-#### Patch Settings
-
-<dl>
-<dt>Structure</dt>
-<dd>
-  Enter a value between 1 and 7 to specify how closely the patch should reflect existing image patterns. If you enter 7, the patch adheres very strongly to existing image patterns. If you enter 1, the patch adheres very loosely to the existing image patterns.</dd>
-<dt>Color</dt>
-<dd>
-  Enter a value between 0 and 10 to specify the extent to which you want Photoshop to apply algorithmic color-blending to the patch. If you enter 0, color blending is disabled. A Color value of 10 applies maximum color blending.
-</dd>
-<dt>Sample All Layers</dt>
-<dd>
-  Enable this option to create the result of the move in another layer using information from all layers. Select the target layer in the Layers panel.
-</dd>
-</dl>
-
-### Red Eye Tool
-
-<img src="./tool-icon-patch-tool.svg" style="max-width: 7.5rem;" alt="Red eye tool icon">
-
-<strong>Let’s avoid using this tool</strong>. We’ll use a Hue/Saturation adjustment layer instead.
-
-We’ve all seen the red eye effect in photos. Few know that it comes from light from your flash bouncing off the blood vessels at the back of the eye to return to your camera.
-
-![Photoshop workspace set up for clone stamping](./repairing-blemishes-removing-red-eye.jpg)
-
-Use an Adjustmet Layer to desaturate the red from the eyes. This preserves the detail in the pupils.
-Create a Hue/Saturation Adjustment Layer. Turn the Saturation down to -100. Invert your mask to make it black. Then pain the red eyes with a very soft white brush.
-
-> A reflection of the camera flash in the subject’s retina causes red eye. You’ll see it more often when taking pictures in a darkened room because the subject’s iris is wide open. To avoid red eye, use the camera’s red eye reduction feature. Or, better yet, use a separate flash unit that you can mount on the camera farther away from the camera’s lens. [From: Adobe](https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html)
-
-### Key Points to Remember
-
-The important factor is to never touch the original photo. Make sure edits you make are on their own layers. This allows you to return to the photo to make changes. You can also turn off your new layers to see the original photo.
-
-## Content Aware Tools
-
-The Content Aware Tools in Photoshop are truly magical. They make a really good guess at how you want to fill in shapes. All you do is lasso the unwanted area, then `Edit > Fill > Content Aware Fill`. Presto!
-
-![Photoshop workspace set up for clone stamping](./content-aware-fill-2.jpg)
-
-Make a selection, then use `Edit > Fill > Content Aware Fill` to open the Content Aware Fill dialogue. In this dialogue you can select which areas of the photo to sample from by painting on the green sections. On the right side you will see a preview of the fill. When you are happy with the results, make sure **Output to** is set to **New Layer** then click **OK** and it will automatically create a new layer with the filled area.
-
-Depending on how complex the fill needs to be, you may need to layer a couple fills for best results. However, often with simpler fixes, one is enough.
-
-::: tip Tip
-If you're zoomed in really closely, you can hold h, then click-hold with your mouse to zoom out and choose another zoom location. Go ahead; give it a whirl.
-:::
-
-Content on this page is used with permission from [cg.algonquindesign.ca](https://cg.algonquindesign.ca/topics/retouching-fundamentals.html)
+It is important to properly **name your artboards** as the `Export As` dialogue uses the artboard names to name the exported file.
 
 ## To Do
 
-<!-- ::: tip To Do for Next Week
+::: tip To Do for Next Week
 
-- Complete Retouching exercise
-- Get planning for the Profile Card assignment
-- Post your draft to the Profile Card Feedback discussion
-- Review week 9 content
-- Have a good break week!
-  ::: -->
+- Complete Select & Mask exercise
+- Review Profile Card assignment
+- Review week 2 content
+
+  :::
