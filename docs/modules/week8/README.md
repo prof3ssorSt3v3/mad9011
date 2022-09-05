@@ -1,4 +1,4 @@
-# Week 11 - Introduction to SVG
+# Week 7 - Introduction to SVG
 
 ::: tip Files
 [Week 11 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1fb6H6CIZn1I8uqtq4vXb5TiC7YyT2eot)

@@ -1,4 +1,4 @@
-# Week 5 - Typography, Appearance, & Exporting
+# Week 6 - Typography, Appearance, & Exporting
 
 ::: tip Files
 [Week 5 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1mdDizV8gdjXNZDiHo1akAPKbxpeUPd6Y)

@@ -1,12 +1,5 @@
 # Getting Started
 
-::: tip Introduction Slides
-
-- [Course Introduction](/F2021/w1-course-introduction-f21.pdf)
-- [Set Up & Intro to Illustrator](/F2021/w1-set-up-intro-to-illustrator.pdf)
-
-:::
-
 ## Introduction
 
 Welcome to MAD9011, Mobile Design Fundamentals. In this design course, we will explore fundamental design concepts and learn the fun and useful tools to help you design graphics and interfaces.
