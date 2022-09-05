@@ -8,11 +8,11 @@
 <Badge text="Section 020: Wednesday September 14, 2022 @7pm" type="error" />
 The goal of this exercise is to learn basic masking techniques in Photoshop.
 
-### [Exercise 2 — Retouching & Photo Composite](./exercises/ex-2.md)
+### [Exercise 2 — Retouching](./exercises/ex-2.md)
 
 <Badge text="Section 010: Thursday September 22, 2022 @5pm" />
 <Badge text="Section 020: Wednesday September 21, 2022 @7pm" type="error" />
-The goal of this exercise is to learn basic retouching techniques, image compositing and non-destructive editing.
+The goal of this exercise is to learn basic retouching techniques and non-destructive editing.
 
 ### [Exercise 3 — Logo Recreation](./exercises/ex-3.md)
 

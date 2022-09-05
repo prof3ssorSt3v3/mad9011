@@ -8,6 +8,10 @@
 
 Apply the retouching techniques practiced in class and apply them to the two supplied Photoshop files.
 
+## Example
+
+![Retouching example](./assets/retouching.jpg)
+
 ### File 1: 01-photoshop-repairing-blemishes
 
 - Remove all blemishes on the model in the photo
