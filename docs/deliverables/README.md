@@ -32,11 +32,11 @@ In this exercise we will be creating a variety of buttons using different colour
 <Badge text="Section 020: Wednesday October 12, 2022 @7pm" type="error" />
 The goal of this exercise is to learn how basic shapes can be used to create logos and other designs.
 
-### [Exercise 6 — Custom Icon Library](./exercises/ex-6.md)
+### [Exercise 6 — Web Banner](./exercises/ex-6.md)
 
 <Badge text="Section 010: Thursday October 20, 2022 @5pm" />
 <Badge text="Section 020: Wednesday October 19, 2022 @7pm" type="error" />
-The goal of this exercise is to learn how to create a custom icon library.
+The goal of this exercise is to create a web banner that combineds both raster and vector shapes.
 
 ### [Exercise 7 — Animated SVG](./exercises/ex-7.md)
 
