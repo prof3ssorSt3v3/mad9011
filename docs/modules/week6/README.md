@@ -1,95 +1,159 @@
-# Week 5 - Time to draw
+# Week 6 - Typography & Appearance
 
 ::: tip Files
-[Week 4 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1kgTnrs0QLGJ2fb3Oa0wUqgfIvR-X7YSM)
+[Week 5 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1mdDizV8gdjXNZDiHo1akAPKbxpeUPd6Y)
 :::
 
-## Drawing tools
+## Introduction
 
-::: tip Introduction
-In this section, we are going to learn how to draw shapes and edit them using different tools.
-:::
+In this module, you will be learning how to add properly styled text to your designs, apply effects to that text and other objects, how to properly export your artwork properly for the web to multiple sizes and file types all at once.
 
-First, we will learn all about the pen tool, which can be tricky to master, but is the most essential drawing tool in Illustrator. Then we will cover the pencil and brushes tools and learn how to edit shapes pathfinder tools. Finally, we are going to see how the clipping mask is used and how it makes our lives easier.
-
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/drawing-tools-in-illustrator.html" target=”_blank”>![Get to know the drawing tools](./letsDraw1.png)</a>
-
-## The Pen Tool
-
-The pen tool is one of the most important tools in the software; most of the drawing will be done using the pen tool and then edited with other tools to achieve the expected result, but it is usually the start to all shapes.
-
-This tool is very versatile and has a couple of different settings that can also be mastered with practice, so make sure to follow the tutorials and try it yourself.
-
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/use-pen-tool.html" target=”_blank”>![Start creating with the Pen tool](./penTool1.png)</a>
-
-### Now let's practice!
-
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/pen-tool-exercises.html" target=”_blank”>![Practice creating with the Pen tool](./penTool2.png)</a>
-
-### Edit paths you draw
-
-A huge part of creating shapes with the pen tool is being able to manipulate them and edit them. Check this tutorial and try to follow along.
-
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/edit-paths-you-draw.html" target=”_blank”>![Edit paths you draw](./penTool3.png)</a>
-
-## The Pencil & Paintbrush Tools
-
-These tools allow you to draw shapes as you would with real pencils and brushes, and the resulting elements can be adjusted after.
-
-You will learn how to create the paths, edit them and change the style to mimic different types of brushes.
-
-You will also see the properties panel in action and a few quick actions, such as grouping.
-
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/create-edit-artwork-with-paintbrush-pencil-tools.html" target=”_blank”>![Create artwork with the Paintbrush and Pencil tools](./paintbrush.png)</a>
-
-## Blend Tool
-
-The Blend tool (W) creates a series of objects blended between the color and shape of multiple objects. Let's follow this video to transform shapes and colors into beautiful objects.
+## Basics of Typography
 
 <YouTube
-  title="Blend Tool Features You Might Not Know!"
-  url="https://www.youtube.com/embed/c_ZA5FPxkAo"
+  title="Beginning Graphic Design: Typography"
+  url="https://www.youtube.com/embed/sByzHoiYFX0"
 />
 
-## Pathfinder & Builder Tools
+Typography is the arrangement of type to reflect a particular style and appearance. Take a look at this series of short tutorials and practice [adding text to your designs](https://helpx.adobe.com/ca/illustrator/how-to/text-basics.html).
 
-Some more complex geometric shapes are more easily created starting from the basic geometric shapes and breaking them and combining them.
+- Add a line of text
+- Add paragraphs of text
+- Format text
+- Place text on or inside a path
+- Re-shape text
 
-To do this, we use the pathfinder tool or the builder tool.
+### Font Classifications
 
-Both tools can be used to achieve the same result using different methods, try them both to see which one you feel more comfortable with.
+The two most common types of font classifications are Serif and Sans-serif. A serif is the small line or stroke at the end of characters in some type faces. Other common classifications you may run into include script (or cursive in CSS), slab serif, mono, and decorative, however there are many other classifications.
 
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/combine-simple-shapes-to-make-complex-shapes.html" target=”_blank”>![Combine shapes in different ways](./pathfinder-builder.png)</a>
+::: tip Font classifications
 
-## Clipping Mask
+  <p>
+    <span class="scale-1" style="font-family: serif;">Serif</span>
+    <span style="font-family: serif;"> Ex: Georgia, Times New Roman</span>
+  </p>
+  <p>
+    <span class="scale-1" style="font-family: sans-serif;">Sans Serif</span>
+    <span style="font-family: sans-serif;"> Ex: Arial, Helvetica</span>
+  </p>
+  <p>
+    The font used on this site is called {% include snippets/link-external.liquid link="https://fonts.google.com/specimen/Poppins" text="Poppins" %}, which is a <strong>sans-serif</strong> font.
+  </p>
+:::
 
-Finally, let's take a look at the clipping mask effect. Clipping masks are objects that mask other artwork so only areas within the shape are visible. You can edit the clipping mask or image sets in Isolation mode, too.
+#### Recommended Font Sites
 
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/illustrator-creating-basic-clipping-mask.html" target=”_blank”>![Create a basic clipping mask](./clippingmask.png)</a>
+- [Adobe Fonts](https://fonts.adobe.com) - large collection of premium fonts that are included in your subscription. Can be used effectively for both print and web.
+- [Google Fonts](https://fonts.google.com) - large collection of well made free fonts. Great for use on the web and for clients with small budgets.
 
-## Packaging Your Files
+::: tip Careful of Free Font Websites!
+There are a lot of websites that give away free fonts, however you need to be careful with the fonts you find online. Often, they are community made fonts that will have issues such as lacking all the proper characters needed for the web, or are just poorly designed and hard to read. Some sites also provide free downloads for fonts that they do not have the legal right to provide, which could land you in trouble in the future if you use that font for a real job/client.
 
-Properly packaging and organizing your files is an incredibly important. When you drag and drop or place an image into Illustrator, Illustrator saves a linked reference to where that file lives in your computer. So if you move/delete a linked file that will break the link and Illustrator will no longer be able to load it into your project.
+In general, I would suggest sticking with the above font site suggestions!
+:::
 
-Luckily, Illustrator provides us with the `Package...` feature that will do the heavily lifting and organize linked files for us. It will make a new folder that has a copy of the original Illustrator file and it will copy all linked files into a **Links** folder and all fonts (other than Adobe Fonts) into a **Fonts** folder. You can access this feature in the dropdown menus `File > Package...` or with keyboard shortcut `Shift + Option + Command + P` on Mac or `Shift + Alt + Control + P` on Windows.
+## Type Tools
+
+### Character Panel
+
+The character panel is used to format the styles of characters of your type. Here you can pick your fonts, weight, style, size, and numerous other settings.
 
 <figure>
-  <img src="./packaged-pre.jpg" alt="">
-  <figcaption>Disorganized files before packaging.</figcaption>
+<img src="./panel-character-styles.jpg" alt="" />
+<figcaption>
+<ol>
+<li><strong>Font Family</strong> <p>
+  A group of fonts containing varying weight and styles options of the same design.
+</p></li>
+<li><strong>Font Weight/Style</strong> <p>
+  The weight and style options within a single font family.
+</p></li>
+<li><strong>Font Size</strong> <p>
+  The size of the characters.
+</p></li>
+<li><strong>Leading</strong> <p>
+  The space between lines of type. Measured from the bottom of one line of characters to the bottom of the next line of characters.
+</p></li>
+<li><strong>Kerning</strong> <p>
+  Modify spacing between specific characters.
+</p></li>
+<li><strong>Tracking</strong> <p>
+  Modify spacing between all characters.
+</p></li>
+<li><strong>Vertical Scaling</strong> <p>
+  Vertically stretches type. <span class="bold">Do not stretch type</span>. Stretching type is considered bad typography. You should always see 100% here.
+</p></li>
+<li><strong>Horizontal Scaling</strong> <p>
+  Horizontal stretches type. <span class="bold">Do not stretch type</span>. Stretching type is considered bad typography. You should always see 100% here.
+</p></li>
+<li><strong>Baseline Shift</strong> <p>
+  Shifts the baseline (the invisible line which type sits on) up or down.
+</p></li>
+<li><strong>Character Rotation</strong> <p>
+  Rotates characters within the text box.
+</p></li>
+<li><strong>Character Options</strong> <p>
+  Allows you to apply styling options such as All Caps, Small Caps, Superscript, Subscript, Underline, and Strikethrough
+</p></li>
+</ol>
+</figcaption>
 </figure>
+
+### Paragraph Panel
+
+The paragraph panel is used to format styles that affect a group of text, or a paragraph. Paragraph styles include text alignment, indentation, spacing before and after, and hyphenation.
+
+Different paragraphs within the same text box can have different paragraph styles, however they must be divided by new line or a hard return. Characters within the same paragraph all share the same paragraph styles.
+
 <figure>
-  <img src="./packaged-post.jpg" alt="">
-  <figcaption>Organized files in single organized folder after packaging</figcaption>
+<img src="./panel-paragraph-styles.jpg" alt="" />
+<figcaption>
+<ol>
+  <li><strong>Text Alignment</strong><p>
+    Text alignment options including align left, align center, align right, justify left, justify center, justify right, and full justify.
+  </p></li>
+  <li><strong>Left Indent</strong><p>
+    Control how much indent is on the left hand side of text.
+  </p></li>
+  <li><strong>Right Indent</strong><p>
+    Control how much indent is on the right hand side of text.
+  </p></li>
+  <li><strong>First-Line Left Indent</strong><p>
+    Control how much indent is on only the first line of the left hand side of text.
+  </p></li>
+  <li><strong>Space Before</strong><p>
+    Controls how much space is made before the paragraph separating it from the previous paragraph in the same text box.
+  </p></li>
+  <li><strong>Space After</strong><p>
+    Controls how much space is made after the paragraph separating it from the next paragraph in the same text box.
+  </p></li>
+  <li><strong>Hyphenation</strong><p>
+    Turns on or off automatic word hyphenation. Word hyphenation is used to balance the length of lines in a paragraph and spacing between words. Hyphenation is generally not used on the web so you should have this unchecked.
+  </p></li>
+</ol>
+</figcaption>
 </figure>
 
-Any time you submit any files that contain linked images, you **must** first package the file, and **submit a compressed folder of the entire package**. This will insure that I properly receive all of the necessary files to review and mark your assignments. It is also good habit to get into now, your future co-workers and clients will thank you!
+## Appearance panel
 
-## To Do
+The Appearance panel gives us more direct control over the styling of our shapes and type. It allows us to apply and layer multiple strokes, fills, and effects to make more interesting designs.
+
+![Appearance panel](./appearance-panel.png)
+
+- **A.** Path with stroke, fill, and drop shadow effect
+- **B.** Path with effect
+- **C.** Add New Stroke button
+- **D.** Add New Fill button
+- **E.** Add Effect button\*
+- **F.** Clear Appearance button
+- **G.** Duplicate Selected Item button
+
+\* Effects can be applied to the entire shape, or individual strokes or fills.
 
 ::: tip To Do for Next Week
 
-- Complete Character Vectorization exercise
-- Continue working on App Icon
+- Complete Personalized Name exercise
 - Review content from this week
-- Read ahead to week 6
+- Read ahead to week 7
   :::

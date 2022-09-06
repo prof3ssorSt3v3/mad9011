@@ -63,6 +63,7 @@ module.exports = {
         collapsable: true,
         sidebarDepth: 2,
         children: [
+          '/modules/gettingstarted/',
           '/modules/week1/',
           '/modules/week2/',
           '/modules/week3/',
