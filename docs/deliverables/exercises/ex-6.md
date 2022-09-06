@@ -46,9 +46,9 @@ Submit your compressed lName-fName-section#-web-banner folder to Brightspace. Yo
 
 ::: warning Due Date
 
-Section 300: Tuesday, November 16, 2021 @ 7pm
+Section 010: Thursday, October 13, 2022 @ 5pm
 
-Section 310: Wednesday, November 17, 2021 @ 7pm
+Section 310: Wednesday, october 12 17, 2022 @ 7pm
 
-Submit on Brightspace under Assignments > Exercise 8 — Web Banner
+Submit on Brightspace under Assignments > Exercise 6 — Web Banner
 :::
