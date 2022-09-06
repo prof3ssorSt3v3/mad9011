@@ -50,7 +50,7 @@ module.exports = {
       },
       {
         text: 'Modules',
-        link: '/modules/week1/',
+        link: '/modules/gettingstarted/',
       },
       {
         text: 'Resources',

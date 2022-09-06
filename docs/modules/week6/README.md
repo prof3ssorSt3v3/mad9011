@@ -1,7 +1,7 @@
 # Week 6 - Typography & Appearance
 
 ::: tip Files
-[Week 5 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1mdDizV8gdjXNZDiHo1akAPKbxpeUPd6Y)
+[Week 6 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1mdDizV8gdjXNZDiHo1akAPKbxpeUPd6Y)
 :::
 
 ## Introduction

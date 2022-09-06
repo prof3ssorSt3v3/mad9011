@@ -54,29 +54,31 @@ The goal of this assignment is to apply your Illustrator skills to create a iOS 
 
 ### [Assignment 2 - Basic App](./assignments/assignment-3)
 
+<Badge text="Details to come before we come back from Reading Week." type="error" />
+
 The goal of the final project is to apply your weekly learnings in XD to a basic mobile application.
 
-#### [Part 1 - Wireframes](./assignments/assignment-3)
+#### [Part 1 - Wireframes]
 
 <Badge text="Section 010: Thursday December 15, 2022 @5pm" />
 <Badge text="Section 020: Wednesday December 14, 2022 @7pm" type="error" />
 
-#### [Part 2 - Design System](./assignments/assignment-3)
+#### [Part 2 - Design System]
 
 <Badge text="Section 010: Thursday December 15, 2022 @5pm" />
 <Badge text="Section 020: Wednesday December 14, 2022 @7pm" type="error" />
 
-#### [Part 3 - Visual Design](./assignments/assignment-3)
+#### [Part 3 - Visual Design]
 
 <Badge text="Section 010: Thursday December 15, 2022 @5pm" />
 <Badge text="Section 020: Wednesday December 14, 2022 @7pm" type="error" />
 
-#### [Part 4 - Visual Prototype](./assignments/assignment-3)
+#### [Part 4 - Visual Prototype]
 
 <Badge text="Section 010: Thursday December 15, 2022 @5pm" />
 <Badge text="Section 020: Wednesday December 14, 2022 @7pm" type="error" />
 
-#### [Part 5 - Presentation](./assignments/assignment-3)
+#### [Part 5 - Presentation]
 
 <Badge text="Section 010: Thursday December 15, 2022 @5pm" />
 <Badge text="Section 020: Wednesday December 14, 2022 @7pm" type="error" />
