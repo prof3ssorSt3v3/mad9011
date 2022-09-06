@@ -70,7 +70,8 @@ module.exports = {
           '/modules/week4/',
           '/modules/week5/',
           '/modules/week6/',
-          '/modules/week7/',
+          '/modules/week7-1/',
+          '/modules/week7-2/',
           '/modules/week8/'
         ],
       },

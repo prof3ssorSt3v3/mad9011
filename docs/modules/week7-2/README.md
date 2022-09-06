@@ -1,7 +1,7 @@
-# Week 7 - CSS Animation & SVG
+# Week 7 (Part 2) - CSS Animation & SVG
 
 ::: tip Files
-[Week 12 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1i1J4KErKhQh0UGHYR3AjWTX88DxE9a1i)
+[Week 7 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1i1J4KErKhQh0UGHYR3AjWTX88DxE9a1i)
 :::
 
 ## Introduction
