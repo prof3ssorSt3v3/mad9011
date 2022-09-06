@@ -32,5 +32,5 @@ Section 010: Thursday, October 13, 2022 @ 5pm
 
 Section 020: Wednesday, October 12, 2022 @ 7pm
 
-Submit on Brightspace under Assignments > Exercise 3 - Character Vectorization
+Submit on Brightspace under Assignments > Exercise 5 - Character Vectorization
 :::

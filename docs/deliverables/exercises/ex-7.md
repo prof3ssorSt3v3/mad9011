@@ -41,5 +41,5 @@ Section 010: Thursday, November 3, 2022 @ 5pm
 
 Section 020: Wednesday, November 2, 2022 @ 7pm
 
-Submit on Brightspace under Assignments > Exercise 9 — Interactive SVG
+Submit on Brightspace under Assignments > Exercise 7 — Interactive SVG
 :::

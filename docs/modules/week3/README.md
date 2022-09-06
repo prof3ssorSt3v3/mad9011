@@ -121,6 +121,7 @@ Content on this page is used with permission from [cg.algonquindesign.ca](https:
 ::: tip To Do for Next Week
 
 - Complete Retouching exercise
+- Complete Photoshop Quiz
 - Review content from this week
 - Read ahead to week 3
 

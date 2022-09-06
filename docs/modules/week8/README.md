@@ -30,52 +30,31 @@ It's common practice to use both SVG style attributes and CSS to style SVGs. Wat
   title="Advanced SVG: attributes & CSS"
 />
 
-### SVG Text
+```html
+<svg width="120" height="120" viewBox="0 0 120 120">
+  <rect class="button" x="10" y="10" width="100" height="60" />
+</svg>
+```
 
-Using text directly inside our SVG has lots of benefits: We can apply web fonts, masking, gradients, and textures to them and they are fully accessible.
+Then in CSS, we can do this:
 
-Reference: SVG text
+```css
+.button {
+  fill: gold;
+}
 
-#### Text & web fonts
+.button:hover {
+  fill: green;
+  stroke: red;
+  stroke-width: 8;
+  stroke-dasharray: 4;
+}
+```
 
-We will follow along this video tutorial to practice using `<text>` element to add live/accessible texts inside an embedded SVG and apply web fonts to it.
-
-<YouTube
-  url="https://www.youtube.com/embed/UKXRwuXd7rA"
-  title="Advanced SVG: text & web fonts"
-/>
-
-#### Masking text
-
-Continue with this video to learn how to use `<mask>` element to mask out pieces of text to create different effects:
-
-<YouTube
-  url="https://www.youtube.com/embed/B5ol4ss-mi4"
-  title="Advanced SVG: masking text"
-/>
-
-#### Gradients on text
-
-In this video, we will apply gradients into the text letters using SVG.
-
-<YouTube
-  url="https://www.youtube.com/embed/xgZkRVCS07Q"
-  title="Advanced SVG: gradients on text"
-/>
-
-These online tools let us generate code for SVG gradients, CSS gradients and edit their code.
+<!-- These online tools let us generate code for SVG gradients, CSS gradients and edit their code.
 
 - [Gradient Generator](https://briangrinstead.com/gradient/)
-- [CSS Gradient Generator](https://cssgradient.io/)
-
-#### Textures on text
-
-We can also add image textures to text using SVG and the `<pattern>` tag. In this video, we will make the pattern big enough to only show it once.
-
-<YouTube
-  url="https://www.youtube.com/embed/lSNnVbfvJJ0"
-  title="Advanced SVG: textures on text"
-/>
+- [CSS Gradient Generator](https://cssgradient.io/) -->
 
 ## From AI to SVG
 
@@ -133,8 +112,8 @@ Lastly, we will learn the extended accessibility features of SVG and know when/h
 
 ::: tip To Do for Next Week
 
-- Begin the Interactive SVG exercise
-- Review the App Branding assignment
-- Complete the Photoshop Quiz
-- Review week 12 content
+- Complete Interactive SVG exercise
+- Complete Illustrator Quiz
+- Review content from this week
+- Read ahead to week 8
   :::

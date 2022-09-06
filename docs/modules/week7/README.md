@@ -1,4 +1,4 @@
-# Week 6 - Typography, Appearance, & Exporting
+# Week 6 - Typography & Appearance
 
 ::: tip Files
 [Week 5 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1mdDizV8gdjXNZDiHo1akAPKbxpeUPd6Y)
@@ -154,8 +154,6 @@ The Appearance panel gives us more direct control over the styling of our shapes
 ::: tip To Do for Next Week
 
 - Complete Personalized Name exercise
-- Complete App Icon
-- Complete Illustrator Quiz
-- Install Adobe Photoshop
-- Review week 6 Introduction to Photoshop content
+- Review content from this week
+- Read ahead to week 7
   :::
