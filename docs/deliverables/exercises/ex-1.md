@@ -29,7 +29,7 @@ Compress and submit your lName-fName-section#-select-and-mask folder. The folder
 - lName-fName-section#-select-and-mask.psd Photoshop file
 - Links folder containing original images
 - Exports folder containing:
-  - lName-fName-section#-select-and-mask.jpg - 72dpi 1000px wide
+  - lName-fName-section#-select-and-mask.jpg - 1000px wide
 
 ::: warning Due Date
 
