@@ -69,10 +69,7 @@ module.exports = {
           '/modules/week3/',
           '/modules/week4/',
           '/modules/week5/',
-          '/modules/week6/',
-          '/modules/week7-1/',
-          '/modules/week7-2/',
-          '/modules/week8/'
+          '/modules/week6/'
         ],
       },
       {
