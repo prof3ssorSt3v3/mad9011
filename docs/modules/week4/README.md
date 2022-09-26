@@ -1,9 +1,5 @@
 # Week 4 - Time to color
 
-::: tip Files
-[Week 4 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1sGKaSY6reZ1I46mTjd-1hLErBD5HzJ0D)
-:::
-
 ## Colour theory and tools
 
 Colour theory is simpler than you think. Before we dive into it, let's understand the fundamentals of design. Next, we are going to learn why some colours look good together and some don't, how to choose the right ones, and the tools on Adobe Illustrator to manipulate and colour shapes.
