@@ -1,7 +1,7 @@
 # Exercise 5 — Character Vectorization
 
 ::: tip Files
-[Exercise file download](https://drive.google.com/uc?export=download&id=1edMo785M-wcy76DclQJfqZSNBaMe_AE1)
+Practice files can be found on Brightspace under content > Demo files.
 :::
 
 ## Instructions
