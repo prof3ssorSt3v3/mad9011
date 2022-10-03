@@ -55,7 +55,7 @@ To successfully complete this assignment you must submit a **lName-fName-section
 
 As part of this assignment, you must submit the first draft of your icon concept, design, and color scheme to the App Icon Feedback discussion to receive feedback from your peers and professor. You must also provide feedback to a minimum of two other students on their discussion posts.
 
-This must be completed by the start of class of **Week 9** to allow time to implement the feedback received.
+This must be completed by the start of class of **Week 7** to allow time to implement the feedback received.
 
 ## Grading
 
