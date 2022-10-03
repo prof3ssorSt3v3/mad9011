@@ -1,7 +1,7 @@
 # Week 5 - Time to draw
 
 ::: tip Files
-[Week 5 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1kgTnrs0QLGJ2fb3Oa0wUqgfIvR-X7YSM)
+Practice files can be found on Brightspace under content > Demo
 :::
 
 ## Drawing tools
