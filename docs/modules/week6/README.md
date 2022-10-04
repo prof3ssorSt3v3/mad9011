@@ -153,7 +153,8 @@ The Appearance panel gives us more direct control over the styling of our shapes
 
 ::: tip To Do for Next Week
 
-- Complete Personalized Name exercise
+- Complete Web Banner Exercise
+- Continue working on App Icon
+  - Make sure you post your first drafts for feedback
 - Review content from this week
-- Read ahead to week 7
   :::
