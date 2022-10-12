@@ -26,9 +26,8 @@ You web banner must include the following:
 
 Submit your compressed lName-fName-section#-web-banner folder to Brightspace. Your folder should contain the following:
 
-- lName-fName-section#-web-banner.psd
-- Links folder (containing original image)
-- Support folder (containing any Ai files used to create vector art)
+- lName-fName-section#-web-banner.ai
+- Links folder (containing original image) or emmbed the images
 - Exports folder containing:
   - lName-fName-section#-web-banner.jpg - 72dpi, 1440 x 500px
 
