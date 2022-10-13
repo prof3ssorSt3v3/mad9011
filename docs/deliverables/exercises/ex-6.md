@@ -43,6 +43,8 @@ Submit your compressed lName-fName-section#-web-banner folder to Brightspace. Yo
 
 ## Submission
 
+hello
+
 ::: warning Due Date
 
 Section 010: Thursday, October 13, 2022 @ 5pm
