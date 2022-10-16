@@ -1,8 +1,8 @@
 # Week 7 - Introduction to SVG
 
-<!-- ::: tip Files
+::: tip Files
 [Week 7 Tutorial Files Download](/f2022/SVG-Demo-Files.zip)
-::: -->
+:::
 
 <Badge text="Illustrator quiz this week!" />
 
