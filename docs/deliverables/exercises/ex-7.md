@@ -8,7 +8,7 @@ Create an application loader using an animated SVG. To complete this exercise yo
 - Copy the SVG code into the index.html file.
 - Create the animation in the main.css file.
 
-Design your banner to work well on laptop screen sizes (~1300px wide) and larger. You are not required to make it responsive. Your SVG code should be written directly inside of the `index.html` file and the styling should all be written in the `./css/main.css` file.
+Your SVG code should be written directly inside of the `index.html` file and the styling should all be written in the `./css/main.css` file.
 
 ## Example
 
