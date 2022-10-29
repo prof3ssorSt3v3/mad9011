@@ -1,1 +1,1 @@
-# Week 12 - Prototyping
+# Week 12 - Visual Design
