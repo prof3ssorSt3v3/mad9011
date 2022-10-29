@@ -63,22 +63,22 @@ The goal of the final project is to apply your weekly learnings in Figma to a ba
 <Badge text="Section 010: Thursday November 10, 2022 @5pm" />
 <Badge text="Section 020: Wednesday November 9, 2022 @7pm" type="error" />
 
-#### [Part 3 - Design System]
+#### [Part 2 - Design System]
 
 <Badge text="Section 010: Thursday November 17, 2022 @5pm" />
 <Badge text="Section 020: Wednesday November 16, 2022 @7pm" type="error" />
 
-#### [Part 4 - Visual Design]
+#### [Part 3 - Visual Design]
 
 <Badge text="Section 010: Thursday November 24, 2022 @5pm" />
 <Badge text="Section 020: Wednesday November 23, 2022 @7pm" type="error" />
 
-#### [Part 5 - Visual Prototype]
+#### [Part 4 - Visual Prototype]
 
 <Badge text="Section 010: Thursday December 1, 2022 @5pm" />
 <Badge text="Section 020: Wednesday November 30, 2022 @7pm" type="error" />
 
-#### [Part 6 - Presentation]
+#### [Part 5 - Presentation]
 
 <Badge text="Section 010: Thursday December 8, 2022 @5pm" />
 <Badge text="Section 020: Wednesday December 7, 2022 @7pm" type="error" />
