@@ -52,37 +52,36 @@ The goal of this exercise is to put our SVG skills to the test and create an int
 <Badge text="Section 020: Wednesday November 2, 2022 @7pm" type="error" />
 The goal of this assignment is to apply your Illustrator skills to create a iOS app icon.
 
-### [Assignment 2 - Basic App]
+## Final Project
 
-The goal of the final project is to apply your weekly learnings in XD to a basic mobile application.
+### [Project Overview]
 
-<Badge text="Details to come before we come back from Reading Week." type="error" />
+The goal of the final project is to apply your weekly learnings in Figma to a basic mobile application.
 
-<!--
 #### [Part 1 - Wireframes]
 
-<Badge text="Section 010: Thursday December 15, 2022 @5pm" />
-<Badge text="Section 020: Wednesday December 14, 2022 @7pm" type="error" />
+<Badge text="Section 010: Thursday November 10, 2022 @5pm" />
+<Badge text="Section 020: Wednesday November 9, 2022 @7pm" type="error" />
 
-#### [Part 2 - Design System]
+#### [Part 3 - Design System]
 
-<Badge text="Section 010: Thursday December 15, 2022 @5pm" />
-<Badge text="Section 020: Wednesday December 14, 2022 @7pm" type="error" />
+<Badge text="Section 010: Thursday November 17, 2022 @5pm" />
+<Badge text="Section 020: Wednesday November 16, 2022 @7pm" type="error" />
 
-#### [Part 3 - Visual Design]
+#### [Part 4 - Visual Design]
 
-<Badge text="Section 010: Thursday December 15, 2022 @5pm" />
-<Badge text="Section 020: Wednesday December 14, 2022 @7pm" type="error" />
+<Badge text="Section 010: Thursday November 24, 2022 @5pm" />
+<Badge text="Section 020: Wednesday November 23, 2022 @7pm" type="error" />
 
-#### [Part 4 - Visual Prototype]
+#### [Part 5 - Visual Prototype]
 
-<Badge text="Section 010: Thursday December 15, 2022 @5pm" />
-<Badge text="Section 020: Wednesday December 14, 2022 @7pm" type="error" />
+<Badge text="Section 010: Thursday December 1, 2022 @5pm" />
+<Badge text="Section 020: Wednesday November 30, 2022 @7pm" type="error" />
 
-#### [Part 5 - Presentation]
+#### [Part 6 - Presentation]
 
-<Badge text="Section 010: Thursday December 15, 2022 @5pm" />
-<Badge text="Section 020: Wednesday December 14, 2022 @7pm" type="error" /> -->
+<Badge text="Section 010: Thursday December 8, 2022 @5pm" />
+<Badge text="Section 020: Wednesday December 7, 2022 @7pm" type="error" />
 
 ## Quizzes
 
