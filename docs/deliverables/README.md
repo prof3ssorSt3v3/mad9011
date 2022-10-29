@@ -88,17 +88,14 @@ The goal of the final project is to apply your weekly learnings in Figma to a ba
 ### Quiz 1 - Photoshop Quiz
 
 <Badge text="Due: Friday, September 16, 2022 @ 11:59pm" />
-<Badge text="Due: Friday, September 16, 2022 @ 11:59pm" type="error" />
 Test your knowledge of Photoshop with this quiz on tool, terminology, and best practices!
 
 ### Quiz 2 - Illustrator Quiz
 
-<Badge text="Due: Friday October 21, 2022 @ 11:59pm" />
-<Badge text="Due: Friday October 21, 2022 @ 11:59pm" type="error" />
+<Badge text="Due: Friday November 4, 2022 @ 11:59pm" />
 Test your knowledge of Illustrator with this quiz on tool, terminology, and best practices!
 
 ### Quiz 3 - XD Quiz
 
 <Badge text="Due: Friday December 9 2022 @ 11:59pm" />
-<Badge text="Due: Friday December 9, 2022 @ 11:59pm" type="error" />
-Test your knowledge of XD with this quiz on tool, terminology, and best practices!
+Test your knowledge of Figma with this quiz on tool, terminology, and best practices!
