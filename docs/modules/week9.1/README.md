@@ -65,24 +65,11 @@ Every page has a canvas where all of your frames, groups, and layers live. The c
 
 ![Figma Homepage](./figma-home.png)
 
-(1. Home 2. Add Tab 3. Recently Closed Files 4. Main Menu 5. Search 6. Explore Community 7. Notifications 8. Settings 9. Recents 10. Drafts 11. Favorite Files 12. Teams 13. Projects 14. Create New Team)
-
 ### Project Management
 
 Every project you create has its own project page where you can access all the project's files.
 
 ![Figma Projects](./figma-project.png)
-
-1. Project Name
-2. Import: Import files between tools with a range of different file types into Figma.
-3. Share: Share files or projects with other users.
-4. Actions: Additional actions like creating a new file.
-5. New Design File
-6. New Figjam File
-7. Project Description
-8. Recent Contributors
-9. Team Overview
-10. Files: This is where all your files within this project can be found.
 
 **Project View**
 
@@ -168,16 +155,6 @@ The Resources modal allows you browse components from enabled libraries and brow
 
 ![Figma File Editor - Workspace](./figma-file.png)
 
-1. Find (Command + F): Search for elements within your file.
-2. Layers: View, edit, arrange objects from file.
-3. Assets: Publish assets, use published assets or view assets from the current file.
-4. Pages: View & edit pages.
-5. Design: View & edit properties for shapes, text, frames, groups, etc.
-6. Prototype: View & edit settings related to prototyping.
-7. Inspect: View code for a selected item in CSS, iOS or Android.
-8. Export: Export files or individual assets.
-9. Canvas: The area in which you create your work.
-
 ## Sharing
 
 ### Sharing Structure
@@ -187,12 +164,6 @@ The Resources modal allows you browse components from enabled libraries and brow
 ### How to share
 
 ![Figma Sharing](./figma-share.png)
-
-1. Email Input: Input the email address of the person you wish to share with.
-2. Permissions: Restrict permissions to "can view" or give permission to edit.
-3. Invite Button
-4. People Shared With: List of people who have access to this file or project.
-5. Copy Link: Invite users by sending them a link.
 
 ## Exporting Files
 
@@ -206,9 +177,6 @@ You can export the following formats:
 - PDF
 
 ![Figma Exporting](./figma-export.png)
-
-1. Export All Frames
-2. Export All Frames to PDF
 
 ### Export Individual Elements
 
