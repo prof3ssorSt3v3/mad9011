@@ -58,7 +58,7 @@ Please review each weeks deliverable for submission dates.
 
 1. One team member will create a project in their Figma.
 
-![Figma Project](./assets/project-share.png)
+![Figma Project](./assets/create-project.png)
 
 2. The team member who created the project will than invite their team members to the project along with the prof.
    (Make sure you invite them using the emails they registered under, which should be their student emails.)
