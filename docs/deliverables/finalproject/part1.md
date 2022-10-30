@@ -42,12 +42,14 @@ So if you are in a group or 3, you will have a total of 7 screens.
 4. Start creating your basic layout.
 5. Organize your canvas, so your prof identifies each member's screens.
 
-### Examples
+## Examples
 
-![Example 1](./p1-example-1.png)
+![Example 1](./assets/p1-example-1.png)
+
 Ignore the arrows.
 
-![Example 2](./p1-example-2.png)
+![Example 2](./assets/p1-example-2.png)
+
 Web version.
 
 ## Submission Requirements

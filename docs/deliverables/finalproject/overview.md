@@ -4,9 +4,9 @@
 
 The end is in sight!
 
-For your final project, you will be working in groups of three to design a mobile application using Figma which will make up **35%** of your final mark.
+For your final project, you will be working in groups of three to design a mobile application using Figma, which will make up **35%** of your final mark.
 
-As we move through the final 7 weeks, each week we will cover material relevant to each part of the final project.
+As we move through the final 7 weeks, each week, we will cover material relevant to each part of the final project.
 
 The total 35% will be divided up into 5 parts:
 
@@ -34,13 +34,13 @@ Through Brightspace,
 
 ## Submission Requirements
 
-For your final project you will not be submitting a file. Instead you will be using Figma's sharing feature. Please review each weeks part for any specific submission requirements.
+For your final project, you will not be submitting a file. Instead, you will be using Figma's sharing feature. Please review each week's part for any specific submission requirements.
 
 ### You Must!!!
 
 You must invite your prof to your Figma file before starting your project.
 
-![Figma Share](./project-share.png)
+![Figma Share](./assets/project-share.png)
 
 email: bristot@algonquincollege.com
 
@@ -53,3 +53,26 @@ Each weeks deliverable will have it's own grading scheme.
 Please review each weeks deliverable for submission dates.
 
 ## Getting Started
+
+1. One team member will create a project in their Figma.
+
+![Figma Project](./assets/project-share.png)
+
+2. The team member who created the project will than invite their team members to the project along with the prof.
+   (Make sure you invite them using the emails they registered under, which should be their student emails.)
+
+![Figma Share Project](./assets/project-share.png)
+
+3. Name your page "Part 1 - Wireframes"
+
+![Figma Name Page](./assets/rename-page.png)
+
+4. Determine which phone size you will be designing in.
+
+![Figma Create Frame](./assets/frame-size.png)
+
+5. Organize your Figma File.
+
+![Figma File Organize](./assets/layout.png)
+
+It may look something like this.
