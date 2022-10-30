@@ -65,7 +65,6 @@ Every page has a canvas where all of your frames, groups, and layers live. The c
 
 ![Figma Homepage](./figma-home.png)
 
-|         |            |                          |              |
 | ------- | ---------- | ------------------------ | ------------ |
 | 1. Home | 2. Add Tab | 3. Recently Closed Files | 4. Main Menu |
 
