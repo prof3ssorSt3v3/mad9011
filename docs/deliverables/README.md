@@ -60,6 +60,8 @@ The goal of the final project is to apply your weekly learnings in Figma to a ba
 
 ### [Part 1 - Wireframes](./finalproject/part1)
 
+For Part 1 of this project (after selecting your team and your app's theme), you will be creating low-fidelity wireframes for your app using Figma.
+
 <Badge text="Section 010: Thursday November 10, 2022 @5pm" />
 <Badge text="Section 020: Wednesday November 9, 2022 @7pm" type="error" />
 
