@@ -11,8 +11,6 @@ A paid Figma plan is not included in your tuition as of now. This might change i
 [How to create a Figma Account](https://help.figma.com/hc/en-us/articles/360039811114-Create-a-Figma-account)
 :::
 
-![Figma Header](./figma-header.jpg)
-
 ## What is Figma?
 
 Figma is a web-based graphics editing and user interface design app. You can use it to do all kinds of graphic design work from wireframing websites, designing mobile app interfaces, prototyping designs, crafting social media posts, and everything in between.
@@ -20,6 +18,8 @@ Figma is a web-based graphics editing and user interface design app. You can use
 Figma is different from other graphics editing tools. Mainly because it works directly on your browser. This means you get to access your projects and start designing from any computer or platform without having to buy multiple licenses or install software.
 
 At its core, Figma is a tool made for user interface design and prototyping having a very beginner-friendly editor where you can create designs from scratch or using pre-made templates. There are plenty of resources for learning how to use Figma.
+
+![Figma Header](./figma-header.jpg)
 
 ## Figma File Structure
 
@@ -63,9 +63,11 @@ Every page has a canvas where all of your frames, groups, and layers live. The c
 
 ## Interface
 
-### Basics
-
 ![Figma Homepage](./figma-home.png)
+
+|         |            |                          |              |
+| ------- | ---------- | ------------------------ | ------------ |
+| 1. Home | 2. Add Tab | 3. Recently Closed Files | 4. Main Menu |
 
 1. Home
 2. Add Tab
