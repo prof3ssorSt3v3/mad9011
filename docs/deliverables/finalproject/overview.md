@@ -16,12 +16,6 @@ The total 35% will be divided up into 5 parts:
 4. Interactive Visual Prototype
 5. Presentation
 
-## Groups
-
-Through choose a group through Brightspace > Activities > Groups
-
-![Brightspace Groups](./assets/groups.png)
-
 ## App Themes
 
 1. Music App
@@ -34,6 +28,12 @@ Through choose a group through Brightspace > Activities > Groups
 8. Social Media App
 9. Other: if you have an idea that is not listed here, please check with your prof for approval.
 
+## Groups
+
+Through choose a group through Brightspace > Activities > Groups
+
+![Brightspace Groups](./assets/groups.png)
+
 ## Submission Requirements
 
 For your final project, you will not be submitting a file. Instead, you will be using Figma's sharing feature. Please review each week's part for any specific submission requirements.
@@ -41,10 +41,9 @@ For your final project, you will not be submitting a file. Instead, you will be 
 ### You Must!!!
 
 You must invite your prof to your Figma file before starting your project.
+Email: bristot@algonquincollege.com
 
 ![Figma Share](./assets/project-share.png)
-
-email: bristot@algonquincollege.com
 
 ## Grading
 
@@ -61,6 +60,7 @@ Please review each weeks deliverable for submission dates.
 ![Figma Project](./assets/create-project.png)
 
 2. The team member who created the project will than invite their team members to the project along with the prof.
+
    (Make sure you invite them using the emails they registered under, which should be their student emails.)
 
 ![Figma Share Project](./assets/project-share.png)
@@ -75,6 +75,5 @@ Please review each weeks deliverable for submission dates.
 
 5. Organize your Figma File.
 
-![Figma File Organize](./assets/layout.png)
-
 It may look something like this.
+![Figma File Organize](./assets/layout.png)
