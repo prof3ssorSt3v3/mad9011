@@ -44,13 +44,12 @@ So if you are in a group or 3, you will have a total of 7 screens.
 
 ## Examples
 
+**Example 1:** Ignore the arrows.
+
 ![Example 1](./assets/p1-example-1.png)
 
-Ignore the arrows.
-
+**Example 2:** Web version.
 ![Example 2](./assets/p1-example-2.png)
-
-Web version.
 
 ## Submission Requirements
 
@@ -60,7 +59,7 @@ For this exercise, you will not be submitting a file. Instead, you will be using
 - Your chosen website theme
 - Your group members' names
 
-(ensure you invited your prof to the file)
+(Ensure you invited your prof to the file)
 
 ## Grading
 

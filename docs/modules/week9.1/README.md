@@ -157,8 +157,6 @@ The Resources modal allows you browse components from enabled libraries and brow
 
 ## Sharing
 
-### Sharing Structure
-
 ![Figma Sharing](./figma-share-structure.png)
 
 ### How to share
