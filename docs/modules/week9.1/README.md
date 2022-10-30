@@ -6,7 +6,7 @@ In order for you to access Figma, you must create a Figma account. Figma offers 
 
 Make sure you select the Starter plan, if by some mistake you come to a screen that asks for payment information, something has gone wrong and you will need to check the plan you selected.
 
-A paid Figma plan is not included in your tuition as of now. This might change if Adobe intigrates Figma into it's Creative Cloud.
+A paid Figma plan is not included in your tuition as of now. This might change if Adobe integrates Figma into it's Creative Cloud.
 
 [How to create a Figma Account](https://help.figma.com/hc/en-us/articles/360039811114-Create-a-Figma-account)
 :::
@@ -82,7 +82,7 @@ Every page has a canvas where all of your frames, groups, and layers live. The c
 13. Projects
 14. Create New Team
 
-### Project Managment
+### Project Management
 
 Every project you create has its own project page where you can access all the project's files.
 
@@ -90,7 +90,7 @@ Every project you create has its own project page where you can access all the p
 
 1. Project Name
 2. Import: Import files between tools with a range of different file types into Figma.
-3. Share: Share files or porjects with other users.
+3. Share: Share files or projects with other users.
 4. Actions: Additional actions like creating a new file.
 5. New Design File
 6. New Figjam File
@@ -107,11 +107,11 @@ Every project you create has its own project page where you can access all the p
 - Click the project name to access project actions, like rename, delete, and favorite the project so it appears in the sidebar.
 - Share the project with others, manage team access, and update collaborator's permissions.
 
-## File Editer
+## File Editor
 
 ### Toolbar
 
-![Figma File Editer - Toolbar](./figma-toolbar.png)
+![Figma File Editor - Toolbar](./figma-toolbar.png)
 
 **Move and Scale tools**
 
@@ -181,7 +181,7 @@ The Resources modal allows you browse components from enabled libraries and brow
 
 ### Workspace
 
-![Figma File Editer - Workspace](./figma-file.png)
+![Figma File Editor - Workspace](./figma-file.png)
 
 1. Find (Command + F): Search for elements within your file.
 2. Layers: View, edit, arrange objects from file.
@@ -240,6 +240,6 @@ Select a scale from the defaults in the list, or use the field provided to enter
 2. Suffix: Manually enter the format type you would like to export.
 3. Format: Select a present format type.
 4. Export options: Adjust any extra export settings.
-5. Add: Add an export or an aditional export with different settings.
+5. Add: Add an export or an additional export with different settings.
 6. Remove: Remove an export.
 7. Preview: See a preview of how your assets will look.
