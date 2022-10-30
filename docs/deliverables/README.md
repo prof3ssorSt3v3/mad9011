@@ -54,11 +54,11 @@ The goal of this assignment is to apply your Illustrator skills to create a iOS 
 
 ## Final Project
 
-### [Project Overview]
+### [Project Overview](./finalproject/overview)
 
 The goal of the final project is to apply your weekly learnings in Figma to a basic mobile application.
 
-### [Part 1 - Wireframes]
+### [Part 1 - Wireframes](./finalproject/part1)
 
 <Badge text="Section 010: Thursday November 10, 2022 @5pm" />
 <Badge text="Section 020: Wednesday November 9, 2022 @7pm" type="error" />
