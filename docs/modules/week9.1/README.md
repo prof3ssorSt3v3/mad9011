@@ -65,11 +65,11 @@ Every page has a canvas where all of your frames, groups, and layers live. The c
 
 ![Figma Homepage](./figma-home.png)
 
-| ------- | ---------- | ------------------------ | ------------ |
-| 1. Home | 2. Add Tab | 3. Recently Closed Files | 4. Main Menu |
-| 5. Search | 6. Explore Community | 7. Notifications | 8. Settings |
-| 9. Recents | 10. Drafts | 11. Favorite Files | 12. Teams |
-| 13. Projects | 14. Create New Team | | |
+| 1. Home      | 2. Add Tab           | 3. Recently Closed Files | 4. Main Menu |
+| ------------ | -------------------- | ------------------------ | ------------ |
+| 5. Search    | 6. Explore Community | 7. Notifications         | 8. Settings  |
+| 9. Recents   | 10. Drafts           | 11. Favorite Files       | 12. Teams    |
+| 13. Projects | 14. Create New Team  |                          |              |
 
 ### Project Management
 
