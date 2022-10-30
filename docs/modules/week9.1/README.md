@@ -69,8 +69,6 @@ Every page has a canvas where all of your frames, groups, and layers live. The c
 
 Every project you create has its own project page where you can access all the project's files.
 
-![Figma Projects](./figma-project.png)
-
 **Project View**
 
 - View contributors to the project. Most active editors are at the top, so you know exactly who to talk to about the project.
@@ -78,6 +76,8 @@ Every project you create has its own project page where you can access all the p
 - View, manage, and create new files within the project. Pin important files to the top of the project for easy access.
 - Click the project name to access project actions, like rename, delete, and favorite the project so it appears in the sidebar.
 - Share the project with others, manage team access, and update collaborator's permissions.
+
+![Figma Projects](./figma-project.png)
 
 ## File Editor
 
@@ -167,6 +167,8 @@ The Resources modal allows you browse components from enabled libraries and brow
 
 ## Exporting Files
 
+### Bulk Exporting
+
 Export your designs from Figma when you're ready to share them with the world. Export settings let you to customize how Figma exports your assets. This allows you to define what you want to export and how you want to export it.
 
 You can export the following formats:
@@ -182,9 +184,7 @@ You can export the following formats:
 
 ![Figma Exporting](./figma-export-asset.png)
 
-1. Scale:
-
-Select a scale from the defaults in the list, or use the field provided to enter a custom size or scale. Enter a number along with the following letter:
+1. Scale: Select a scale from the defaults in the list, or use the field provided to enter a custom size or scale. Enter a number along with the following letter:
 
 - Add an x after the value to use it as a multiplier.
 - Add a w after the value to set a fixed width.
