@@ -2,14 +2,16 @@
 
 ::: tip Figma Account
 
-In order for you to access Figma, you must create a Figma account. Figma offers a Starter (free) plan, which will be enough for the remainder of the term. Please ensure that your create your account using your student email.
+For you to access Figma, you must create a Figma account. Figma offers a Starter (free) plan, which will be enough for the remainder of the term. Please ensure that you make your account using your student email.
 
-Make sure you select the Starter plan, if by some mistake you come to a screen that asks for payment information, something has gone wrong and you will need to check the plan you selected.
+Make sure you select the Starter plan. If by some mistake you come to a screen that asks for payment information, something has gone wrong, and you will need to check the plan you selected.
 
-A paid Figma plan is not included in your tuition as of now. This might change if Adobe integrates Figma into it's Creative Cloud.
+A paid Figma plan is not included in your tuition as of now. This might change if Adobe integrates Figma into its Creative Cloud.
 
 [How to create a Figma Account](https://help.figma.com/hc/en-us/articles/360039811114-Create-a-Figma-account)
 :::
+
+![Figma Header](./figma-header.jpg)
 
 ## What is Figma?
 
@@ -17,9 +19,7 @@ Figma is a web-based graphics editing and user interface design app. You can use
 
 Figma is different from other graphics editing tools. Mainly because it works directly on your browser. This means you get to access your projects and start designing from any computer or platform without having to buy multiple licenses or install software.
 
-At its core, Figma is a tool made for user interface design and prototyping. Before moving forward, it’s best that you get a basic understanding of UI design. It’ll help you make the most of the free app.
-
-Figma has a very beginner-friendly editor where you can create designs from scratch or using pre-made templates. There are plenty of resources for learning how to use Figma. But, the learning process will be much easier if you follow our recommended tutorials below.
+At its core, Figma is a tool made for user interface design and prototyping having a very beginner-friendly editor where you can create designs from scratch or using pre-made templates. There are plenty of resources for learning how to use Figma.
 
 ## Figma File Structure
 
