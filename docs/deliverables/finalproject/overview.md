@@ -18,7 +18,9 @@ The total 35% will be divided up into 5 parts:
 
 ## Groups
 
-Through Brightspace,
+Through choose a group through Brightspace > Activities > Groups
+
+![Brightspace Groups](./assets/groups.png)
 
 ## App Themes
 
