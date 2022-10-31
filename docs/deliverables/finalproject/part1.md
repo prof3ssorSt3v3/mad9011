@@ -30,7 +30,7 @@ For text, in areas with large blocks of text, you can use basic lorem ipsum plac
 ### So how many screens do you have to make?
 
 - Each group must create a homescreen.
-- Each member of your group must create additional screens.
+- Each member of your group must create 2 additional screens.
 
 So if you are in a group or 3, you will have a total of 7 screens.
 
