@@ -86,11 +86,15 @@ Using UI kits is not just about creating functionality — it's about retaining 
 ### Popular UI Kits
 
 **Apple's Human Interface Guidelines (HIG)**
-https://developer.apple.com/design/human-interface-guidelines/guidelines/overview
+
+[Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview)
+
 ![iOS 16 UI Kit](./ios-kit.png)
 
 **Google's Material Design**
-https://m3.material.io/
+
+[Material Design](https://m3.material.io/)
+
 ![Material UI Kit](./google-kit.png)
 
 ## Plugins
