@@ -1,4 +1,4 @@
-# Part 2: Design System & Mid-fidelity Wireframes
+# Part 2: Design System
 
 ::: tip Tip
 
