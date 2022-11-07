@@ -83,15 +83,15 @@ UI kits can help improve your design workflow in a number of different ways, but
 
 Using UI kits is not just about creating functionality — it's about retaining it and using it multiple times, just like you do with functions and separate elements. The process is not complicated, and it doesn’t require reinventing the wheel: everything you need should already be there!
 
-### Popular UI Kits
+## Popular UI Kits
 
-**Apple's Human Interface Guidelines (HIG)**
+### Apple's Human Interface Guidelines (HIG)
 
 [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview)
 
 ![iOS 16 UI Kit](./ios-kit.png)
 
-**Google's Material Design**
+### Google's Material Design
 
 [Material Design](https://m3.material.io/)
 
@@ -109,3 +109,12 @@ There are a ton of Figma plugins to explore!
   title="5 MUST HAVE Plugins For Figma Designers! (Best Figma Plugins 2022)"
   url="https://www.youtube.com/embed/QaA_XmXNGaI"
 />
+
+## To Do
+
+::: tip To Do for Next Week
+
+- Complete Part 2 of your Final Project
+- Review content from this week
+
+  :::

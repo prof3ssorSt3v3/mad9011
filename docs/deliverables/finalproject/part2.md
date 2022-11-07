@@ -2,25 +2,40 @@
 
 ## Introduction
 
-For **Part 2** of this project, you will be creating a design system for your application. A design system is isention for creating consistancy within your application. In addition to creating consistancy, it also saves you a tone of time when putting together your visual design as many elements have already been created.
+For **Part 2** of this project, you will be creating a "mini" design system for your application. A design system is essential for creating consistency within your application. In addition to creating consistency, it also saves you a tone of time when putting together your visual design as many elements have already been created.
 
 ## Instructions
 
-1. Start by creating a new "Page" within your file.
+1. Start by creating a new file within your project and name it "Design System."
+   ![Step 1](./assets/step-1.png)
 
-Define your colours
-Define your typography
-Font size
-Font Weight
-Font Family
-Create/modify at least one button
-Component
-2 states
-Add both your colours and typography to your "Document Assets"
+2. Create pages for different elements of your Design system. Elements might include:
+   ![Step 2](./assets/step-2.png)
 
-You may refer to any UI Kits or Libraries to help you complete the exercise.
+- Colour
+- Typography
+- Buttons
+- Cards
+- Tab
+- Etc
 
-### Examples
+3. Next define your Typography (Size, Font Family, Font Weights, etc.)
+   ![Step 3](./assets/step-3.png)
+
+4. Define your Colours (Primary, Secondary, Accent, Etc.)
+   ![Step 4](./assets/step-4.png)
+
+5. Look at your initial wireframes to determine which components you will need to create.
+
+6. Create your components in its corresponding page.
+
+::: tip Tip
+
+- Steps 1 & 2 have been started for you.
+- You may **refer** to any UI Kits or Libraries to help you complete the exercise.
+- You may also **use** components that are provided in either the iOS 16 UI Kit or the Material Design UI Kit
+
+:::
 
 ## Submission Requirements
 
