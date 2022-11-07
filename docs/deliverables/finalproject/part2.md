@@ -1,8 +1,16 @@
 # Part 2: Design System & Mid-fidelity Wireframes
 
+::: tip Tip
+
+- Steps 1 & 2 have been started for you.
+- You may **refer** to any UI Kits or Libraries to help you complete the exercise.
+- You may also **use** components that are provided in either the iOS 16 UI Kit or the Material Design UI Kit
+
+:::
+
 ## Introduction
 
-For **Part 2** of this project, you will be creating a "mini" design system for your application. A design system is essential for creating consistency within your application. In addition to creating consistency, it also saves you a tone of time when putting together your visual design as many elements have already been created.
+For **Part 2** of this project, you will be creating a "mini" design system for your application. A design system is essential for creating consistency within your application. In addition to creating consistency, it also saves you a ton of time when putting together your visual design as many elements have already been created.
 
 ## Instructions
 
@@ -31,14 +39,6 @@ For **Part 2** of this project, you will be creating a "mini" design system for 
 
 - Make sure that you name your components accordingly
 - Create any variants you might require.
-
-::: tip Tip
-
-- Steps 1 & 2 have been started for you.
-- You may **refer** to any UI Kits or Libraries to help you complete the exercise.
-- You may also **use** components that are provided in either the iOS 16 UI Kit or the Material Design UI Kit
-
-:::
 
 ## Submission Requirements
 

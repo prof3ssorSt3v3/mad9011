@@ -65,9 +65,9 @@ For Part 1 of this project (after selecting your team and your app's theme), you
 <Badge text="Section 010: Thursday November 10, 2022 @5pm" />
 <Badge text="Section 020: Wednesday November 9, 2022 @7pm" type="error" />
 
-### Part 2 - Design System
+### [Part 2 - Design System](./finalproject/part2)
 
-Coming soon
+For Part 2 of this project you will be creating a "mini" design system for your app using Figma.
 
 <Badge text="Section 010: Thursday November 17, 2022 @5pm" />
 <Badge text="Section 020: Wednesday November 16, 2022 @7pm" type="error" />
