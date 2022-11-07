@@ -29,6 +29,9 @@ For **Part 2** of this project, you will be creating a "mini" design system for 
 
 6. Create your components in its corresponding page.
 
+- Make sure that you name your components accordingly
+- Create any variants you might require.
+
 ::: tip Tip
 
 - Steps 1 & 2 have been started for you.
