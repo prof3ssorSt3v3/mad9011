@@ -63,9 +63,9 @@ For this exercise you will not be submitting a file. In Part 1 you already invit
 
 ::: warning Due Date
 
-Section 010: Thursday, November 24, 2021 @ 5pm
+Section 010: Thursday, November 17, 2021 @ 5pm
 
-Section 020: Wednesday, November 23, 2021 @ 7pm
+Section 020: Wednesday, November 16, 2021 @ 7pm
 
 Submit on Brightspace under Assignments > Part 2 - Design System
 :::
