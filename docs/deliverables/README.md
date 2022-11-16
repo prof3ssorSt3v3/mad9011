@@ -72,9 +72,9 @@ For Part 2 of this project you will be creating a "mini" design system for your 
 <Badge text="Section 010: Thursday November 17, 2022 @5pm" />
 <Badge text="Section 020: Wednesday November 16, 2022 @7pm" type="error" />
 
-### Part 3 - Visual Design
+### [Part 3 - Visual Design](./finalproject/part3)
 
-Coming soon
+For Part 3 of this project you will be applying your design system to your app along with additional styles to create a high fidelity visual prototype.
 
 <Badge text="Section 010: Thursday November 24, 2022 @5pm" />
 <Badge text="Section 020: Wednesday November 23, 2022 @7pm" type="error" />
