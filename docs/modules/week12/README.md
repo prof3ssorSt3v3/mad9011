@@ -18,9 +18,7 @@ This video maybe out of date, but can still be useful in helping you understand 
   url="https://www.youtube.com/embed/-sAAa-CCOcg"
 />
 
-**Create prototypes that feel like the real experience**
-
-Turn your static design files into an interactive experience—no coding required.
+**Turn your static design files into an interactive experience—no coding required**
 
 - Intuitive build: Simply connect UI elements and choose your interactions and animations.
 - Interactions: Define subtle interactions, like on click, while hovering, while pressing a button, and more.
@@ -74,11 +72,11 @@ Add a connection between any two layers (e.g. frames, groups, shapes, text layer
 
 Interactions are the primary feature used when building a prototype. Use them to show different behaviors, effects, and navigational patterns. They work by connecting two layers, then determining how those layers will interact with each other by adding a trigger, action, and animation. Interactions can be simple with instate animations. Or they can be more complex with animated elements that move or change properties.
 
-Trigger: The event that causes a change (on tap/click, on drag, while hovering, while pressing, key/gamepad, mouse enter, mouse leave, mouse down (click), mouse up (release)).
+**Trigger:** The event that causes a change (on tap/click, on drag, while hovering, while pressing, key/gamepad, mouse enter, mouse leave, mouse down (click), mouse up (release)).
 
-Action: The change that is happening (navigate to, change to, open overlay, swap overlay, close overlay, back, scroll to, open link).
+**Action:** The change that is happening (navigate to, change to, open overlay, swap overlay, close overlay, back, scroll to, open link).
 
-Animation: The behavior of the change (instant, dissolve, smart animate, move in, move out, push, slide in, slide out).
+**Animation:** The behavior of the change (instant, dissolve, smart animate, move in, move out, push, slide in, slide out).
 
 ![Figma Interaction Panel](./figma-add-interaction.png)
 
@@ -128,12 +126,12 @@ Select frame with overflowing content and choose "Horizontal Scrolling"
 
 ### Use interactive components
 
+Add interactions between variants in a component set. Instances of those variants will then follow their predetermined interactions in any prototype. This is particularly helpful for common, stateful, components (e.g. toggles, buttons, inputs). Defining interactions in advance makes prototyping faster and reduces the number of screens needed. Not familiar with variants? Learn more about them in Figma Variants 101
+
 <YouTube
   title="Figma tutorial: Interactive components"
   url="https://www.youtube.com/embed/ReNbXhaL3Xk"
 />
-
-Add interactions between variants in a component set. Instances of those variants will then follow their predetermined interactions in any prototype. This is particularly helpful for common, stateful, components (e.g. toggles, buttons, inputs). Defining interactions in advance makes prototyping faster and reduces the number of screens needed. Not familiar with variants? Learn more about them in Figma Variants 101
 
 **Example: interactive checkbox**
 
