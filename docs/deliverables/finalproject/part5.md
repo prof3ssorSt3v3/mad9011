@@ -18,9 +18,9 @@
 
 ::: warning Due Date
 
-Section 010: Thursday, November 3, 2021 @ 5pm
+Section 010: Thursday December 8 or December 15, 2022 @5pm
 
-Section 020: Wednesday, November 2, 2021 @ 7pm
+Section 020: Wednesday December 7 or December 14, 2022 @7pm
 
 Submit on Brightspace under Assignments > Assignment 1 - App Icon
 :::
