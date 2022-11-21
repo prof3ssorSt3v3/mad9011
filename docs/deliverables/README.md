@@ -79,12 +79,12 @@ For Part 3 of this project you will be applying your design system to your app a
 <Badge text="Section 010: Thursday November 24, 2022 @5pm" />
 <Badge text="Section 020: Wednesday November 23, 2022 @7pm" type="error" />
 
-### Part 4 - Interactive Visual Prototype
+### [Part 4 - Interactive Visual Prototype](./finalproject/part4)
 
-Coming soon
+For Part 4 of this project you will be connecting your screens to create an interactive prototype which you will demo to the class during your final presentation.
 
-<Badge text="Section 010: Thursday December 1, 2022 @5pm" />
-<Badge text="Section 020: Wednesday November 30, 2022 @7pm" type="error" />
+<Badge text="Section 010: Thursday December 8, 2022 @5pm" />
+<Badge text="Section 020: Wednesday December 7, 2022 @7pm" type="error" />
 
 ### Part 5 - Presentation
 
