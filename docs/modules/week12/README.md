@@ -12,11 +12,11 @@ Figma is a great tool for prototyping UX/UI designs. It allows you to create int
 
 Creating prototypes is important for many reasons. You can explore how new user flows will work. Communicate interactions to your team. Test and get feedback from your users. And pitch designs to stakeholders for buy-in.
 
+This video maybe out of date, but can still be useful in helping you understand basics.
 <YouTube
   title="Figma Tutorial: Prototyping"
   url="https://www.youtube.com/embed/-sAAa-CCOcg"
 />
-This video maybe out of date, but can still be useful in helping you understand basics.
 
 **Create prototypes that feel like the real experience**
 
@@ -26,7 +26,7 @@ Turn your static design files into an interactive experience—no coding require
 - Interactions: Define subtle interactions, like on click, while hovering, while pressing a button, and more.
 - Mobile-viewing: Experience your designs in real life using our Figma mobile app, available for iOS and Android.
 
-## Interface
+### Interface
 
 Assess (almost) all prototype features in the right-hand panel under "Prototype".
 
@@ -53,7 +53,7 @@ Add a connection between any two layers (e.g. frames, groups, shapes, text layer
 
 ![Figma add connection](./figma-connect.gif)
 
-**Create connections**
+### Create connections
 
 1. Select the hotspot for the connection.
 2. Click the plus icon to create the connection.
@@ -72,15 +72,13 @@ Action: The change that is happening (navigate to, change to, open overlay, swap
 
 Animation: The behavior of the change (instant, dissolve, smart animate, move in, move out, push, slide in, slide out).
 
-**Add interactions**
+![Figma Interaction Panel](./figma-add-interaction.png)
 
 1. Open the Prototype tab in the right sidebar
 2. Add interactions
 3. Set interaction details
 4. Apply an animation
 5. Preview your animation
-
-![Figma Interaction Panel](./figma-add-interaction.png)
 
 ### Animated interactions
 
@@ -150,17 +148,19 @@ If there are no prototyping connections, you can navigate through frames on the
 
 From presentation view you can:
 
-A. Click to show and hide the left sidebar
-B. Click to enter comment mode and add comments to the prototype
-C. View and select flows
-D. View a flow's description
-E. Set the prototype view Options and hide the toolbar or comments
-F. Click to enter fullscreen mode
-G. Figma will present the device against the Background Color you selected
-H. View the Device you selected in your prototype settings
-I. View your cursor or touch indicator (mobile device prototypes only)
-J. Interact with hotspots or enter keyboard shortcuts within your prototype
-K. Use and to move between screens. Or use your arrow keys on your keyboard
-L. Use the Restart button or press R to return to the starting point
+<ol type="A">
+  <li>Click to show and hide the left sidebar</li>
+  <li>Click to enter comment mode and add comments to the prototype</li>
+  <li>View and select flows</li>
+  <li>View a flow's description</li>
+  <li>Set the prototype view Options and hide the toolbar or comments</li>
+  <li>Click to enter fullscreen mode</li>
+  <li>Figma will present the device against the Background Color you selected</li>
+  <li>View the Device you selected in your prototype settings</li>
+  <li>View your cursor or touch indicator (mobile device prototypes only)</li>
+  <li>Interact with hotspots or enter keyboard shortcuts within your prototype</li>
+  <li>Use and to move between screens. Or use your arrow keys on your keyboard</li>
+  <li>Use the Restart button or press R to return to the starting point</li>
+</ol>
 
 ![Figma Presentation layout](./Figma-presentation-layout.png)
