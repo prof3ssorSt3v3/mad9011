@@ -26,16 +26,20 @@ Turn your static design files into an interactive experience—no coding require
 - Interactions: Define subtle interactions, like on click, while hovering, while pressing a button, and more.
 - Mobile-viewing: Experience your designs in real life using our Figma mobile app, available for iOS and Android.
 
+---
+
 ### Interface
 
 Assess (almost) all prototype features in the right-hand panel under "Prototype".
 
-A. Prototype panel
-B. Add a new prototype flow
-C. Add and configure interactions
-D. Add and configure overflow scrolling
-E. Configure prototype settings
-F. Present prototype
+<ol type="A">
+<li>Prototype panel</li>
+<li>Add a new prototype flow</li>
+<li>Add and configure interactions</li>
+<li>Add and configure overflow scrolling</li>
+<li>Configure prototype settings</li>
+<li>Present prototype</li>
+</ol>
 
 ![figma prototype interface](./figma-prototype-interface.png)
 
@@ -47,13 +51,15 @@ Each page in your Figma file can have one or many prototype flows. Each one need
 
 ![Figma add flows](./figma-add-flows.gif)
 
+---
+
 ### Connect Layers
 
 Add a connection between any two layers (e.g. frames, groups, shapes, text layers, etc..). To add a connection, hover over or select the first layer and drag the blue node that appears to the second layer. The "Interaction Details" menu will then appear. The first layer will become a new flow starting point if has no other connections.
 
 ![Figma add connection](./figma-connect.gif)
 
-### Create connections
+**Create connections**
 
 1. Select the hotspot for the connection.
 2. Click the plus icon to create the connection.
@@ -61,6 +67,8 @@ Add a connection between any two layers (e.g. frames, groups, shapes, text layer
 4. If there are no existing connections, Figma will make the first frame a starting point.
 
 ![Figma connection anatomy](./figma-connection-anatomy.png)
+
+---
 
 ### Add Interactions
 
@@ -80,6 +88,8 @@ Animation: The behavior of the change (instant, dissolve, smart animate, move in
 4. Apply an animation
 5. Preview your animation
 
+---
+
 ### Animated interactions
 
 Use animations to add movement to your interactions (dissolve, move in, move out, push, slide in, slide out). Select different easing curves and adjust the time to customize the animation.
@@ -89,6 +99,8 @@ Use animations to add movement to your interactions (dissolve, move in, move out
 **What are easing curves?** Easing curves determine the speed during the beginning, middle, and end of the animation. A linear animation will move at the same speed the entire time. While an animation set to "ease in" will be slower in the beginning, then speed up. Adding an easing curve makes the animation feel softer and more realistic.
 
 ![Figma Animation curves](./figma-curves.gif)
+
+---
 
 ### Fixed Position
 
@@ -100,6 +112,8 @@ Select layer(s) you wish to fix and choose "Fix position when scrolling"
 
 ![Figma Fixed Position](./figma-fixed-position.png)
 
+---
+
 ### Add overflow scrolling
 
 Overflow scrolling allows you to scroll through individual frames inside your prototype. This is helpful when prototyping UI regions or components that have their own scrolling behavior (e.g. lists, carousels, menus, tables). To use overflow scrolling, you must have a frame (not group) with nested content "overflowing" past the bounds. This content will then appear masked with "clipped content" turned on.
@@ -109,6 +123,8 @@ Overflow scrolling allows you to scroll through individual frames inside your pr
 Select frame with overflowing content and choose "Horizontal Scrolling"
 
 ![Figma Carousel](./figma-overflow-scroll.png)
+
+---
 
 ### Use interactive components
 
@@ -125,14 +141,20 @@ Click the deselected icon to change to the selected icon with an instant animati
 
 ![Figma Prototyping Component](./Figma-prototype-component.png)
 
+---
+
 ### Adjust prototype settings
 
-A. Select a Device and Model
-B. Preview your prototype
-C. Select Background color
-D. Set the prototype's Starting Frame
+<ol type="A">
+<li>Select a Device and Model</li>
+<li>Preview your prototype</li>
+<li>Select Background color</li>
+<li>Set the prototype's Starting Frame</li>
+</ol>
 
 ![Figma Prototype Settings](./figma-prototype-settings.png)
+
+---
 
 ### Present Prototype
 
@@ -146,7 +168,9 @@ If there are no prototyping connections, you can navigate through frames on the
 
 ![Figma Prototype Play](./Figma-play-icon.png)
 
-From presentation view you can:
+---
+
+### Presentation View
 
 <ol type="A">
   <li>Click to show and hide the left sidebar</li>
