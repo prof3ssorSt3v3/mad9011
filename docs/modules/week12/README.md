@@ -1,9 +1,8 @@
 # Week 12 - Prototyping
 
-::: tip For this week!
+::: tip Prototyping!
 
-- Work on completing Part 2 - Design System.
-- Working on Part 3 - Visual Design
+When thinking about your prototype, think about how you will demo your app to the class and what elements you will interact with. If there are some elements that you do not plan to interact with or not review in-depth, you do not have to prototype them.
 
 :::
 
