@@ -69,8 +69,8 @@ For Part 1 of this project (after selecting your team and your app's theme), you
 
 For Part 2 of this project you will be creating a "mini" design system for your app using Figma.
 
-<Badge text="Section 010: Thursday November 17, 2022 @5pm" />
-<Badge text="Section 020: Wednesday November 16, 2022 @7pm" type="error" />
+<Badge text="Section 010: Thursday November 24, 2022 @5pm" />
+<Badge text="Section 020: Wednesday November 23, 2022 @7pm" type="error" />
 
 ### [Part 3 - Visual Design](./finalproject/part3)
 
@@ -90,8 +90,8 @@ For Part 4 of this project you will be connecting your screens to create an inte
 
 Coming soon
 
-<Badge text="Section 010: Thursday December 8, 2022 @5pm" />
-<Badge text="Section 020: Wednesday December 7, 2022 @7pm" type="error" />
+<Badge text="Section 010: Thursday December 8 or December 15, 2022 @5pm" />
+<Badge text="Section 020: Wednesday December 7 or December 14, 2022 @7pm" type="error" />
 
 ## Quizzes
 
