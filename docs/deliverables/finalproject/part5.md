@@ -43,7 +43,7 @@ Each screen should have its own slide showing your wireframes and your visual de
 
 ### Demo
 
-At this point you will switch from your presentation to your XD file to walk us through the interactive prototype.
+At this point you will switch from your presentation to your Figma file to walk us through the interactive prototype.
 ![Sample Slide](./assets/sample-slide-8.png)
 
 ::: tip Presenting your Demo
