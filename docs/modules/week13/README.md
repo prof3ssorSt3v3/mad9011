@@ -1,12 +1,16 @@
 # Week 13 - Accessability
 
+::: tip Quiz
+There will be a Figma quiz this week during our second class.
+:::
+
 ## Introduction
 
 Mobile apps continue to proliferate, adding convenience to our lives–but that doesn’t always translate to a better experience for everyone. Many apps are not created with all users in mind, which can make them frustrating, difficult, or even impossible for people with disabilities to use. Fortunately, there is a roadmap for making mobile apps and mobile versions of websites accessible.
 
 The Web Content Accessibility Guidelines (WCAG), which all accessibility standards are based on, applies to both web pages and web applications, including native and hybrid apps. These guidelines provide detailed instructions on how website and app owners can make their platforms accessible to users with varying disabilities, ensuring they are not discriminated against in day-to-day life.
 
-<!-- ![Figma Prototype Play](./Figma-play-icon.png) -->
+![WCAG](./wcag.png)
 
 WCAG forms part of the Web Accessibility Initiative (WAI) of the World Wide Web Consortium (W3C). This initiative was created to ensure that disabled users don’t encounter any barriers when browsing websites and engaging with mobile apps, which are now an essential part of our lives.
 
