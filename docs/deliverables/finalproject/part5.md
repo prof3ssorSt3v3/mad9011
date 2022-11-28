@@ -25,7 +25,7 @@ This is an example layout for your presentation.
 
 ### Introduction
 
-Give a brief introduction about your website.
+Give a brief introduction about your app.
 ![Sample Slide](./assets/sample-slide-2.png)
 
 ### Design System
@@ -56,6 +56,7 @@ When demoing your clickable visual prototype, try and create a story that links 
 - Your chosen website theme
 - Your group members names
 - Your app Name
+- PDF of you presentation
 
 ## Grading
 
