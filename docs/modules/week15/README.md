@@ -2,11 +2,13 @@
 
 During Week 14 & 15 you will be presenting your Final project to the class.
 
-> If time slots are not booked then all slots will be moved earlier.
-
 **Please come to both presentation dates even if you are not presenting.**
 
 ## Presentation Schedule - Section 1
+
+Only schedule time on Thursday if you are in Section 1
+
+> If time slots are not booked then all slots will be moved earlier.
 
 | Group             | Time |
 | ----------------- | ---- |
@@ -26,6 +28,10 @@ During Week 14 & 15 you will be presenting your Final project to the class.
 | not Assigned      | 6:20 |
 
 ## Presentation Schedule - Section 2
+
+Only schedule time on Wednesday if you are in Section 2
+
+> If time slots are not booked then all slots will be moved earlier.
 
 | Group             | Time |
 | ----------------- | ---- |
