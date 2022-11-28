@@ -19,19 +19,21 @@ Only schedule time on Thursday if you are in Section 1
 | Group             | Time |
 | ----------------- | ---- |
 | **December 8th**  |      |
-| not Assigned      | 5:05 |
+| Group 8           | 5:05 |
 | not Assigned      | 5:20 |
 | not Assigned      | 5:35 |
-| not Assigned      | 5:50 |
-| not Assigned      | 6:05 |
-| not Assigned      | 6:20 |
+| Group 9           | 5:50 |
+| Group 7           | 6:05 |
+| Group 11          | 6:20 |
 | **December 15th** |      |
-| not Assigned      | 5:05 |
-| not Assigned      | 5:20 |
-| not Assigned      | 5:35 |
-| not Assigned      | 5:50 |
-| not Assigned      | 6:05 |
+| Group 2           | 5:05 |
+| Group 1           | 5:20 |
+| Group 6           | 5:35 |
+| Group 10          | 5:50 |
+| Group 5           | 6:05 |
 | not Assigned      | 6:20 |
+
+Missing Groups: 3, 4
 
 ## Presentation Schedule - Section 2
 
@@ -46,7 +48,7 @@ Only schedule time on Wednesday if you are in Section 2
 | not Assigned      | 7:20 |
 | Group 4           | 7:35 |
 | Group 7           | 7:50 |
-| Group 3           | 8:05 |
+| not Assigned      | 8:05 |
 | Group 5           | 8:20 |
 | **December 14th** |      |
 | Group 10          | 7:05 |
@@ -55,3 +57,5 @@ Only schedule time on Wednesday if you are in Section 2
 | Group 6           | 7:50 |
 | Group 1           | 8:05 |
 | Group 3           | 8:20 |
+
+Missing Groups: 9, 11, 12
