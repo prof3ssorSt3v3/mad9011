@@ -86,9 +86,9 @@ For Part 4 of this project you will be connecting your screens to create an inte
 <Badge text="Section 010: Thursday December 8, 2022 @5pm" />
 <Badge text="Section 020: Wednesday December 7, 2022 @7pm" type="error" />
 
-### Part 5 - Presentation
+### [Part 5 - Presentation](./finalproject/part5)
 
-Coming soon
+For Part 5 of this project you will be presenting your work from parts 1-4 of the final project.
 
 <Badge text="Section 010: Thursday December 8" />
 <Badge text="Section 010: Thursday December 15" />
@@ -112,5 +112,5 @@ Test your knowledge of Illustrator with this quiz on tool, terminology, and best
 
 ### Quiz 3 - XD Quiz
 
-<Badge text="Due: Friday December 9 2022 @ 11:59pm" />
+<Badge text="Due: Friday December 2, 2022 @ 11:59pm" />
 Test your knowledge of Figma with this quiz on tool, terminology, and best practices!
