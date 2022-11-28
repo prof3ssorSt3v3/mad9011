@@ -1,6 +1,6 @@
 # Week 13 - Accessability
 
-::: tip Quiz
+::: warning Quiz
 There will be a Figma quiz this week during our second class.
 :::
 
