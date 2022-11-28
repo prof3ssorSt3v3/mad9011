@@ -2,7 +2,7 @@
 
 ::: tip Part 5 - Presentation
 
-Please refer to the [Part 5 - Presentation](./finalproject/part5) in deliverables if you have any questions regarding information and expectations for the final presentation. Feel free to reachout to me via Slack if you have any questions
+Please refer to the [Part 5 - Presentation](./deliverables/finalproject/part5) in deliverables if you have any questions regarding information and expectations for the final presentation. Feel free to reachout to me via Slack if you have any questions
 
 :::
 
@@ -46,7 +46,7 @@ Only schedule time on Wednesday if you are in Section 2
 | not Assigned      | 7:20 |
 | Group 4           | 7:35 |
 | Group 7           | 7:50 |
-| not Assigned      | 8:05 |
+| Group 3           | 8:05 |
 | Group 5           | 8:20 |
 | **December 14th** |      |
 | Group 10          | 7:05 |
