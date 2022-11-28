@@ -33,7 +33,10 @@ Only schedule time on Thursday if you are in Section 1
 | Group 5           | 6:05 |
 | not Assigned      | 6:20 |
 
+::: warning
+This list was updated November 28th @ 6:00pm
 Missing Groups: 3, 4
+:::
 
 ## Presentation Schedule - Section 2
 
@@ -58,4 +61,7 @@ Only schedule time on Wednesday if you are in Section 2
 | Group 1           | 8:05 |
 | Group 3           | 8:20 |
 
+::: warning
+This list was updated November 28th @ 6:00pm
 Missing Groups: 9, 11, 12
+:::
