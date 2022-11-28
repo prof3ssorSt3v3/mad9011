@@ -4,37 +4,45 @@
 
 Mobile apps continue to proliferate, adding convenience to our lives–but that doesn’t always translate to a better experience for everyone. Many apps are not created with all users in mind, which can make them frustrating, difficult, or even impossible for people with disabilities to use. Fortunately, there is a roadmap for making mobile apps and mobile versions of websites accessible.
 
-The Web Content Accessibility Guidelines [WCAG](https://www.accessibilitychecker.org/guides/wcag/), which all accessibility standards are based on, applies to both web pages and web applications, including native and hybrid apps. These guidelines provide detailed instructions on how website and app owners can make their platforms accessible to users with varying disabilities, ensuring they are not discriminated against in day-to-day life.
+The Web Content Accessibility Guidelines (WCAG), which all accessibility standards are based on, applies to both web pages and web applications, including native and hybrid apps. These guidelines provide detailed instructions on how website and app owners can make their platforms accessible to users with varying disabilities, ensuring they are not discriminated against in day-to-day life.
 
 <!-- ![Figma Prototype Play](./Figma-play-icon.png) -->
 
 WCAG forms part of the Web Accessibility Initiative (WAI) of the World Wide Web Consortium (W3C). This initiative was created to ensure that disabled users don’t encounter any barriers when browsing websites and engaging with mobile apps, which are now an essential part of our lives.
 
-## Who needs an accesible mobile app?
+## Who needs an accessible mobile app?
 
 You may not know this but a large percentage of users who have tried to download and engage with your app have a disability. And when they can’t use your app in the way they were hoping, they simply delete it, and your brand loses another customer.
 
-The following people require an accessible mobile app:
+**The following people require an accessible mobile app:**
 
-People with cognitive impairments. This includes conditions such as ADD, dyslexia, and Alzheimer’s. These users are either easily distracted, or they cannot follow too many different screens or themes.
+- **People with cognitive impairments**
+  This includes conditions such as ADD, dyslexia, and Alzheimer’s. These users are either easily distracted, or they cannot follow too many different screens or themes.
 
-Users with visual impairments. This includes color blindness as well as complete blindness. People with visual impairment rely on contrast and visual alternatives to process content.
+- **Users with visual impairments**
+  This includes color blindness as well as complete blindness. People with visual impairment rely on contrast and visual alternatives to process content.
 
-People with auditory impairments. Anyone with partial or complete loss of hearing won’t be able to process all app content if it’s inaccessible – auditory alternatives are required.
+- **People with auditory impairments**
+  Anyone with partial or complete loss of hearing won’t be able to process all app content if it’s inaccessible – auditory alternatives are required.
 
-Users with mobility impairments. Users with a mild or severe mobile impairment won’t be able to move dexterously or tap with purpose when using an app.
+- **Users with mobility impairments**
+  Users with a mild or severe mobile impairment won’t be able to move dexterously or tap with purpose when using an app.
 
-## WCAG Principles That Apply to Mobile App Accessibility
+## WCAG principles that apply to mobile app accessibility
 
 The Web Content Accessibility Guidelines are based on 4 specific principles. It’s important to keep each of these principles in mind during the mobile app accessibility process.
 
-Perceivable. Any information, as well as the components of your mobile app, needs to be presented in the most perceivable way possible.
+- **Perceivable**
+  Any information, as well as the components of your mobile app, needs to be presented in the most perceivable way possible.
 
-Operable. Any app interface components, including the navigation, needs to be operable, regardless of ability.
+- **Operable**
+  Any app interface components, including the navigation, needs to be operable, regardless of ability.
 
-Understandable. Any and all information and app functionality must be understandable to all users.
+- **Understandable**
+  Any and all information and app functionality must be understandable to all users.
 
-Robust. Lastly, all mobile app content must be robust enough to be easily interpreted by a range of different user agents, including assistive technologies.
+- **Robust**
+  Lastly, all mobile app content must be robust enough to be easily interpreted by a range of different user agents, including assistive technologies.
 
 ## Mobile Application Accessibility Checklist
 
@@ -44,17 +52,25 @@ When it comes to making sure your mobile app is accessible to disabled users, th
 
 When designing any app, it’s important to remember that users will have different screen sizes. To accommodate those with smaller screens, you will need to keep information on each page to a minimum, adjust the position of form fields, and use a reasonable content size.
 
+![Screen sizes](./Screen-size.png)
+
 ### Pay Attention to Color Contrast
 
 Since many mobile apps will be used outdoors and by disabled users, color contrast is an essential accessibility consideration. Text should have a color contrast ratio of at least 4.5:1, while larger text should be at least 3:1.
+
+![Color contrast](./color-contrast.png)
 
 ### Simplify App Gestures
 
 Any gestures required to operate a mobile app should be kept as simple as possible to accommodate users with disabilities. Opt for tap or swipe gestures as opposed to more complex ones.
 
+![Gestures](./Gestures.png)
+
 ### Adjust Tap Target Sizes
 
 If your app displays multiple elements at once, they should be large enough and spaced out so that app users can easily tap them. This includes elements such as buttons.
+
+![Tap target sizes](./tap-target-sizes.png)
 
 ### Make Data Entry Easy
 
