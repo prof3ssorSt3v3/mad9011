@@ -4,7 +4,7 @@
 
 This week you will be presenting your work for Assignment 2.
 
-Each person will have 7 minutes max to present. please be sure to bring an adapter if your computer does not have an HDMI port. I will have mine that is USBC -> HDMI
+Each group will have 10 minutes max to present. please be sure to bring an adapter if your computer does not have an HDMI port. I will have mine that is USBC -> HDMI
 
 **To complete this exercise you must;**
 
