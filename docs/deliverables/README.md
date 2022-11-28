@@ -90,19 +90,13 @@ For Part 4 of this project you will be connecting your screens to create an inte
 
 Coming soon
 
-<Badge text="Section 010: Thursday December 8 @5pm" />
-<br>
-or
-<br>
-<Badge text="Section 010: Thursday December 15, 2022 @5pm" />
+<Badge text="Section 010: Thursday December 8" />
+<Badge text="Section 010: Thursday December 15" />
 
 <br>
 
 <Badge text="Section 020: Wednesday December 7" type="error" />
-<br>
-or
-<br>
-<Badge text="Section 020: Wednesday December 14, 2022 @7pm" type="error" />
+<Badge text="Section 020: Wednesday December 14" type="error" />
 
 ## Quizzes
 

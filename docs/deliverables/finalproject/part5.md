@@ -19,25 +19,30 @@ Each person will have 7 minutes max to present. please be sure to bring an adapt
 
 This is an example layout for your presentation.
 
-**Title**
+### Title
+
 ![Sample Slide](./assets/sample-slide-1.png)
 
-**Introduction**
+### Introduction
+
 Give a brief introduction about your website.
 ![Sample Slide](./assets/sample-slide-2.png)
 
-**Design System**
+### Design System
+
 Include all your styles and components.
 ![Sample Slide](./assets/sample-slide-3.png)
 ![Sample Slide](./assets/sample-slide-4.png)
 ![Sample Slide](./assets/sample-slide-5.png)
 
-**Screens**
+### Screens
+
 Each screen should have its own slide showing your wireframes and your visual design side by side.
 ![Sample Slide](./assets/sample-slide-6.png)
 ![Sample Slide](./assets/sample-slide-7.png)
 
-**Demo**
+### Demo
+
 At this point you will switch from your presentation to your XD file to walk us through the interactive prototype.
 ![Sample Slide](./assets/sample-slide-8.png)
 
