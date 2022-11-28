@@ -2,9 +2,13 @@
 
 ::: tip Part 5 - Presentation
 
-Please refer to the [Part 5 - Presentation](./deliverables/finalproject/part5) in deliverables if you have any questions regarding information and expectations for the final presentation. Feel free to reachout to me via Slack if you have any questions
+Please refer to the [Part 5 - Presentation](/deliverables/finalproject/part5.md) in deliverables if you have any questions regarding information and expectations for the final presentation. Feel free to reachout to me via Slack if you have any questions
 
 :::
+
+<!-- f2022/deliverables/finalproject/part5.html -->
+
+docs/deliverables/finalproject/part5.md
 
 During Week 14 & 15 you will be presenting your Final project to the class.
 
