@@ -1,2 +1,45 @@
 # Week 14/15 - Presentations
 
+During Week 14 & 15 you will be presenting your Final project to the class.
+
+> If time slots are not booked then all slots will be moved earlier.
+
+**Please come to both presentation dates even if you are not presenting.**
+
+## Presentation Schedule - Section 1
+
+| Group         | Time |
+| ------------- | ---- |
+| December 8th  |      |
+| not Assigned  | 5:05 |
+| not Assigned  | 5:20 |
+| not Assigned  | 5:35 |
+| not Assigned  | 5:50 |
+| not Assigned  | 6:05 |
+| not Assigned  | 6:20 |
+| December 15th |      |
+| not Assigned  | 5:05 |
+| not Assigned  | 5:20 |
+| not Assigned  | 5:35 |
+| not Assigned  | 5:50 |
+| not Assigned  | 6:05 |
+| not Assigned  | 6:20 |
+
+## Presentation Schedule - Section 2
+
+| Group         | Time |
+| ------------- | ---- |
+| December 7th  |      |
+| not Assigned  | 7:05 |
+| not Assigned  | 7:20 |
+| Group 4       | 7:35 |
+| Group 7       | 7:50 |
+| not Assigned  | 8:05 |
+| Group 5       | 8:20 |
+| December 14th |      |
+| Group 10      | 7:05 |
+| Group 2       | 7:20 |
+| Group 8       | 7:35 |
+| Group 6       | 7:50 |
+| Group 1       | 8:05 |
+| Group 3       | 8:20 |

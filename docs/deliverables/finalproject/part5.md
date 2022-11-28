@@ -4,7 +4,7 @@
 
 This week you will be presenting all your work done in parts 1 - 4 of the Final Project.
 
-Each group will have 10 minutes max to present. please be sure to bring an adapter if your computer does not have an HDMI port. I will have mine that is USBC -> HDMI
+Each group will have 10 minutes max to present. Please be sure to bring an adapter if your computer does not have an HDMI port. I will have mine that is USBC -> HDMI
 
 **To complete this exercise you must;**
 
