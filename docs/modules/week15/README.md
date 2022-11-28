@@ -1,5 +1,11 @@
 # Week 14/15 - Presentations
 
+::: tip Part 5 - Presentation
+
+Please refer to the [Part 5 - Presentation](./finalproject/part5) in deliverables if you have any questions regarding information and expectations for the final presentation. Feel free to reachout to me via Slack if you have any questions
+
+:::
+
 During Week 14 & 15 you will be presenting your Final project to the class.
 
 **Please come to both presentation dates even if you are not presenting.**
