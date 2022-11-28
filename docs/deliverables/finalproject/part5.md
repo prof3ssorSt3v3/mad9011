@@ -46,6 +46,10 @@ Each screen should have its own slide showing your wireframes and your visual de
 At this point you will switch from your presentation to your XD file to walk us through the interactive prototype.
 ![Sample Slide](./assets/sample-slide-8.png)
 
+::: tip Presenting your Demo
+When demoing your clickable visual prototype, try and create a story that links the transitions between screens.
+:::
+
 ## Submission Requirements
 
 - Your generated Figma link
