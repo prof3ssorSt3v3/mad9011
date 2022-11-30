@@ -34,7 +34,7 @@ Only schedule time on Thursday if you are in Section 1
 | not Assigned      | 6:20 |
 
 ::: warning
-This list was updated November 28th @ 6:00pm
+This list was updated November 30th @ 5:00pm
 Missing Groups: 3, 4
 :::
 
@@ -51,7 +51,7 @@ Only schedule time on Wednesday if you are in Section 2
 | not Assigned      | 7:20 |
 | Group 4           | 7:35 |
 | Group 7           | 7:50 |
-| not Assigned      | 8:05 |
+| Group 12          | 8:05 |
 | Group 5           | 8:20 |
 | **December 14th** |      |
 | Group 10          | 7:05 |
@@ -62,6 +62,6 @@ Only schedule time on Wednesday if you are in Section 2
 | Group 3           | 8:20 |
 
 ::: warning
-This list was updated November 28th @ 6:00pm
-Missing Groups: 9, 11, 12
+This list was updated November 30th @ 5:00pm
+Missing Groups: 9, 11,
 :::
