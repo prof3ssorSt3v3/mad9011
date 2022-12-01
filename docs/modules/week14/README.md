@@ -24,14 +24,14 @@ Only schedule time on Thursday if you are in Section 1
 | not Assigned      | 5:35 |
 | Group 9           | 5:50 |
 | Group 7           | 6:05 |
-| Group 11          | 6:20 |
+| not Assigned      | 6:20 |
 | **December 15th** |      |
 | Group 2           | 5:05 |
 | Group 1           | 5:20 |
 | Group 6           | 5:35 |
 | Group 10          | 5:50 |
 | Group 5           | 6:05 |
-| not Assigned      | 6:20 |
+| Group 11          | 6:20 |
 
 ::: warning
 This list was updated November 30th @ 5:00pm
