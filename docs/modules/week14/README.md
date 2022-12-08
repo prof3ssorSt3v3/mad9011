@@ -45,7 +45,7 @@ Only schedule time on Wednesday if you are in Section 2
 
 > If time slots are not booked then all slots will be moved earlier.
 
-| Group             | Time |
+| Group             | Time | Notes     |
 | ----------------- | ---- | --------- |
 | **December 7th**  |      |
 | not Assigned      | 7:05 |
