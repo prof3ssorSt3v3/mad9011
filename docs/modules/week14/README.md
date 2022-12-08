@@ -46,14 +46,14 @@ Only schedule time on Wednesday if you are in Section 2
 > If time slots are not booked then all slots will be moved earlier.
 
 | Group             | Time |
-| ----------------- | ---- |
+| ----------------- | ---- | --------- |
 | **December 7th**  |      |
 | not Assigned      | 7:05 |
-| not Assigned      | 7:20 |
+| Group 2           | 7:20 |
 | Group 4           | 7:35 |
 | Group 7           | 7:50 |
-| Group 12          | 8:05 |
-| Group 5           | 8:20 |
+| Group 12          | 8:05 | - No Show |
+| Group 5           | 8:20 | - No Show |
 | **December 14th** |      |
 | Group 10          | 7:05 |
 | Group 2           | 7:20 |
