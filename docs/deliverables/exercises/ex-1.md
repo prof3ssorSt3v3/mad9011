@@ -61,7 +61,7 @@ Compress and submit your work in a folder named lName-fName-section#-select-and-
 - Your Photoshop file: lName-fName-section#-select-and-mask.psd
 - A "Links" folder containing original images (if applicable)
 - An "Exports" folder containing:
-  - lName-fName-section#-select-and-mask.jpg (1000px wide)
+  - lName-fName-section#-select-and-mask.png (1000px wide)
 
 ::: warning Due Date
 
