@@ -1,53 +1,43 @@
 # Exercise 6 — Web Banner
 
+<badge type="error" text="Updating in progress" />
+
 ## Instructions
 
-Using the skills we practiced in class, create a web banner design that combines both raster and vector shapes.
+## Video Demonstrations
 
-### Specs:
+Watch these video tutorials to help you perform the masking techniques in Photoshop:
 
-- 1440px wide
-- 500px tall
-- 72dpi
+- [Video]()
+- [Video]()
+- [Video]()
 
-You web banner must include the following:
+## Tips
 
-- Photo
-- Header text
-- Sub-header text
-- Button
-- Minimum of two secondary vector elements (decorative shapes, logos, social icons, basic illustrations, etc.)
+## Files
 
-### Example
+## Troubleshooting Tips
 
-![Example banner](./assets/example-banner.jpg)
+Common issues and solutions you might encounter during the exercise:
 
-## File Structure
+-
+-
 
-Submit your compressed lName-fName-section#-web-banner folder to Brightspace. Your folder should contain the following:
+## Grading Rubric
 
-- lName-fName-section#-web-banner.ai
-- Links folder (containing original image) or emmbed the images
-- Exports folder containing:
-  - lName-fName-section#-web-banner.jpg - 72dpi, 1440 x 500px
-
-## Grading
-
-| Category             | Weight |
-| -------------------- | ------ |
-| Banner Design        | 1      |
-| Use of vector shapes | 2      |
-| Exporting Image      | 1      |
-| File Organization    | 1      |
-| **Total**            | **5**  |
+| Category  | Criteria    | Weight |
+| --------- | ----------- | ------ |
+| Name      | Description | #      |
+| Name      | Description | #      |
+| Name      | Description | #      |
+| Name      | Description | #      |
+| Name      | Description | #      |
+| Name      | Description | #      |
+| **Total** |             | **#**  |
 
 ## Submission
 
 ::: warning Due Date
 
-Section 010: Thursday, October 20, 2022 @ 5pm
-
-Section 310: Wednesday, October 19, 2022 @ 7pm
-
-Submit on Brightspace under Assignments > Exercise 6 — Web Banner
+Submit on Brightspace under Assignments > Exercise #
 :::
