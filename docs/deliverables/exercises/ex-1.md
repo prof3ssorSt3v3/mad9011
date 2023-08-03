@@ -1,43 +1,69 @@
-# Exercise 1 — Select & Mask
-
-Test
+# Exercise 1 — Select & Mask: Non-Destructive Image Editing and Composition
 
 ## Instructions
 
-Select an image and use the masking techniques learned in class to remove the original background of an image. Once the original background is removed find a new image and place it as the new background. You can find free stock images for the background at [Unsplash](https:://unsplash.com), [Pixabay](https://pixabay.com), or another stock image site (just make sure your stock image does not have a watermark on it). Once you have completed masking your subject and replacing the background, export your image using the Export As... dialogue into an Exports folder.
+Select an image and use the masking techniques learned in class to remove the original background of the image. Utilize tools such as Quick Selection, Refine Edge, or Select & Mask to achieve precise selections. Ensure a non-destructive workflow by using layers and adjustment layers for editing.
 
-## Example
+Once you have completed masking your subject and replacing the background, take it a step further and create a visually appealing composition. Incorporate more than one image to blend elements together and form a cohesive composition.
 
-![Replace Image Background Example](./assets/replace-image-background-step-3.jpg)
+## Video Demonstrations
 
-## File Set Up
+Watch these video tutorials to help you perform the masking techniques in Photoshop:
 
-Your Photoshop file should be named fName-lName-section#-select-and-mask.psd. The size of your artboard will be dependent on your original subject image. Your file should have a layer named "Subject" containing your foreground image that is masked and a layer named "Background" featuring your new background image.
+- [Quick Selection Tool]()
+- [Refine Edge]()
+- [Select & Mask]()
 
-## Grading
+## Background Replacement Tips
 
-| Category               | Weight |
-| ---------------------- | ------ |
-| Masking Technique      | 2      |
-| Background Replacement | 1      |
-| Exporting Image        | 1      |
-| File Organization      | 1      |
-| **Total**              | **5**  |
+To seamlessly integrate the subject into the new background, consider the following tips:
+
+- Adjust the lighting and color of the subject to match the new environment.
+- Use layer blending modes and opacity adjustments to create a natural blend.
+- Pay attention to shadows and reflections for a realistic look.
+
+## Sample Images
+
+You can find a set of sample images to work with here: [Sample Images](). Feel free to use these images to get started.
+
+## Creating a Composition
+
+In addition to replacing the background, challenge yourself to create a compelling composition by blending multiple images together. Use a minimum of four images in total, with one being the background image. Select and mask subjects from different images and combine them creatively to achieve a visually balanced composition.
+
+## Troubleshooting Tips
+
+Common issues and solutions you might encounter during the exercise:
+
+- If the edges of the selection are rough, use the Refine Edge tool to smooth them out.
+- If the subject looks disconnected from the new background, adjust the color balance and lighting.
+
+## Be Creative!
+
+Don't limit yourself to just stock images. Consider creating your backgrounds and incorporating various elements to compose a unique and visually stunning image.
+
+## Grading Rubric
+
+| Category                     | Criteria                                                                                                                          | Weight |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| Selection & Masking          | - Accurate and detailed selection of the subject, with clean edges and smooth transitions between the subject and the background. | 2      |
+| Background Replacement       | - Skillful integration of the subject into the new background, considering lighting, color balance, and overall realism.          | 2      |
+| Non-Destructive Editing      | - Effective use of adjustment layers and layer masks for non-destructive image editing.                                           | 1      |
+| Composition & Image Blending | - Creative and seamless blending of multiple images to create a compelling and visually balanced composition.                     | 2      |
+| File Organization            | - Well-structured Photoshop file with organized layers and properly labeled / organized submission folders.                       | 1      |
+| **Total**                    |                                                                                                                                   | **8**  |
 
 ## Submission
 
-Compress and submit your lName-fName-section#-select-and-mask folder. The folder should contain:
+Compress and submit your work in a folder named lName-fName-section#-select-and-mask. The folder should contain the following:
 
-- lName-fName-section#-select-and-mask.psd Photoshop file
-- Links folder containing original images
-- Exports folder containing:
-  - lName-fName-section#-select-and-mask.jpg - 1000px wide
+- Your Photoshop file: lName-fName-section#-select-and-mask.psd
+- A "Links" folder containing original images (if applicable)
+- An "Exports" folder containing:
+  - lName-fName-section#-select-and-mask.jpg (1000px wide)
 
 ::: warning Due Date
 
-Section 010: Thursday, September 15, 2022 @ 5pm
+All Sections: Friday January 20, 2023, @ 11:59pm
 
-Section 020: Wednesday, September 14, 2022 @ 7pm
-
-Submit on Brightspace under Assignments > Exercise 1 — Select & Mask
+Submit on Brightspace under Assignments > Exercise 1 — Select & Mask:
 :::
