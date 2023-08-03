@@ -1,4 +1,4 @@
-# Exercise 6 — Web Banner
+# Exercise 6 — Animated SVG
 
 <badge type="error" text="Updating in progress" />
 

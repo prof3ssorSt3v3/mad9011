@@ -4,113 +4,60 @@
 
 ### [Exercise 1 — Select & Mask](./exercises/ex-1.md)
 
-<Badge text="Section 010: Thursday September 15, 2022 @5pm" />
-<Badge text="Section 020: Wednesday September 14, 2022 @7pm" type="error" />
-The goal of this exercise is to learn basic masking techniques in Photoshop.
+<Badge text="Updating in progress" type="error" />
 
 ### [Exercise 2 — Retouching](./exercises/ex-2.md)
 
-<Badge text="Section 010: Thursday September 22, 2022 @5pm" />
-<Badge text="Section 020: Wednesday September 21, 2022 @7pm" type="error" />
-The goal of this exercise is to learn basic retouching techniques and non-destructive editing.
+<Badge text="Updating in progress" type="error" />
 
 ### [Exercise 3 — Logo Recreation](./exercises/ex-3.md)
 
-<Badge text="Section 010: Thursday September 29, 2022 @5pm" />
-<Badge text="Section 020: Wednesday September 28, 2022 @7pm" type="error" />
-The goal of this exercise is to learn how basic shapes can be used to create logos and other designs.
+<Badge text="Updating in progress" type="error" />
 
 ### [Exercise 4 — Button Design](./exercises/ex-4.md)
 
-<Badge text="Section 010: Thursday October 6, 2022 @5pm" />
-<Badge text="Section 020: Wednesday October 5, 2022 @7pm" type="error" />
-In this exercise we will be creating a variety of buttons using different colours and styles. The goal is to get familiar with the Color, Swatches, and Gradient panels
+<Badge text="Updating in progress" type="error" />
 
 ### [Exercise 5 — Character Vectorization](./exercises/ex-5.md)
 
-<Badge text="Section 010: Thursday October 13, 2022 @5pm" />
-<Badge text="Section 020: Wednesday October 12, 2022 @7pm" type="error" />
-The goal of this exercise is to learn how basic shapes can be used to create logos and other designs.
+<Badge text="Updating in progress" type="error" />
 
 ### [Exercise 6 — Web Banner](./exercises/ex-6.md)
 
-<Badge text="Section 010: Thursday October 20, 2022 @5pm" />
-<Badge text="Section 020: Wednesday October 19, 2022 @7pm" type="error" />
-The goal of this exercise is to create a web banner that combineds both raster and vector shapes.
+<Badge text="Updating in progress" type="error" />
 
-### [Exercise 7 — Animated SVG](./exercises/ex-7.md)
+## Midterm
 
-<Badge text="Section 010: Thursday November 3, 2022 @5pm" />
-<Badge text="Section 020: Wednesday November 2, 2022 @7pm" type="error" />
-The goal of this exercise is to put our SVG skills to the test and create an interactive banner.
+### [Midterm - App Icon](./assignments/assignment-1)
 
-## Assignments
-
-### [Assignment 1 - App Icon](./assignments/assignment-1)
-
-<Badge text="Section 010: Thursday November 3, 2022 @5pm" />
-<Badge text="Section 020: Wednesday November 2, 2022 @7pm" type="error" />
-The goal of this assignment is to apply your Illustrator skills to create a iOS app icon.
+<Badge text="Updating in progress" type="error" />
 
 ## Final Project
 
-### [Project Overview](./finalproject/overview)
+<Badge text="Updating in progress" type="error" />
 
-The goal of the final project is to apply your weekly learnings in Figma to a basic mobile application.
+### [Project Overview](./finalproject/overview)
 
 ### [Part 1 - Wireframes](./finalproject/part1)
 
-For Part 1 of this project (after selecting your team and your app's theme), you will be creating low-fidelity wireframes for your app using Figma.
-
-<Badge text="Section 010: Thursday November 10, 2022 @5pm" />
-<Badge text="Section 020: Wednesday November 9, 2022 @7pm" type="error" />
-
 ### [Part 2 - Design System](./finalproject/part2)
-
-For Part 2 of this project you will be creating a "mini" design system for your app using Figma.
-
-<Badge text="Section 010: Thursday November 24, 2022 @5pm" />
-<Badge text="Section 020: Wednesday November 23, 2022 @7pm" type="error" />
 
 ### [Part 3 - Visual Design](./finalproject/part3)
 
-For Part 3 of this project you will be applying your design system to your app along with additional styles to create a high fidelity visual prototype.
-
-<Badge text="Section 010: Thursday November 24, 2022 @5pm" />
-<Badge text="Section 020: Wednesday November 23, 2022 @7pm" type="error" />
-
 ### [Part 4 - Interactive Visual Prototype](./finalproject/part4)
 
-For Part 4 of this project you will be connecting your screens to create an interactive prototype which you will demo to the class during your final presentation.
-
-<Badge text="Section 010: Thursday December 8, 2022 @5pm" />
-<Badge text="Section 020: Wednesday December 7, 2022 @7pm" type="error" />
-
 ### [Part 5 - Presentation](./finalproject/part5)
-
-For Part 5 of this project you will be presenting your work from parts 1-4 of the final project.
-
-<Badge text="Section 010: Thursday December 8" />
-<Badge text="Section 010: Thursday December 15" />
-
-<br>
-
-<Badge text="Section 020: Wednesday December 7" type="error" />
-<Badge text="Section 020: Wednesday December 14" type="error" />
 
 ## Quizzes
 
 ### Quiz 1 - Photoshop Quiz
 
-<Badge text="Due: Friday, September 16, 2022 @ 11:59pm" />
-Test your knowledge of Photoshop with this quiz on tool, terminology, and best practices!
+<Badge text="Due: Date" />
 
 ### Quiz 2 - Illustrator Quiz
 
-<Badge text="Due: Friday November 4, 2022 @ 11:59pm" />
-Test your knowledge of Illustrator with this quiz on tool, terminology, and best practices!
+<Badge text="Due: Date" />
 
-### Quiz 3 - XD Quiz
+### Quiz 3 - Figma Quiz
 
-<Badge text="Due: Friday December 2, 2022 @ 11:59pm" />
-Test your knowledge of Figma with this quiz on tool, terminology, and best practices!
+<Badge text="Due: Date" />
