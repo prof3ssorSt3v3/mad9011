@@ -14,7 +14,7 @@
 
 <Badge text="Updating in progress" type="error" />
 
-### [Exercise 4 — Button Design](./exercises/ex-4.md)
+### [Exercise 4 — Exploring Gradients in Nature](./exercises/ex-4.md)
 
 <Badge text="Updating in progress" type="error" />
 

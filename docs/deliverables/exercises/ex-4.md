@@ -1,4 +1,4 @@
-# Exercise 4: Button Design
+# Exercise 4: Exploring Gradients in Nature
 
 <badge type="error" text="Updating in progress" />
 
@@ -15,6 +15,8 @@ Watch these video tutorials to help you perform the masking techniques in Photos
 ## Tips
 
 ## Files
+
+## Example
 
 ## Troubleshooting Tips
 
