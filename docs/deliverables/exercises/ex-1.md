@@ -1,5 +1,7 @@
 # Exercise 1 — Select & Mask: Non-Destructive Image Editing and Composition
 
+<badge type="error" text="Updating in progress" />
+
 ## Instructions
 
 Select an image and use the masking techniques learned in class to remove the original background of the image. Utilize tools such as Quick Selection, Refine Edge, or Select & Mask to achieve precise selections. Ensure a non-destructive workflow by using layers and adjustment layers for editing.
