@@ -24,7 +24,7 @@ git add -A
 git commit -m 'deploy dist from private to public'
 git branch -M main
 # REPLACE NEXT LINE with public link for coursebook repo
-git push -f git@github.com:MAD9011/f2023.git
+git push -f git@github.com:MAD9011/f2023.git main
 
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
