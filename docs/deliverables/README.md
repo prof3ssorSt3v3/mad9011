@@ -50,11 +50,11 @@ The goal of this exercise is to put our SVG skills to the test and create an sim
 
 The goal of this assignment is to apply your Illustrator skills to create a iOS app icon.
 
-**Peer Feedback Due:**
+**Peer Feedback Due:** <br>
 <Badge text="Section 300: Tuesday October 17th @3:00pm" />
 <Badge type="error" text="Section 310: Monday October 16th @4:00pm" />
 
-**Final Submission:**
+**Final Submission:** <br>
 <Badge text="Section 300: Tuesday October 31st @3:00pm" />
 <Badge type="error" text="Section 310: Monday October 30th @4:00pm" />
 
@@ -78,11 +78,13 @@ The goal of this assignment is to apply your Illustrator skills to create a iOS 
 
 ### Quiz 1 - Photoshop Quiz
 
-<Badge text="Due: Date" />
+<Badge text="Section 300: Tuesday September 12th @5:00pm" />
+<Badge type="error" text="Section 310: Monday September 11th @6:00pm" />
 
 ### Quiz 2 - Illustrator Quiz
 
-<Badge text="Due: Date" />
+<Badge text="Section 300: Tuesday October 17th @5:00pm" />
+<Badge type="error" text="Section 310: Monday October 16th @6:00pm" />
 
 ### Quiz 3 - Figma Quiz
 

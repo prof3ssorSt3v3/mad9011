@@ -1,29 +1,34 @@
 # Assignment 1 - App Icon
 
-<badge type="error" text="Prepare starter file" />
-
 ## Introduction
 
 Welcome to the final assignment of the Illustrator portion of this course. This project offers you an exciting opportunity to showcase the skills you have acquired so far by creating a set of innovative and visually captivating App Icons for an imaginary app of your own invention.
+
+## Progress Check-ins
+
+| Week | Expectations |
+| ---- | ------------ |
+| week | details      |
+| week | details      |
+| week | details      |
+| week | details      |
+| week | details      |
 
 ## Instructions
 
 In this assignment, you will design three versions of the same app icon, each optimized for different devices:
 
-- iPhone – 57x57 px, corner radius 10 px
+- **iPhone – 57x57 px, corner radius 10 px**
 
   - **Design:** Create a minimalist black and white icon with a focus on simplicity and clarity.
-  - **Theme:** Represent the core concept and functionality of your app.
 
-- iPad – 144x144 px, corner radius 24 px
+- **iPad – 144x144 px, corner radius 24 px**
 
   - **Design:** Craft a vibrant, full-color icon with medium detail to captivate the audience's attention.
-  - **Theme:** Showcase the unique identity and branding of your app.
 
-- iTunes – 512x512 px, corner radius 90 px
+- **iTunes – 512x512 px, corner radius 90 px**
 
   - **Design:** Create a high-fidelity icon with intricate details to convey the full potential of your app.
-  - **Theme:** Display the app's features and sophistication in an aesthetically pleasing manner.
 
 Ensure that all three versions share a cohesive design language, forming a unified set of app icons.
 
@@ -34,6 +39,8 @@ Ensure that all three versions share a cohesive design language, forming a unifi
 - Artboard: iPhone_57x57
 - Artboard: iPad_144x144
 - Artboard: iTunes_512x512
+
+Image
 
 2. Include the name of your app on each icon to provide context and reference.
 
@@ -47,16 +54,10 @@ Ensure that all three versions share a cohesive design language, forming a unifi
 
 ## Examples
 
-![Student example with layers and artboard panels](./assets/student-example.png)
-
-![Example of icon sizes](./assets/discussion-example.png)
-
-![Stock watch example icons](./assets/example-1.png)
-![Cinema example icons](./assets/example-2.png)
-
-## Troubleshooting Tips
-
-Common issues and solutions you might encounter during the exercise:
+![Previous student example](./assets/example-1.png)
+![Previous student example](./assets/example-2.png)
+![Previous student example](./assets/example-3.png)
+![Previous student example](./assets/example-4.png)
 
 ## Export and Submission:
 
@@ -77,46 +78,43 @@ Common issues and solutions you might encounter during the exercise:
 
 ![File structure](./assets/file-structure.jpg)
 
-## Feedback Presentation
+## Feedback Discussion
 
-::: tip Date
+As part of this assignment, you must submit the first draft of your icon concept, design, and color scheme to the App Icon Feedback discussion to receive feedback from your peers and professor. You must also provide feedback to a minimum of two other students on their discussion posts.
 
-Be prepared to present your draft version of your app icons in **week 7**.
+1. **Discussion Post:** In your post start by share your initial concept for the app icon, explaining the ideas and inspiration behind your design. Be sure to mention the animal you have chosen for your app icon.
 
-:::
+2. **Provide Feedback:** You must comment on at least two (2) other students postings. Provide feedback for them to improve their design.
 
-As part of this assignment, you will be presenting your app icon concept, design, and color scheme to the class to receive feedback from your peers and professor. Additionally, you are required to provide constructive feedback to a minimum of two other students on their app icon presentations. Prior to submission, you will take the feedback provided and improve your design.
+3. **Feedback Implementation:** Review the feedback you received from your peers and professor improve your app icon designs.
 
-### Presentation Format:
-
-1. **Introduction:** Begin your presentation by introducing yourself and providing a brief overview of your app's theme and purpose. Mention the animal theme you have chosen for your app icon.
-
-2. **App Icon Concept:** Share your initial concept for the app icon, explaining the ideas and inspiration behind your design. Discuss how the chosen animal represents your app's core functionality and branding.
-
-3. **Design Process:** Walk the audience through your design process. Explain the tools and techniques you used in Illustrator to create the icon, including the use of shapes, the pen tool, and color choices.
-
-4. **Design Unity:** Illustrate how all three versions of your app icon create a cohesive set that complements each other and reinforces the theme of the animal you've chosen.
-
-5. **Feedback Implementation:** Review the feedback you received from your peers and professor after presenting your first draft and improve your app icon designs.
-
-### Presentation Tips:
-
-- Prepare your Illustrator to showcase your app icon designs effectively.
-- Keep your presentation focused, concise, and engaging, aiming to communicate your ideas clearly.
-- Speak confidently, addressing the class with a clear and audible voice.
-- Be open to questions and feedback from your peers and professor after your presentation.
+<Badge type="error" text="This must be completed by the start of class of Week 7 to allow time to implement the feedback received." />
 
 ## Grading
 
-<badge type="error" text="Need to think of new rubric" />
+| Category          | Criteria                                                                                                                                                                                                  | Weight |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| Formatting        | - Did you properly created the required artboards with correct sizes and naming? <br> - Did you ensured each icon has the correct corner radius? <br> - Did you ensured each icon has a solid background? | 3      |
+| Peer-feedback     | - Did you provide constructive feedback on the work of at least 2 other students? <br> - Did you post your icons for review? <br> - Was the work you posted at least 75% complete?                        | 3      |
+| iPhone Icon       | - Did you created a minimalist black and white icon with a focus on simplicity and clarity?                                                                                                               | 3      |
+| iPad Icon         | - Did you created a vibrant, full-color icon with medium detail to captivate the audience's attention?                                                                                                    | 3      |
+| iTunes Icon       | - Did you created a high-fidelity icon with intricate details to convey the full potential of your app?                                                                                                   | 3      |
+| Overview          | - Did you ensure that all three versions share a cohesive design language, forming a unified set of app icons?                                                                                            | 3      |
+| File Organization | - Submitted a well-structured Illustrator file with organized layers and proper labeling. <br> - Was your Submission folder well-organized?                                                               | 2      |
+| **Total**         |                                                                                                                                                                                                           | **20** |
 
 ## Submission
 
-::: warning Due Date
+**Due Dates:**
 
-Section 010: Thursday, November 3, 2021 @ 5pm
+**Peer Feedback Due:** <br>
+<Badge text="Section 300: Tuesday October 17th @3:00pm" />
+<Badge type="error" text="Section 310: Monday October 16th @4:00pm" />
 
-Section 020: Wednesday, November 2, 2021 @ 7pm
+**Final Submission:** <br>
+<Badge text="Section 300: Tuesday October 31st @3:00pm" />
+<Badge type="error" text="Section 310: Monday October 30th @4:00pm" />
 
-Submit on Brightspace under Assignments > Assignment 1 - App Icon
-:::
+- Open BS LMS and go to the Activities > Assignments page.
+- Go to Assignment 1 — App Icon
+- Upload your compressed folder on the assignment page in BS LMS and click the submit button.
