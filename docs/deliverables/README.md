@@ -46,7 +46,7 @@ The goal of this exercise is to put our SVG skills to the test and create an sim
 
 ## Midterm
 
-### [Midterm - App Icon](./assignments/assignment-1)
+### [Midterm - App Icon](./assignments/midterm)
 
 The goal of this assignment is to apply your Illustrator skills to create a iOS app icon.
 

@@ -1,4 +1,4 @@
-# Assignment 1 - App Icon
+# Midterm - App Icon
 
 ## Introduction
 
@@ -95,11 +95,11 @@ As part of this assignment, you must submit the first draft of your icon concept
   - iPad_144x144.png
   - iTunes_512x512.png
 
-3. Prepare a compressed folder named "lName-fName-assignment-1.zip" for submission on Brightspace.
+3. Prepare a compressed folder named "lName-fName-Midterm-AppIcon.zip" for submission on Brightspace.
 
 - Include:
   - Exports Folder
-  - lName-fName-assignment-1.ai
+  - lName-fName-Midterm-AppIcon.ai
 
 ![File structure](./assets/file-structure.jpg)
 
@@ -114,5 +114,5 @@ As part of this assignment, you must submit the first draft of your icon concept
 <Badge type="error" text="Section 310: Monday October 30th @4:00pm" />
 
 - Open BS LMS and go to the Activities > Assignments page.
-- Go to Assignment 1 — App Icon
+- Go to Midterm — App Icon
 - Upload your compressed folder on the assignment page in BS LMS and click the submit button.
