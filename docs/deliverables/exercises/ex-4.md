@@ -1,4 +1,4 @@
-# Exercise 4: Exploring Gradients in Nature
+# Exercise 4: Gradients in Nature
 
 <badge type="error" text="Updating in progress" />
 

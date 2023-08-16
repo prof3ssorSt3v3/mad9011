@@ -1,12 +1,20 @@
 # Exercise 1 — Select & Mask: Non-Destructive Image Editing and Composition
 
-<badge type="error" text="Updating in progress" />
+::: danger Todo
+
+- Update tutorial links
+- Add samples
+- Update due dates for both sections
+
+:::
 
 ## Instructions
 
 Select an image and use the masking techniques learned in class to remove the original background of the image. Utilize tools such as Quick Selection, Refine Edge, or Select & Mask to achieve precise selections. Ensure a non-destructive workflow by using layers and adjustment layers for editing.
 
 Once you have completed masking your subject and replacing the background, take it a step further and create a visually appealing composition. Incorporate more than one image to blend elements together and form a cohesive composition.
+
+## Example
 
 ## Video Demonstrations
 
@@ -24,10 +32,6 @@ To seamlessly integrate the subject into the new background, consider the follow
 - Use layer blending modes and opacity adjustments to create a natural blend.
 - Pay attention to shadows and reflections for a realistic look.
 
-## Sample Images
-
-You can find a set of sample images to work with here: [Sample Images](). Feel free to use these images to get started.
-
 ## Creating a Composition
 
 In addition to replacing the background, challenge yourself to create a compelling composition by blending multiple images together. Use a minimum of four images in total, with one being the background image. Select and mask subjects from different images and combine them creatively to achieve a visually balanced composition.
@@ -39,9 +43,9 @@ Common issues and solutions you might encounter during the exercise:
 - If the edges of the selection are rough, use the Refine Edge tool to smooth them out.
 - If the subject looks disconnected from the new background, adjust the color balance and lighting.
 
-## Be Creative!
+<!-- ## Be Creative!
 
-Don't limit yourself to just stock images. Consider creating your backgrounds and incorporating various elements to compose a unique and visually stunning image.
+Don't limit yourself to just stock images. Consider creating your backgrounds and incorporating various elements to compose a unique and visually stunning image. -->
 
 ## Grading Rubric
 

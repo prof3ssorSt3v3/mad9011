@@ -14,7 +14,7 @@
 
 <Badge text="Updating in progress" type="error" />
 
-### [Exercise 4 — Exploring Gradients in Nature](./exercises/ex-4.md)
+### [Exercise 4 — Gradients in Nature](./exercises/ex-4.md)
 
 <Badge text="Updating in progress" type="error" />
 
@@ -22,7 +22,7 @@
 
 <Badge text="Updating in progress" type="error" />
 
-### [Exercise 6 — Web Banner](./exercises/ex-6.md)
+### [Exercise 6 — Animated SVG](./exercises/ex-6.md)
 
 <Badge text="Updating in progress" type="error" />
 
