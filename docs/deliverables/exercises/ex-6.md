@@ -61,8 +61,8 @@ Watch these video tutorials to help you animate your loader from Illustrator in 
 
 **Due Dates:**
 
-<Badge text="Section 010: Thursday September 28th @9:00pm" />
-<Badge type="error" text="Section 020: Thursday September 28th @7:00pm" />
+<Badge text="Section 300: Tuesday October 17th @5:00pm" />
+<Badge type="error" text="Section 310: Monday October 16th @6:00pm" />
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Exercise 6 — Animated SVG

@@ -4,27 +4,33 @@
 
 ### [Exercise 1 — Select & Mask](./exercises/ex-1.md)
 
-<Badge text="Updating in progress" type="error" />
+<Badge text="Section 300: Tuesday September 12th @5:00pm" />
+<Badge type="error" text="Section 310: Monday September 11th @6:00pm" />
 
 ### [Exercise 2 — Retouching](./exercises/ex-2.md)
 
-<Badge text="Updating in progress" type="error" />
+<Badge text="Section 300: Tuesday September 19th @5:00pm" />
+<Badge type="error" text="Section 310: Monday September 18th @6:00pm" />
 
 ### [Exercise 3 — Logo Recreation](./exercises/ex-3.md)
 
-<Badge text="Updating in progress" type="error" />
+<Badge text="Section 300: Tuesday September 26th @5:00pm" />
+<Badge type="error" text="Section 310: Monday September 25th @6:00pm" />
 
 ### [Exercise 4 — Gradients in Nature](./exercises/ex-4.md)
 
-<Badge text="Updating in progress" type="error" />
+<Badge text="Section 300: Tuesday October 3rd @5:00pm" />
+<Badge type="error" text="Section 310: Monday October 2nd @6:00pm" />
 
 ### [Exercise 5 — Character Vectorization](./exercises/ex-5.md)
 
-<Badge text="Updating in progress" type="error" />
+<Badge text="Section 300: Tuesday October 10th @5:00pm" />
+<Badge type="error" text="Section 310: Monday October 16th @6:00pm" />
 
 ### [Exercise 6 — Animated SVG](./exercises/ex-6.md)
 
-<Badge text="Updating in progress" type="error" />
+<Badge text="Section 300: Tuesday October 17th @5:00pm" />
+<Badge type="error" text="Section 310: Monday October 16th @6:00pm" />
 
 ## Midterm
 

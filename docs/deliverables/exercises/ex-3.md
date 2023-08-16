@@ -39,8 +39,8 @@ Save and upload your Illustrator file to BrightSpace named as follows: lName-fNa
 
 **Due Dates:**
 
-<Badge text="Section 010: Thursday September 28th @9:00pm" />
-<Badge type="error" text="Section 020: Thursday September 28th @7:00pm" />
+<Badge text="Section 300: Tuesday September 26th @5:00pm" />
+<Badge type="error" text="Section 310: Monday September 25th @6:00pm" />
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Exercise 3 — Logo Recreation
