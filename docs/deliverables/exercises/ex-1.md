@@ -63,9 +63,11 @@ Compress and submit your work in a folder named lName-fName-section#-select-and-
 - An "Exports" folder containing:
   - lName-fName-section#-select-and-mask.png (1000px wide)
 
-::: warning Due Date
+**Due Dates:**
 
-All Sections: Friday January 20, 2023, @ 11:59pm
+<Badge text="Section 010: Thursday September 28th @9:00pm" />
+<Badge type="error" text="Section 020: Thursday September 28th @7:00pm" />
 
-Submit on Brightspace under Assignments > Exercise 1 — Select & Mask:
-:::
+- Open BS LMS and go to the Activities > Assignments page.
+- Go to Exercise 1 — Select & Mask
+- Upload your compressed folder on the assignment page in BS LMS and click the submit button.

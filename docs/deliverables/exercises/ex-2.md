@@ -42,7 +42,11 @@ Compress and submit your work in a folder named lName-fName-section#-select-and-
     - 01-photoshop-repairing-blemishes.png - 72dpi, 1500px wide
     - 02-photoshop-content-aware-fill.png - 72dpi, 1000px wide
 
-::: warning Due Date
+**Due Dates:**
 
-Submit on Brightspace under Assignments > Exercise #2 — Retouching
-:::
+<Badge text="Section 010: Thursday September 28th @9:00pm" />
+<Badge type="error" text="Section 020: Thursday September 28th @7:00pm" />
+
+- Open BS LMS and go to the Activities > Assignments page.
+- Go to Exercise 2 — Retouching
+- Upload your compressed folder on the assignment page in BS LMS and click the submit button.

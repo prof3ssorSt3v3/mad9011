@@ -42,7 +42,11 @@ Watch these video tutorials to help you trace your character in Illustrator:
 
 ## Submission
 
-::: warning Due Date
+**Due Dates:**
 
-Submit on Brightspace under Assignments > Exercise #5 — Character Vectorization
-:::
+<Badge text="Section 010: Thursday September 28th @9:00pm" />
+<Badge type="error" text="Section 020: Thursday September 28th @7:00pm" />
+
+- Open BS LMS and go to the Activities > Assignments page.
+- Go to Exercise 5 — Character Vectorization
+- Upload your compressed folder on the assignment page in BS LMS and click the submit button.
