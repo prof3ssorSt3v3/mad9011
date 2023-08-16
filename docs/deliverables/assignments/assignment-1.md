@@ -36,11 +36,11 @@ Ensure that all three versions share a cohesive design language, forming a unifi
 
 1. Each app icon should be thoughtfully crafted on its own layer and artboard with proper naming, as shown in the example below:
 
+![Previous student example](./assets/example-4.png)
+
 - Artboard: iPhone_57x57
 - Artboard: iPad_144x144
 - Artboard: iTunes_512x512
-
-Image
 
 2. Include the name of your app on each icon to provide context and reference.
 
@@ -50,33 +50,13 @@ Image
 
 5. Your icon designs should strike the right balance between showcasing your skills and maintaining simplicity that aligns with the app's purpose.
 
-## Getting Started
+6. **No elements in your design can be traced from another persons work.** For reference you may use a photograph of the real animal.
 
 ## Examples
 
 ![Previous student example](./assets/example-1.png)
 ![Previous student example](./assets/example-2.png)
 ![Previous student example](./assets/example-3.png)
-![Previous student example](./assets/example-4.png)
-
-## Export and Submission:
-
-1. Upon completing your icon designs, use the "Export for Screens" feature to export each icon as a PNG file at the correct sizes specified above.
-
-2. Organize your exports within an "Exports" folder as follows:
-
-- Exports Folder:
-  - iPhone_57x57.png
-  - iPad_144x144.png
-  - iTunes_512x512.png
-
-3. Prepare a compressed folder named "lName-fName-assignment-1.zip" for submission on Brightspace.
-
-- Include:
-  - Exports Folder
-  - lName-fName-assignment-1.ai
-
-![File structure](./assets/file-structure.jpg)
 
 ## Feedback Discussion
 
@@ -100,10 +80,28 @@ As part of this assignment, you must submit the first draft of your icon concept
 | iPad Icon         | - Did you created a vibrant, full-color icon with medium detail to captivate the audience's attention?                                                                                                    | 3      |
 | iTunes Icon       | - Did you created a high-fidelity icon with intricate details to convey the full potential of your app?                                                                                                   | 3      |
 | Overview          | - Did you ensure that all three versions share a cohesive design language, forming a unified set of app icons?                                                                                            | 3      |
-| File Organization | - Submitted a well-structured Illustrator file with organized layers and proper labeling. <br> - Was your Submission folder well-organized?                                                               | 2      |
+| File Organization | - Submitted a well-structured Illustrator file with organized layers and proper labeling. <br> - Was your Submission folder well-organized?                                                               | 1      |
+| Image Export      | - Did you properly export your icons following the guidelines listed above?                                                                                                                               | 1      |
 | **Total**         |                                                                                                                                                                                                           | **20** |
 
 ## Submission
+
+1. Upon completing your icon designs, use the "Export for Screens" feature to export each icon as a PNG file at the correct sizes specified above.
+
+2. Organize your exports within an "Exports" folder as follows:
+
+- Exports Folder:
+  - iPhone_57x57.png
+  - iPad_144x144.png
+  - iTunes_512x512.png
+
+3. Prepare a compressed folder named "lName-fName-assignment-1.zip" for submission on Brightspace.
+
+- Include:
+  - Exports Folder
+  - lName-fName-assignment-1.ai
+
+![File structure](./assets/file-structure.jpg)
 
 **Due Dates:**
 
