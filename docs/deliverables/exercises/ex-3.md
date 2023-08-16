@@ -1,43 +1,43 @@
 # Exercise 3 — Logo Recreation
 
-<badge type="error" text="Updating in progress" />
+::: danger Todo
+
+- Update tutorial links
+- Add files
+- Update due dates for both sections
+
+:::
 
 ## Instructions
 
+The goal of this assignment is to learn how basic shapes can be used to create logos and other designs. You will be recreating the three logos provided in the attached starter file. Create your version of the logos in the corresponding labeled Artboards on the "Final Artwork" layer. The logos can all be created using simple shapes to start and then using the pathfinder tools and manipulating the anchor points to get the final shapes.
+
 ## Video Demonstrations
 
-Watch these video tutorials to help you perform the masking techniques in Photoshop:
+Watch these video tutorials to help you recreate your logos in Illustrator using basic shapes:
 
 - [Video]()
 - [Video]()
 - [Video]()
 
-## Tips
+## Requirements
+
+Save and upload your Illustrator file to BrightSpace named as follows: lName-fName-section#-logo-recreation.ai. You do not need to export or upload JPG versions of the files. All you need to submit is your Illustrator file with the completed logo recreation. Your file should like something like this when I open it:
+
+![Exercise example](./assets/3-logos.jpg)
 
 ## Files
 
-## Troubleshooting Tips
-
-Common issues and solutions you might encounter during the exercise:
-
--
--
-
 ## Grading Rubric
 
-| Category  | Criteria    | Weight |
-| --------- | ----------- | ------ |
-| Name      | Description | #      |
-| Name      | Description | #      |
-| Name      | Description | #      |
-| Name      | Description | #      |
-| Name      | Description | #      |
-| Name      | Description | #      |
-| **Total** |             | **#**  |
+| Category        | Criteria    | Weight |
+| --------------- | ----------- | ------ |
+| Logo Recreation | Description | 6      |
+| **Total**       |             | **6**  |
 
 ## Submission
 
 ::: warning Due Date
 
-Submit on Brightspace under Assignments > Exercise #
+Submit on Brightspace under Assignments > Exercise #3 — Logo Recreation
 :::

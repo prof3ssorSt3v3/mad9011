@@ -43,10 +43,6 @@ Common issues and solutions you might encounter during the exercise:
 - If the edges of the selection are rough, use the Refine Edge tool to smooth them out.
 - If the subject looks disconnected from the new background, adjust the color balance and lighting.
 
-<!-- ## Be Creative!
-
-Don't limit yourself to just stock images. Consider creating your backgrounds and incorporating various elements to compose a unique and visually stunning image. -->
-
 ## Grading Rubric
 
 | Category                     | Criteria                                                                                                                          | Weight |
