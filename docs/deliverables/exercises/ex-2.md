@@ -1,48 +1,44 @@
 # Exercise 2 — Retouching
 
-::: danger Todo
-
-- Update tutorial links
-- Add files
-- Update due dates for both sections
-
-:::
-
 ## Introduction
 
 In this exercise, you will have the opportunity to employ the retouching techniques that you have acquired through classroom instruction. Your task is to apply these techniques to two Photoshop files that have been provided for your practice.
 
 ## Instructions
 
-<!-- Instructions go here -->
+1. Download the provided Photoshop files for this exercise [here.](./files/lName-fName-retouching.zip)
 
-## Files
+2. **File 1: 01-photoshop-repairing-blemishes:**
 
-Download the files for this exercise [here](./files/lName-fName-section#-retouching.zip)
+   - Open the Photoshop file named "01-photoshop-repairing-blemishes.psd".
+   - Your task is to remove all blemishes on the model in the photo.
+   - Utilize the retouching tools you've learned in class to make these edits non-destructive.
+   - Ensure that the original layer remains untouched.
 
-### File 1: 01-photoshop-repairing-blemishes
+3. **File 2: 02-photoshop-content-aware-fill:**
 
-- Remove all blemishes on the model in the photo
-- Use the tools explored in class to make all edits non-destructive.
+   - Open the Photoshop file named "02-photoshop-content-aware-fill.psd".
+   - Your goal is to use the content-aware fill technique to remove the microphone and light fixture from the scene.
+   - Pay close attention to the brick texture, making sure the area looks convincingly filled with a realistic brick pattern.
+   - Ensure that the original layer remains untouched.
 
-### File 2: 02-photoshop-content-aware-fill
+4. **Exporting Images:**
 
-- Use content aware fill to remove the microphone and light fixture
-- Make sure the brick texture looks good and convincing!
+   - Export both retouched images as PNG files using the "Export As..." dialogue in Photoshop.
+   - For "01-photoshop-repairing-blemishes.psd," export it as "01-photoshop-repairing-blemishes.png" with the following specifications:
+     - Resolution: 72dpi
+     - Width: 1500px
+   - For "02-photoshop-content-aware-fill.psd," export it as "02-photoshop-content-aware-fill.png" with the following specifications:
+     - Resolution: 72dpi
+     - Width: 1000px
 
-  Make sure that the original layer in both files remain unedited!
+5. **File Organization:**
+   - Keep your Photoshop files well-structured with organized layers.
+   - Create an "Exports" folder within your submission folder and place the exported PNG files there.
 
 ## Example
 
 ![Exercise example](./assets/retouching.jpg)
-
-## Helpful Tutorials
-
-Watch/Read these tutorials to help you perform the retouching techniques in Photoshop:
-
-- [Video]()
-- [Video]()
-- [Video]()
 
 ## Grading Rubric
 

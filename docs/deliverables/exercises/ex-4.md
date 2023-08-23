@@ -1,18 +1,10 @@
 # Exercise 4 - Gradients in Nature
 
-::: danger Todo
-
-- Update tutorial links
-- Add example
-- Update due dates for both sections
-
-:::
-
-## Instructions
+## Introduction
 
 In this exercise, you will showcase your proficiency in creating and manipulating gradients in Adobe Illustrator. You will work on a poster design, applying various gradient techniques to achieve visual depth, dimension, and creativity.
 
-## Steps
+## Instructions
 
 1. **Research:** Start by researching various natural landscapes such as mountains, forests, oceans, or sunsets. Gather reference images to inspire your poster design.
 
@@ -30,9 +22,12 @@ In this exercise, you will showcase your proficiency in creating and manipulatin
 
 ## Example
 
-## Video Demonstrations
+![Exercise example](./assets/28.jpg)
+<a href="https://www.freepik.com/free-vector/nature-scene-with-river-hills-forest-mountain-landscape-flat-cartoon-style-illustration_33398506.htm#page=2&query=landscape%20illustration&position=0&from_view=keyword&track=ais">Image by tohamina</a> on Freepik
 
-Watch these video tutorials to help you create/use gradients in Illustrator:
+## Helpful Tutorials
+
+Watch/Read these tutorials to help you create/use gradients in Illustrator:
 
 - [Video]()
 - [Video]()
