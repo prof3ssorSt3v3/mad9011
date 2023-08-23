@@ -1,13 +1,5 @@
 # Exercise 6 — Animated SVG
 
-::: danger Todo
-
-- Update tutorial links
-- Add Example
-- Update due dates for both sections
-
-:::
-
 ## Instructions
 
 For this exercise, you'll be creating an application loader using an animated SVG. Follow the steps below to complete the assignment:
@@ -31,13 +23,7 @@ For this exercise, you'll be creating an application loader using an animated SV
 
 Here's an example of what your finished loader could look like:
 
-## Video Demonstrations
-
-Watch these video tutorials to help you animate your loader from Illustrator in VsCode:
-
-- [Video]()
-- [Video]()
-- [Video]()
+![Exercise example](./assets/animated-svg.gif)
 
 ## Files Structure
 

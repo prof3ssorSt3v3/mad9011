@@ -24,12 +24,6 @@ Watch/Read these tutorials to help you recreate your logos in Illustrator using 
 
 - [Create and edit shapes](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
 
-## Requirements
-
-Save and upload your Illustrator file to BrightSpace named as follows: lName-fName-logo-recreation.ai. You do not need to export or upload JPG versions of the files. All you need to submit is your Illustrator file with the completed logo recreation. Your file should like something like this when I open it:
-
-![Exercise example](./assets/3-logos.jpg)
-
 ## Grading Rubric
 
 | Category        | Criteria    | Weight |
@@ -38,6 +32,10 @@ Save and upload your Illustrator file to BrightSpace named as follows: lName-fNa
 | **Total**       |             | **6**  |
 
 ## Submission
+
+Save and upload your Illustrator file to BrightSpace named as follows: lName-fName-logo-recreation.ai. You do not need to export or upload JPG versions of the files. All you need to submit is your Illustrator file with the completed logo recreation. Your file should like something like this when I open it:
+
+![Exercise example](./assets/3-logos.jpg)
 
 **Due Dates:**
 

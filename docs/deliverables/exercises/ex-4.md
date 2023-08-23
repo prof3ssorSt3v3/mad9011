@@ -29,9 +29,7 @@ In this exercise, you will showcase your proficiency in creating and manipulatin
 
 Watch/Read these tutorials to help you create/use gradients in Illustrator:
 
-- [Video]()
-- [Video]()
-- [Video]()
+- [Create color gradients](https://helpx.adobe.com/illustrator/how-to/color-basics.html#create_color_gradients)
 
 ## Grading Rubric
 
@@ -46,6 +44,8 @@ Watch/Read these tutorials to help you create/use gradients in Illustrator:
 | **Total**              |                                                                                                                                       | **8**  |
 
 ## Submission
+
+Save and upload your Illustrator file to BrightSpace named as follows: lName-fName-gradients-in-nature.ai. You do not need to export or upload JPG versions of the files. All you need to submit is your Illustrator file.
 
 **Due Dates:**
 
