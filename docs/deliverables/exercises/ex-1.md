@@ -8,33 +8,62 @@
 
 :::
 
-## Instructions
+## Introduction
 
 Select an image and use the masking techniques learned in class to remove the original background of the image. Utilize tools such as Quick Selection, Refine Edge, or Select & Mask to achieve precise selections. Ensure a non-destructive workflow by using layers and adjustment layers for editing.
 
 Once you have completed masking your subject and replacing the background, take it a step further and create a visually appealing composition. Incorporate more than one image to blend elements together and form a cohesive composition.
 
+## Instructions
+
+1. Choose an image that you would like to work with for this exercise. Make sure it has a distinct subject that you can mask and place in a new background.
+
+2. Open the image in Photoshop.
+3. **Selection and Masking:**
+
+   - Use the Quick Selection Tool to select your subject.
+   - Refine the selection's edges using tools like the Refine Edge or Select & Mask tools.
+
+4. **Non-Destructive Editing:**
+
+   - Create a mask to separate your subject from the background.
+   - Improve the subject's appearance using adjustment layers like Brightness/Contrast or Color Balance.
+
+5. **Background Replacement:**
+
+   - Find a new background image that matches your subject.
+   - Place this background below your subject layer.
+   - Adjust sizes and positions to make the subject fit naturally.
+   - Blend subject and background by considering lighting and color.
+
+6. **Composition and Image Blending:**
+
+   - Add other images that work with your subject and background.
+   - Select and place elements from these images into your composition.
+   - Arrange, scale, and rotate to create a pleasing composition.
+   - Adjust lighting and color for consistency.
+
+7. **File Organization:**
+
+   - Keep your Photoshop project organized by using well-labeled layers, adjustment layers, and groups for different elements.
+   - Ensure your layers are logically organized in the Layers panel for easier navigation and editing.
+
+8. **Exporting:**
+
+   - Once you are satisfied with your composition, save your work and then export it as a PNG file with a width of 1000 pixels.
+   - Create a folder named lName-fName-section#-select-and-mask and include your Photoshop file and the exported PNG file in an "Exports" subfolder. Include the original images within your "Links" subfolder
+
 ## Example
 
-## Video Demonstrations
+![Exercise example](./assets/ex1-example.jpg)
 
-Watch these video tutorials to help you perform the masking techniques in Photoshop:
+## Helpful Tutorials
 
-- [Quick Selection Tool]()
-- [Refine Edge]()
-- [Select & Mask]()
+Watch/Read these tutorials to help you perform the masking techniques in Photoshop:
 
-## Background Replacement Tips
-
-To seamlessly integrate the subject into the new background, consider the following tips:
-
-- Adjust the lighting and color of the subject to match the new environment.
-- Use layer blending modes and opacity adjustments to create a natural blend.
-- Pay attention to shadows and reflections for a realistic look.
-
-## Creating a Composition
-
-In addition to replacing the background, challenge yourself to create a compelling composition by blending multiple images together. Use a minimum of four images in total, with one being the background image. Select and mask subjects from different images and combine them creatively to achieve a visually balanced composition.
+- [Quick Selection Tool](https://helpx.adobe.com/ca/photoshop/how-to/use-quick-selection-tool.html)
+- [Refine Edge](https://www.adobe.com/products/photoshop/refine-edge.html)
+- [Select & Mask](https://www.adobe.com/products/photoshop/masking.html)
 
 ## Troubleshooting Tips
 
