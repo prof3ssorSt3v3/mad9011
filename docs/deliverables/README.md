@@ -60,8 +60,13 @@ The goal of this assignment is to apply your Illustrator skills to create a iOS 
 
 ## Final Project
 
-<Badge text="Updating in progress" type="error" />
+::: tip Notice
 
+Content regarding the Final Project, will be posted after reading week!
+
+:::
+
+<!--
 ### [Project Overview](./finalproject/overview)
 
 ### [Part 1 - Wireframes](./finalproject/part1)
@@ -72,14 +77,14 @@ The goal of this assignment is to apply your Illustrator skills to create a iOS 
 
 ### [Part 4 - Interactive Visual Prototype](./finalproject/part4)
 
-### [Part 5 - Presentation](./finalproject/part5)
+### [Part 5 - Presentation](./finalproject/part5) -->
 
 ## Quizzes
 
 ### Quiz 1 - Photoshop Quiz
 
-<Badge text="Section 300: Tuesday September 12th @5:00pm" />
-<Badge type="error" text="Section 310: Monday September 11th @6:00pm" />
+<Badge text="Section 300: Tuesday September 19th @5:00pm" />
+<Badge type="error" text="Section 310: Monday September 18th @6:00pm" />
 
 ### Quiz 2 - Illustrator Quiz
 
@@ -88,4 +93,5 @@ The goal of this assignment is to apply your Illustrator skills to create a iOS 
 
 ### Quiz 3 - Figma Quiz
 
-<Badge text="Due: Date" />
+<Badge text="Section 300: Tuesday December 5th @5:00pm" />
+<Badge type="error" text="Section 310: Monday December 4th @6:00pm" />

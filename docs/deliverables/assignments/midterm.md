@@ -39,7 +39,7 @@ Ensure that all three versions share a cohesive design language, forming a unifi
 
 2. **Artboard and Layer Creation:**
 
-   - Within your Illustrator file, establish three artboards following the provided guidelines. Create dedicated layers for each artboard, ensuring a clear organization. Remember to name your artboards as follows:
+   - Within your Illustrator file, establish three artboards following the provided guidelines. Create dedicated layers for each artboard, ensuring a clear organization. Remember to name your artboards and layers as follows:
      - Artboard/Layer: iPhone_57x57
      - Artboard/Layer: iPad_144x144
      - Artboard/Layer: iTunes_512x512
@@ -68,11 +68,11 @@ Ensure that all three versions share a cohesive design language, forming a unifi
 
 ![Previous student example](./assets/example-1.png)
 ![Previous student example](./assets/example-2.png)
-![Previous student example](./assets/example-3.png)
+![Previous student example](./assets/example-4.png)
 
 ## Feedback Discussion
 
-As part of this assignment, you must submit the first draft of your icon concept, design, and color scheme to the App Icon Feedback discussion to receive feedback from your peers and professor. You must also provide feedback to a minimum of two other students on their discussion posts.
+As part of this assignment, you must submit the first draft of your icon concept, design, and color scheme to the App Icon Feedback discussion to receive feedback from your peers and professor in Brightspace. You must also provide feedback to a minimum of two other students on their discussion posts.
 
 1. **Discussion Post:** In your post start by share your initial concept for the app icon, explaining the ideas and inspiration behind your design. Be sure to mention the animal you have chosen for your app icon.
 
