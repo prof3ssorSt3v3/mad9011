@@ -6,15 +6,14 @@ Welcome to the final assignment of the Illustrator portion of this course. This 
 
 ## Progress Check-ins
 
-| Week | Expectations |
-| ---- | ------------ |
-| week | details      |
-| week | details      |
-| week | details      |
-| week | details      |
-| week | details      |
+| Week   | Expectations                     |
+| ------ | -------------------------------- |
+| Week 4 | (Introduction)                   |
+| Week 5 | Illustrator File Setup Steps 1-3 |
+| Week 6 | Design is 50% complete           |
+| Week 7 | Posted for peer-feedback         |
 
-## Instructions
+## Guidelines
 
 In this assignment, you will design three versions of the same app icon, each optimized for different devices:
 
@@ -32,25 +31,38 @@ In this assignment, you will design three versions of the same app icon, each op
 
 Ensure that all three versions share a cohesive design language, forming a unified set of app icons.
 
-## Guidelines:
+## Instructions
 
-1. Each app icon should be thoughtfully crafted on its own layer and artboard with proper naming, as shown in the example below:
+1. **Begin by Crafting Your Illustrator File:**
 
-![Previous student example](./assets/example-4.png)
+   - Create a new Illustrator file, and thoughtfully name it as lName-fName-Midterm-AppIcon.
 
-- Artboard: iPhone_57x57
-- Artboard: iPad_144x144
-- Artboard: iTunes_512x512
+2. **Artboard and Layer Creation:**
 
-2. Include the name of your app on each icon to provide context and reference.
+   - Within your Illustrator file, establish three artboards following the provided guidelines. Create dedicated layers for each artboard, ensuring a clear organization. Remember to name your artboards as follows:
+     - Artboard/Layer: iPhone_57x57
+     - Artboard/Layer: iPad_144x144
+     - Artboard/Layer: iTunes_512x512
 
-3. Utilize the appropriate tools, such as shapes and the pen tool, to bring your icon designs to life.
+3. **Artboard Background Setup:**
 
-4. Master the use of colors and gradients, adhering to a well-defined color palette that aligns with your app's theme.
+   - Set up the background for each icon with the appropriate corner radii as specified.
 
-5. Your icon designs should strike the right balance between showcasing your skills and maintaining simplicity that aligns with the app's purpose.
+4. **Bringing Your Icons to Life:**
 
-6. **No elements in your design can be traced from another persons work.** For reference you may use a photograph of the real animal.
+   - Utilize the range of tools available, including shapes and the precise pen tool, to breathe life into your icon designs.
+
+5. **Colors and Gradients Mastery:**
+
+   - Exhibit mastery in the use of colors and gradients. Adhere to a carefully chosen color palette that harmonizes with your app's theme.
+
+6. **Balancing Skill and Purpose:**
+
+   - Strive for a harmonious blend between showcasing your design prowess and maintaining the essence of simplicity aligned with the app's intended purpose.
+
+7. **Originality and Reference:**
+
+   - Important: Refrain from incorporating elements traced from others' work. If you require reference, consider using a photograph of the real subject, as noted. This ensures the authenticity and originality of your creations.
 
 ## Examples
 

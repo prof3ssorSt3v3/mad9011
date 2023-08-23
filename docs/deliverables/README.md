@@ -35,7 +35,7 @@ The goal of this exercise is to get familiar with the Color, Swatches, and Gradi
 The goal of this exercise is to practice using the pen tool.
 
 <Badge text="Section 300: Tuesday October 10th @5:00pm" />
-<Badge type="error" text="Section 310: Monday October 16th @6:00pm" />
+<Badge type="error" text="Section 310: Monday October 9th @6:00pm" />
 
 ### [Exercise 6 — Animated SVG](./exercises/ex-6.md)
 
