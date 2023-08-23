@@ -1,18 +1,12 @@
 # Exercise 1 — Select & Mask: Non-Destructive Image Editing and Composition
 
-::: danger Todo
-
-- Update tutorial links
-- Add samples
-- Update due dates for both sections
-
-:::
-
 ## Introduction
 
-Select an image and use the masking techniques learned in class to remove the original background of the image. Utilize tools such as Quick Selection, Refine Edge, or Select & Mask to achieve precise selections. Ensure a non-destructive workflow by using layers and adjustment layers for editing.
+In this exercise, you'll get hands-on with masking techniques. Begin by selecting an image and removing its original background using tools like Quick Selection, Refine Edge, and Select & Mask. Keep your workflow non-destructive by using layers and adjustment layers.
 
-Once you have completed masking your subject and replacing the background, take it a step further and create a visually appealing composition. Incorporate more than one image to blend elements together and form a cohesive composition.
+Once you've mastered background replacement, take it a step further. Create a visually captivating composition by blending multiple images together. Your goal is to craft a harmonious scene that tells a compelling story.
+
+Let's get started on this journey of creative editing and composition!
 
 ## Instructions
 
@@ -51,9 +45,15 @@ Once you have completed masking your subject and replacing the background, take 
 8. **Exporting:**
 
    - Once you are satisfied with your composition, save your work and then export it as a PNG file with a width of 1000 pixels.
-   - Create a folder named lName-fName-section#-select-and-mask and include your Photoshop file and the exported PNG file in an "Exports" subfolder. Include the original images within your "Links" subfolder
+   - Create a folder named lName-fName-select-and-mask and include your Photoshop file and the exported PNG file in an "Exports" subfolder. Include the original images within your "Links" subfolder
 
-## Example
+## Examples
+
+### Masking Example
+
+![Exercise example](./assets/replace-image-background-step-3.jpg)
+
+### Composition Example
 
 ![Exercise example](./assets/ex1-example.jpg)
 
@@ -85,12 +85,12 @@ Common issues and solutions you might encounter during the exercise:
 
 ## Submission
 
-Compress and submit your work in a folder named lName-fName-section#-select-and-mask. The folder should contain the following:
+Compress and submit your work in a folder named lName-fName-select-and-mask. The folder should contain the following:
 
-- Your Photoshop file: lName-fName-section#-select-and-mask.psd
-- A "Links" folder containing original images (if applicable)
+- Your Photoshop file: lName-fName-select-and-mask.psd
+- A "Links" folder containing original images
 - An "Exports" folder containing:
-  - lName-fName-section#-select-and-mask.png (1000px wide)
+  - lName-fName-select-and-mask.png (1000px wide)
 
 **Due Dates:**
 

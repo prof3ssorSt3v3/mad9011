@@ -8,19 +8,41 @@
 
 :::
 
-## Instructions
+## Introduction
 
 In this exercise, you will have the opportunity to employ the retouching techniques that you have acquired through classroom instruction. Your task is to apply these techniques to two Photoshop files that have been provided for your practice.
 
-## Video Demonstrations
+## Instructions
 
-Watch these video tutorials to help you perform the retouching techniques in Photoshop:
-
-- [Video]()
-- [Video]()
-- [Video]()
+<!-- Instructions go here -->
 
 ## Files
+
+Download the files for this exercise [here](./files/lName-fName-section#-retouching.zip)
+
+### File 1: 01-photoshop-repairing-blemishes
+
+- Remove all blemishes on the model in the photo
+- Use the tools explored in class to make all edits non-destructive.
+
+### File 2: 02-photoshop-content-aware-fill
+
+- Use content aware fill to remove the microphone and light fixture
+- Make sure the brick texture looks good and convincing!
+
+  Make sure that the original layer in both files remain unedited!
+
+## Example
+
+![Exercise example](./assets/retouching.jpg)
+
+## Helpful Tutorials
+
+Watch/Read these tutorials to help you perform the retouching techniques in Photoshop:
+
+- [Video]()
+- [Video]()
+- [Video]()
 
 ## Grading Rubric
 
@@ -34,7 +56,7 @@ Watch these video tutorials to help you perform the retouching techniques in Pho
 
 ## Submission
 
-Compress and submit your work in a folder named lName-fName-section#-select-and-mask. The folder should contain the following:
+Compress and submit your work in a folder named lName-fName-select-and-mask. The folder should contain the following:
 
 - 01-photoshop-repairing-blemishes.psd
 - 02-photoshop-content-aware-fill.psd
