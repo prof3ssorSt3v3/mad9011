@@ -1,7 +1,5 @@
 # Week 2 - Photo Retouching
 
-<Badge text="Reminder: Photoshop quiz this week." type="error" />
-
 ## Introduction
 
 Whether they’re blemishes on skin or stains on a surface, Photoshop has a tool to remove them quite easily. Our focus here will be on working non-destructively. That means that we don’t want to paint on the original photo at all. The added advantage working this way is that our painting will be accessible on their own layers.

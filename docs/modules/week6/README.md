@@ -1,13 +1,5 @@
 # Week 6 - Introduction to SVG
 
-::: warning To Do for Next Week
-
-- Continue working on Assignment 1 & prepared to present your work next week
-- Complete Illustrator quiz
-  (Will be done with your prof during lab class this week)
-
-  :::
-
 ## What are SVGs?
 
 Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation. SVG images are defined in XML text files. In this section, we are going to learn how to generate good SVG code using Adobe Illustrator and preparing it to be animated and used on the web as well as how to write our own SVG code from scratch.

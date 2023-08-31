@@ -4,7 +4,7 @@
 
 Welcome to MAD9011, Mobile Design Fundamentals. In this design course, we will explore fundamental design concepts and learn the fun and useful tools to help you design graphics and interfaces.
 
-To have a smooth start:
+**To have a smooth start:**
 
 - Download and install the Adobe Creative Cloud as well as the following programs:
   - Adobe Illustrator

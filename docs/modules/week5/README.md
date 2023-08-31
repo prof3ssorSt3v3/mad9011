@@ -1,11 +1,5 @@
 # Week 5 - Time to draw
 
-::: warning To Do for Next Week
-
-- Continue working on Assignment 1
-
-  :::
-
 ## Drawing tools
 
 **Introduction**

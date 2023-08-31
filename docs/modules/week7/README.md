@@ -1,13 +1,5 @@
 # Week 7 - Intro to Prototyping
 
-::: danger Presentations
-
-This week you will be presenting your App Icons for Assignment 1.
-Please come to class prepared to present and give feedback to your peers.
-
-If you have any questions regarding information and expectations for the final presentation. Feel free to reachout to me by email.
-:::
-
 ## Intro to Prototyping
 
 In design, there are several tools that designers use, that are fit for purpose. Tools can be defined very broadly from frameworks and best practices, to applications and templates.
