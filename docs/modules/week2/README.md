@@ -106,8 +106,4 @@ Make a selection, then use `Edit > Fill > Content Aware Fill` to open the Conten
 
 Depending on how complex the fill needs to be, you may need to layer a couple fills for best results. However, often with simpler fixes, one is enough.
 
-::: tip Tip
-If you're zoomed in really closely, you can hold h, then click-hold with your mouse to zoom out and choose another zoom location. Go ahead; give it a whirl.
-:::
-
 Content on this page is used with permission from [cg.algonquindesign.ca](https://cg.algonquindesign.ca/topics/retouching-fundamentals.html)
