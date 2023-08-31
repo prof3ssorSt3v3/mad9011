@@ -1,5 +1,11 @@
 # Week 4 - Time to color
 
+::: warning To Do for Next Week
+
+- Begin working on Assignment 1
+
+  :::
+
 ## Colour theory and tools
 
 Colour theory is simpler than you think. Before we dive into it, let's understand the fundamentals of design. Next, we are going to learn why some colours look good together and some don't, how to choose the right ones, and the tools on Adobe Illustrator to manipulate and colour shapes.
@@ -66,3 +72,9 @@ Adobe Illustrator has many shortcuts and ways to get to the same place. It is al
 The gradient tool allows you to colour any vector shape in illustrator with a set of colours while transitioning smoothly between them; this tool is used very frequently and you will use it to do some of your assignments. Let's follow this video to create, edit, and apply custom gradients.
 
 <a href="https://helpx.adobe.com/illustrator/how-to/color-basics.html#create_color_gradients" target=”_blank”>![Adobe tutorial for using the gradient tool](./customGradient.png)</a>
+
+<!-- ## Demo Files
+
+::: tip Files
+[Week 4 Tutorial Files Download](https://algonquinlivecom-my.sharepoint.com/:f:/g/personal/bristot_algonquincollege_com/EibF84nWaYhDi6AJTgoAf2MBP_cTq6hID39FhO8qoEcRZg?e=Fv307p)
+::: -->
