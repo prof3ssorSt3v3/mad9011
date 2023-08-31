@@ -8,7 +8,7 @@ Students are introduced to mobile design fundamentals and graphical user interfa
 
 ## Course Description
 
-- [Course Outline](/f2022/course-outline.pdf)
+- Course Section Information (CSI) on Brightspace LMS
 
 ## Student Workload Expectations
 
@@ -69,7 +69,7 @@ This course complies with the college directives. **Please complete this Plagiar
 <ContactCard 
   name="Tyler Bristow"
   title="Instructor"
-  img-url="/f2022/TylerBristow.jpg"
+  img-url="/f2023/TylerBristow.jpg"
   bio="Instructor of the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'bristot@algonquincollege.com' },  
