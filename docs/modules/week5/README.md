@@ -1,8 +1,7 @@
 # Week 5 - Time to draw
 
-## Drawing tools
+## Introduction
 
-**Introduction**
 In this section, we are going to learn how to draw shapes and edit them using different tools.
 
 First, we will learn all about the pen tool, which can be tricky to master, but is the most essential drawing tool in Illustrator. Then we will cover the pencil and brushes tools and learn how to edit shapes pathfinder tools. Finally, we are going to see how the clipping mask is used and how it makes our lives easier.

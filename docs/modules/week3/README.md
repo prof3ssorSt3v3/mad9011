@@ -28,10 +28,10 @@ We will start by going over this series of tutorials: [Get to know Illustrator (
 
 When you create a new document in Illustrator, you can view the application header with the following options:
 
-- Share document: You can now quickly invite people to your document by clicking this icon. Save the document first as a cloud document before you invite.
-- Search and discover: Along with the existing search options, you can now see a discover panel. The discover panel gives you recommendations based on your skills and your work. These recommendations include tips and tutorials on how to get multi-step workﬂows done faster.
-- Arrange document: Click this icon to arrange all your open documents in grids and tiles formats.
-- Switch workspace: Click this icon to view different types of workspace options. Refer to the Workspace overview below for more information.
+- **Share document:** You can now quickly invite people to your document by clicking this icon. Save the document first as a cloud document before you invite.
+- **Search and discover:** Along with the existing search options, you can now see a discover panel. The discover panel gives you recommendations based on your skills and your work. These recommendations include tips and tutorials on how to get multi-step workﬂows done faster.
+- **Arrange document:** Click this icon to arrange all your open documents in grids and tiles formats.
+- **Switch workspace:** Click this icon to view different types of workspace options. Refer to the Workspace overview below for more information.
 
 ### Workspace Overview
 

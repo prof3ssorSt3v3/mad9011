@@ -20,13 +20,13 @@ A wireframe is a schematic representation of a page interface that shows where t
 
 ## Types of Wireframes
 
-- Low Fidelity
+- **Low Fidelity**
   - Paper / Sketch Wireframes
   - Reference Zone Wireframes
-- Mid Fidelity
+- **Mid Fidelity**
   - Annotated Wireframes
   - Flow Diagram Wireframes
-- High Fidelity
+- **High Fidelity**
 
 ### Low Fidelity: Paper / Sketch Wireframes
 
