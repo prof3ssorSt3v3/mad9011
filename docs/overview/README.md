@@ -1,7 +1,5 @@
 # MAD9011 - Mobile Design Fundamentals
 
-<badge type="error" text="Need to update" />
-
 ::: tip Course Introduction
 Students are introduced to mobile design fundamentals and graphical user interface design tools. The design concepts include mobile user interface visual elements, principles, accessibility and usability. Students learn industry standard tools and production techniques to create effective interfaces for mobile-first websites and mobile applications. Hands-on learning is the focus by which they use different software packages to design mobile interface visual elements, icons, splash graphics, scalable vector graphic (SVG), SVG animations, and wireframes.
 :::
@@ -18,19 +16,19 @@ Students are introduced to mobile design fundamentals and graphical user interfa
 
 ## Schedule
 
-**Section 010:**
+**Section 300:**
 
-- Theory (Virtual): Monday 5pm - 6pm
-- Lab: Thursday 5pm - 7pm
+- Theory (Virtual): Wednesday 2pm - 3pm
+- Lab: Tuesday 3pm - 5pm
 
-**Section 020:**
+**Section 310:**
 
-- Theory (Virtual): Monday 4pm - 5pm
-- Lab: Wednesday 7pm - 9pm
+- Theory (Virtual): Thursday 12pm - 1pm
+- Lab: Monday 4pm - 6pm
 
 ## Technology Stack
 
-<img src="../assets/tools.jpg" alt="UI graphics tools">
+<img src="../assets/tools.png" alt="UI graphics tools">
 
 ## Core Topics
 
@@ -40,7 +38,7 @@ Students are introduced to mobile design fundamentals and graphical user interfa
   - Adobe Photoshop (Ps)
 - Scalable Vector Graphics (SVG) and SVG markups
 - User interface interaction design concepts – Putting it all together
-  - Adobe XD (Xd)
+  - Figma
 
 ## Course Policy
 
