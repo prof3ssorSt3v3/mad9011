@@ -1,9 +1,5 @@
 # Week 5 - Time to draw
 
-::: tip Files
-Practice files can be found on Brightspace under content > Demo
-:::
-
 ## Drawing tools
 
 ::: tip Introduction
@@ -83,13 +79,3 @@ Luckily, Illustrator provides us with the `Package...` feature that will do the 
 </figure>
 
 Any time you submit any files that contain linked images, you **must** first package the file, and **submit a compressed folder of the entire package**. This will insure that I properly receive all of the necessary files to review and mark your assignments. It is also good habit to get into now, your future co-workers and clients will thank you!
-
-## To Do
-
-::: tip To Do for Next Week
-
-- Complete Character Vectorization exercise
-- Continue working on App Icon
-- Review content from this week
-- Read ahead to week 6
-  :::

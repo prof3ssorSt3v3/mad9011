@@ -1,8 +1,10 @@
 # Week 1 - Introduction to Photoshop
 
-<!-- ::: tip Files
-[Week 6 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1tldwDUhs1cc3Uiv_O8kAOz7kBsTDZsqU)
-::: -->
+::: warning To Do for Next Week
+
+- **Install Adobe Photoshop (PS)**
+
+:::
 
 ## Introduction
 
@@ -158,12 +160,8 @@ Take a look at the `Export As` dialogue and the options it provides. It should f
 
 It is important to properly **name your artboards** as the `Export As` dialogue uses the artboard names to name the exported file.
 
-## To Do
+<!-- ## Demo Files
 
-::: tip To Do for Next Week
-
-- Complete Select & Mask exercise
-- Review content from this week
-- Read ahead to week 2
-
-  :::
+::: tip Files
+[Week 1 Tutorial Files Download](https://algonquinlivecom-my.sharepoint.com/:f:/g/personal/bristot_algonquincollege_com/EsGk1JrAHpxNmCxixlzRFZYBjwscbH5eLIZacxkzlVv22g?e=UfK9ik)
+::: -->

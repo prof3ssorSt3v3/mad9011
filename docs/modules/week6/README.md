@@ -1,9 +1,5 @@
 # Week 6 - Typography & Appearance
 
-::: tip Files
-[Week 6 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1mdDizV8gdjXNZDiHo1akAPKbxpeUPd6Y)
-:::
-
 ## Introduction
 
 In this module, you will be learning how to add properly styled text to your designs, apply effects to that text and other objects, how to properly export your artwork properly for the web to multiple sizes and file types all at once.
@@ -150,11 +146,3 @@ The Appearance panel gives us more direct control over the styling of our shapes
 - **G.** Duplicate Selected Item button
 
 \* Effects can be applied to the entire shape, or individual strokes or fills.
-
-::: tip To Do for Next Week
-
-- Complete Web Banner Exercise
-- Continue working on App Icon
-  - Make sure you post your first drafts for feedback
-- Review content from this week
-  :::

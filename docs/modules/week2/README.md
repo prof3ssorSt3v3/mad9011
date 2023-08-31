@@ -1,9 +1,5 @@
 # Week 2 - Photo Retouching
 
-::: tip Files
-[Week 2 Tutorial Files Download](https://drive.google.com/uc?export=download&id=1SKVZ_Jr1jCpd7GFi-vbsPL3o0alWvBIx)
-:::
-
 <Badge text="Reminder: Photoshop quiz this week." type="error" />
 
 ## Introduction
@@ -115,14 +111,3 @@ If you're zoomed in really closely, you can hold h, then click-hold with your mo
 :::
 
 Content on this page is used with permission from [cg.algonquindesign.ca](https://cg.algonquindesign.ca/topics/retouching-fundamentals.html)
-
-## To Do
-
-::: tip To Do for Next Week
-
-- Complete Retouching exercise
-- Complete Photoshop Quiz
-- Review content from this week
-- Read ahead to week 3
-
-  :::
