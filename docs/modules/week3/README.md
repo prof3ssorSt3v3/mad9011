@@ -1,12 +1,5 @@
 # Week 3 - Introduction to Illustrator
 
-::: warning To Do for Next Week
-
-- Complete the Photoshop quiz
-  (Will be done with your prof during lab class this week)
-
-:::
-
 ## Welcome
 
 Before we begin using Adobe Illustrator, we need to understand a few fundamentals, here is a short introduction to get you started.
@@ -105,3 +98,9 @@ The export is based on the artboards in the file, so make sure to set up your fi
 4. **Suffix** - a short string of text that will be added to the end of the filename to identify the export
 5. **Format** - choose the file format for the exported file
 6. **Create Sub-folders** - checking this will create a new folder for for each different scale or format that you export. I would recommend unchecking this, as most exports are only a few files at a time and it will just result in numerous unnecessary folders.
+
+<!-- ## Demo Files
+
+::: tip Files
+[Week 3 Tutorial Files Download](https://algonquinlivecom-my.sharepoint.com/:f:/g/personal/bristot_algonquincollege_com/Ehxcr9EXOypKq80JjDptLxABCN8ZCbnoEsqBperuKmImVw?e=0D1saE)
+::: -->
