@@ -1,10 +1,15 @@
 # Week 5 - Time to draw
 
+::: warning To Do for Next Week
+
+- Continue working on Assignment 1
+
+  :::
+
 ## Drawing tools
 
-::: tip Introduction
+**Introduction**
 In this section, we are going to learn how to draw shapes and edit them using different tools.
-:::
 
 First, we will learn all about the pen tool, which can be tricky to master, but is the most essential drawing tool in Illustrator. Then we will cover the pencil and brushes tools and learn how to edit shapes pathfinder tools. Finally, we are going to see how the clipping mask is used and how it makes our lives easier.
 
@@ -79,3 +84,11 @@ Luckily, Illustrator provides us with the `Package...` feature that will do the 
 </figure>
 
 Any time you submit any files that contain linked images, you **must** first package the file, and **submit a compressed folder of the entire package**. This will insure that I properly receive all of the necessary files to review and mark your assignments. It is also good habit to get into now, your future co-workers and clients will thank you!
+
+<!-- ## Demo Files
+
+::: tip Files
+[Week 5 Tutorial Files Download](https://algonquinlivecom-my.sharepoint.com/:f:/g/personal/bristot_algonquincollege_com/ErZ8YDkaQOZDuGpNkMIEiagBNT74kImSgPN7JItCB9aRfA?e=QkU9dv)
+
+[Shape Builder Tool Demo](https://algonquinlivecom-my.sharepoint.com/:u:/g/personal/bristot_algonquincollege_com/EcHgNFsgFfVKokBRUsMBHRIBDDknHIp2u9XN8NdXvorL4A?e=44hJMI)
+::: -->

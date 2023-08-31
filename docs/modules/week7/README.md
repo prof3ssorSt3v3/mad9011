@@ -1,263 +1,92 @@
-# Week 7 - Introduction to SVG
+# Week 7 - Intro to Prototyping
 
-::: tip Files
-[Week 7 Tutorial Files Download](/f2022/SVG-Demo-Files.zip)
+::: danger Presentations
+
+This week you will be presenting your App Icons for Assignment 1.
+Please come to class prepared to present and give feedback to your peers.
+
+If you have any questions regarding information and expectations for the final presentation. Feel free to reachout to me by email.
 :::
 
-<Badge text="Illustrator quiz this week!" />
+## Intro to Prototyping
 
-## What are SVGs?
+In design, there are several tools that designers use, that are fit for purpose. Tools can be defined very broadly from frameworks and best practices, to applications and templates.
 
-Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation. SVG images are defined in XML text files. In this section, we are going to learn how to generate good SVG code using Adobe Illustrator and preparing it to be animated and used on the web as well as how to write our own SVG code from scratch.
+## Why Prototype
 
-## SVGs are code
+- Provides a platform to support evaluation with users
+- Creates a single source of truth between designers and product owners
+- Provides a visual artefact to illustrate concepts that might otherwise be hard to describe
+- Allows for early observation of user performance and interaction
+- Creates an early opportunity to gather feedback from stakeholders
 
-SVGs are purely vector graphics written in XML markup language. We can use a pure code editor to create an SVG. Let's follow along this series of video tutorial and write SVG markup with VSCode.
+## Wireframes
 
-### Writing SVG Code
+A wireframe is a schematic representation of a page interface that shows where the content and functional elements should be placed on the page. Wireframes provide a framework for prototypes and assist in defining relationships between different pages.
 
-In this video we will learn to write SVG code from scratch and integrate it into an HTML document. Read SVG reference of Writing SVG code for basic syntax and SVG shapes.
+![Schematic example](./schematic-example.png)
 
-<YouTube
-  url="https://www.youtube.com/embed/LqhOix-3R-4"
-  title="Advanced SVG: writing SVG code"
-/>
+## Types of Wireframes
 
-### SVG Attributes and CSS
+- Low Fidelity
+  - Paper / Sketch Wireframes
+  - Reference Zone Wireframes
+- Mid Fidelity
+  - Annotated Wireframes
+  - Flow Diagram Wireframes
+- High Fidelity
 
-There are a bunch of SVG attributes, like fill that can be written in the SVG as well as in CSS.
+### Low Fidelity: Paper / Sketch Wireframes
 
-When exporting from tools like Adobe Illustrator we should use the SVG presentation attributes to avoid naming collisions.
+The main benefit of low fidelity wireframing is that it can be created quickly, which makes it a very useful tool for brainstorming sessions.
+The goal of low fidelity wireframes is to make it easier to assess how logically the content and functional elements are arranged on individual pages.
+Because of this, low fidelity wireframes typically don't employ any styling; they don't have colours, imagery, type styling, or anything else that might detract from the wireframe's primary goal.
 
-For example, to change the fill of an element we could use the fill="" attribute like this:
+![Paper / Sketch Wireframes example](./low-fidelity-example-1.png)
 
-```html
-<svg width="256" height="256" viewBox="0 0 256 256">
-  <rect fill="#f33" x="10" y="10" width="75" height="50" />
-</svg>
-```
+### Low Fidelity: Reference Zone Wireframes
 
-```css
-.my-rect {
-  fill: #f33;
-}
-```
+Similar to Paper/Sketch Wireframes, Reference Zone Wireframes are created quickly with no styling.
+Reference Zone wireframes however are simpler in that only block outlines are drawn out which are then labelled to describe what is contained within.
 
-Or, we could use CSS, like shown above.
+![Reference Zone Wireframes example](./low-fidelity-example-2.png)
 
-The important thing to remember is that if the SVG element has an attribute (like fill="") and also the same CSS property (like fill:) then the CSS will always overwrite. The CSS property is more powerful than the SVG attribute.
+### Mid Fidelity: Annotated Wireframes
 
-These online tools let us generate code for SVG gradients, CSS gradients and edit their code.
+Wireframe annotations are brief text explanations around a wireframe, that describe the functional purpose of individual elements or of the screens themselves.
 
-- [Gradient Generator](https://briangrinstead.com/gradient/)
-- [CSS Gradient Generator](https://cssgradient.io/)
+These annotations can help reviewers, including client stakeholders, understand the reasoning behind specific design choices.
+Annotations can include a brief description of the following information:
 
-## From AI to SVG
+- What the element is (“A sign-up button”)
+- What the element does (“Allows users to register a new account”)
+- How it performs that action (“When users click on this button, they are directed to a new page with the sign-up form.”)
 
-Using Adobe Illustrator (Ai) to design graphics and then export them in SVG format allows us to use that code directly on the web and animate it using CSS. The cleaner and more organized our Ai file is, the easier it will be to manipulate the SVG code later on. Follow this videos to exporting SVGs from Illustrator for animation.
+![Annotated Wireframes example](./mid-fidelity-example-1.png)
 
-<YouTube
-  url="https://www.youtube.com/embed/bWcweY66DL8"
-  title="Advanced SVG: icons"
-/>
+### Mid Fidelity: Flow Diagram Wireframes
 
-### Cleaning generated SVG
+There are commonly two uses for flow diagrams.
 
-Now we know that if we use SVGs generated by a tool like Adobe Illustrator, Sketch, or Inkscape, there’s lots of extra cruft that we don’t need in the files. We can use some optimization tools to clean up the SVG. Here is one popular online tools to use.
+1. First, they simulate user interactions with your product as described in a particular use case. A use case, for instance, might refer to numerous screens and explain how they are used. Based on this knowledge, you may create a user interface-flow diagram that depicts the single use case's behavioral viewpoint.
 
-- [SVGOMG](https://jakearchibald.github.io/svgomg/)
+2. Second, they enable you to gain a high-level overview of the user interface for your application. This overview is effectively the combination of all the behavioral views derived from your use cases.
 
-### Spritebot
+Furthermore, these diagrams can also be used to assess the usability of a user interface.
+If your system has a lot of boxes and connections, it may be too complicated for individuals to learn and comprehend.
 
-Spritebot is a tool used to clean up our SVGs. It can also combine numerous SVGs into a single sprite sheet for easier use on our websites.
+![Flow Diagram Wireframes example](./mid-fidelity-example-2.png)
 
-[Download here.](https://github.com/thomasjbradley/spritebot)
+### High Fidelity Wireframes
 
-## CSS Animations
+High fidelity (hi-fi) prototypes are made to look and behave as closely as possible to the finished product.
 
-There are SVG specific animations, named SMIL, but they are becoming deprecated. So CSS animations are a better way to go. Just treat your SVG elements like any other HTML elements. We will cover transition, transform, transform-origin with pixels, and animation in this lesson.
+Teams typically develop high-quality prototypes when they have a clear idea of the product they intend to develop and need to test it with actual users or obtain stakeholder agreement for the final design.
 
-To begin, let's review adding a CSS hover state to an SVG and then we will apply transitions to it.
+The fundamental qualities of a high fidelity prototype are as follows:
 
-```html
-<svg width="120" height="120" viewBox="0 0 120 120">
-  <rect class="button" x="10" y="10" width="100" height="60" />
-</svg>
-```
+- **Visual design:** Detailed and realistic design that looks exactly like a real app or website in terms of spacing, interface elements, and visuals.
+- **Content:** Designers employ actual or related-to-real content. The majority or all of the content that will be present in the final design is present in the prototype.
+- **Interactivity:** Prototypes are highly realistic in their interactions.
 
-Then in CSS, we can do this:
-
-```css
-.button {
-  fill: gold;
-}
-
-.button:hover {
-  fill: green;
-  stroke: red;
-  stroke-width: 8;
-  stroke-dasharray: 4;
-}
-```
-
-## CSS Transitions
-
-CSS transitions allows you to change property values from one state to another smoothly, over a given duration.
-
-### Transition Property
-
-The CSS transition property is a shorthand property for transition-property, transition-duration, transition-timing-function, and transition-delay.
-
-```css
-/* Apply to 1 property */
-/* property name | duration | timing function | delay */
-.button {
-  transition: fill 4s ease-in-out 1s;
-}
-
-/* Apply to 2 properties */
-.button {
-  transition: fill 4s, stroke-width 1s;
-}
-
-/* Apply to all (default) changed properties */
-.button {
-  transition: all 0.5s ease-out;
-}
-```
-
-Watch this video tutorial to understand how CSS `transistion` properties work.
-
-<YouTube
-  url="https://www.youtube.com/embed/Nloq6uzF8RQ"
-  title="Animating with CSS Transitions - A look at the transition properties"
-/>
-
-### Transform Property
-
-CSS `transform` properties let us move, rotate, scale, and skew elements. We can apply 2D or 3D transformations to an element.
-
-2D transform methods:
-
-- `translate()`
-- `rotate()`
-- `scaleX()`
-- `scaleY()`
-- `scale()`
-- `skewX()`
-- `skewY()`
-- `skew()`
-- `matrix()`
-
-3D transform methods:
-
-- `rotateX()`
-- `rotateY()`
-- `rotateZ()`
-
-```css
-/* 
-  CSS Transition
-  property name | duration | timing function
-*/
-
-.button {
-  transition: transform 2s linear;
-}
-
-/* 2D transform */
-.button:hover {
-  transform: scale(1.5);
-}
-```
-
-### Transform Origin Property
-
-The SVG transform-origin attribute sets the origin for an item's transformations and its default value is the top left corner of the SVG canvas. However, the default transform origin for HTML elements is in the middle of themselves. To ensure the SVG animation working correctly in all browsers, we may need to set the pixel value to CSS transform-origin property.
-
-```css
-rect {
-  transform-origin: right bottom;
-  transform: rotate(90deg) translate(0, -100%) rotate(90deg) translate(0, 100%);
-}
-```
-
-## Applying CSS Animations
-
-The three most common SVG properties we can animate with CSS, are SVG `fill`, `opacity`, and CSS `transform` on SVG elements.
-
-To use CSS animation, we will first specify some keyframes for the animation. Keyframes hold what styles the element will have at certain times.
-
-### The @keyframes Rule
-
-In traditional animation, **keyframes** are important points in the timeline of an animation used for reference for figuring out how the animation will look and transition throughout the movement. For example, if I were to make an animation of someone lifting their arm and waving, the keyframes would be something like:
-
-- Arm down at side
-- Arm is raised
-- Hand begins waving
-- Hand stops waving
-- Arm is lowered to side.
-
-The animator would first create the animation at each of these stages, and then adjust how the figure changes and transitions between each stage.
-
-In CSS Animations, we do something very similar with the `@keyframes` rule. We set CSS values at different stages of our animation and then the browser automatically creates the transition between those keyframes. Our animation can be simple with just a beginning keyframe (represented by `0%` or `from`) and an end keyframe (represented by `100%` or `to`), or can have multiple keyframes (for example `0%`, `25%`, `50%`, `75%`, `100%`).
-
-```css
-/* A simple animation that does a full rotation. */
-
-@keyframes rotate {
-  from {
-    transform: rotate(0);
-  }
-
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-/* A multiple step animation that moves up then back down. */
-
-@keyframes jump {
-  0% {
-    transform: translateY(0);
-  }
-
-  50% {
-    transform: translateY(5rem);
-  }
-
-  100% {
-    transform: translateY(0);
-  }
-}
-```
-
-### Animation Property
-
-The animation property is a shorthand property for animation-name, animation-duration, animation-timing-function, animation-delay, animation-iteration-count, animation-direction, animation-fill-mode, and animation-play-state.
-
-```css
-/* name | duration | timing-function | delay | 
-iteration-count | direction | fill-mode | play-state */
-
-.box {
-  animation: rotate 3s ease-in 1s 2 reverse forwards paused;
-}
-```
-
-## Resources
-
-- [Advanced SVG Lesson](https://learn-the-web.algonquindesign.ca/topics/advanced-svg/) — Text reference for all topics covered in the videos from this week.
-- [SVG Cheat Sheet](https://learn-the-web.algonquindesign.ca/topics/svg-cheat-sheet/) — Quick reference for all things SVG
-- [CSS animations & effects cheat sheet](https://learn-the-web.algonquindesign.ca/topics/css-animations-effects-cheat-sheet/)
-- [MDN Docs — CSS animation shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
-- [Using Multi-Step Animations and Transitions](https://css-tricks.com/using-multi-step-animations-transitions/)
-
-::: tip To Do for Next Week
-
-- Complete Interactive SVG exercise
-- Complete Illustrator Quiz
-- Complete Assignment 1
-- Review content from this week
-
-  :::
+![High Fidelity Wireframes example](./high-fidelity-example.png)

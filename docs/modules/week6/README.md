@@ -1,148 +1,262 @@
-# Week 6 - Typography & Appearance
+# Week 6 - Introduction to SVG
 
-## Introduction
+::: warning To Do for Next Week
 
-In this module, you will be learning how to add properly styled text to your designs, apply effects to that text and other objects, how to properly export your artwork properly for the web to multiple sizes and file types all at once.
+- Continue working on Assignment 1 & prepared to present your work next week
+- Complete Illustrator quiz
+  (Will be done with your prof during lab class this week)
 
-## Basics of Typography
+  :::
+
+## What are SVGs?
+
+Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation. SVG images are defined in XML text files. In this section, we are going to learn how to generate good SVG code using Adobe Illustrator and preparing it to be animated and used on the web as well as how to write our own SVG code from scratch.
+
+## SVGs are code
+
+SVGs are purely vector graphics written in XML markup language. We can use a pure code editor to create an SVG. Let's follow along this series of video tutorial and write SVG markup with VSCode.
+
+### Writing SVG Code
+
+In this video we will learn to write SVG code from scratch and integrate it into an HTML document. Read SVG reference of Writing SVG code for basic syntax and SVG shapes.
 
 <YouTube
-  title="Beginning Graphic Design: Typography"
-  url="https://www.youtube.com/embed/sByzHoiYFX0"
+  url="https://www.youtube.com/embed/LqhOix-3R-4"
+  title="Advanced SVG: writing SVG code"
 />
 
-Typography is the arrangement of type to reflect a particular style and appearance. Take a look at this series of short tutorials and practice [adding text to your designs](https://helpx.adobe.com/ca/illustrator/how-to/text-basics.html).
+### SVG Attributes and CSS
 
-- Add a line of text
-- Add paragraphs of text
-- Format text
-- Place text on or inside a path
-- Re-shape text
+There are a bunch of SVG attributes, like fill that can be written in the SVG as well as in CSS.
 
-### Font Classifications
+When exporting from tools like Adobe Illustrator we should use the SVG presentation attributes to avoid naming collisions.
 
-The two most common types of font classifications are Serif and Sans-serif. A serif is the small line or stroke at the end of characters in some type faces. Other common classifications you may run into include script (or cursive in CSS), slab serif, mono, and decorative, however there are many other classifications.
+For example, to change the fill of an element we could use the fill="" attribute like this:
 
-::: tip Font classifications
+```html
+<svg width="256" height="256" viewBox="0 0 256 256">
+  <rect fill="#f33" x="10" y="10" width="75" height="50" />
+</svg>
+```
 
-  <p>
-    <span class="scale-1" style="font-family: serif;">Serif</span>
-    <span style="font-family: serif;"> Ex: Georgia, Times New Roman</span>
-  </p>
-  <p>
-    <span class="scale-1" style="font-family: sans-serif;">Sans Serif</span>
-    <span style="font-family: sans-serif;"> Ex: Arial, Helvetica</span>
-  </p>
-  <p>
-    The font used on this site is called {% include snippets/link-external.liquid link="https://fonts.google.com/specimen/Poppins" text="Poppins" %}, which is a <strong>sans-serif</strong> font.
-  </p>
-:::
+```css
+.my-rect {
+  fill: #f33;
+}
+```
 
-#### Recommended Font Sites
+Or, we could use CSS, like shown above.
 
-- [Adobe Fonts](https://fonts.adobe.com) - large collection of premium fonts that are included in your subscription. Can be used effectively for both print and web.
-- [Google Fonts](https://fonts.google.com) - large collection of well made free fonts. Great for use on the web and for clients with small budgets.
+The important thing to remember is that if the SVG element has an attribute (like fill="") and also the same CSS property (like fill:) then the CSS will always overwrite. The CSS property is more powerful than the SVG attribute.
 
-::: tip Careful of Free Font Websites!
-There are a lot of websites that give away free fonts, however you need to be careful with the fonts you find online. Often, they are community made fonts that will have issues such as lacking all the proper characters needed for the web, or are just poorly designed and hard to read. Some sites also provide free downloads for fonts that they do not have the legal right to provide, which could land you in trouble in the future if you use that font for a real job/client.
+These online tools let us generate code for SVG gradients, CSS gradients and edit their code.
 
-In general, I would suggest sticking with the above font site suggestions!
-:::
+- [Gradient Generator](https://briangrinstead.com/gradient/)
+- [CSS Gradient Generator](https://cssgradient.io/)
 
-## Type Tools
+## From AI to SVG
 
-### Character Panel
+Using Adobe Illustrator (Ai) to design graphics and then export them in SVG format allows us to use that code directly on the web and animate it using CSS. The cleaner and more organized our Ai file is, the easier it will be to manipulate the SVG code later on. Follow this videos to exporting SVGs from Illustrator for animation.
 
-The character panel is used to format the styles of characters of your type. Here you can pick your fonts, weight, style, size, and numerous other settings.
+<YouTube
+  url="https://www.youtube.com/embed/bWcweY66DL8"
+  title="Advanced SVG: icons"
+/>
 
-<figure>
-<img src="./panel-character-styles.jpg" alt="" />
-<figcaption>
-<ol>
-<li><strong>Font Family</strong> <p>
-  A group of fonts containing varying weight and styles options of the same design.
-</p></li>
-<li><strong>Font Weight/Style</strong> <p>
-  The weight and style options within a single font family.
-</p></li>
-<li><strong>Font Size</strong> <p>
-  The size of the characters.
-</p></li>
-<li><strong>Leading</strong> <p>
-  The space between lines of type. Measured from the bottom of one line of characters to the bottom of the next line of characters.
-</p></li>
-<li><strong>Kerning</strong> <p>
-  Modify spacing between specific characters.
-</p></li>
-<li><strong>Tracking</strong> <p>
-  Modify spacing between all characters.
-</p></li>
-<li><strong>Vertical Scaling</strong> <p>
-  Vertically stretches type. <span class="bold">Do not stretch type</span>. Stretching type is considered bad typography. You should always see 100% here.
-</p></li>
-<li><strong>Horizontal Scaling</strong> <p>
-  Horizontal stretches type. <span class="bold">Do not stretch type</span>. Stretching type is considered bad typography. You should always see 100% here.
-</p></li>
-<li><strong>Baseline Shift</strong> <p>
-  Shifts the baseline (the invisible line which type sits on) up or down.
-</p></li>
-<li><strong>Character Rotation</strong> <p>
-  Rotates characters within the text box.
-</p></li>
-<li><strong>Character Options</strong> <p>
-  Allows you to apply styling options such as All Caps, Small Caps, Superscript, Subscript, Underline, and Strikethrough
-</p></li>
-</ol>
-</figcaption>
-</figure>
+### Cleaning generated SVG
 
-### Paragraph Panel
+Now we know that if we use SVGs generated by a tool like Adobe Illustrator, Sketch, or Inkscape, there’s lots of extra cruft that we don’t need in the files. We can use some optimization tools to clean up the SVG. Here is one popular online tools to use.
 
-The paragraph panel is used to format styles that affect a group of text, or a paragraph. Paragraph styles include text alignment, indentation, spacing before and after, and hyphenation.
+- [SVGOMG](https://jakearchibald.github.io/svgomg/)
 
-Different paragraphs within the same text box can have different paragraph styles, however they must be divided by new line or a hard return. Characters within the same paragraph all share the same paragraph styles.
+### Spritebot
 
-<figure>
-<img src="./panel-paragraph-styles.jpg" alt="" />
-<figcaption>
-<ol>
-  <li><strong>Text Alignment</strong><p>
-    Text alignment options including align left, align center, align right, justify left, justify center, justify right, and full justify.
-  </p></li>
-  <li><strong>Left Indent</strong><p>
-    Control how much indent is on the left hand side of text.
-  </p></li>
-  <li><strong>Right Indent</strong><p>
-    Control how much indent is on the right hand side of text.
-  </p></li>
-  <li><strong>First-Line Left Indent</strong><p>
-    Control how much indent is on only the first line of the left hand side of text.
-  </p></li>
-  <li><strong>Space Before</strong><p>
-    Controls how much space is made before the paragraph separating it from the previous paragraph in the same text box.
-  </p></li>
-  <li><strong>Space After</strong><p>
-    Controls how much space is made after the paragraph separating it from the next paragraph in the same text box.
-  </p></li>
-  <li><strong>Hyphenation</strong><p>
-    Turns on or off automatic word hyphenation. Word hyphenation is used to balance the length of lines in a paragraph and spacing between words. Hyphenation is generally not used on the web so you should have this unchecked.
-  </p></li>
-</ol>
-</figcaption>
-</figure>
+Spritebot is a tool used to clean up our SVGs. It can also combine numerous SVGs into a single sprite sheet for easier use on our websites.
 
-## Appearance panel
+[Download here.](https://github.com/thomasjbradley/spritebot)
 
-The Appearance panel gives us more direct control over the styling of our shapes and type. It allows us to apply and layer multiple strokes, fills, and effects to make more interesting designs.
+## CSS Animations
 
-![Appearance panel](./appearance-panel.png)
+There are SVG specific animations, named SMIL, but they are becoming deprecated. So CSS animations are a better way to go. Just treat your SVG elements like any other HTML elements. We will cover transition, transform, transform-origin with pixels, and animation in this lesson.
 
-- **A.** Path with stroke, fill, and drop shadow effect
-- **B.** Path with effect
-- **C.** Add New Stroke button
-- **D.** Add New Fill button
-- **E.** Add Effect button\*
-- **F.** Clear Appearance button
-- **G.** Duplicate Selected Item button
+To begin, let's review adding a CSS hover state to an SVG and then we will apply transitions to it.
 
-\* Effects can be applied to the entire shape, or individual strokes or fills.
+```html
+<svg width="120" height="120" viewBox="0 0 120 120">
+  <rect class="button" x="10" y="10" width="100" height="60" />
+</svg>
+```
+
+Then in CSS, we can do this:
+
+```css
+.button {
+  fill: gold;
+}
+
+.button:hover {
+  fill: green;
+  stroke: red;
+  stroke-width: 8;
+  stroke-dasharray: 4;
+}
+```
+
+## CSS Transitions
+
+CSS transitions allows you to change property values from one state to another smoothly, over a given duration.
+
+### Transition Property
+
+The CSS transition property is a shorthand property for transition-property, transition-duration, transition-timing-function, and transition-delay.
+
+```css
+/* Apply to 1 property */
+/* property name | duration | timing function | delay */
+.button {
+  transition: fill 4s ease-in-out 1s;
+}
+
+/* Apply to 2 properties */
+.button {
+  transition: fill 4s, stroke-width 1s;
+}
+
+/* Apply to all (default) changed properties */
+.button {
+  transition: all 0.5s ease-out;
+}
+```
+
+Watch this video tutorial to understand how CSS `transistion` properties work.
+
+<YouTube
+  url="https://www.youtube.com/embed/Nloq6uzF8RQ"
+  title="Animating with CSS Transitions - A look at the transition properties"
+/>
+
+### Transform Property
+
+CSS `transform` properties let us move, rotate, scale, and skew elements. We can apply 2D or 3D transformations to an element.
+
+2D transform methods:
+
+- `translate()`
+- `rotate()`
+- `scaleX()`
+- `scaleY()`
+- `scale()`
+- `skewX()`
+- `skewY()`
+- `skew()`
+- `matrix()`
+
+3D transform methods:
+
+- `rotateX()`
+- `rotateY()`
+- `rotateZ()`
+
+```css
+/* 
+  CSS Transition
+  property name | duration | timing function
+*/
+
+.button {
+  transition: transform 2s linear;
+}
+
+/* 2D transform */
+.button:hover {
+  transform: scale(1.5);
+}
+```
+
+### Transform Origin Property
+
+The SVG transform-origin attribute sets the origin for an item's transformations and its default value is the top left corner of the SVG canvas. However, the default transform origin for HTML elements is in the middle of themselves. To ensure the SVG animation working correctly in all browsers, we may need to set the pixel value to CSS transform-origin property.
+
+```css
+rect {
+  transform-origin: right bottom;
+  transform: rotate(90deg) translate(0, -100%) rotate(90deg) translate(0, 100%);
+}
+```
+
+## Applying CSS Animations
+
+The three most common SVG properties we can animate with CSS, are SVG `fill`, `opacity`, and CSS `transform` on SVG elements.
+
+To use CSS animation, we will first specify some keyframes for the animation. Keyframes hold what styles the element will have at certain times.
+
+### The @keyframes Rule
+
+In traditional animation, **keyframes** are important points in the timeline of an animation used for reference for figuring out how the animation will look and transition throughout the movement. For example, if I were to make an animation of someone lifting their arm and waving, the keyframes would be something like:
+
+- Arm down at side
+- Arm is raised
+- Hand begins waving
+- Hand stops waving
+- Arm is lowered to side.
+
+The animator would first create the animation at each of these stages, and then adjust how the figure changes and transitions between each stage.
+
+In CSS Animations, we do something very similar with the `@keyframes` rule. We set CSS values at different stages of our animation and then the browser automatically creates the transition between those keyframes. Our animation can be simple with just a beginning keyframe (represented by `0%` or `from`) and an end keyframe (represented by `100%` or `to`), or can have multiple keyframes (for example `0%`, `25%`, `50%`, `75%`, `100%`).
+
+```css
+/* A simple animation that does a full rotation. */
+
+@keyframes rotate {
+  from {
+    transform: rotate(0);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* A multiple step animation that moves up then back down. */
+
+@keyframes jump {
+  0% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(5rem);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+```
+
+### Animation Property
+
+The animation property is a shorthand property for animation-name, animation-duration, animation-timing-function, animation-delay, animation-iteration-count, animation-direction, animation-fill-mode, and animation-play-state.
+
+```css
+/* name | duration | timing-function | delay | 
+iteration-count | direction | fill-mode | play-state */
+
+.box {
+  animation: rotate 3s ease-in 1s 2 reverse forwards paused;
+}
+```
+
+## Resources
+
+- [Advanced SVG Lesson](https://learn-the-web.algonquindesign.ca/topics/advanced-svg/) — Text reference for all topics covered in the videos from this week.
+- [SVG Cheat Sheet](https://learn-the-web.algonquindesign.ca/topics/svg-cheat-sheet/) — Quick reference for all things SVG
+- [CSS animations & effects cheat sheet](https://learn-the-web.algonquindesign.ca/topics/css-animations-effects-cheat-sheet/)
+- [MDN Docs — CSS animation shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+- [Using Multi-Step Animations and Transitions](https://css-tricks.com/using-multi-step-animations-transitions/)
+
+<!-- ## Demo Files
+
+::: tip Files
+[Week 6 Tutorial Files Download](https://algonquinlivecom-my.sharepoint.com/:f:/g/personal/bristot_algonquincollege_com/EqDDhWwtDpFNj5MCHye8KZEBjZ1dGoTa-z5-NPjyxkJM5Q?e=gz9peU)
+::: -->
