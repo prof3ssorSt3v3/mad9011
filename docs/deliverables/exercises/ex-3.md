@@ -6,7 +6,7 @@ The goal of this assignment is to learn how basic shapes can be used to create l
 
 ## Instructions
 
-1. Download and open the provided Illustrator file for this exercise [here.](./files/lName-fName-logo-recreation.zip)
+1. Download and open the provided Illustrator file for this exercise [here.](https://drive.google.com/file/d/1WYdz-zdy5K-nUcyseIc6Z89p4lrxv3ue/view?usp=drive_link)
 
 2. Your task is to recreate these logos in the corresponding labeled Artboards on the "Final Artwork" layer.
 

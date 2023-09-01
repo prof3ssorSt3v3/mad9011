@@ -6,7 +6,7 @@ In this exercise, you will have the opportunity to employ the retouching techniq
 
 ## Instructions
 
-1. Download the provided Photoshop files for this exercise [here.](./files/lName-fName-retouching.zip)
+1. Download the provided Photoshop files for this exercise [here.](https://drive.google.com/file/d/13D-UL2Plop_QJ66GtwWIznA945cT77uQ/view?usp=drive_link)
 
 2. **File 1: 01-photoshop-repairing-blemishes:**
 
