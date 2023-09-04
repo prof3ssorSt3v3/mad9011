@@ -1,6 +1,10 @@
 # MAD9011 Deliverables
 
+Every week there will be work for you to complete inside or outside of class. Some exercises will be larger than others. There will be 6 exercises (20%), Final project (35%), midterm (30%), and 3 quizzes (15%).
+
 ## Exercises
+
+Worth <Badge type="error" text="20%" /> of Final Grade
 
 ### [Exercise 1 — Select & Mask](./exercises/ex-1.md)
 
@@ -46,6 +50,8 @@ The goal of this exercise is to put our SVG skills to the test and create an sim
 
 ## Midterm
 
+Worth <Badge type="error" text="30%" /> of Final Grade
+
 ### [Midterm - App Icon](./assignments/midterm)
 
 The goal of this assignment is to apply your Illustrator skills to create a iOS app icon.
@@ -59,6 +65,8 @@ The goal of this assignment is to apply your Illustrator skills to create a iOS 
 <Badge type="error" text="Section 310: Monday October 30th @4:00pm" />
 
 ## Final Project
+
+Worth <Badge type="error" text="35%" /> of Final Grade
 
 ::: tip Notice
 
@@ -80,6 +88,8 @@ Content regarding the Final Project, will be posted after reading week!
 ### [Part 5 - Presentation](./finalproject/part5) -->
 
 ## Quizzes
+
+Worth <Badge type="error" text="15%" /> of Final Grade
 
 ### Quiz 1 - Photoshop Quiz
 
