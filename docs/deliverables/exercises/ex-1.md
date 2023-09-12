@@ -32,7 +32,7 @@ Let's get started on this journey of creative editing and composition!
 
 6. **Composition and Image Blending:**
 
-   - Add other images that work with your subject and background.
+   - Add a minimum of **2** additional images that work with your subject and background.
    - Select and place elements from these images into your composition.
    - Arrange, scale, and rotate to create a pleasing composition.
    - Adjust lighting and color for consistency.
