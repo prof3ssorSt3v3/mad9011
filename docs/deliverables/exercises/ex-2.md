@@ -1,8 +1,10 @@
 # Exercise 2 — Retouching
 
-::: Countdown date="2023-09-30"
-This content will be hidden until the specified date.
-:::
+<ClientOnly>
+  <Countdown date="2023-09-30">
+    This content will be hidden until the specified date.
+  </Countdown>
+</ClientOnly>
 
 ## Introduction
 
