@@ -2,9 +2,6 @@
 
 <ClientOnly>
   <Countdown date="2023-09-30">
-    This content will be hidden until the specified date.
-  </Countdown>
-</ClientOnly>
 
 ## Introduction
 
@@ -74,3 +71,6 @@ Compress and submit your work in a folder named lName-fName-select-and-mask. The
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Exercise 2 — Retouching
 - Upload your compressed folder on the assignment page in BS LMS and click the submit button.
+
+  </Countdown>
+</ClientOnly>
