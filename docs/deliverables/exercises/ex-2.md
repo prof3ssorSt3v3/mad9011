@@ -1,7 +1,7 @@
 # Exercise 2 — Retouching
 
 <ClientOnly>
-  <Countdown date="2023-09-30">
+  <Countdown date="2023-09-30" customMessage="This content will be available soon.">
 
 ## Introduction
 
