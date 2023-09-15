@@ -1,5 +1,9 @@
 # Exercise 2 — Retouching
 
+::: Countdown date="2023-09-30"
+This content will be hidden until the specified date.
+:::
+
 ## Introduction
 
 In this exercise, you will have the opportunity to employ the retouching techniques that you have acquired through classroom instruction. Your task is to apply these techniques to two Photoshop files that have been provided for your practice.
