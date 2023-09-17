@@ -1,5 +1,5 @@
 <template>
-  <div class="card">
+  <div :class="{ card: !showContent }">
     <div v-if="showContent">
       <slot></slot>
     </div>
