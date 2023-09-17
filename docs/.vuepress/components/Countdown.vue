@@ -1,5 +1,5 @@
 <template>
-  <div :class="{ card: !showContent }">
+  <div class="card">
     <div v-if="showContent">
       <slot></slot>
     </div>
@@ -16,62 +16,27 @@ export default {
       showContent: false,
     };
   },
-  computed: {
-    customMessage() {
-      return (
-        "The content of these deliverables will be made available prior to your scheduled lab class. " +
-        this.targetDate.toDateString()
-      );
-    },
-  },
   mounted() {
-    this.calculateDateFromWeek();
     this.checkDate();
   },
   methods: {
-    calculateDateFromWeek() {
-      if (this.weekNumber >= 1 && this.weekNumber <= 15) {
-        // Define a schedule of dates for each week (modify as needed)
-        const schedule = [
-          // Change each weeks date at the beginning of the term, use the Monday's date
-          "2023-09-04",
-          "2023-09-11",
-          "2023-09-18",
-          "2023-09-25",
-          "2023-10-02",
-          "2023-10-09",
-          "2023-10-16",
-          "2023-10-23",
-          "2023-10-30",
-          "2023-11-06",
-          "2023-11-13",
-          "2023-11-20",
-          "2023-11-27",
-          "2023-12-04",
-          "2023-12-11",
-          // Add more dates for weeks 4 to 15 as needed
-        ];
-
-        // Set the target date based on the week number
-        this.targetDate = new Date(schedule[this.weekNumber - 1]);
-      } else {
-        this.targetDate = null; // Invalid week number, no target date
-      }
-    },
     checkDate() {
-      if (this.targetDate) {
-        const currentDate = new Date();
+      const currentDate = new Date();
+      const displayDate = new Date(this.date);
 
-        if (currentDate >= this.targetDate) {
-          this.showContent = true;
-        }
+      if (currentDate >= displayDate) {
+        this.showContent = true;
       }
     },
   },
   props: {
-    weekNumber: {
-      type: Number,
+    date: {
+      type: String,
       required: true,
+    },
+    customMessage: {
+      type: String,
+      default: "This content will be visible at a later date.",
     },
   },
 };
