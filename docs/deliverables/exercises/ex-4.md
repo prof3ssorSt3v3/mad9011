@@ -5,7 +5,7 @@
 In this exercise, you will showcase your proficiency in creating and manipulating gradients in Adobe Illustrator. You will work on a poster design, applying various gradient techniques to achieve visual depth, dimension, and creativity.
 
 <ClientOnly>
-  <Countdown :weekNumber="4">
+  <Countdown date="2023-10-02">
 
 ## Instructions
 

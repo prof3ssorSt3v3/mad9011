@@ -42,7 +42,7 @@ export default {
     customMessage: {
       type: String,
       default:
-        "The content for this deliverable will be made available prior to your scheduled lab class",
+        "The remaining content for this deliverable will be made available prior to your scheduled lab class",
     },
   },
 };
@@ -59,7 +59,6 @@ export default {
   padding: 1rem;
   margin: 1.5rem auto;
   grid-gap: 1rem;
-  max-width: 550px;
 }
 
 .blurred-content {

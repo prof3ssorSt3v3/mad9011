@@ -5,7 +5,7 @@
 The goal for this assignment is to get comfortable using the pen tool. Focus on creating good lines and curves. You can apply colours and other effects if you like, but it is not required, you will only be marked based on how well you recreate the line work of the image. If you find your own image, it must have a similar level of detail, or more, than the Kermit the frog example below.
 
 <ClientOnly>
-  <Countdown :weekNumber="5">
+  <Countdown date="2023-10-09">
 
 ## Instructions
 
