@@ -3,8 +3,13 @@
     <div v-if="showContent">
       <slot></slot>
     </div>
-    <div v-else class="card">
-      {{ customMessage }}
+    <div v-else>
+      <div class="card">
+        {{ customMessage }}
+      </div>
+      <div class="blurred-content" v-if="!showContent">
+        <slot></slot>
+      </div>
     </div>
   </div>
 </template>
@@ -37,7 +42,7 @@ export default {
     customMessage: {
       type: String,
       default:
-        "he content of these deliverables will be made available prior to your scheduled lab class",
+        "The content for this deliverable will be made available prior to your scheduled lab class",
     },
   },
 };
@@ -55,5 +60,17 @@ export default {
   margin: 1.5rem auto;
   grid-gap: 1rem;
   max-width: 550px;
+}
+
+.blurred-content {
+  filter: blur(4px); /* Apply blur effect */
+  pointer-events: none; /* Make content un-clickable */
+  opacity: 0.7; /* Adjust opacity for the blurred effect */
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.9
+  ); /* Optional: Add a semi-transparent background */
 }
 </style>
