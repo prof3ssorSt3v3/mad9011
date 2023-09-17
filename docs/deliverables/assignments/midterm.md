@@ -4,6 +4,9 @@
 
 Welcome to the final assignment of the Illustrator portion of this course. This project offers you an exciting opportunity to showcase the skills you have acquired so far by creating a set of innovative and visually captivating App Icons for an imaginary app of your own invention.
 
+<ClientOnly>
+  <Countdown date="2023-09-25">
+
 ## Progress Check-ins
 
 | Week   | Expectations                     |
@@ -128,3 +131,6 @@ As part of this assignment, you must submit the first draft of your icon concept
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Midterm — App Icon
 - Upload your compressed folder on the assignment page in BS LMS and click the submit button.
+
+  </Countdown>
+</ClientOnly>
