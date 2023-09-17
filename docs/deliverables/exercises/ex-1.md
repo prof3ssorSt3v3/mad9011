@@ -8,6 +8,9 @@ Once you've mastered background replacement, take it a step further. Create a vi
 
 Let's get started on this journey of creative editing and composition!
 
+<ClientOnly>
+  <Countdown :weekNumber="1">
+
 ## Instructions
 
 1. Choose an image that you would like to work with for this exercise. Make sure it has a distinct subject that you can mask and place in a new background.
@@ -100,3 +103,6 @@ Compress and submit your work in a folder named lName-fName-select-and-mask. The
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Exercise 1 — Select & Mask
 - Upload your compressed folder on the assignment page in BS LMS and click the submit button.
+
+  </Countdown>
+</ClientOnly>

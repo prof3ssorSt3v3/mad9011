@@ -4,6 +4,9 @@
 
 In this exercise, you will showcase your proficiency in creating and manipulating gradients in Adobe Illustrator. You will work on a poster design, applying various gradient techniques to achieve visual depth, dimension, and creativity.
 
+<ClientOnly>
+  <Countdown :weekNumber="4">
+
 ## Instructions
 
 1. **Research:** Start by researching various natural landscapes such as mountains, forests, oceans, or sunsets. Gather reference images to inspire your poster design.
@@ -55,3 +58,6 @@ Save and upload your Illustrator file to BrightSpace named as follows: lName-fNa
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Exercise 4 - Gradients in Nature
 - Upload your compressed folder on the assignment page in BS LMS and click the submit button.
+
+  </Countdown>
+</ClientOnly>

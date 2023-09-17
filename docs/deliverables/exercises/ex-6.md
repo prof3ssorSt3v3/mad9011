@@ -2,7 +2,12 @@
 
 ## Instructions
 
-For this exercise, you'll be creating an application loader using an animated SVG. Follow the steps below to complete the assignment:
+For this exercise, you'll be creating an application loader using an animated SVG.
+
+<ClientOnly>
+  <Countdown :weekNumber="5">
+
+Follow the steps below to complete the assignment:
 
 1. **Designing the Loader:**
 
@@ -53,3 +58,6 @@ Here's an example of what your finished loader could look like:
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Exercise 6 — Animated SVG
 - Upload your compressed folder on the assignment page in BS LMS and click the submit button.
+
+  </Countdown>
+</ClientOnly>

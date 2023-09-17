@@ -1,11 +1,11 @@
 # Exercise 2 — Retouching
 
-<ClientOnly>
-  <Countdown date="2023-09-30" customMessage="This content will be available soon.">
-
 ## Introduction
 
-In this exercise, you will have the opportunity to employ the retouching techniques that you have acquired through classroom instruction. Your task is to apply these techniques to two Photoshop files that have been provided for your practice.
+In this exercise, you'll have the chance to apply the retouching techniques you've learned in class. It's crucial to keep in mind that while working on this task, you should use non-destructive editing methods.
+
+<ClientOnly>
+  <Countdown :weekNumber="2">
 
 ## Instructions
 
