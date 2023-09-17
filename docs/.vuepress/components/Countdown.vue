@@ -4,9 +4,7 @@
       <slot></slot>
     </div>
     <div v-else>
-      The content of these deliverables will be made available prior to your
-      scheduled lab class.
-      {{ targetDate.toDateString() }}
+      {{ customMessage }}
     </div>
   </div>
 </template>
@@ -16,8 +14,15 @@ export default {
   data() {
     return {
       showContent: false,
-      targetDate: null,
     };
+  },
+  computed: {
+    customMessage() {
+      return (
+        "The content of these deliverables will be made available prior to your scheduled lab class. " +
+        this.targetDate.toDateString()
+      );
+    },
   },
   mounted() {
     this.calculateDateFromWeek();
