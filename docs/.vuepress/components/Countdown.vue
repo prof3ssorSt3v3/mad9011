@@ -1,9 +1,9 @@
 <template>
-  <div class="card">
+  <div>
     <div v-if="showContent">
       <slot></slot>
     </div>
-    <div v-else>
+    <div v-else class="card">
       {{ customMessage }}
     </div>
   </div>
