@@ -9,7 +9,7 @@ Once you've mastered background replacement, take it a step further. Create a vi
 Let's get started on this journey of creative editing and composition!
 
 <ClientOnly>
-  <Countdown :weekNumber="1">
+  <Countdown date="2023-09-11">
 
 ## Instructions
 

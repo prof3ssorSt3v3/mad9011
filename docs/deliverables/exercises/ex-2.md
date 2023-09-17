@@ -5,7 +5,7 @@
 In this exercise, you'll have the chance to apply the retouching techniques you've learned in class. It's crucial to keep in mind that while working on this task, you should use non-destructive editing methods.
 
 <ClientOnly>
-  <Countdown date="2023-09-30" customMessage="The content of these deliverables will be made available prior to your scheduled lab class.">
+  <Countdown date="2023-09-18">
 
 ## Instructions
 

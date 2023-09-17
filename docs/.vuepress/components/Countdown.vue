@@ -36,7 +36,8 @@ export default {
     },
     customMessage: {
       type: String,
-      default: "This content will be visible at a later date.",
+      default:
+        "he content of these deliverables will be made available prior to your scheduled lab class",
     },
   },
 };
