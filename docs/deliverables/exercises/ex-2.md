@@ -53,7 +53,7 @@ In this exercise, you'll have the chance to apply the retouching techniques you'
 
 ## Submission
 
-Compress and submit your work in a folder named lName-fName-select-and-mask. The folder should contain the following:
+Compress and submit your work in a folder named lName-fName-retouching. The folder should contain the following:
 
 - 01-photoshop-repairing-blemishes.psd
 - 02-photoshop-content-aware-fill.psd
