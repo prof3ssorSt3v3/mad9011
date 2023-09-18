@@ -29,10 +29,8 @@ In this exercise, you'll have the chance to apply the retouching techniques you'
 
    - Export both retouched images as PNG files using the "Export As..." dialogue in Photoshop.
    - For "01-photoshop-repairing-blemishes.psd," export it as "01-photoshop-repairing-blemishes.png" with the following specifications:
-     - Resolution: 72dpi
      - Width: 1500px
    - For "02-photoshop-content-aware-fill.psd," export it as "02-photoshop-content-aware-fill.png" with the following specifications:
-     - Resolution: 72dpi
      - Width: 1000px
 
 5. **File Organization:**
@@ -60,8 +58,8 @@ Compress and submit your work in a folder named lName-fName-select-and-mask. The
 - 01-photoshop-repairing-blemishes.psd
 - 02-photoshop-content-aware-fill.psd
   - "Exports" folder with exported PNGs using Export As... dialogue:
-    - 01-photoshop-repairing-blemishes.png - 72dpi, 1500px wide
-    - 02-photoshop-content-aware-fill.png - 72dpi, 1000px wide
+    - 01-photoshop-repairing-blemishes.png, 1500px wide
+    - 02-photoshop-content-aware-fill.png, 1000px wide
 
 **Due Dates:**
 
