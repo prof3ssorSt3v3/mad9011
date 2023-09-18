@@ -59,7 +59,7 @@ Compress and submit your work in a folder named lName-fName-select-and-mask. The
 
 - 01-photoshop-repairing-blemishes.psd
 - 02-photoshop-content-aware-fill.psd
-  - "Exports" folder with exported JPEGs using Export As... dialogue:
+  - "Exports" folder with exported PNGs using Export As... dialogue:
     - 01-photoshop-repairing-blemishes.png - 72dpi, 1500px wide
     - 02-photoshop-content-aware-fill.png - 72dpi, 1000px wide
 
