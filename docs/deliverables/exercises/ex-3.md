@@ -2,14 +2,14 @@
 
 ## Introduction
 
-The goal of this assignment is to learn how basic shapes can be used to create logos and other designs. You will be recreating the three logos provided in the attached starter file. Create your version of the logos in the corresponding labeled Artboards on the "Final Artwork" layer. The logos can all be created using simple shapes to start and then using the pathfinder tools and manipulating the anchor points to get the final shapes.
+The goal of this assignment is to learn how basic shapes can be used to create logos and other designs. You will be recreating the five logos provided in the attached starter file. Create your version of the logos in the corresponding labeled Artboards on the "Final Artwork" layer. The logos can all be created using simple shapes to start and then using the pathfinder tools and manipulating the anchor points to get the final shapes.
 
 <ClientOnly>
   <Countdown date="2023-09-25">
 
 ## Instructions
 
-1. Download and open the provided Illustrator file for this exercise [here.](https://drive.google.com/file/d/1WYdz-zdy5K-nUcyseIc6Z89p4lrxv3ue/view?usp=drive_link)
+1. Download and open the provided Illustrator file for this exercise [here.](https://drive.google.com/file/d/19jtfdBUrMeDcJcE5GwHWItcm1BsSUhMv/view?usp=sharing)
 
 2. Your task is to recreate these logos in the corresponding labeled Artboards on the "Final Artwork" layer.
 
@@ -29,16 +29,18 @@ Watch/Read these tutorials to help you recreate your logos in Illustrator using 
 
 ## Grading Rubric
 
+**You are not allowed to use Illustrators image tracing tool.**
+
 | Category        | Criteria    | Weight |
 | --------------- | ----------- | ------ |
-| Logo Recreation | Description | 6      |
-| **Total**       |             | **6**  |
+| Logo Recreation | Description | 5      |
+| **Total**       |             | **5**  |
 
 ## Submission
 
-Save and upload your Illustrator file to BrightSpace named as follows: lName-fName-logo-recreation.ai. You do not need to export or upload JPG versions of the files. All you need to submit is your Illustrator file with the completed logo recreation. Your file should like something like this when I open it:
+Save and upload your Illustrator file to BrightSpace named as follows: lName-fName-logo-recreation.ai. You do not need to export or upload JPG versions of the files. All you need to submit is your Illustrator file with the completed logo recreation.
 
-![Exercise example](./assets/3-logos.jpg)
+![Exercise example](./assets/5-logos.png)
 
 **Due Dates:**
 
