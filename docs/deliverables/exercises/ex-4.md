@@ -11,7 +11,7 @@ In this exercise, you will showcase your proficiency in creating and manipulatin
 
 1. **Research:** Start by researching various natural landscapes such as mountains, forests, oceans, or sunsets. Gather reference images to inspire your poster design.
 
-2. **Document Setup:** Create a new Adobe Illustrator document with the dimensions of 18 inches (width) by 24 inches (height). Set the color mode to CMYK and the resolution to 300 DPI.
+2. **Document Setup:** Create a new Adobe Illustrator document with the dimensions of 18 inches by 24 inches (portrait or landscape). Set the color mode to RGB.
 
 3. **Background Gradient:** Choose a scenic landscape as your background and use gradients to create a smooth transition of colors. Experiment with radial or linear gradients to emulate the natural lighting and atmospheric effects of the chosen scene.
 
