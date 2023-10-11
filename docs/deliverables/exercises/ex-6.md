@@ -5,7 +5,7 @@
 For this exercise, you'll be creating an application loader using an animated SVG.
 
 <ClientOnly>
-  <Countdown date="2023-10-16">
+  <Countdown date="2023-10-11">
 
 Follow the steps below to complete the assignment:
 
