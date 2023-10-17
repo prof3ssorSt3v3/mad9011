@@ -9,8 +9,8 @@
 
 ::: tip To Do For After Reading Week!
 
-- Complete Midterm Due:
-  <Badge text="Section 300: Tuesday October 31st @3:00pm" />
+- Complete Midterm Due:<br>
+  <Badge text="Section 300: Tuesday October 31st @3:00pm" /><br>
   <Badge type="error" text="Section 310: Monday October 30th @4:00pm" />
 
 - Sign-up and Download Figma
