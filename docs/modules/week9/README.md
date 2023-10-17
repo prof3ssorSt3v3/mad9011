@@ -1,4 +1,71 @@
-## Week 9: Introduction to Figma
+# Week 9 - Getting Started with Figma and Introduction to Prototyping
+
+## Prototyping
+
+![Wireframe Example](./schematic-example.png)
+
+Prototyping is a crucial step in the design process that involves creating interactive, testable representations of your design concepts. These prototypes can vary in fidelity, from low-fidelity wireframes to high-fidelity interactive simulations. Prototyping is essential for several reasons:
+
+### Why Prototype
+
+1. **User Feedback:** Prototypes allow you to gather early feedback from users or stakeholders. This feedback can help refine your design and identify potential issues.
+
+2. **Visualization:** Prototypes provide a visual representation of your design ideas, making it easier for others to understand and evaluate the concept.
+
+3. **Functionality Testing:** With interactive prototypes, you can test the functionality and user flow of your design, identifying any usability problems.
+
+4. **Validation:** Prototypes help validate design decisions and ensure that the final product aligns with user needs and expectations.
+
+### Wireframes
+
+Wireframes are a type of prototype that focuses on the structural layout of a design.
+
+### Types of Wireframes
+
+<DetailsCard imageSrc="/f2023/moduleImages/week9/lowFidelityWireframes.png" :isFirst="true">
+
+#### Low-fidelity
+
+Low-fidelity wireframing offers the advantage of rapid creation, making it an invaluable tool for brainstorming sessions. Its primary purpose is to facilitate the evaluation of the logical arrangement of content and functional elements on individual pages. In the pursuit of this objective, low-fidelity wireframes intentionally avoid the use of styling elements such as colors, images, and typography, ensuring that the wireframe's core purpose remains undistracted.
+
+**Types of Low-fidelity Wireframes:**
+
+- [Paper Sketches](https://www.uxpin.com/studio/blog/paper-prototyping-the-practical-beginners-guide/)
+- [Grey-Box Wireframes](https://www.arcstone.com/blog/what-is-a-wireframe-and-why-is-it-all-grey-boxes)
+- Reference Zone Wireframes
+
+</DetailsCard>
+
+<DetailsCard imageSrc="/f2023/moduleImages/week9/midFidelityWireframes.png">
+
+#### Mid-fidelity
+
+Mid-fidelity wireframes are a balanced approach, offering a clearer depiction of content structure and layout compared to low-fidelity versions. While they include basic styling and might suggest interactions and user flow, they avoid intricate details. Mid-fidelity wireframes are efficient for collaboration, feedback collection, and usability testing, making them a popular choice in the design process.
+
+**Types of Mid-fidelity Wireframes:**
+
+- [Annotated Wireframes](https://balsamiq.com/learn/articles/wireframe-annotations/)
+- [Flow Diagram Wireframes / Wireflows](https://uxplanet.org/ux-glossary-task-flows-user-flows-flowcharts-and-some-new-ish-stuff-2321044d837d)
+
+</DetailsCard>
+
+<DetailsCard imageSrc="/f2023/moduleImages/week9/highFidelityWireframes.png">
+
+#### High-fidelity
+
+High fidelity (hi-fi) prototypes are made to look and behave as closely as possible to the finished product.
+
+Teams typically develop high-quality prototypes when they have a clear idea of the product they intend to develop and need to test it with actual users or obtain stakeholder agreement for the final design.
+
+**The fundamental qualities of a high fidelity prototype are as follows:**
+
+- **Visual design:** Detailed and realistic design that looks exactly like a real app or website in terms of spacing, interface elements, and visuals.
+- **Content:** Designers employ actual or related-to-real content. The majority or all of the content that will be present in the final design is present in the prototype.
+- **Interactivity:** Prototypes are highly realistic in their interactions.
+
+</DetailsCard>
+
+## Introduction to Figma
 
 ![Figma Header](./figma-header.jpg)
 
@@ -99,84 +166,84 @@ Here is some of the items on the toolbar:
 
 <br>
 <TwoColumnComponent
-imageSrc="/course-site/moduleImages/week9/figma.png"
+imageSrc="/f2023/moduleImages/week9/figma.png"
 title="Main Menu"
 description="The Main Menu in Figma is a primary navigation interface that provides access to various essential functions and features within the application. It typically contains options for creating new files, opening existing projects, managing account settings, and accessing tools for collaboration, sharing, and organization."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/course-site/moduleImages/week9/move.png"
+imageSrc="/f2023/moduleImages/week9/move.png"
 title="Move"
 description="The Move tool in Figma is used to reposition elements within your design canvas. It allows you to click and drag elements to new locations, ensuring precise placement."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/course-site/moduleImages/week9/scale.png"
+imageSrc="/f2023/moduleImages/week9/scale.png"
 title="Scale"
 description="The Scale tool in Figma is specifically designed for resizing elements. You can use it to adjust the size of elements, maintaining proportions if needed, to achieve the desired dimensions in your design."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/course-site/moduleImages/week9/frame.png"
+imageSrc="/f2023/moduleImages/week9/frame.png"
 title="Frame"
 description="Frames serve as containers for your design elements, helping to define the boundaries of a design. You can nest frames within each other, enabling structured layouts."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/course-site/moduleImages/week9/section.png"
+imageSrc="/f2023/moduleImages/week9/section.png"
 title="Section"
 description="Sections are used to organize and group different parts of your design project. They help you keep your project organized and navigate through large files."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/course-site/moduleImages/week9/slice.png"
+imageSrc="/f2023/moduleImages/week9/slice.png"
 title="Slice"
 description="Slices are used for exporting specific portions of your design. You can define areas within your design file that you want to export as separate images or assets."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/course-site/moduleImages/week9/shape.png"
+imageSrc="/f2023/moduleImages/week9/shape.png"
 title="Shapes"
 description="Shape tools in Figma allow you to create fundamental design elements like rectangles, circles, and polygons. You can customize these shapes by adjusting properties such as size, color, and corner radius."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/course-site/moduleImages/week9/creation.png"
+imageSrc="/f2023/moduleImages/week9/creation.png"
 title="Creation Tools"
 description="These tools encompass a range of drawing and creation tools that enable you to create custom design elements, illustrations, and shapes."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/course-site/moduleImages/week9/text.png"
+imageSrc="/f2023/moduleImages/week9/text.png"
 title="Text"
 description="The text tool allows you to add and customize text within your designs. You can set fonts, styles, and formatting for text elements."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/course-site/moduleImages/week9/resources.png"
+imageSrc="/f2023/moduleImages/week9/resources.png"
 title="Resources"
 description="Resources typically refer to design assets, including images, icons, and files, that are used in your project. Figma provides a way to manage and organize these resources."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/course-site/moduleImages/week9/hand.png"
+imageSrc="/f2023/moduleImages/week9/hand.png"
 title="Hand Tool"
 description="The hand tool lets you navigate and pan around the design canvas, especially when working on large or zoomed-in projects."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/course-site/moduleImages/week9/comment.png"
+imageSrc="/f2023/moduleImages/week9/comment.png"
 title="Add Comment"
 description="The comment tool enables collaboration by allowing team members to leave comments and feedback on specific parts of the design. It's valuable for communication and review during the design process."
 imageSize="50px"
