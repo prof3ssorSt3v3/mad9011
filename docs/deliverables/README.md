@@ -68,14 +68,15 @@ The goal of this assignment is to apply your Illustrator skills to create a iOS 
 
 Worth <Badge type="error" text="35%" /> of Final Grade
 
+### [Project Overview](./finalproject/overview)
+
 ::: tip Notice
 
-Content regarding the Final Project, will be posted after reading week!
+The remaining content regarding the Final Project, will be posted after reading week!
 
 :::
 
 <!--
-### [Project Overview](./finalproject/overview)
 
 ### [Part 1 - Wireframes](./finalproject/part1)
 

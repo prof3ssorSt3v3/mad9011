@@ -2,78 +2,75 @@
 
 ## Introduction
 
-The end is in sight!
+The finish line is approaching!
 
-For your final project, you will be working in groups of three to design a mobile application using Figma, which will make up **35%** of your final mark.
+In your final project, you will collaborate in groups of three to craft a mobile app using Figma. This project carries substantial weight, accounting for **35%** of your final grade.
 
-As we move through the final 7 weeks, each week, we will cover material relevant to each part of the final project.
+Over the course of the next 7 weeks, we will cover topics that are directly applicable to various phases of your final project. This 35% will be divided into 6 distinct parts with individual due dates.
 
-The total 35% will be divided up into 5 parts:
-
-1. Wireframes
-2. Design System
-3. Visual Design
-4. Interactive Visual Prototype
-5. Presentation
+| Part                                 |
+| ------------------------------------ |
+| Part 1: Low-fidelity Wireframes      |
+| Part 2: Mid-fidelity Wireframes      |
+| Part 3: Design System                |
+| Part 4: Visual Design                |
+| Part 5: Visual Interactive Prototype |
+| Part 6: Presentations                |
 
 ## App Themes
 
-1. Music App
-2. Car Rental App
-3. Banking App
-4. Travel Agency App
-5. Food Delivery App
-6. Shopping App
-7. Chat App
-8. Social Media App
-9. Other: if you have an idea that is not listed here, please check with your prof for approval.
+1. Car Rental
+2. Banking
+3. Travel Agency
+4. Food Delivery
+5. Shopping
+6. Social Media
+7. Other: If you have a theme not listed here, please seek approval from your professor.
 
-## Groups
+## Group Formation
 
-Through choose a group through Brightspace > Activities > Groups
+You can form groups through Brightspace > Activities > Groups.
 
 ![Brightspace Groups](./assets/groups.png)
 
-## Submission Requirements
+## Submission Guidelines
 
-For your final project, you will not be submitting a file. Instead, you will be using Figma's sharing feature. Please review each week's part for any specific submission requirements.
+For your final project, you will not be submitting a file. Instead, you will use Figma's sharing feature. Each part of the project will have its specific submission requirements, so please review each week's guidelines.
 
-### You Must!!!
+### Essential Steps
 
-You must invite your prof to your Figma file before starting your project.
-Email: bristot@algonquincollege.com
+Before commencing your project, make sure to invite your professor with Editing privileges to your Figma project.
+
+- Tyler: bristot@algonquincollege.com
 
 ![Figma Share](./assets/project-share.png)
 
 ## Grading
 
-Each weeks deliverable will have it's own grading scheme.
+Each weekly deliverable will be assessed according to its respective grading scheme.
 
-## Submission
+## Submission Deadlines
 
-Please review each weeks deliverable for submission dates.
+Kindly review the submission dates specified for each week's deliverable.
 
 ## Getting Started
 
-1. One team member will create a project in their Figma.
+1. A team member will initiate a project in Figma.
 
 ![Figma Project](./assets/create-project.png)
 
-2. The team member who created the project will than invite their team members to the project along with the prof.
-
-   (Make sure you invite them using the emails they registered under, which should be their student emails.)
+2. The project initiator will then invite their teammates and the professor to the project, ensuring that the emails used for invitations match the student emails.
 
 ![Figma Share Project](./assets/project-share.png)
 
-3. Name your page "Part 1 - Wireframes"
+3. Name your Figma page "Part 1 - Wireframes."
 
 ![Figma Name Page](./assets/rename-page.png)
 
-4. Determine which phone size you will be designing in.
+4. Begin by creating your initial frames.
 
 ![Figma Create Frame](./assets/frame-size.png)
 
-5. Organize your Figma File.
+5. Keep your Figma file well-organized. A structured layout may resemble the example below.
 
-It may look something like this.
-![Figma File Organize](./assets/layout.png)
+![Figma File Organization](./assets/layout.png)
