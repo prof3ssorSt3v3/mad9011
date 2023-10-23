@@ -6,25 +6,25 @@
 
 Mid-fidelity wireframes strike a balance between low-fidelity sketches and high-fidelity designs. They offer a clearer depiction of content structure and layout, making them ideal for collaboration, feedback collection, and usability testing.
 
-### Advantages of Mid-Fidelity Wireframes
+### The Advantages of Mid-Fidelity Wireframes
 
-1. **Enhanced Detail:** Mid-fidelity wireframes provide a clearer representation of the design's structural layout compared to low-fidelity counterparts.
+1. **Enhanced Detail**: Mid-fidelity wireframes provide a clearer representation of the design's structural layout compared to low-fidelity counterparts.
 
-2. **Usability Testing:** They are suitable for usability testing, helping identify potential issues and improvements in the user experience.
+2. **Usability Testing**: They are suitable for usability testing, helping identify potential issues and improvements in the user experience.
 
-3. **Collaboration:** Mid-fidelity wireframes enable effective collaboration between designers, stakeholders, and team members.
+3. **Collaboration**: Mid-fidelity wireframes enable effective collaboration between designers, stakeholders, and team members.
 
-4. **Feedback Collection:** They serve as a visual aid for gathering feedback, refining design concepts, and making informed decisions.
+4. **Feedback Collection**: They serve as a visual aid for gathering feedback, refining design concepts, and making informed decisions.
 
 ## Frames, Layers & Groups Continued
 
 ### Auto-Layout
 
+![Figma Auto-Layout](./auto-layout.png)
+
 Figma's Auto-Layout is a powerful feature that makes designing responsive layouts a breeze. With Auto-Layout, elements can automatically adjust their positions and sizes within a frame, depending on the content or viewport size. This feature simplifies the process of creating designs that adapt seamlessly to different screen sizes, such as those found on various devices, from desktops to mobile phones.
 
 #### How to Use Auto-Layout
-
-Here is a great [article](https://help.figma.com/hc/en-us/articles/5731482952599-Using-auto-layout) from figma on using Auto-Layout.
 
 1. **Select an Element**: To start using Auto-Layout, select a frame or group that you want to make responsive.
 
@@ -34,35 +34,31 @@ Here is a great [article](https://help.figma.com/hc/en-us/articles/5731482952599
 
 4. **Design Responsively**: As you add, remove, or modify elements within the frame, Figma will automatically adjust their positions and sizes based on the constraints you've defined. This ensures that your design looks great on any screen.
 
-<YouTube
-  title="Figma in 5: Auto Layout"
-  url="https://www.youtube.com/embed/TyaGpGDFczw"
-/>
+For a visual demonstration, watch this video: [Figma in 5: Auto Layout](https://www.youtube.com/embed/TyaGpGDFczw).
+
+#### Nested Auto Layout
+
+Auto-layout frames can be nested, combining horizontal and vertical layout properties to create compelling interface designs. To achieve this:
+
+1. Select the objects, then click Shift+A again, making the auto-layout frame a child frame inside a parent frame.
+
+2. You can choose vertical or horizontal distribution and white space in the right-hand properties menu. To prevent text frames from growing in one direction, ensure you choose fixed width or height.
 
 ### Group Constraints
 
+![Group Constraints](./group-constraints.png)
+
 Group constraints in Figma are essential for maintaining consistent layouts in responsive designs. When you're working with a group of elements that need to stay aligned and organized, group constraints come to the rescue. They allow you to define how elements within a group should behave when the group is resized.
 
-#### How to Use Group Constraints:
+For a step-by-step tutorial, watch this video: [Figma tutorial: Constraints](https://www.youtube.com/embed/LHY9cm_2zwU).
 
-<YouTube
-  title="Figma tutorial: Constraints"
-  url="https://www.youtube.com/embed/LHY9cm_2zwU"
-/>
+## Layer Management: Keeping Your Designs Organized
 
-### Nested auto Layout
-
-Auto-layout frames can be nested, combining horizontal and vertical layout properties to compelling interface design.
-
-- Select the objects, click shift+A again, the auto-layout frame is now a child frame inside a parent frame.
-
-You can choose vertical or horizontal distribution and white space on the right-hand properties menu. To prevent text frames from growing in one direction, make sure you choose fixed with or height.
-
-### Layer Management: Keeping Your Designs Organized
+![Layer Structuring](./layer-naming.png)
 
 Effective layer management is crucial for maintaining organized and easily navigable design files in Figma. When you have multiple elements, groups, and frames in your project, a well-structured layer hierarchy can save you time and make collaboration smoother.
 
-#### Tips for Structuring Your Layers:
+### Tips for Structuring Your Layers
 
 1. **Naming Conventions**: Give each layer a clear and descriptive name. This practice helps you and your collaborators quickly identify the purpose of each layer. For example, use names like "Header," "Button," or "Background."
 
@@ -72,35 +68,69 @@ Effective layer management is crucial for maintaining organized and easily navig
 
 4. **Use Frames**: Utilize frames as containers for groups of elements. Frames help you define the boundaries of specific design sections, making it simple to manipulate and move related content as a single unit.
 
-5. **Color-Coding**: Assign colors to layers or groups based on their purpose or type. For example, use one color for navigation elements and another for content sections. This visual differentiation enhances clarity.
+5. **Lock and Hide Layers**: When working on a specific part of your design, consider locking or hiding unrelated layers temporarily. This minimizes accidental changes to elements you're not currently focusing on.
 
-6. **Lock and Hide Layers**: When working on a specific part of your design, consider locking or hiding unrelated layers temporarily. This minimizes accidental changes to elements you're not currently focusing on.
-
-7. **Reordering Layers**: Easily reorder layers by dragging and dropping them within the layers panel. Reordering is handy when you need to adjust the stacking order of elements within a frame.
-
-8. **Search and Filter**: Figma's layers panel includes a search bar that allows you to quickly locate specific layers, even in complex designs. Utilize this feature when you're looking for a particular element.
-
-9. **Manage Variants**: If you have design variations, like different button states or component versions, use Figma's variant feature to organize and manage them efficiently. This keeps your designs clean and well-structured.
-
-By implementing these tips and best practices for layer management, you'll keep your Figma projects tidy and easy to navigate. This not only improves your productivity but also enhances collaboration when working with team members or stakeholders.
+6. **Reordering Layers**: Easily reorder layers by dragging and dropping them within the layers panel. Reordering is handy when you need to adjust the stacking order of elements within a frame.
 
 ## Basic Mobile App Layouts: Creating User-Centric Design
 
-To create effective mobile app layouts in Figma, it's essential to understand the foundational principles. This knowledge includes screen dimensions, design grids, and platform-specific layout structures tailored to different devices. Let's delve into these core elements:
+To create effective mobile app layouts in Figma, it's essential to understand the foundational principles. This knowledge includes screen dimensions, design grids, platform-specific layout structures tailored to different devices, and mobile safe zones/areas. Let's delve into these core elements:
 
-1. **Screen Dimensions:** Start your mobile app design journey by familiarizing yourself with typical screen dimensions for various devices. This knowledge will help you select the right canvas size. Figma provides presets for common devices to simplify this process.
+### Screen Dimensions
 
-2. **Design Grids:** Design grids form the backbone of a well-structured layout. They provide a framework for consistently placing elements on the screen, ensuring a balanced and visually pleasing design. In Figma, you can create grids to align and distribute elements efficiently.
+When designing a mobile app, one of the first considerations is selecting the right canvas size to match the target devices. Familiarizing yourself with typical screen dimensions for various devices is crucial. This knowledge not only helps you choose the correct canvas size but also ensures that your designs fit seamlessly on different screens.
 
-3. **Platform Considerations:** Different platforms, such as iOS and Android, have specific design guidelines and layout expectations. Understanding these platform-specific principles is essential for creating user-friendly and cohesive mobile apps. Figma offers the flexibility to adapt your design to meet the requirements of the platform you're targeting.
+In Figma, you'll find presets for common devices. These presets simplify the canvas size selection process. You can access these presets to ensure that your design canvas matches popular devices, such as iPhone models or Android smartphones.
 
-4. **Adaptive Design:** Responsive and adaptive design is a cornerstone of effective mobile app design. Figma's auto-layout feature and group constraints empower you to design components that intelligently resize and adapt to various screen sizes. This ensures a consistent and visually pleasing layout across different devices, from smartphones to tablets.
+![Figma Device Presets](./frame-size.png)
+
+### Design Grids
+
+Design grids are the backbone of a well-structured layout. They provide a framework for consistently placing elements on the screen, ensuring a balanced and visually pleasing design. Utilizing grids in your mobile app design not only enhances alignment but also aids in responsive design.
+
+#### How to Use Design Grids in Figma
+
+Here's how you can create and use grids in Figma:
+
+1. **Grid Setup**: In the "Layout Grids" section, you can choose to create grids based on columns or rows. Define the number of columns or rows and set the gutter width to determine the spacing between elements.
+
+2. **Grid Placement**: Snap elements to the grid by enabling the "Grid" option in the right-hand panel. This makes it easy to align your app's interface elements, ensuring a consistent look and feel.
+
+For a step-by-step tutorial, watch this video: [Figma Tutorial: Layout Grids](https://www.youtube.com/embed/zd8wrAdURN0?si=PLsBfMyviTA7NxL_).
+
+### Platform Considerations
+
+![iOS vs. Android Comparison](./ios-android.png)
+
+Different mobile platforms, such as iOS and Android, have specific design guidelines and layout expectations. Understanding these platform-specific principles is essential for creating user-friendly and cohesive mobile apps.
+
+**We will explore the differences in the next module.**
+
+### Mobile Safe Zones/Areas
+
+![Mobile Safe Zones](./safe-areas.png)
+
+When designing mobile apps, it's crucial to consider mobile safe zones or areas. These zones ensure that critical content remains visible and accessible, even on devices with notches, camera cutouts, or irregular screen shapes.
+
+For more information on iOS Safe Areas, read this article: [Human Interface Guidelines: Layout](https://developer.apple.com/design/human-interface-guidelines/layout)
+
+For more information on Android Safe Areas, read this article: [Layout Basics](https://developer.android.com/design/ui/mobile/guides/layout-and-content/layout-basics)
+
+### Adaptive Design
+
+Mobile devices come in various screen sizes and orientations. To address this diversity and provide a seamless user experience, adaptive design is essential. Figma's auto-layout feature and group constraints empower you to design components that intelligently resize and adapt to different screen sizes.
+
+![Adaptive Design](./adaptive-design.gif)
+
+By mastering these core elements of mobile app design, you'll be well-equipped to create user-centric, visually appealing, and responsive mobile apps in Figma. Understanding screen dimensions, leveraging design grids, considering platform-specific guidelines, and implementing adaptive design principles are all critical skills for today's mobile app designers.
 
 ## Styles and Effects in Figma: Elevating Visual Appeal
 
 Discover how Figma's styling options, including stroke, corner radius, and effects, can transform your mid-fidelity wireframes into visually appealing designs. Let's explore these style elements in detail:
 
 ### Styles: Adding Emphasis with Strokes
+
+![Strokes](./stroke.gif)
 
 In Figma, the use of strokes is a powerful styling option to outline and emphasize elements within your designs. Here's how you can utilize this feature effectively:
 
@@ -112,6 +142,8 @@ In Figma, the use of strokes is a powerful styling option to outline and emphasi
 
 ### Corner Radius: Smooth and Sleek Design Elements
 
+![Corner Radii](./corners.png)
+
 Corner radii control the curvature or roundness of corners in shapes and elements. Mastering corner radii is key to creating sleek and visually pleasing designs:
 
 - **Creating Visual Harmony**: The control of corner radii can significantly impact the overall aesthetics of your design. By rounding the corners of elements like buttons or cards, you can create a softer and more inviting appearance. On the other hand, sharp corners can convey a more modern and edgy feel.
@@ -122,7 +154,9 @@ Corner radii control the curvature or roundness of corners in shapes and element
 
 ### Effects: Adding Depth and Dimension
 
-Figma's effects feature opens up a world of possibilities for adding depth, dimension, and realism to your designs:
+![Effects](/course-site/moduleImages/week10/effects.gif)
+
+Figma's effects feature opens up a world of possibilities for adding depth, dimension, and realism to your designs. Here's what you can do with effects:
 
 - **Shadows**: One of the most commonly used effects, shadows create a sense of depth and help elements appear as if they're floating above the background. You can control the shadow's color, opacity, and distance, allowing you to fine-tune the desired effect.
 
@@ -131,5 +165,3 @@ Figma's effects feature opens up a world of possibilities for adding depth, dime
 - **Overlay and Background Blending**: Effects in Figma include blending modes, such as overlay and background effects, which enable you to combine and blend elements creatively. These can be used to simulate overlay effects, color adjustments, and much more.
 
 - **Customizability**: Effects in Figma are highly customizable. You can adjust their intensity, position, and size to achieve the desired visual effect. This level of control empowers you to create designs that look and feel authentic.
-
-By understanding and effectively using these styling options in Figma—strokes, corner radii, and effects—you'll be able to elevate the visual appeal of your mid-fidelity wireframes and design concepts. Whether you're aiming for a clean and minimalistic look, a playful and colorful style, or a realistic and immersive design, Figma's styling options provide the tools to bring your creative visions to life.
