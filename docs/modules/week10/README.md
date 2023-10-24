@@ -154,7 +154,7 @@ Corner radii control the curvature or roundness of corners in shapes and element
 
 ### Effects: Adding Depth and Dimension
 
-![Effects](/course-site/moduleImages/week10/effects.gif)
+![Effects](./effects.gif)
 
 Figma's effects feature opens up a world of possibilities for adding depth, dimension, and realism to your designs. Here's what you can do with effects:
 

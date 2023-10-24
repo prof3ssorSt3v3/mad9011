@@ -1,15 +1,8 @@
 # Week 12 - Design Systems Part 2
 
-**Topics**
-
-- Managing design assets and components.
-- Creating Components
-- Creating Nested components
-- Creating Component Variants
-- Figma plugins
-- Figma Community
-
 ## Managing Design Assets and Components
+
+![Design assets banner]()
 
 Efficiently managing design assets and components is fundamental to maintaining a well-structured and organized design system. In this section, you'll learn how to manage your design assets and components effectively. We'll cover:
 
@@ -19,7 +12,11 @@ Efficiently managing design assets and components is fundamental to maintaining 
 
 - **Asset Naming Conventions**: The importance of consistent naming conventions for design assets. We'll provide best practices for naming your assets to simplify organization and retrieval.
 
+##
+
 ## Creating Components
+
+![Components Banner]()
 
 Components are the building blocks of your design system. In this section, you'll discover how to create and work with components in Figma. We'll explore:
 
@@ -29,7 +26,9 @@ Components are the building blocks of your design system. In this section, you'l
 
 - **Interactive Components**: Exploring interactive components in Figma. You'll learn how to create dynamic and responsive interactions within your components to bring your designs to life.
 
-## Creating Component Variants
+### Creating Component Variants
+
+![Component Variants Banner]()
 
 Component variants enable you to manage design elements with multiple states or options efficiently. In this section, you'll explore:
 
@@ -39,7 +38,13 @@ Component variants enable you to manage design elements with multiple states or 
 
 - **Design System Flexibility**: How component variants enhance design system flexibility, allowing you to accommodate different use cases without cluttering your components.
 
+### Nested Components
+
+![Nested Component Banner]()
+
 ## Figma Plugins
+
+![Figma Plugin Banner]()
 
 Figma offers an array of plugins that can supercharge your design workflow. In this section, you'll discover how to harness the power of Figma plugins, including:
 
@@ -51,6 +56,8 @@ Figma offers an array of plugins that can supercharge your design workflow. In t
 
 ## Figma Community
 
+![Figma Community Banner]()
+
 The Figma Community is a vibrant platform for designers to share, collaborate, and find inspiration. In this section, you'll learn how to connect with the Figma Community, including:
 
 - **Community Exploration**: Navigating the Figma Community to discover design resources, UI kits, templates, and more. We'll highlight notable community contributions.
@@ -58,5 +65,3 @@ The Figma Community is a vibrant platform for designers to share, collaborate, a
 - **Contributing to the Community**: How to share your own designs, resources, and expertise with the Figma Community. We'll guide you through the process of publishing your work.
 
 - **Collaboration and Feedback**: Leveraging the Figma Community for collaboration and feedback. You'll find out how to engage with fellow designers and gather valuable insights on your projects.
-
-By the end of Week 12, you'll have a deep understanding of advanced design system management, component creation, including component variants, and the integration of Figma plugins to optimize your design workflow. You'll also be well-versed in connecting with the Figma Community, making it a valuable resource for your design journey.

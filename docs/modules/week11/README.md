@@ -2,6 +2,8 @@
 
 ## Design Systems
 
+![Design System Banner](./design-system-banner.png)
+
 **What is a design system?** A design system is a collection of reusable functional elements–components and patterns–guided by clear standards that product teams use to create a consistent experience across a range of products. Design systems act as a single source of truth for an entire organization by using a singular design language to guide the development of products.
 
 Design systems should be flexible and responsive to any changes in the field of design, such as new visual design trends or the rising importance of different types of emerging technology.
@@ -34,6 +36,8 @@ Design systems differ based on an organization’s need, but all well-functionin
 
 ## Effective Typography in Figma
 
+![Typography Banner](./typography-banner.png)
+
 Typography is a fundamental aspect of design. It involves the selection and arrangement of fonts, sizes, spacing, and other text-related elements. Effective typography can greatly impact the readability, aesthetics, and overall user experience of your design. In Figma, achieving effective typography aligns with principles outlined in Apple's Human Interface Guidelines and Google's Material Design, ensuring that your design not only looks good but also functions well across various platforms.
 
 ### Key Aspects of Effective Typography:
@@ -49,6 +53,8 @@ Typography is a fundamental aspect of design. It involves the selection and arra
 5. **Accessibility**: Ensuring that text is easily readable and accessible to all users, including those with visual impairments, is a fundamental consideration in both Apple's and Google's design guidelines. Apple's guidelines provide extensive recommendations for text legibility and contrast, while Material Design includes accessibility guidelines for text and color choices. In Figma, you can use design tools to check color contrast and provide alternatives for users with visual impairments, ensuring that your design meets accessibility standards and is inclusive.
 
 ## Colour Pallets
+
+![Colour Pallet Banner](./color-banner.png)
 
 Color plays a pivotal role in design. It influences user perception, communicates emotions, and reinforces brand identity. Effective use of color palettes is essential for creating visually appealing and meaningful designs.
 
@@ -68,19 +74,30 @@ Color palettes are a crucial element of design, and in Figma, you can efficientl
 
 5. **Accessibility**: In Figma, you can consider color accessibility standards to make your design inclusive and usable by individuals with color vision deficiencies. Figma provides resources and tools to help you ensure that your design meets accessibility standards. By aligning with the accessibility guidelines from Apple and Google, you can create designs that are not only visually appealing but also inclusive.
 
-### Iconography
+## Iconography
 
-### Common Design Effects:
+![Iconography Pallet Banner](./icon-banner.png)
 
-1. **Shadows**: Shadows can simulate depth and help elements appear as if they're floating above the background. Customize the shadow's color, opacity, and distance for different effects.
+Icons play a pivotal role in mobile app design, serving as visual cues that convey information quickly and efficiently to users. In Figma, designers have access to a powerful set of tools and resources, making it possible to create, manage, and implement iconography effectively. With Figma's versatile platform, you can ensure that your app's icons are not only visually appealing but also provide clear and intuitive guidance to users, enhancing their overall experience.
 
-2. **Blurs**: Blurs are useful for creating effects like frosted glass or softening background elements. Apply blurs to elements like pop-up windows and background layers.
+Selecting the right icons for your mobile app design is crucial for effective communication and user experience. When choosing icons, consider the following factors:
 
-3. **Overlay and Background Blending**: Utilize blending modes to combine elements creatively. These modes can simulate overlay effects, color adjustments, and more.
+- **Clarity and Relevance**: Icons should be chosen based on their clarity and relevance to the app's functions or actions. They need to provide an immediate and clear understanding to users.
 
-4. **Customizability**: Effects are highly customizable. Adjust their intensity, position, and size to achieve the desired visual effect in your design.
+- **Consistency**: Maintain consistency in your iconography to create a cohesive visual language across your mobile app. Consistent icons contribute to a more user-friendly experience.
+
+- **Universal Understanding**: Opt for icons that are universally understood to minimize the need for additional explanations. Icons should transcend language barriers and be recognizable to a broad audience.
+
+- **Cultural Considerations**: Be aware of cultural preferences and interpretations. Icons may have different meanings in various regions or demographics. Ensure your choices are culturally appropriate.
+
+- **Customization in Figma**: Figma offers a broad library of icons that you can browse and search through. It also provides tools for customizing and adapting icons to match your design's specific needs.
 
 ## Organizing a Design System
+
+<YouTube
+  title="Build it in Figma: Create a Design System — Foundations"
+  url="https://www.youtube.com/embed/EK-pHkc5EL4?si=_iOUBnaFqggjYii4"
+/>
 
 Organizing your design system is crucial for maintaining clarity, efficiency, and collaboration within your design team. Here are some organizational tips:
 
@@ -96,6 +113,11 @@ Organizing your design system is crucial for maintaining clarity, efficiency, an
 
 Styles in Figma are reusable collections of properties that you can apply to elements in your design. Whether it's text, colors, grids, or effects like shadows and blurs, styles allow you to maintain consistency and efficiency in your design process.
 
+<YouTube
+  title="Figma Tutorial: Creating Styles"
+  url="https://www.youtube.com/embed/gtQ_A3imzsg?si=WFHEbMokOLgtvakq"
+/>
+
 ### Creating and Applying Styles in Figma:
 
 1. **Text Styles**: Define text styles for headings, body text, and other text elements. Apply these styles consistently to maintain a uniform look.
@@ -108,8 +130,29 @@ Styles in Figma are reusable collections of properties that you can apply to ele
 
 ## Libraries
 
+<YouTube
+  title="Figma tutorial: Create a shareable team library"
+  url="https://www.youtube.com/embed/79T8Q6OBmRk?si=_IkxRjfrfLfE4AnQ"
+/>
+
 In Figma, you can share components and styles by publishing them as libraries. This feature allows you to create a central source of truth for your design system and collaborate seamlessly.
 
-### Benefits of Using Figma Libraries:
+### Benefits of Using Figma Libraries
 
-1. **Shared Components**: Publish components as libraries so that they can be used across multiple
+1. **Shared Components**: Publish components as libraries so that they can be used across multiple projects. This ensures consistency and saves time by avoiding the need to recreate the same elements from scratch.
+
+2. **Consistency and Branding**: Libraries enable you to maintain design consistency, making it easier to adhere to brand guidelines. Any updates made to library components are automatically reflected in all instances throughout your projects.
+
+3. **Streamlined Collaboration**: With libraries, design teams can work seamlessly together. Changes and improvements made to library components are instantly accessible to all collaborators, fostering a cohesive design process.
+
+4. **Version Control**: Figma libraries support version control, allowing you to keep track of changes, roll back to previous versions, and ensure that your designs are always in sync with the latest updates.
+
+5. **Cross-File Styles**: Libraries allow for the creation of shared design styles, such as text styles and color palettes, which can be used consistently across multiple files.
+
+6. **Enhanced Efficiency**: Using libraries reduces redundancy and enhances productivity. You can access a centralized repository of approved assets, preventing the need to search or recreate elements for each new project.
+
+7. **Rapid Prototyping**: Libraries expedite the prototyping process by providing quick access to pre-approved components and styles. This accelerates the creation of wireframes and prototypes.
+
+8. **Accessibility**: Figma's libraries enhance accessibility for all team members. Teammates can easily locate and apply approved components and styles, ensuring a barrier-free design process.
+
+By leveraging Figma libraries, you unlock a wealth of advantages that simplify the design workflow, improve consistency, and boost overall efficiency.
