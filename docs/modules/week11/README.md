@@ -4,9 +4,9 @@
 
 ![Design System Banner](./design-system-banner.png)
 
-**What is a design system?** A design system is a collection of reusable functional elements–components and patterns–guided by clear standards that product teams use to create a consistent experience across a range of products. Design systems act as a single source of truth for an entire organization by using a singular design language to guide the development of products.
+A design system is a collection of reusable components and standards used to maintain consistency across a range of products. It acts as a single source of truth for a team, guiding the design of products with a singular design language.
 
-Design systems should be flexible and responsive to any changes in the field of design, such as new visual design trends or the rising importance of different types of emerging technology.
+<YouTube title="Build it in Figma: Create a Design System — Foundations" url="https://www.youtube.com/embed/EK-pHkc5EL4?si=_iOUBnaFqggjYii4" />
 
 ### What Are the Elements of a Design System?
 
@@ -22,8 +22,6 @@ Guidelines, brand values, and design mindset, on the other hand, are intangible 
 - **Brand values**, which naturally include a brand legend and brand mission, are a set of guiding principles that shape every aspect of your design.
 - A **design mindset** is your philosophy of design that aligns a team around a clear set of goals.
 
-Both tangible and intangible elements work together to direct product teams and help them make meaningful design decisions.
-
 ### What Are the Qualities of a Well-Functioning Design System?
 
 Design systems differ based on an organization’s need, but all well-functioning design systems share similar characteristics:
@@ -34,45 +32,187 @@ Design systems differ based on an organization’s need, but all well-functionin
 - **Documented:** Documentation is one of the most important components of a well-functioning design system. Documentation should be detailed and regularly updated.
 - **Reusable:** Design systems should be able to be reused and repurposed in a variety of situations.
 
-## Effective Typography in Figma
+### Organizing a Design System
+
+Maintaining a well-organized design system is crucial for clarity, efficiency, and collaboration. Here are some tips:
+
+1. **Clear Hierarchy**: Categorize components, patterns, and styles logically.
+2. **Naming Conventions**: Use consistent names for components and styles.
+3. **Version Control**: Track changes and updates in your design system.
+
+## Utilizing Colors in UI Design
+
+![Color Palette Banner](./color-banner.png)
+
+Color is a pivotal element in design, shaping user perception and bolstering brand identity. Effective color palettes are instrumental in crafting visually captivating and meaningful designs.
+
+### Color Theory
+
+Color theory today is primarily based on Isaac Newton's colour wheel, which he established in 1666. The main colour wheel illustrates three colour categories: primary colours, secondary colours, and tertiary colours. Let’s understand it...
+
+**Primary colors** are those that cannot be produced by mixing two or more other colors. Red, blue, and yellow are the main colors.
+
+The **secondary colors** are orange, purple, and green, which may be created by mixing any two of the three basic colors.
+
+**Tertiary colors** are created when you combine a main and a secondary color. Magenta, vermillion, violet, teal, amber, and chartreuse are the tertiary hues.
+
+<YouTube
+  title="Beginning Graphic Design: Color"
+  url="https://www.youtube.com/embed/_2LLXnUdUIc?si=49DeBHq2p6bInb7G"
+/>
+
+### The 60-30-10 Color Rule
+
+... Image
+
+A popular approach to achieving color balance is the 60-30-10 rule, often associated with the notion of a Golden Ratio in design. This rule suggests that:
+
+- 60% of your design should feature a dominant or neutral color, setting the overall tone of the UI.
+- 30% should be a secondary color that either complements or contrasts with the dominant color, adding interest and emphasis.
+- 10% should be an accent color used for drawing attention to key elements.
+
+Effective UI design leverages this rule to achieve an impeccable color coordination, enhancing the user's interaction with the design.
+
+### Employing Interactive Colors
+
+Interactive colors are indispensable for highlighting interactive UI elements such as links, buttons, and other controls. Here are some guidelines:
+
+- Assign a specific hue to primary interactions, allowing users to associate that color with certain actions.
+- Create dark and light variants of the interactive color to indicate different states (e.g., hovered, clicked).
+
+... Image
+
+### Understanding Denotative Colors
+
+Denotative colors carry inherent meanings and are crucial for signaling different states in your app or website, like error, success, or warning. Commonly, red, black, and green are utilized for these purposes.
+
+... Image
+
+For instance, if red is a brand color, avoid using it for error messages. Ensure that colors chosen for disabled states have adequate contrast for legibility.
+
+### Guidelines for Crafting a Color Palette:
+
+Constructing a set of rules for your color palette can bolster consistency and coherence across your design projects. Here are some fundamental guidelines:
+
+1. **Restricted Color Palette**: Maintain a restricted color palette to preserve a sleek and professional demeanor.
+
+2. **Color Harmony**: Ensure your colors resonate well with each other, fostering a visually satisfying experience.
+
+3. **Consistent Application**: Apply colors consistently for specific elements or actions to enhance user recognition and comprehension.
+
+4. **Accessibility**: Make judicious color choices to cater to all users, including those with visual impairments.
+
+## Mastering Typography in UI Design
 
 ![Typography Banner](./typography-banner.png)
 
-Typography is a fundamental aspect of design. It involves the selection and arrangement of fonts, sizes, spacing, and other text-related elements. Effective typography can greatly impact the readability, aesthetics, and overall user experience of your design. In Figma, achieving effective typography aligns with principles outlined in Apple's Human Interface Guidelines and Google's Material Design, ensuring that your design not only looks good but also functions well across various platforms.
+Typography in UI design isn't just about choosing appealing fonts; it's a pivotal visual communication tool that can significantly enhance user engagement and conversions. Unlike a meticulous reading, users often scan a page to quickly ascertain if the information they need is present. Here, well-organized and scannable typography can capture and hold the users' attention.
 
-### Key Aspects of Effective Typography:
+Once engaged, clear and informative typographic design is crucial for providing precise information about the products or services offered, nudging the users toward making a purchase.
 
-1. **Font Selection**: When selecting fonts in Figma, consider their alignment with your design's purpose and the tone you want to convey. Apple's Human Interface Guidelines suggest using system fonts such as San Francisco for Apple devices and Roboto for Android. These system fonts are designed for optimal legibility and consistency within their respective ecosystems. However, you can also explore other web fonts available in Figma to suit your design's unique needs while maintaining brand consistency.
+The importance of typography in UI design is indispensable and should never be overlooked.
 
-2. **Font Sizing**: Determining appropriate font sizes is crucial for creating a consistent and user-friendly design. Apple's guidelines emphasize text legibility and readability, recommending specific text sizes for various purposes, including body text, headings, and subheadings. In Material Design, text sizing follows a similar hierarchy, with guidelines for text at different levels of importance. Figma provides text style management to ensure you maintain consistency in text hierarchy. This feature allows you to create and apply predefined text styles throughout your design, ensuring a uniform look and feel.
+### The Benefits of Good Typography
 
-3. **Spacing and Line Height**: Paying attention to spacing between lines (line height) and characters (kerning) is essential to ensure text is easy to read and aesthetically pleasing. Apple's Human Interface Guidelines recommend a default line height for text, but you can adjust it according to your design needs. Material Design also offers guidelines for text line height, and Figma provides tools to adjust line height and letter spacing, allowing you to fine-tune text elements for readability and aesthetics.
+Beyond being a medium of visual communication, good typography in website or mobile app design offers numerous advantages:
 
-4. **Hierarchy and Emphasis**: Both Apple and Google stress the importance of using typography to create visual hierarchy within your design. This involves using variations in font size, weight, and style to highlight important information and guide users through your interface. Figma's text style features allow you to define and apply different text styles for various purposes, such as emphasizing headings or distinguishing between primary and secondary text. This ensures a clear and consistent hierarchy in your design, aligning with the principles of both design systems.
+1. **Enhanced Readability and Accessibility**:
 
-5. **Accessibility**: Ensuring that text is easily readable and accessible to all users, including those with visual impairments, is a fundamental consideration in both Apple's and Google's design guidelines. Apple's guidelines provide extensive recommendations for text legibility and contrast, while Material Design includes accessibility guidelines for text and color choices. In Figma, you can use design tools to check color contrast and provide alternatives for users with visual impairments, ensuring that your design meets accessibility standards and is inclusive.
+   - Good typography facilitates easier reading, scanning, and navigation across the page, thereby reducing the time users take to find the information they need.
 
-## Colour Pallets
+2. **Consistent Tone and Mood**:
 
-![Colour Pallet Banner](./color-banner.png)
+   - The choice of typeface sets the general tone or atmosphere across interfaces. For instance, a cartoon font with warm colors and bold strokes adds a fun, personalized touch, whereas a simple and serious typography sets a more formal tone.
 
-Color plays a pivotal role in design. It influences user perception, communicates emotions, and reinforces brand identity. Effective use of color palettes is essential for creating visually appealing and meaningful designs.
+3. **Distinctive App Identity**:
 
-## Working with Color Palettes in Figma
+   - Like other elements in UI design, high-quality typography has a professional allure and aligns with the brand's vision, color, and concept, helping your app stand out from the crowd.
 
-Color palettes are a crucial element of design, and in Figma, you can efficiently manage and apply them to create visually appealing and cohesive designs. Here are tips for effectively working with color palettes in your Figma projects:
+4. **Boosted Product Sales**:
 
-### Key Tips for Working with Color Palettes:
+   - Effective typographic design keeps users on your app longer and facilitates easy access to necessary information, indirectly boosting sales by reducing user distractions.
 
-1. **Primary and Secondary Colors**: In Figma, it's essential to define a set of primary and secondary colors that represent your brand or design theme. These colors should be consistent across your design. Create a color library or swatch styles in Figma to store and apply these colors easily. Figma provides features for adding and organizing color styles, allowing you to maintain color consistency throughout your design. Refer to Apple's Human Interface Guidelines and Google's Material Design for insights into selecting primary and secondary colors that align with platform-specific recommendations.
+### Styling Typography to Suit Your Purpose
 
-2. **Color Psychology**: Understanding the psychological and cultural associations of colors is essential in design. In Figma, you can use this knowledge to evoke specific emotions or convey particular messages in your design. Refer to Apple and Google's design guidelines for insights into the preferred color schemes for different contexts and interfaces. Figma provides a vast library of system colors and resources to help you choose the right colors for your project.
+**Bold and Italic**:
 
-3. **Contrast and Legibility**: In Figma, ensuring that text and design elements have sufficient contrast against the background is critical to guarantee readability. Figma offers tools to check color contrast, and you can use these features to adhere to accessibility standards. Apple and Google also emphasize the importance of color contrast in their design guidelines. By following their recommendations and leveraging Figma's tools, you can create designs that are both visually pleasing and accessible to all users.
+- Common typographic styles like italic and bold help emphasize text. Bold is great for headlines and crucial text areas, while italics are often used for foreign words or reference links.
 
-4. **Color Consistency**: Consistency in color usage is essential for a cohesive design. In Figma, you can create guidelines for using colors consistently throughout your design. This includes specifying color codes (hex, RGB, etc.) to maintain uniformity. Apple's Human Interface Guidelines and Google's Material Design provide color guidelines and resources that you can apply directly to your Figma projects for consistency.
+**Typeface Families**:
 
-5. **Accessibility**: In Figma, you can consider color accessibility standards to make your design inclusive and usable by individuals with color vision deficiencies. Figma provides resources and tools to help you ensure that your design meets accessibility standards. By aligning with the accessibility guidelines from Apple and Google, you can create designs that are not only visually appealing but also inclusive.
+- Some typefaces offer a range of styles. For example, Futura has 22 different styles including light, condensed, semi-bold, and extra bold, providing versatile options for different design needs.
+
+**Novelty Styles**:
+... Image
+
+- Novelty styles add a unique flair but should be used sparingly to avoid overwhelming the design.
+
+### Manipulating Type to Fit a Space
+
+Typography often needs tweaking to fit well in a design. Three key metrics for this are kerning, tracking, and leading.
+
+#### Kerning
+
+... Image
+
+- Kerning adjusts the space between two letters, enhancing the letter-to-letter balance, especially useful in logo design to ensure a polished look.
+
+#### Tracking
+
+... Image
+
+- Tracking adjusts the spacing across a string of letters, useful for fitting more letters in a tight space or spreading out letters that are too close.
+
+#### Leading
+
+... Image
+
+- Leading adjusts the space between baselines, altering a paragraph's appearance. It, along with x-height (the height of lowercase letters), impacts how text in a paragraph looks, ensuring a balanced and orderly look.
+
+### Crafting an Effective Typography Design
+
+With a grasp of typography types and manipulations, here are 10 best practices to achieve compelling typography design:
+
+1. **Choosing Typefaces**:
+
+   - Selecting the right typefaces is fundamental. Choose a typeface that aligns with your brand's personality and the overall design aesthetics of your UI. It's often advisable to pair a serif and a sans-serif typeface to create a balanced look.
+
+2. **Selecting Font-Weight and Styles**:
+
+   - The weight and style of the font can significantly impact the look and feel of your design. Bold weights are excellent for headlines, while regular or light weights are suitable for body text. Experiment with different styles to find what works best for your design.
+
+3. **Mind the Spacing**:
+
+   - Adequate spacing between letters, words, and lines improves readability and aesthetics. Use kerning, tracking, and leading effectively to achieve a well-spaced typography design.
+
+4. **Establish a Clear Visual Hierarchy**:
+
+   - Visual hierarchy guides the reader's eye and helps them navigate the content easily. Create a clear hierarchy using different font sizes, weights, and colors for headings, subheadings, and body text.
+
+5. **Ensure Scalability**:
+
+   - Your typography should remain effective and legible across various screen sizes and resolutions. Use scalable units like ems or rems for font sizes to ensure a responsive design.
+
+6. **Utilize Visual Contrast Judiciously**:
+
+   - Contrast helps in distinguishing text and improves readability. Ensure there's enough contrast between your text and background, but avoid overly harsh contrasts as they can be straining to the eyes.
+
+7. **Keep Text Simple and Concise**:
+
+   - Clear and straightforward text is key to effective communication. Avoid jargon and keep your sentences short and to the point.
+
+8. **Maintain Consistency**:
+
+   - Consistency in typography creates a cohesive look and improves the user experience. Stick to a defined set of typefaces and styles throughout your design.
+
+9. **Animate Your Copy Wisely**:
+
+   - Animation can add a dynamic flair to your typography, but it should be used sparingly. Ensure animations enhance rather than distract from your message.
+
+10. **Prototyping and Testing**:
+    - Before finalizing your typography design, prototype and test it with real users to gather feedback. Testing helps in understanding how your typography performs across different devices and under various use cases, allowing you to make necessary adjustments for an optimal user experience.
+
+Each of these practices requires careful consideration and fine-tuning to ensure your typography not only looks good but also serves its fundamental purpose of conveying information clearly and effectively.
 
 ## Iconography
 
@@ -92,33 +232,16 @@ Selecting the right icons for your mobile app design is crucial for effective co
 
 - **Customization in Figma**: Figma offers a broad library of icons that you can browse and search through. It also provides tools for customizing and adapting icons to match your design's specific needs.
 
-## Organizing a Design System
+## Styles in Figma
 
-<YouTube
-  title="Build it in Figma: Create a Design System — Foundations"
-  url="https://www.youtube.com/embed/EK-pHkc5EL4?si=_iOUBnaFqggjYii4"
-/>
-
-Organizing your design system is crucial for maintaining clarity, efficiency, and collaboration within your design team. Here are some organizational tips:
-
-1. **Clear Hierarchy**: Structure your design system with a clear hierarchy. Categorize components, patterns, and styles logically for easy navigation.
-
-2. **Naming Conventions**: Use consistent and descriptive names for components and styles. This makes it easier for team members to find and use the right assets.
-
-3. **Version Control**: Implement version control to track changes and updates in your design system. This ensures that everyone is working with the latest assets.
-
-4. **Collaboration**: Foster collaboration by allowing team members to contribute to the design system. Encourage feedback and improvements.
-
-## Styles
-
-Styles in Figma are reusable collections of properties that you can apply to elements in your design. Whether it's text, colors, grids, or effects like shadows and blurs, styles allow you to maintain consistency and efficiency in your design process.
+Styles are reusable collections of properties that help maintain consistency in design.
 
 <YouTube
   title="Figma Tutorial: Creating Styles"
   url="https://www.youtube.com/embed/gtQ_A3imzsg?si=WFHEbMokOLgtvakq"
 />
 
-### Creating and Applying Styles in Figma:
+### Style Types:
 
 1. **Text Styles**: Define text styles for headings, body text, and other text elements. Apply these styles consistently to maintain a uniform look.
 
@@ -127,32 +250,3 @@ Styles in Figma are reusable collections of properties that you can apply to ele
 3. **Grid Styles**: Set up grid styles for layouts, columns, and spacing. This helps maintain alignment and consistency in your design.
 
 4. **Effect Styles**: Customize shadows, blurs, and other effects as styles. Apply these effects easily to elements for a cohesive design.
-
-## Libraries
-
-<YouTube
-  title="Figma tutorial: Create a shareable team library"
-  url="https://www.youtube.com/embed/79T8Q6OBmRk?si=_IkxRjfrfLfE4AnQ"
-/>
-
-In Figma, you can share components and styles by publishing them as libraries. This feature allows you to create a central source of truth for your design system and collaborate seamlessly.
-
-### Benefits of Using Figma Libraries
-
-1. **Shared Components**: Publish components as libraries so that they can be used across multiple projects. This ensures consistency and saves time by avoiding the need to recreate the same elements from scratch.
-
-2. **Consistency and Branding**: Libraries enable you to maintain design consistency, making it easier to adhere to brand guidelines. Any updates made to library components are automatically reflected in all instances throughout your projects.
-
-3. **Streamlined Collaboration**: With libraries, design teams can work seamlessly together. Changes and improvements made to library components are instantly accessible to all collaborators, fostering a cohesive design process.
-
-4. **Version Control**: Figma libraries support version control, allowing you to keep track of changes, roll back to previous versions, and ensure that your designs are always in sync with the latest updates.
-
-5. **Cross-File Styles**: Libraries allow for the creation of shared design styles, such as text styles and color palettes, which can be used consistently across multiple files.
-
-6. **Enhanced Efficiency**: Using libraries reduces redundancy and enhances productivity. You can access a centralized repository of approved assets, preventing the need to search or recreate elements for each new project.
-
-7. **Rapid Prototyping**: Libraries expedite the prototyping process by providing quick access to pre-approved components and styles. This accelerates the creation of wireframes and prototypes.
-
-8. **Accessibility**: Figma's libraries enhance accessibility for all team members. Teammates can easily locate and apply approved components and styles, ensuring a barrier-free design process.
-
-By leveraging Figma libraries, you unlock a wealth of advantages that simplify the design workflow, improve consistency, and boost overall efficiency.

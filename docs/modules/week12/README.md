@@ -12,8 +12,6 @@ Efficiently managing design assets and components is fundamental to maintaining 
 
 - **Asset Naming Conventions**: The importance of consistent naming conventions for design assets. We'll provide best practices for naming your assets to simplify organization and retrieval.
 
-##
-
 ## Creating Components
 
 ![Components Banner]()
@@ -41,6 +39,35 @@ Component variants enable you to manage design elements with multiple states or 
 ### Nested Components
 
 ![Nested Component Banner]()
+
+## Libraries
+
+<YouTube
+  title="Figma tutorial: Create a shareable team library"
+  url="https://www.youtube.com/embed/79T8Q6OBmRk?si=_IkxRjfrfLfE4AnQ"
+/>
+
+In Figma, you can share components and styles by publishing them as libraries. This feature allows you to create a central source of truth for your design system and collaborate seamlessly.
+
+### Benefits of Using Figma Libraries
+
+1. **Shared Components**: Publish components as libraries so that they can be used across multiple projects. This ensures consistency and saves time by avoiding the need to recreate the same elements from scratch.
+
+2. **Consistency and Branding**: Libraries enable you to maintain design consistency, making it easier to adhere to brand guidelines. Any updates made to library components are automatically reflected in all instances throughout your projects.
+
+3. **Streamlined Collaboration**: With libraries, design teams can work seamlessly together. Changes and improvements made to library components are instantly accessible to all collaborators, fostering a cohesive design process.
+
+4. **Version Control**: Figma libraries support version control, allowing you to keep track of changes, roll back to previous versions, and ensure that your designs are always in sync with the latest updates.
+
+5. **Cross-File Styles**: Libraries allow for the creation of shared design styles, such as text styles and color palettes, which can be used consistently across multiple files.
+
+6. **Enhanced Efficiency**: Using libraries reduces redundancy and enhances productivity. You can access a centralized repository of approved assets, preventing the need to search or recreate elements for each new project.
+
+7. **Rapid Prototyping**: Libraries expedite the prototyping process by providing quick access to pre-approved components and styles. This accelerates the creation of wireframes and prototypes.
+
+8. **Accessibility**: Figma's libraries enhance accessibility for all team members. Teammates can easily locate and apply approved components and styles, ensuring a barrier-free design process.
+
+By leveraging Figma libraries, you unlock a wealth of advantages that simplify the design workflow, improve consistency, and boost overall efficiency.
 
 ## Figma Plugins
 
