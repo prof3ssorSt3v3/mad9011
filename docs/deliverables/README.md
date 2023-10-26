@@ -70,23 +70,14 @@ Worth <Badge type="error" text="35%" /> of Final Grade
 
 ### [Project Overview](./finalproject/overview)
 
-::: tip Notice
-
-The remaining content regarding the Final Project, will be posted after reading week!
-
-:::
-
-<!--
-
-### [Part 1 - Wireframes](./finalproject/part1)
-
-### [Part 2 - Design System](./finalproject/part2)
-
-### [Part 3 - Visual Design](./finalproject/part3)
-
-### [Part 4 - Interactive Visual Prototype](./finalproject/part4)
-
-### [Part 5 - Presentation](./finalproject/part5) -->
+| Part                                                            | Due By Date                                                                                                                                |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Part 1: Low-fidelity Wireframes](./finalproject/part1.md)      | <Badge text="Section 300: Tuesday November 7th @3:00pm" /> <br> <Badge type="error" text="Section 310: Monday November 6th @4:00pm" />     |
+| [Part 2: Mid-fidelity Wireframes](./finalproject/part2.md)      | <Badge text="Section 300: Tuesday November 14th @3:00pm" /> <br> <Badge type="error" text="Section 310: Monday November 13th @4:00pm" />   |
+| [Part 3: Design System](./finalproject/part3.md)                | <Badge text="Section 300: Tuesday November 28th @3:00pm" /> <br> <Badge type="error" text="Section 310: Monday November 27th @4:00pm" />   |
+| [Part 4: Visual Design](./finalproject/part4.md)                | <Badge text="Section 300: Tuesday, December 5th @3:00pm" /> <br> <Badge type="error" text="Section 310: Monday, December 4th @4:00pm" />   |
+| [Part 5: Visual Interactive Prototype](./finalproject/part5.md) | <Badge text="Section 300: Tuesday, December 12th @3:00pm" /> <br> <Badge type="error" text="Section 310: Monday, December 11th @4:00pm" /> |
+| [Part 6: Presentations](./finalproject/part6.md)                | <Badge text="Section 300: Tuesday, December 12th @5:00pm" /> <br> <Badge type="error" text="Section 310: Monday, December 11th @6:00pm" /> |
 
 ## Quizzes
 

@@ -6,8 +6,6 @@
 
 A design system is a collection of reusable components and standards used to maintain consistency across a range of products. It acts as a single source of truth for a team, guiding the design of products with a singular design language.
 
-<YouTube title="Build it in Figma: Create a Design System — Foundations" url="https://www.youtube.com/embed/EK-pHkc5EL4?si=_iOUBnaFqggjYii4" />
-
 ### What Are the Elements of a Design System?
 
 A design system consists of both tangible and intangible elements. Components, patterns, and style guides are tangible elements.
@@ -21,6 +19,8 @@ Guidelines, brand values, and design mindset, on the other hand, are intangible 
 - **Guidelines** are sets of rules that allow a team to design consistent and coherent experiences made up of components, patterns, and visual styles.
 - **Brand values**, which naturally include a brand legend and brand mission, are a set of guiding principles that shape every aspect of your design.
 - A **design mindset** is your philosophy of design that aligns a team around a clear set of goals.
+
+<YouTube title="Build it in Figma: Create a Design System — Foundations" url="https://www.youtube.com/embed/EK-pHkc5EL4?si=_iOUBnaFqggjYii4" />
 
 ### What Are the Qualities of a Well-Functioning Design System?
 
@@ -214,6 +214,16 @@ With a grasp of typography types and manipulations, here are 10 best practices t
 
 Each of these practices requires careful consideration and fine-tuning to ensure your typography not only looks good but also serves its fundamental purpose of conveying information clearly and effectively.
 
+### Platform Specific Guidelines for Typography
+
+#### iOS
+
+...Image
+
+#### Android
+
+...Image
+
 ## Iconography
 
 ![Iconography Pallet Banner](./icon-banner.png)
@@ -231,6 +241,56 @@ Selecting the right icons for your mobile app design is crucial for effective co
 - **Cultural Considerations**: Be aware of cultural preferences and interpretations. Icons may have different meanings in various regions or demographics. Ensure your choices are culturally appropriate.
 
 - **Customization in Figma**: Figma offers a broad library of icons that you can browse and search through. It also provides tools for customizing and adapting icons to match your design's specific needs.
+
+### Types of Icons
+
+1. Glyph Icons:
+
+... Image
+
+Glyph icons are graphical symbols that are usually solid, and their name comes from the Greek word for "carving." They may be altered with multiple colours and shadow effects and resized to any size you require.
+Glyph icons function well at small sizes because they're usually solid colours, but they may lack visual interest at higher sizes.
+
+2. Colored Icons:
+
+... Image
+
+Colored icons are exactly what they sound like: they're coloured. They can be solid or gradient in colour, and they can make symbols appear less official and more fanciful.
+Colored icons have the disadvantage of being more difficult to integrate into a product's style, and they can even distract consumers from important material. As a result, excessive use is often bad for UX.
+
+3. Duotone Icons:
+
+... Image
+
+While most coloured icons utilise only one colour (or a gradient), duotone icons employ two unique colours that are related but not identical. To make one, divide an icon's elements into two layers (such as an outline and fill area), choose a starting colour, and play around with layer opacity until you have a duotone icon.
+
+Duotone icons can give your designs a little more visual appeal without overwhelming them. Just keep in mind that they can be difficult to read at very small sizes.
+
+4. Outlined Icons:
+
+... Image
+
+Vector strokes are used to make outlined icons, which are empty on the inside. They have advantages and disadvantages. On the plus side, they're simple, minimalist, and can appear quite professional. On the other hand, they may take longer for users to process and recognise.
+
+5. Universal Icons:
+
+... Image
+
+Universal icons are instantly identifiable and usually symbolise operations that are repeated frequently, such as home, print, or search. To avoid confusion, universal actions in your product should be represented by universal symbols.
+
+The search icon, for example, is generally a magnifying glass. Trying to be innovative by employing binoculars instead will simply confuse users. While you can change the icon's exact style to meet your design, the core form and concept should remain the same.
+
+6. Unique Icons:
+
+... Image
+
+Unique icons, as opposed to universal symbols, symbolise specific functions or features. The disadvantage of employing them is that they can be difficult to understand for first-time users. If you utilise them, be sure to add text labels so that consumers don't have to figure out what they signify.
+
+7. Conflicting Icons:
+
+... Image
+
+In some circumstances, you'll have to choose between several icons that all reflect the same idea. Conflicting icons are what they're called.
 
 ## Styles in Figma
 

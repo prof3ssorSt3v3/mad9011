@@ -1,71 +1,51 @@
-# Part 2: Design System
-
-::: tip Tip
-
-- Steps 1 & 2 have been started for you.
-- You may **refer** to any UI Kits or Libraries to help you complete the exercise.
-- You may also **use** components that are provided in either the iOS 16 UI Kit or the Material Design UI Kit
-
-:::
+# Part 2: Mid-Fidelity Wireframes
 
 ## Introduction
 
-For **Part 2** of this project, you will be creating a "mini" design system for your application. A design system is essential for creating consistency within your application. In addition to creating consistency, it also saves you a ton of time when putting together your visual design as many elements have already been created.
+In **Part 2** of this project, we transition from low-fidelity wireframes to a more refined stage. This phase involves integrating styling elements, such as drop shadows and corner radiuses. Think of Part 2 as the nexus between low-fidelity and high-fidelity wireframes, laying the foundation for Part 3.
+
+Moreover, it's essential to incorporate flow arrows between screens, illustrating the user journey.
 
 ## Instructions
 
-1. Start by creating a new file within your project and name it "Design System."
-   ![Step 1](./assets/step-1.png)
+1. Start by duplicating your "Part 1 - Low-Fidelity Wireframes" and rename the duplicate for Part 2.
+2. Name this duplicated page "Part 2 - Mid-Fidelity Wireframes."
+3. On this new page, begin implementing styles and effects to your wireframes. However, refrain from using color at this juncture.
+4. Images can be added if necessary, but ensure they are desaturated.
+5. After styling, introduce arrows to elucidate the flow between screens.
 
-2. Create pages for different elements of your Design system. Elements might include:
-   ![Step 2](./assets/step-2.png)
+**Note:** This deliverable should not closely mimic a real website yet.
 
-- Colour
-- Typography
-- Buttons
-- Cards
-- Tab
-- Etc
+## Example
 
-3. Next define your Typography (Size, Font Family, Font Weights, etc.)
-   ![Step 3](./assets/step-3.png)
+Below is a sample mid-fidelity wireframe. Use it as a reference point, but don't hesitate to add more intricacies. Observe the arrows indicating the user flow, an essential criterion for this segment of the assignment.
 
-4. Define your Colours (Primary, Secondary, Accent, Etc.)
-   ![Step 4](./assets/step-4.png)
-
-5. Look at your initial wireframes to determine which components you will need to create.
-
-6. Create your components in its corresponding page.
-
-- Make sure that you name your components accordingly
-- Create any variants you might require.
-
-## Submission Requirements
-
-For this exercise you will not be submitting a file. In Part 1 you already invited your prof to your Figma file. In the comment section of the submission please include;
-
-- Your generated Figma link
-- Your chosen website theme
-- Your group members names
-- Your Tentative app Name
+![Mid-fidelity Wireframe Example](./assets/mid-fi-example.png)
 
 ## Grading
 
-| Category          | Weight |
-| ----------------- | ------ |
-| Colours           | 2      |
-| Typography        | 2      |
-| File Organization | 2      |
-| Components        | 4      |
-| **Total**         | **10** |
+| Category        | Weight |
+| --------------- | ------ |
+| Flow Diagram    | 2      |
+| Readability     | 2      |
+| Effects         | 2      |
+| Styles          | 2      |
+| In Class Review | 2      |
+| **Total**       | **10** |
 
-## Submission
+## Submission Process
 
-::: warning Due Date
+Instead of a traditional file submission, share your work using Figma's sharing feature. In the submission comment section, kindly include:
 
-Section 010: Thursday, November 24, 2021 @ 5pm
+- Figma project link.
+- Your website's chosen theme.
+- List of all group members.
 
-Section 020: Wednesday, November 23, 2021 @ 7pm
+Since your professor was invited during Part 1, there's no need for another invitation.
 
-Submit on Brightspace under Assignments > Part 2 - Design System
-:::
+**Due Dates:**
+
+<Badge text="Section 300: Tuesday November 14th @3:00pm" /><br>
+<Badge type="error" text="Section 310: Monday November 13th @4:00pm" />
+
+Please submit via Brightspace under Assignments > Part 2 - Mid-Fidelity Wireframes.

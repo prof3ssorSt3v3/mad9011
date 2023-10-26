@@ -1,53 +1,53 @@
-# Part 4: Interactive Visual Prototype
+# Part 4: Visual Design
 
 ## Introduction
 
-This week you will be creating a Interactive Prototype of your mobile application. To do this you will apply triggers and actions to your Visual Design.
+This week, you're tasked with crafting a Visual Prototype of your application. This involves integrating your design system with your wireframes and incorporating any additional styling not covered in your design system.
 
-**Instructions:**
+## Instructions
 
-1. Start by creating a new page called "Part 4 - Prototype"
-2. Copy your visual design into this new page
-3. Start connecting your screens.
+1. Within your wireframe file, establish a new Page titled "Part 4 - Visual Design."
 
-## Expectations
+2. For clarity, you may opt to replicate your initial wireframes into this newly created page.
 
-- Connect all screens (Tap) - I should be able to move back and fourth between all screens.
-- Have an addition Action/Trigger (other then tap)
-- Create additional screen were needed to help connect your initial screens.
-- Your prototype should look and feel like a real mobile app.
-- Test you prototype in **Preview mode**
+3. Begin the process of incorporating styles derived from your design system.
 
-### "Example"
+4. Ensure the inclusion of authentic photos and copy to make your visual design realistic.
 
-![Example](./assets/prototype-example.png)
+## Key Points to Consider
 
-## Submission Requirements
+- Utilize your design system and its components, which includes:
+  - Typography
+  - Colours
+  - Buttons
+  - etc
+- All interactive components must be created. For instance, if your design featured a single button component, but the site necessitates multiple variants, ensure each variant has its respective component.
+- Aim for your visual design to mirror the appearance of an actual website.
+- Prototyping of your visual design isn't required for this week.
 
-- Your generated Figma link
-- Your chosen website theme
-- Your group members names
-- Your app Name
+## Grading Criteria
 
-## Grading
+| Category        | Points |
+| --------------- | ------ |
+| Components      | 4      |
+| Style           | 2      |
+| Document Layout | 2      |
+| Consistency     | 2      |
+| **Total**       | **10** |
 
-| Category           | Weight |
-| ------------------ | ------ |
-| Connected Screens  | 2      |
-| Additional Trigger | 2      |
-| Proper Scrolling   | 1      |
-| Effort             | 2      |
-| Flow               | 2      |
-| Week 13 Review     | 1      |
-| **Total**          | **10** |
+## Submission Details
 
-## Submission
+Rather than a conventional file submission, use Figma's sharing functionality to present your work. In the comment section of the submission, please provide:
 
-::: warning Due Date
+- Your Figma project link.
+- The theme you've selected for your website.
+- Names of all participating group members.
 
-Section 010: Thursday, December 8, 2021 @ 5pm
+Since your professor was invited during Part 1, there's no need for another invitation.
 
-Section 020: Wednesday, December 7, 2021 @ 7pm
+**Submission Deadlines:**
 
-Submit on Brightspace under Assignments > Part 4 - Prototype
-:::
+<Badge text="Section 300: Tuesday, December 5th @3:00pm" /><br>
+<Badge type="error" text="Section 310: Monday, December 4th @4:00pm" />
+
+Please submit via Brightspace under Assignments > Part 4 - Visual Design.

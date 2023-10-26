@@ -1,80 +1,52 @@
-# Part 5: Presentations
+# Part 5: Interactive Visual Prototype
 
 ## Introduction
 
-This week you will be presenting all your work done in parts 1 - 4 of the Final Project.
+This week's focus is on creating an interactive prototype for your mobile application. This process involves adding triggers and actions to your visual design, transforming it into a dynamic, user-friendly prototype.
 
-Each group will have 10 minutes max to present. Please be sure to bring an adapter if your computer does not have an HDMI port. I will have mine that is USBC -> HDMI
+## Instructions
 
-**To complete this exercise you must;**
+1. Initiate the task by establishing a new page titled "Part 5 - Interactive Prototype."
+2. Migrate your visual design to this newly created page.
+3. Begin the process of linking your screens together.
 
-- Present your work!!!
-  - automatic 0 for Part 5 for not presenting!
-- Show us your progress from week to week.
-- Explain your reasoning behind certain decisions.
-- Demo your Visual Prototype.
-- Reflect on things you would have done differently.
+## Key Considerations
 
-## Presentation Example
+- Ensure all screens are interconnected via the "Tap" function, enabling fluid navigation between them.
+- Integrate at least one additional Action/Trigger apart from "Tap."
+- If necessary, design supplementary screens to seamlessly link your initial screens.
+- Aim for your prototype to emulate the look and functionality of an authentic mobile app.
+- Thoroughly assess your prototype using the **Preview mode**.
 
-This is an example layout for your presentation.
+### Visual Representation
 
-### Title
+![Prototype Example](./assets/prototype-example.png)
 
-![Sample Slide](./assets/sample-slide-1.png)
+## Grading Criteria
 
-### Introduction
+| Category           | Points |
+| ------------------ | ------ |
+| Connected Screens  | 2      |
+| Additional Trigger | 2      |
+| Proper Scrolling   | 1      |
+| Effort             | 2      |
+| Flow               | 2      |
+| Week 13 Review     | 1      |
+| **Total**          | **10** |
 
-Give a brief introduction about your app.
-![Sample Slide](./assets/sample-slide-2.png)
+## Submission Procedure
 
-### Design System
+Rather than a traditional file submission, utilize Figma's sharing feature to showcase your work. Within the comment section of your submission, ensure the inclusion of:
 
-Include all your styles and components.
-![Sample Slide](./assets/sample-slide-3.png)
-![Sample Slide](./assets/sample-slide-4.png)
-![Sample Slide](./assets/sample-slide-5.png)
+- The Figma project link.
+- The chosen theme for your application.
+- A list of all group members.
 
-### Screens
+Given that your professor received an invitation during Part 1, a re-invitation is unnecessary.
 
-Each screen should have its own slide showing your wireframes and your visual design side by side.
-![Sample Slide](./assets/sample-slide-6.png)
-![Sample Slide](./assets/sample-slide-7.png)
+**Submission Deadlines:**
 
-### Demo
+<Badge text="Section 300: Tuesday, December 12th @3:00pm" /><br>
+<Badge type="error" text="Section 310: Monday, December 11th @4:00pm" />
 
-At this point you will switch from your presentation to your Figma file to walk us through the interactive prototype.
-![Sample Slide](./assets/sample-slide-8.png)
-
-::: tip Presenting your Demo
-When demoing your clickable visual prototype, try and create a story that links the transitions between screens.
-:::
-
-## Submission Requirements
-
-- Your generated Figma link
-- Your chosen website theme
-- Your group members names
-- Your app Name
-- PDF of you presentation
-
-## Grading
-
-| Category          | Weight |
-| ----------------- | ------ |
-| Presentation      | 5      |
-| Demo              | 3      |
-| Within time limit | 1      |
-| Effort            | 1      |
-| **Total**         | **10** |
-
-## Submission
-
-::: warning Due Date
-
-Section 010: Thursday December 8 or December 15, 2022 @5pm
-
-Section 020: Wednesday December 7 or December 14, 2022 @7pm
-
-Submit on Brightspace under Assignments > Part 5 - Presentation
-:::
+Please submit via Brightspace under Assignments > Part 5 - Interactive Prototype.

@@ -2,83 +2,69 @@
 
 ## Introduction
 
-Time to start your final project!!
+Welcome to the first part of your final project!
 
-For **Part 1** of this project (after selecting your team and your app's theme), you will be creating low-fidelity wireframes for your app using Figma.
+Upon forming your teams and deciding on your app's theme, it's time to delve into creating low-fidelity wireframes for your app using Figma.
 
-### What does low-fidelity mean?
+### Understanding Low-fidelity Wireframes
 
-Low-fidelity wireframes often refer to paper sketches, the benefit being that they can be created quickly, which makes them a very useful tool for brainstorming sessions.
+Low-fidelity wireframes are often synonymous with paper sketches due to their simplicity and speed of creation, making them invaluable for brainstorming sessions.
 
-The goal of low-fidelity wireframes is to make it easier to assess how logically the content and functional elements are arranged on individual pages.
+They aim to facilitate a logical assessment of content and functional element arrangement on each page, devoid of any styling aspects like color, imagery, or type styling, to prevent distraction from the primary focus.
 
-Because of this, low-fidelity wireframes typically don't employ styling; they don't have colors, imagery, type styling, or anything else that might detract from the wireframe's primary goal.
+In this project, we'll leapfrog the paper sketching phase and initiate our wireframing journey directly on Figma.
 
-In our case, we are skipping the paper and jumping right into Figma.
+**Key Takeaways:**
 
-**Summary**
+- Refrain from including:
+  - Color
+  - Images
+  - Icons (Represent them with basic shapes instead.)
+- For areas with substantial text, utilize basic lorem ipsum placeholder text.
 
-You must not include:
+### Screen Creation Guidelines
 
-- Color
-- Images
-- Icons
-  (You will simply represent them with basic shapes.)
+- Every group is required to design a homescreen.
+- Additionally, each group member should create two more screens.
 
-For text, in areas with large blocks of text, you can use basic lorem ipsum placeholder text.
-
-### So how many screens do you have to make?
-
-- Each group must create a homescreen.
-- Each member of your group must create 2 additional screens.
-
-So if you are in a group or 3, you will have a total of 7 screens.
+For instance, a group of three should craft a total of seven screens.
 
 ## Instructions
 
-1. Ensure that the file your group will be working in has been shared with all members and your prof.
-2. Determine which device you will design your app for.
-3. Create your frames.
-4. Start creating your basic layout.
-5. Organize your canvas, so your prof identifies each member's screens.
+1. Ensure the Figma file for this project is shared among all group members and your professor.
+2. Decide on the device for which you'll be designing your app.
+3. Begin crafting your frames.
+4. Lay out the basic structure of your design.
+5. Organize your canvas in a way that enables your professor to easily identify each member's screens.
 
 ## Examples
 
-**Example 1:** Ignore the arrows.
+![Example 1](./assets/p1-example.png)
 
-![Example 1](./assets/p1-example-1.png)
-
-**Example 2:** Web version.
-![Example 2](./assets/p1-example-2.png)
-
-## Submission Requirements
-
-For this exercise, you will not be submitting a file. Instead, you will be using Figma's sharing feature. In the comment section of the submission, please include the following;
-
-- Your generated Figma link
-- Your chosen website theme
-- Your group members' names
-
-(Ensure you invited your prof to the file)
-
-## Grading
+## Grading Criteria
 
 | Category          | Weight |
 | ----------------- | ------ |
+| Low-fidelity      | 2      |
 | Frame Layout      | 2      |
 | Readability       | 2      |
-| Layer Naming      | 2      |
 | File Organization | 2      |
 | Sharing           | 2      |
 | **Total**         | **10** |
 
-## Submission
+## Submission Requirements
 
-::: warning Due Date
+Rather than a file submission, you'll be sharing your work via Figma's sharing feature. In the comment section of the submission, please provide:
 
-Section 010: Thursday, November 10, 2021 @ 5pm
+- Your Figma link
+- The selected theme for your website
+- Names of all group members
 
-Section 020: Wednesday, November 9, 2021 @ 7pm
+Ensure your professor has been invited to access the Figma file with edit permissions.
 
-Submit on Brightspace under Assignments > Part 1 - Wireframes
-:::
+**Due Dates:**
+
+<Badge text="Section 300: Tuesday November 7th @3:00pm" /><br>
+<Badge type="error" text="Section 310: Monday November 6th @4:00pm" />
+
+Submit via Brightspace under Assignments > Part 1 - Low-Fidelity Wireframes
