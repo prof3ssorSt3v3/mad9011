@@ -8,13 +8,13 @@ In **Part 3** of this project, we aim to craft a concise design system for your 
 
 For your design system, you must incorporate:
 
-### Week 10
+### Week 11
 
 - **Typography**: Define your application's fonts, sizes, weights, and line heights.
 - **Colours**: Establish a color palette, including primary, secondary, and accent colors.
-- **Iconography**: Choose or design consistent icons for common actions and indicators.
+- **Iconography**: Choose or design consistent icon components for common actions and indicators.
 
-### Week 11
+### Week 12
 
 - **Buttons**: Design button styles, including hover, active, and disabled states.
 - **Cards**: Structure card elements for content presentation.
