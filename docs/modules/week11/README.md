@@ -73,6 +73,33 @@ A popular approach to achieving color balance is the 60-30-10 rule, often associ
 
 Effective UI design leverages this rule to achieve an impeccable color coordination, enhancing the user's interaction with the design.
 
+### Example of 60-30-10 Color Rule in a Mobile App
+
+### Theme: Clean and Professional
+
+![Example Colour Scheme](./example-colours.png)
+
+**Dominant Color (60%) - Light Lavender:**
+
+- **Usage:** Ideal for backgrounds and large UI elements. This light lavender (`#F4F5FD`) offers a clean, calming, and modern backdrop that's easy on the eyes.
+- **Hex Code:** `#F4F5FD`
+
+**Secondary Color (30%) - Deep Slate:**
+
+- **Usage:** For text, headers, footers, and less prominent buttons. Deep slate (`#384258`) provides a strong contrast against the light lavender, adding depth and sophistication to the design.
+- **Hex Code:** `#384258`
+
+**Accent Color (10%) - Vibrant Purple:**
+
+- **Usage:** For call-to-action buttons, highlights, and key interactive elements. Vibrant purple (`#7366F0`) stands out against both the light lavender and deep slate, drawing attention to important actions and features.
+- **Hex Code:** `#7366F0`
+
+**Application in UI Elements:**
+
+- **Backgrounds and Large Areas:** Light Lavender (`#F4F5FD`)
+- **Text and Secondary Elements:** Deep Slate (`#384258`)
+- **Interactive Elements and Highlights:** Vibrant Purple (`#7366F0`)
+
 ### Employing Interactive Colors
 
 Interactive colors are indispensable for highlighting interactive UI elements such as links, buttons, and other controls. Here are some guidelines:
@@ -215,6 +242,7 @@ Creating icon components in Figma is a crucial skill for UI/UX designers. It all
 3. **Optimize for Pixel-Perfect Rendering**: Align your icons to the pixel grid to avoid blurry edges. This is particularly important for small-sized icons.
 
 ![Icon Grid](./icon-grid.png)
+[Read more about icon grid here](https://m2.material.io/design/iconography/system-icons.html#grid-and-keyline-shapes)
 
 #### Step 2: Create Components
 
