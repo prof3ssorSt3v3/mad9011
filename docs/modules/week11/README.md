@@ -75,8 +75,6 @@ Effective UI design leverages this rule to achieve an impeccable color coordinat
 
 ### Example of 60-30-10 Color Rule in a Mobile App
 
-### Theme: Clean and Professional
-
 ![Example Colour Scheme](./example-colours.png)
 
 **Dominant Color (60%) - Light Lavender:**
