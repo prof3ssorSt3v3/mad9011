@@ -63,13 +63,13 @@ The **secondary colors** are orange, purple, and green, which may be created by 
 
 ### The 60-30-10 Color Rule
 
-... Image
+![60-30-10 Color Rule](./60-30-10.png)
 
 A popular approach to achieving color balance is the 60-30-10 rule, often associated with the notion of a Golden Ratio in design. This rule suggests that:
 
-- 60% of your design should feature a dominant or neutral color, setting the overall tone of the UI.
-- 30% should be a secondary color that either complements or contrasts with the dominant color, adding interest and emphasis.
-- 10% should be an accent color used for drawing attention to key elements.
+- A neutral color for **60%** of your design
+- A secondary brand color for **30%**
+- **10%** in your UI design should be your main brand color
 
 Effective UI design leverages this rule to achieve an impeccable color coordination, enhancing the user's interaction with the design.
 
@@ -80,13 +80,13 @@ Interactive colors are indispensable for highlighting interactive UI elements su
 - Assign a specific hue to primary interactions, allowing users to associate that color with certain actions.
 - Create dark and light variants of the interactive color to indicate different states (e.g., hovered, clicked).
 
-... Image
+![Interactive Colors](./interactive-colours.png)
 
 ### Understanding Denotative Colors
 
 Denotative colors carry inherent meanings and are crucial for signaling different states in your app or website, like error, success, or warning. Commonly, red, black, and green are utilized for these purposes.
 
-... Image
+![Denotative Colors](./denotative-colors.png)
 
 For instance, if red is a brand color, avoid using it for error messages. Ensure that colors chosen for disabled states have adequate contrast for legibility.
 
@@ -143,74 +143,34 @@ Beyond being a medium of visual communication, good typography in website or mob
 - Some typefaces offer a range of styles. For example, Futura has 22 different styles including light, condensed, semi-bold, and extra bold, providing versatile options for different design needs.
 
 **Novelty Styles**:
-... Image
+
+![Novelty Font](./novelty-typeface.png)
 
 - Novelty styles add a unique flair but should be used sparingly to avoid overwhelming the design.
-
-### Manipulating Type to Fit a Space
-
-Typography often needs tweaking to fit well in a design. Three key metrics for this are kerning, tracking, and leading.
-
-#### Kerning
-
-... Image
-
-- Kerning adjusts the space between two letters, enhancing the letter-to-letter balance, especially useful in logo design to ensure a polished look.
-
-#### Tracking
-
-... Image
-
-- Tracking adjusts the spacing across a string of letters, useful for fitting more letters in a tight space or spreading out letters that are too close.
-
-#### Leading
-
-... Image
-
-- Leading adjusts the space between baselines, altering a paragraph's appearance. It, along with x-height (the height of lowercase letters), impacts how text in a paragraph looks, ensuring a balanced and orderly look.
 
 ### Crafting an Effective Typography Design
 
 With a grasp of typography types and manipulations, here are 10 best practices to achieve compelling typography design:
 
-1. **Choosing Typefaces**:
+1. **Choosing Typefaces**: Selecting the right typefaces is fundamental. Choose a typeface that aligns with your brand's personality and the overall design aesthetics of your UI. It's often advisable to pair a serif and a sans-serif typeface to create a balanced look.
 
-   - Selecting the right typefaces is fundamental. Choose a typeface that aligns with your brand's personality and the overall design aesthetics of your UI. It's often advisable to pair a serif and a sans-serif typeface to create a balanced look.
+2. **Selecting Font-Weight and Styles**: The weight and style of the font can significantly impact the look and feel of your design. Bold weights are excellent for headlines, while regular or light weights are suitable for body text. Experiment with different styles to find what works best for your design.
 
-2. **Selecting Font-Weight and Styles**:
+3. **Mind the Spacing**: Adequate spacing between letters, words, and lines improves readability and aesthetics. Use kerning, tracking, and leading effectively to achieve a well-spaced typography design.
 
-   - The weight and style of the font can significantly impact the look and feel of your design. Bold weights are excellent for headlines, while regular or light weights are suitable for body text. Experiment with different styles to find what works best for your design.
+4. **Establish a Clear Visual Hierarchy**: Visual hierarchy guides the reader's eye and helps them navigate the content easily. Create a clear hierarchy using different font sizes, weights, and colors for headings, subheadings, and body text.
 
-3. **Mind the Spacing**:
+5. **Ensure Scalability**: Your typography should remain effective and legible across various screen sizes and resolutions. Use scalable units like ems or rems for font sizes to ensure a responsive design.
 
-   - Adequate spacing between letters, words, and lines improves readability and aesthetics. Use kerning, tracking, and leading effectively to achieve a well-spaced typography design.
+6. **Utilize Visual Contrast Judiciously**: Contrast helps in distinguishing text and improves readability. Ensure there's enough contrast between your text and background, but avoid overly harsh contrasts as they can be straining to the eyes.
 
-4. **Establish a Clear Visual Hierarchy**:
+7. **Keep Text Simple and Concise**: Clear and straightforward text is key to effective communication. Avoid jargon and keep your sentences short and to the point.
 
-   - Visual hierarchy guides the reader's eye and helps them navigate the content easily. Create a clear hierarchy using different font sizes, weights, and colors for headings, subheadings, and body text.
+8. **Maintain Consistency**: Consistency in typography creates a cohesive look and improves the user experience. Stick to a defined set of typefaces and styles throughout your design.
 
-5. **Ensure Scalability**:
+9. **Animate Your Copy Wisely**: Animation can add a dynamic flair to your typography, but it should be used sparingly. Ensure animations enhance rather than distract from your message.
 
-   - Your typography should remain effective and legible across various screen sizes and resolutions. Use scalable units like ems or rems for font sizes to ensure a responsive design.
-
-6. **Utilize Visual Contrast Judiciously**:
-
-   - Contrast helps in distinguishing text and improves readability. Ensure there's enough contrast between your text and background, but avoid overly harsh contrasts as they can be straining to the eyes.
-
-7. **Keep Text Simple and Concise**:
-
-   - Clear and straightforward text is key to effective communication. Avoid jargon and keep your sentences short and to the point.
-
-8. **Maintain Consistency**:
-
-   - Consistency in typography creates a cohesive look and improves the user experience. Stick to a defined set of typefaces and styles throughout your design.
-
-9. **Animate Your Copy Wisely**:
-
-   - Animation can add a dynamic flair to your typography, but it should be used sparingly. Ensure animations enhance rather than distract from your message.
-
-10. **Prototyping and Testing**:
-    - Before finalizing your typography design, prototype and test it with real users to gather feedback. Testing helps in understanding how your typography performs across different devices and under various use cases, allowing you to make necessary adjustments for an optimal user experience.
+10. **Prototyping and Testing**: Before finalizing your typography design, prototype and test it with real users to gather feedback. Testing helps in understanding how your typography performs across different devices and under various use cases, allowing you to make necessary adjustments for an optimal user experience.
 
 Each of these practices requires careful consideration and fine-tuning to ensure your typography not only looks good but also serves its fundamental purpose of conveying information clearly and effectively.
 
@@ -218,11 +178,13 @@ Each of these practices requires careful consideration and fine-tuning to ensure
 
 #### iOS
 
-...Image
+![iOS Typography](./ios-typography.png)
+[Read more here](https://developer.apple.com/design/human-interface-guidelines/typography)
 
 #### Android
 
-...Image
+![Android Typography](./google-typography.png)
+[Read more here](https://m3.material.io/styles/typography/type-scale-tokens)
 
 ## Iconography
 
@@ -242,55 +204,38 @@ Selecting the right icons for your mobile app design is crucial for effective co
 
 - **Customization in Figma**: Figma offers a broad library of icons that you can browse and search through. It also provides tools for customizing and adapting icons to match your design's specific needs.
 
-### Types of Icons
+### Creating Icon Components in Figma
 
-1. Glyph Icons:
+Creating icon components in Figma is a crucial skill for UI/UX designers. It allows for the efficient use and reuse of icons across different designs, ensuring consistency and saving time. Here's a step-by-step guide to creating icon components in Figma:
 
-... Image
+#### Step 1: Prepare Your Icons
 
-Glyph icons are graphical symbols that are usually solid, and their name comes from the Greek word for "carving." They may be altered with multiple colours and shadow effects and resized to any size you require.
-Glyph icons function well at small sizes because they're usually solid colours, but they may lack visual interest at higher sizes.
+1. **Design or Import Icons**: Start by designing your icons in Figma or importing them from other sources. Ensure they are vector graphics for scalability and editing flexibility.
+2. **Standardize Sizes**: Make sure all icons are of a consistent size. Common sizes are 24x24 or 32x32 pixels, but this can vary based on your design system.
+3. **Optimize for Pixel-Perfect Rendering**: Align your icons to the pixel grid to avoid blurry edges. This is particularly important for small-sized icons.
 
-2. Colored Icons:
+![Icon Grid](./icon-grid.png)
 
-... Image
+#### Step 2: Create Components
 
-Colored icons are exactly what they sound like: they're coloured. They can be solid or gradient in colour, and they can make symbols appear less official and more fanciful.
-Colored icons have the disadvantage of being more difficult to integrate into a product's style, and they can even distract consumers from important material. As a result, excessive use is often bad for UX.
+1. **Select an Icon**: Click on the icon you want to turn into a component.
+2. **Create the Component**: Use the keyboard shortcut `Cmd + Alt + K` (Mac) or `Ctrl + Alt + K` (Windows) to create a component. Alternatively, you can right-click on the icon and select 'Create Component'.
+3. **Name Your Component**: Give your component a clear and descriptive name. This is crucial for finding and organizing your components later.
 
-3. Duotone Icons:
+#### Step 3: Organize Components
 
-... Image
+1. **Apply Consistent Naming**: Use a consistent naming convention for your components, like `Icons/Navigation/Back` or `Icons/Social/Facebook`.
+2. **Individual Components or Variants**: Decide whether to use individual components for each icon or a single component with multiple variants. Variants can be useful for icons that share a similar structure but differ in minor ways, such as arrows pointing in different directions or buttons with different states.
 
-While most coloured icons utilise only one colour (or a gradient), duotone icons employ two unique colours that are related but not identical. To make one, divide an icon's elements into two layers (such as an outline and fill area), choose a starting colour, and play around with layer opacity until you have a duotone icon.
+![Icon component](./icon-component.png)
 
-Duotone icons can give your designs a little more visual appeal without overwhelming them. Just keep in mind that they can be difficult to read at very small sizes.
+#### Step 4: Use and Edit Components
 
-4. Outlined Icons:
+1. **Drag and Drop to Use**: To use an icon component in your design, simply drag it from the 'Assets' panel into your canvas.
+2. **Override Properties**: You can override certain properties of an icon component (like color) in its instance without affecting the main component.
+3. **Detach Instance**: If you need to make significant changes to an icon for a specific use case, you can detach it from the component (`Right-click > Detach Instance`). Remember, this means any updates to the main component won’t reflect in this detached instance.
 
-... Image
-
-Vector strokes are used to make outlined icons, which are empty on the inside. They have advantages and disadvantages. On the plus side, they're simple, minimalist, and can appear quite professional. On the other hand, they may take longer for users to process and recognise.
-
-5. Universal Icons:
-
-... Image
-
-Universal icons are instantly identifiable and usually symbolise operations that are repeated frequently, such as home, print, or search. To avoid confusion, universal actions in your product should be represented by universal symbols.
-
-The search icon, for example, is generally a magnifying glass. Trying to be innovative by employing binoculars instead will simply confuse users. While you can change the icon's exact style to meet your design, the core form and concept should remain the same.
-
-6. Unique Icons:
-
-... Image
-
-Unique icons, as opposed to universal symbols, symbolise specific functions or features. The disadvantage of employing them is that they can be difficult to understand for first-time users. If you utilise them, be sure to add text labels so that consumers don't have to figure out what they signify.
-
-7. Conflicting Icons:
-
-... Image
-
-In some circumstances, you'll have to choose between several icons that all reflect the same idea. Conflicting icons are what they're called.
+Creating icon components in Figma not only streamlines your design process but also ensures consistency across your projects, making it an essential skill for efficient and effective UI/UX design.
 
 ## Styles in Figma
 
