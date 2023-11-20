@@ -105,7 +105,7 @@ By utilizing Auto Layout in Figma, you can create a button component that is not
 
 ### Nested Components for Mobile UI
 
-![Nested Component Banner]()
+![Nested Component Banner](./nested-components.png)
 
 Nested components in mobile UI design can help in creating complex yet consistent interfaces, like navigation menus or form elements.
 
