@@ -21,8 +21,8 @@ This week, you're tasked with crafting a Visual Prototype of your application. T
   - Colours
   - Buttons
   - etc
-- All interactive components must be created. For instance, if your design featured a single button component, but the site necessitates multiple variants, ensure each variant has its respective component.
-- Aim for your visual design to mirror the appearance of an actual website.
+- All interactive components must be created. For instance, if your design featured a single button component, but the app necessitates multiple variants, ensure each variant has its respective component.
+- Aim for your visual design to mirror the appearance of an actual app.
 - Prototyping of your visual design isn't required for this week.
 
 ## Grading Criteria
@@ -40,7 +40,7 @@ This week, you're tasked with crafting a Visual Prototype of your application. T
 Rather than a conventional file submission, use Figma's sharing functionality to present your work. In the comment section of the submission, please provide:
 
 - Your Figma project link.
-- The theme you've selected for your website.
+- The theme you've selected for your app.
 - Names of all participating group members.
 
 Since your professor was invited during Part 1, there's no need for another invitation.
