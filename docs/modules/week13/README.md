@@ -1,10 +1,15 @@
-# Week 13 - High-fidelity Wireframes
+# Week 13 - High-fidelity Wireframes (Visual Design)
 
 ## High-fidelity Wireframes: Bringing Your Designs to Life
 
-![High-fidelity Wireframes Banner]()
+![High-fidelity Wireframes Banner](./highFidelity.png)
 
 In this module, we'll explore the transition from wireframes to high-fidelity designs. High-fidelity wireframes are detailed and polished representations of your design concepts. They go beyond the structural layout to consider the finer details like typography, colors, images, and interactive elements. Let's dive into the world of high-fidelity wireframes, understanding their significance and how to create them effectively.
+
+<YouTube
+  title="Create a High-Fidelity Prototype"
+  url="https://www.youtube.com/embed/Fr-f2NE6B3U?si=sRYsHtA1xUljYfmi"
+/>
 
 ### Understanding High-fidelity Wireframes
 
@@ -20,7 +25,7 @@ High-fidelity wireframes serve as the bridge between your initial design ideas a
 
 ## Layout Best Practices
 
-![Layout Banner]()
+![Layout Banner](./adaptive-design.gif)
 
 In high-fidelity wireframes, an organized and visually appealing layout is key to success. Here are some best practices to consider:
 
@@ -32,7 +37,7 @@ In high-fidelity wireframes, an organized and visually appealing layout is key t
 
 ## Designing for Different Screen Sizes and Resolutions
 
-![Different Screen Sizes and Resolutions]()
+![Different Screen Sizes and Resolutions](./safe-areas.png)
 
 Designing for various screen sizes and resolutions is a crucial aspect of high-fidelity wireframes. To accommodate the diverse digital landscape, consider the following:
 
@@ -46,7 +51,7 @@ Designing for various screen sizes and resolutions is a crucial aspect of high-f
 
 ## Designing with Accessibility in Mind
 
-![Accessibility]()
+![Accessibility](./accessibility.png)
 
 Creating high-fidelity wireframes with accessibility in mind is essential for mobile app design. To ensure inclusivity and user-friendliness, incorporate recommendations from Apple's Human Interface Guidelines (HIG) and Google's Material Design, along with adherence to the Web Content Accessibility Guidelines (WCAG). Here's how these guidelines contribute to accessible design:
 
