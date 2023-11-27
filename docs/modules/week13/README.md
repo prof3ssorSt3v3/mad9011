@@ -1,10 +1,12 @@
-# Week 13 - High-fidelity Wireframes (Visual Design)
+# Week 13 - Visual Design
 
-## High-fidelity Wireframes: Bringing Your Designs to Life
+## Visual Design: Bringing Your Designs to Life
 
 ![High-fidelity Wireframes Banner](./highFidelity.png)
 
-In this module, we'll explore the transition from wireframes to high-fidelity designs. High-fidelity wireframes are detailed and polished representations of your design concepts. They go beyond the structural layout to consider the finer details like typography, colors, images, and interactive elements. Let's dive into the world of high-fidelity wireframes, understanding their significance and how to create them effectively.
+Visual design transcends mere aesthetics, playing a pivotal role in shaping and enhancing user experiences. It's not just about making products look attractive; it's about thoughtful integration of elements like illustrations, photography, typography, space, layout, and color to make products both usable and appealing.
+
+Imagine visual design as the final layer in a multi-tiered cake of design. It's not merely a superficial coat of paint; it's the culmination of a design process that gives your product a distinct, recognizable identity.
 
 <YouTube
   title="Create a High-Fidelity Prototype"
@@ -22,6 +24,12 @@ High-fidelity wireframes serve as the bridge between your initial design ideas a
 - **Ease Development**: With a detailed visual guide, developers can work efficiently, minimizing ambiguities in design implementation.
 
 - **Gather Precise Feedback**: High-fidelity wireframes enable users and stakeholders to provide feedback on a design that closely resembles the actual application.
+
+### Visual Design vs. Graphic Design
+
+| **Visual Design:**                                                                                                                                                                                                                              | **Graphic Design:**                                                                                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Focuses on optimizing user experience in digital spaces, using elements like typography and color to enhance interaction and usability. It's intertwined with functionality and user journey, emphasizing intuitive design in digital contexts. | Involves creating visual content for various media, using imagery and typography to communicate messages and solve problems. It spans digital and print mediums, often focusing more on artistic expression and visual storytelling. |
 
 ## Layout Best Practices
 
