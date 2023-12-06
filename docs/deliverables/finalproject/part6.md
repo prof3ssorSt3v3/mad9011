@@ -4,7 +4,7 @@
 
 This week culminates in the presentation of all the work you've completed from Parts 1 through 4 of the Final Project.
 
-Each group is allotted a maximum of 10 minutes for their presentation. If your computer lacks an HDMI port, please remember to bring an appropriate adapter. I will provide a USBC -> HDMI adapter if needed.
+Each group is allotted a maximum of 5 minutes for their presentation. If your computer lacks an HDMI port, please remember to bring an appropriate adapter. I will provide a USBC -> HDMI adapter if needed.
 
 ## Presentation Requirements:
 
@@ -12,7 +12,7 @@ Each group is allotted a maximum of 10 minutes for their presentation. If your c
 - **Decision Justification:** Explain the rationale behind specific design choices.
 - **Visual Prototype Demo:** Walk the audience through your interactive prototype.
 - **Reflect:** Share insights on aspects you might have approached differently.
-- **Note:** Failing to present results in an automatic zero for Part 5.
+- **Note:** Failing to present results in an automatic zero for Part 6.
 
 ## Suggested Presentation Structure:
 
