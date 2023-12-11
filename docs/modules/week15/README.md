@@ -12,7 +12,7 @@ Please make sure that one member from each group has submitted;
 
 ## Final Presentation Order
 
-You must attend attend both presentations days as you must comment on your classmates work.
+Failing to present results in an automatic zero for Part 6.
 
 ### Section 010
 
