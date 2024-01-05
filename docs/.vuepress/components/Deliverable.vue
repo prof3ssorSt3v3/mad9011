@@ -15,10 +15,8 @@
       v-else-if="linkType === 'paused'"
       class="coming-soon"
       text="Coming Soon"
+      type="warning"
     />
-    <div v-else-if="linkType === 'paused'" class="badge coming-soon">
-      Coming Soon
-    </div>
     <!-- No link or badge for 'disabled' -->
     <hr v-if="!isLast" class="divider" />
   </div>
@@ -71,30 +69,10 @@ export default {
   margin-bottom: 0rem;
 }
 
-.due-date {
-  /* Styles for the due date badge */
-}
-
-.description {
-  /* Styles for the description */
-}
-
-.details-button {
-  /* Styles for the details button */
-}
-
-.badge {
-  padding: 0.5em 1em;
-  border-radius: 5px;
-  text-align: center;
-  font-size: 0.85em;
-  display: inline-block;
-}
-
-.coming-soon {
+.badge,
+.badge.disabled {
   background-color: grey;
   color: white;
-  /* Additional styling as needed */
 }
 
 .divider {
