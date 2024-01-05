@@ -6,11 +6,20 @@ Every week there will be work for you to complete inside or outside of class. So
 
 Worth <Badge type="error" text="20%" /> of Final Grade
 
-### [Exercise 1 — Select & Mask](./exercises/ex-1.md)
+<Deliverable
+  title="Exercise 1 — Select & Mask"
+  dueDate="Due: Tuesday January 16th @9:00pm"
+  description="Description of the exercise."
+  detailsLink="./exercises/ex-1.md"
+/>
+
+### Exercise 1 — Select & Mask
+
+<Badge text="Due: Tuesday January 16th @9:00pm" />
 
 Descripton
 
-<Badge text="Due: Tuesday January 16th @9:00pm" />
+[Details button](./exercises/ex-1.md)
 
 ---
 
@@ -18,7 +27,7 @@ Descripton
 
 Descripton
 
-<Badge text="Due: Tuesday January 23th @9:00pm" />
+<Badge text="Due: Tuesday January 23rd @9:00pm" />
 
 ---
 
@@ -81,12 +90,22 @@ Worth <Badge type="error" text="15%" /> of Final Grade
 
 ### Quiz 1 - Photoshop Quiz
 
-<Badge text="Due: Tuesday January 19th @9:00pm" />
+Descripton
+
+<Badge text="Due: Thursday January 18th @5:00pm" />
+
+---
 
 ### Quiz 2 - Illustrator Quiz
 
-<Badge text="Due: Tuesday February 17th @9:00pm" />
+Descripton
+
+<Badge text="Due: Thursday February 15th @5:00pm" />
+
+---
 
 ### Quiz 3 - Figma Quiz
 
-<Badge text="Due: Tuesday December 5th @9:00pm" />
+Descripton
+
+<Badge text="Due: Thursday April 11th @5:00pm" />
