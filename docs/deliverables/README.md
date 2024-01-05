@@ -7,7 +7,7 @@ Every week there will be work for you to complete inside or outside of class. So
 <Deliverable
   title="Exercise 1 — Select & Mask"
   dueDate="Due: Tuesday January 16th @9:00pm"
-  description="Description of the exercise."
+  description="In this exercise, you'll enhance your skills in non-destructive masking and background replacement, progressing to create a unified composition by blending multiple images into a visually and narratively compelling scene."
   linkType="active"
   detailsLink="./exercises/ex-1.html"
   :isLast="false"

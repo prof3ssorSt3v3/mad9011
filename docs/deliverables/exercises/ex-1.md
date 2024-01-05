@@ -51,7 +51,7 @@ Common issues and solutions you might encounter during the exercise:
 
 Fix rubric
 
-## File Setup and Submisson
+## File Setup and Submission
 
 Compress and submit your `lName-fName-section#-select-and-mask` folder containing:
 
@@ -64,7 +64,7 @@ Compress and submit your `lName-fName-section#-select-and-mask` folder containin
 
 <Badge type="error" text="Due: Tuesday January 16th @9:00pm" />
 
-::: warning
+::: warning Submission
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Exercise 1 — Select & Mask
