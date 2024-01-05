@@ -34,5 +34,29 @@ export default {
 </script>
 
 <style scoped>
-/* Your existing styles */
+.deliverable {
+  /* Your styles for the deliverable component */
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  /* Styles for the title */
+}
+
+.due-date {
+  /* Styles for the due date badge */
+}
+
+.description {
+  /* Styles for the description */
+}
+
+.details-button {
+  /* Styles for the details button */
+}
 </style>
