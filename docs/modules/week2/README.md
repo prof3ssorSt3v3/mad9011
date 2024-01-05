@@ -1,20 +1,23 @@
-# Week 2 - Photo Retouching
+# Week 2 - Photo Retouching Techniques
 
-## Introduction
+## Learning Objectives
 
-Whether they’re blemishes on skin or stains on a surface, Photoshop has a tool to remove them quite easily. Our focus here will be on working non-destructively. That means that we don’t want to paint on the original photo at all. The added advantage working this way is that our painting will be accessible on their own layers.
+By the end of this week, students will be able to:
 
-## Retouching Tools
+1. **Master Advanced Retouching Tools:** Utilize tools like Clone Stamp, Healing Brush, and Patch Tool for photo repair.
+2. **Implement Content-Aware Techniques:** Apply content-aware fill to seamlessly remove unwanted elements from images.
+3. **Employ Non-Destructive Editing Methods:** Practice retouching and editing without altering the original image data.
 
-<img src="./tool-icons-psd-cloning.svg" style="max-width: 7.5rem;" alt="Photoshop's retouching tools">
+## Introduction to Advanced Retouching
 
-1. Clone Stamp Tool
-2. Spot Healing Brush Tool
-3. Healing Brush Tool
-4. Patch Tool
-5. Red Eye Tool
+Explore advanced tools and techniques in Photoshop for retouching images, focusing on maintaining image quality and non-destructive editing methods. Learn to address common issues like blemishes or stains using Photoshop's powerful toolkit, all while preserving the integrity of the original photo.
 
-These are the tools we’ll focus on. They’re all made to repair photographs.
+## Retouching Tools Overview
+
+- **Clone Stamp Tool:** Replicate pixels from one area to another, ideal for covering unwanted elements.
+- **Healing Brush & Spot Healing Brush Tools:** Blend and repair imperfections seamlessly by adjusting pixels to match their surroundings.
+- **Patch Tool:** Cover larger flawed areas by dragging a good part of the photo over them, especially effective on flat surfaces.
+- **Red Eye Tool Alternatives:** Learn alternative, non-destructive methods to fix red-eye effects.
 
 ### Clone Stamp Tool
 
@@ -62,14 +65,14 @@ Note that if the Patch setting is at Normal, the tool doesn’t work on a separa
 #### Patch Settings
 
 <dl>
-<dt>Structure</dt>
+<dt><strong>Structure</strong></dt>
 <dd>
   Enter a value between 1 and 7 to specify how closely the patch should reflect existing image patterns. If you enter 7, the patch adheres very strongly to existing image patterns. If you enter 1, the patch adheres very loosely to the existing image patterns.</dd>
-<dt>Color</dt>
+<dt><strong>Color</strong></dt>
 <dd>
   Enter a value between 0 and 10 to specify the extent to which you want Photoshop to apply algorithmic color-blending to the patch. If you enter 0, color blending is disabled. A Color value of 10 applies maximum color blending.
 </dd>
-<dt>Sample All Layers</dt>
+<dt><strong>Sample All Layers</strong></dt>
 <dd>
   Enable this option to create the result of the move in another layer using information from all layers. Select the target layer in the Layers panel.
 </dd>
@@ -77,7 +80,7 @@ Note that if the Patch setting is at Normal, the tool doesn’t work on a separa
 
 ### Red Eye Tool
 
-<img src="./tool-icon-patch-tool.svg" style="max-width: 7.5rem;" alt="Red eye tool icon">
+<img src="./tool-icon-red-eye.svg" style="max-width: 7.5rem;" alt="Red eye tool icon">
 
 <strong>Let’s avoid using this tool</strong>. We’ll use a Hue/Saturation adjustment layer instead.
 
@@ -103,5 +106,3 @@ The Content Aware Tools in Photoshop are truly magical. They make a really good 
 Make a selection, then use `Edit > Fill > Content Aware Fill` to open the Content Aware Fill dialogue. In this dialogue you can select which areas of the photo to sample from by painting on the green sections. On the right side you will see a preview of the fill. When you are happy with the results, make sure **Output to** is set to **New Layer** then click **OK** and it will automatically create a new layer with the filled area.
 
 Depending on how complex the fill needs to be, you may need to layer a couple fills for best results. However, often with simpler fixes, one is enough.
-
-Content on this page is used with permission from [cg.algonquindesign.ca](https://cg.algonquindesign.ca/topics/retouching-fundamentals.html)

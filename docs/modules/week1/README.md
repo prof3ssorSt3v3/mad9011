@@ -1,65 +1,114 @@
-# Week 1 - Introduction to Photoshop
+# Week 1 - Photoshop Fundamentals and Photo Manipulation
 
-::: warning To Do for Next Week
+## Learning Objectives
 
-- **Install Adobe Photoshop (PS)**
+By the end of this week, students will be able to:
 
-:::
+1. **Understand Raster Graphics:** Grasp how Photoshop handles pixel-based images, including the significance of resolution and image quality.
+2. **Differentiate File Types:** Identify PSD, JPEG, PNG, and GIF, and understand their appropriate applications.
+3. **Navigate Photoshop Interface:** Familiarize with the layout, tools, panels, and menus, and learn workspace customization.
+4. **Master Layers:** Understand layer creation, management, and styling.
+5. **Utilize Core Tools:** Gain proficiency in selection tools, image resizing, and basic masking.
+6. **Apply Nondestructive Editing:** Learn the difference between destructive and nondestructive editing, using adjustment layers and smart objects.
 
-## Introduction
+## Raster Graphics and Pixels
 
-Welcome to Adobe Photoshop, we will use Ps to create raster-based (bitmap) graphics. Our focus will be on mobile features, including designing User Interface(UI), creating/composing graphics and the necessary colour basics. Let's first get familiar with Photoshop `workspace` and then move to the basic features and tools.
+![Raster Graphics and Pixels](./raster-image.png)
 
-<a href="https://helpx.adobe.com/ca/photoshop/using/workspace-basics.html#workspace_overview" target=”_blank”>![Adobe Photoshop Workspace](./PSworkspace.png)</a>
+### Understanding Raster Graphics
 
-### Helpful Photoshop Resources
+Raster graphics are fundamental to how Photoshop manages images. They are:
 
-- [Photoshop User Guide](https://helpx.adobe.com/photoshop/user-guide.html)
-- [Photoshop Tool Galleries](https://helpx.adobe.com/photoshop/using/tools.html)
-- [Photoshop Artboards](https://helpx.adobe.com/photoshop/using/artboards.html)
-- [Keyboard Shortcuts](https://helpx.adobe.com/ca/photoshop/using/default-keyboard-shortcuts.html)
-- [Adobe PS Tutorials](https://helpx.adobe.com/ca/photoshop/tutorials.html)
-- [A comprehensive tutorial for Photoshop Tools](http://www.photoshop-bootcamp.com/beginners-guide-photoshop-tools-toolbar/)
+- **Composed of Pixels:** Each pixel is a tiny square that makes up part of the image. Every pixel contains data about color and brightness, contributing to the overall appearance of the image.
+- **Photoshop's Pixel Manipulation:** Photoshop edits images by altering these pixels. Whether you're adjusting colors, applying filters, or transforming shapes, Photoshop recalculates the pixel data to create the desired effect.
 
-### Free stock photos & videos sites:
+### Image Resolution
 
-- [Unsplash](https://unsplash.com/)
-- [Pixabay](https://pixabay.com/)
-- [Pexels](https://www.pexels.com/)
+Resolution is a key concept in digital imaging that directly impacts the quality and usability of your images.
 
-## Common Features & Tools
+- **Pixels Per Inch (PPI):** This measures the density of pixels in an image. A higher PPI means more pixels are packed into each inch, resulting in finer detail and sharper images.
+- **Effect on Image Quality:** High-resolution images are clearer and more detailed, making them ideal for high-quality prints and detailed editing. However, they also have larger file sizes, which can be a consideration for web use or storage.
+- **Choosing the Right Resolution:**
+  - **For Printing:** Higher resolutions, typically around 300 PPI, are preferred to ensure that prints are sharp and detailed.
+  - **For Web and Screen Use:** Lower resolutions, such as 72 PPI, are often sufficient since screens generally display fewer pixels per inch than what can be achieved in print. This also helps in reducing file size, which is crucial for website loading times and performance.
+  - **Editing Considerations:** When editing, consider the final output of your image. If you're working on graphics for a website, a lower resolution might suffice. However, if you're editing images for a printed brochure, you'll need a higher resolution to ensure quality in the final print.
 
-### Opening, Creating, Saving Documents
+## File Types and Their Uses
 
-We will learn the how's and why's of setting up documents to open or create a new document, save a document, navigate the work area, zoom in/out, and undo mistakes. Take a look at this series of short tutorials to Get to know [Photoshop](https://helpx.adobe.com/photoshop/how-to/ps-basics-fundamentals.html). (5 videos)
+- **PSD:** Photoshop's native format for layered files.
+- **JPEG:** Common for photos, balancing quality and file size.
+- **PNG:** Ideal for web graphics with transparency.
+- **GIF:** For simple animations and low-color images.
 
-- Open images
-- Get familiar with the work area
-- Learn how to zoom and pan
-- Undo a command
-- Save your work
+## Introduction to Photoshop
 
-### Using Artboards
+![Photoshop](./photoshop-logo.png)
+
+Adobe Photoshop is a leading tool in image editing and manipulation, essential in graphic design, photography, and digital art. This module introduces Photoshop's interface and key tools for photo manipulation.
+
+## Understanding Photoshop's Interface
+
+![Photoshop Interface](./photoshop-interface.png)
+
+Adobe Photoshop's interface is a complex environment with various tools and features. Understanding and navigating this interface is crucial for efficient and effective photo editing.
+
+### Workspace Overview
+
+- **Toolbar:** Located typically on the left, the toolbar contains tools for selecting, manipulating, and editing your work. Tools are grouped by function, and many have hidden tools available through a click-and-hold action.
+- **Panels:** Panels like Layers, Adjustments, and History are usually found on the right. These panels provide control over various aspects of your image and your workspace.
+- **Menus:** The top menu bar includes options like File, Edit, Image, Layer, and more. Each menu contains a list of actions and settings related to different functionalities in Photoshop.
+- **Options Bar:** Just below the top menu, the options bar changes contextually based on the selected tool, offering specific settings for that tool.
+
+### Customizing the Workspace
+
+- **Rearranging Panels:** You can drag panels to different locations, group them together, or stack them in tabs. This allows you to create a workspace that best fits your workflow.
+- **Saving Workspaces:** Once you have a layout that suits your needs, you can save it as a custom workspace. This is particularly useful if you switch between different types of tasks (e.g., photo editing vs. graphic design).
+- **Resetting Workspace:** If you ever get lost or your panels seem disorganized, you can reset your workspace to the default layout.
+- **Using Preset Workspaces:** Photoshop also comes with preset workspaces optimized for specific tasks, like painting, photography, or 3D work.
+
+## Understanding Photoshop Canvases and Artboards
+
+In Photoshop, the concepts of canvases and artboards are fundamental for managing your design workspace efficiently. While they share similarities, they serve different purposes and are used in various design scenarios.
+
+### Photoshop Canvas
+
+- **The Foundation of Your Design:** The canvas in Photoshop is the base area where your design or image resides. It's like a digital piece of paper where you create and manipulate your artwork.
+- **Canvas Size and Resizing:** The size of the canvas determines the working area for your design. You can adjust the canvas size according to the requirements of your project, which is particularly useful when you need to add extra space around your design or crop it to specific dimensions.
+- **Background and Transparency:** The canvas can have a background color or be transparent. A transparent canvas is essential when creating graphics for the web or layers for composite images.
+
+### Photoshop Artboards
+
+- **Multiple Workspaces in One Document:** Artboards allow you to have multiple 'canvases' within a single Photoshop document. Each artboard acts as an independent workspace, enabling you to work on different design elements or variations side by side.
+- **Organizing and Exporting Artboards:** You can easily organize, name, and rearrange artboards within a document. Photoshop also provides efficient tools for exporting artboards, making it simple to share and present different parts of your project.
 
 [Artboards](https://helpx.adobe.com/photoshop/using/artboards.html) article provides a quick reference in Photoshop User Guide.
 
-Think of an artboard as a special type of layer group. We will learn all kinds of Photoshop layers in the next few weeks. Have you noticed how similar or different artboard layers are in PhotoShop than in Illustrator? To begin, follow along this video tutorial.
+### When to Use Canvas vs. Artboards
+
+- **Single Design or Image Editing:** Use the canvas when working on a single image or if your project doesn't require multiple variations or layouts.
+- **Multiple Designs or Layouts:** Use artboards when your project involves different designs or variations that need to be viewed and edited in parallel, such as designing for multiple devices or creating a series of web banners.
+
+Understanding when and how to use canvases and artboards will enhance your workflow in Photoshop, allowing you to choose the right approach for your specific design needs.
+
+## Working with Layers
+
+Layers are a cornerstone of Photoshop, providing flexibility and control over different elements of your image.
 
 <YouTube
-  title="Photoshop CC Artboards"
-  url="https://www.youtube.com/embed/m6Wb2R2FTAc"
+  title="How to Use Layers: Photoshop | Adobe Creative Cloud"
+  url="https://www.youtube.com/embed/xRFBOcxjkQU?si=tFU3O8-DA0kYOqXI"
 />
 
-### Changing Image Size
+## Changing Image Size
 
-We will learn to resize, crop, and straighten an image and change the canvas size. **Note:** Canvas and image resize won't work when artboards are used. Resize artboards instead. Let's Begin the video tutorials to [**Change the image size.** (4 videos)](https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html)
+Photoshop allows you to resize, crop, and straighten an image and change the canvas size. **Note:** Canvas and image resize won't work when artboards are used. Resize artboards instead. Let's Begin the video tutorials to [**Change the image size.** (4 videos)](https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html)
 
 - Resize an image
 - Set the resolution
 - Crop and straighten an image
 - Expand the canvas
 
-### Making Selections
+## Making Selections
 
 A selection isolates part of an image so you can work on that area without affecting the rest of the image. Take a look at this series of short tutorials and practice [**making selections.** (3 videos)](https://helpx.adobe.com/photoshop/how-to/selection-tools-basics.html)
 
@@ -69,24 +118,53 @@ A selection isolates part of an image so you can work on that area without affec
 
 ### Object Selection Tool
 
-Don't forget to try one of the 2020 new tools: `Object Selection`
+Learn how to select regions of a photo quickly using the Photoshop Select Object tool.
 
 <YouTube
-  title="Object Selection Tool"
-  url="https://www.youtube.com/embed/0Qm5nS2PMBs"
+  title="How to Select Objects in Photoshop"
+  url="https://www.youtube.com/embed/PAeEnLPgal4?si=bZ6WWbcTryOPkg2i"
 />
 
-## Creating Silhouettes with Masks
+## Masking
 
-First, we will make and refine selections in the Selection and Masking Space to create a masking image. Let's practice along with this [Accurately select image areas tutorial.](https://helpx.adobe.com/photoshop/how-to/selection-masking-space.html)
+Layer masking is a nondestructive way to hide parts of an image or layer without erasing them.
 
-<a href="https://helpx.adobe.com/photoshop/how-to/selection-masking-space.html" target=”_blank”>![Accurately select image areas](./accurateSelectMask.png)</a>
+<YouTube
+  title="Make Your First Layer Mask with Photoshop"
+  url="https://www.youtube.com/embed/ddbMxDT7J9Y?si=oMr2c71PTzff39-i"
+/>
 
-Next, we will convert the masking image to a `Smart Object Layer` and change the `Blending Mode` of that layer to create a silhouette. To make the image more interesting, add a nice background layer. Here is a completed example.
+## Layer Adjustments
 
-![Exercise example](./silhouetteEx.png)
+Layer adjustments are a crucial aspect of Photoshop that allow for versatile and non-destructive editing of images. They enable you to tweak the appearance of your artwork without permanently altering the original pixels.
 
-## Destructive V.S. Non-destructive Editing
+### Understanding Layer Adjustments
+
+- **Non-Destructive Editing:** Layer adjustments are applied over your image layers, allowing you to make changes like color correction, brightness adjustments, or contrast enhancements without modifying the original layer.
+- **Flexibility:** You can stack multiple adjustment layers to create complex effects and easily toggle them on and off to compare different looks.
+
+### Types of Adjustment Layers
+
+- **Levels and Curves:** For fine-tuning the brightness and contrast of your image.
+- **Hue/Saturation:** To adjust the colors’ intensity and hue.
+- **Color Balance:** Ideal for color correction, helping to adjust the overall mixture of colors.
+- **Black & White:** Convert your images to grayscale, with control over how individual colors are translated into shades of gray.
+- **Photo Filter:** Apply color tints, mimicking the effect of using a camera filter.
+
+### Using Adjustment Layers
+
+1. **Adding an Adjustment Layer:** You can add an adjustment layer by clicking the 'New Adjustment Layer' icon at the bottom of the Layers panel or through the 'Layer' menu.
+2. **Editing Adjustments:** Once added, you can edit the properties of the adjustment layer to achieve your desired effect. The changes will only affect layers below the adjustment layer in the layer stack.
+3. **Layer Masks:** Each adjustment layer comes with its own mask, allowing you to selectively apply the adjustment to parts of your image by painting on the mask.
+
+<YouTube
+  title="Get to Know Adjustment Layers in Adobe Photoshop"
+  url="https://www.youtube.com/embed/AW-1gogYcFM?si=4AVorrsg3XrZKW2t"
+/>
+
+## Destructive vs Nondestructive Editing
+
+![Destructive vs Nondestructive Editing](./destructive-editing.png)
 
 In Adobe Photoshop there is a incredibly important concept called **non-destructive editing**. What does that mean exactly? Non-destructive editing means that the edits, changes, filters, etc. that you do in your PSD file are all done in a way that is reversible and non-permanent. Meaning, if you make a mistake or make a large revision, you could easily undo certain changes and revert your work to an earlier state if necessary. This is important for a number of reasons:
 
@@ -102,27 +180,7 @@ Some best practices to insure you are working non-destructively include:
 2. **Use effective `Layer Masks`** - this allows you to hide portions of a layer without deleting pixels, preserving the ability to edit and change later on
 3. **Use `Smart Objects` as much as possible** - making a layer a `Smart Object` protects the layer while allowing you to add/remove/edit filters, effects, and more without making them permanent
 
-We will go into more detail on these topics as we move through the semester, but for now just make sure to keep those terms in mind.
-
-### Destructive V.S. Non-destructive Editing Example
-
-The simplest example of destructive v.s. non-destructive, and one of the most important to **always** remember, is to use a layer mask to remove unwanted areas of an image instead of erasing. Take a look at the example below. In both images, the background is removed, showing the checkered pattern representing a transparent background. The first example is destructive, with the pixels in the background being permanently erased, which makes it difficult or impossible to edit or undo those changes afterwards. The second example accomplishes the same result in a non-destructive way. The background is simply hidden with a layer mask, which can be edited and altered as many times as necessary.
-
-<figure>
-<img src="./destructive.png" alt="">
-<figcaption><strong class="text-secondary">Destructive edit:</strong> the background has been erased and the pixels data is permanently lost</figcaption>
-</figure>
-
-<figure>
-<img src="./non-destructive.png" alt="">
-<figcaption><strong class="text-secondary">Non-destructive edit:</strong> the background has been removed with a mask. That masked can be edited afterwards to show/hide more areas of the image, or undone entirely if needed.</figcaption>
-</figure>
-
-It is expected in this course to always edit non-destructively<span class="text-secondary">\*</span>, especially in the above scenario with masking. You will lose marks on exercises and assignments if destructive editing techniques are used when a non-destructive could have been used.
-
-<span class="text-secondary">\*</span>There are some edits that are only possible in a destructive manner. We will discuss some such edits throughout the course. In cases where destructive edits are required, you should create a duplicate of your layer before making a destructive edit in case you need to revert the edit. You can create a duplicate by right clicking on the layer and selecting `Duplicate Layer` or with keyboard shortcut `Command + J` on Mac or `Control + J` on Windows when the layer is selected.
-
-## Exporting from Photoshop
+## Exporting Assets from Photoshop
 
 Photoshop has numerous processes for exporting your artwork, all of which can be found in the `File > Export` dropdown menu. We are are going to focus on the `Export As` dialogue because:
 
@@ -160,8 +218,17 @@ Take a look at the `Export As` dialogue and the options it provides. It should f
 
 It is important to properly **name your artboards** as the `Export As` dialogue uses the artboard names to name the exported file.
 
-<!-- ## Demo Files
+## Resources
 
-::: tip Files
-[Week 1 Tutorial Files Download](https://algonquinlivecom-my.sharepoint.com/:f:/g/personal/bristot_algonquincollege_com/EsGk1JrAHpxNmCxixlzRFZYBjwscbH5eLIZacxkzlVv22g?e=UfK9ik)
-::: -->
+- [Photoshop User Guide](https://helpx.adobe.com/photoshop/user-guide.html)
+- [Photoshop Tool Galleries](https://helpx.adobe.com/photoshop/using/tools.html)
+- [Photoshop Artboards](https://helpx.adobe.com/photoshop/using/artboards.html)
+- [Keyboard Shortcuts](https://helpx.adobe.com/ca/photoshop/using/default-keyboard-shortcuts.html)
+- [Adobe PS Tutorials](https://helpx.adobe.com/ca/photoshop/tutorials.html)
+- [A comprehensive tutorial for Photoshop Tools](http://www.photoshop-bootcamp.com/beginners-guide-photoshop-tools-toolbar/)
+
+### Free stock photos
+
+- [Unsplash](https://unsplash.com/)
+- [Pixabay](https://pixabay.com/)
+- [Pexels](https://www.pexels.com/)

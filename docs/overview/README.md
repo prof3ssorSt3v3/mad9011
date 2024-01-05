@@ -16,15 +16,8 @@ Students are introduced to mobile design fundamentals and graphical user interfa
 
 ## Schedule
 
-**Section 300:**
-
-- Theory (Virtual): Wednesday 2pm - 3pm
-- Lab: Tuesday 3pm - 5pm
-
-**Section 310:**
-
-- Theory (Virtual): Thursday 12pm - 1pm
-- Lab: Monday 4pm - 6pm
+- Theory (Virtual): Thursday 4pm - 5pm
+- Lab: Tuesday 7pm - 9pm
 
 ## Technology Stack
 
@@ -46,7 +39,7 @@ The students will be learning online, guided by a curriculum with video tutorial
 
 ### Late Penalty
 
-Assignments will be penalized for being late at the rate of 10% per day to a maximum of 30%. After 10 days beyond the due date, assignments will be given a grade of zero.
+Assignments will be penalized for being late at the rate of 10% per day to a maximum of 50%. After 10 days beyond the due date, assignments will be given a grade of zero.
 
 Students may still submit their assignments after the ten days but it will only be for the purpose of receiving feedback on their work. No grade will be given.
 
@@ -67,7 +60,7 @@ This course complies with the college directives. **Please complete this Plagiar
 <ContactCard 
   name="Tyler Bristow"
   title="Instructor"
-  img-url="/f2023/TylerBristow.jpg"
+  img-url="/w2024/TylerBristow.jpg"
   bio="Instructor of the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'bristot@algonquincollege.com' },  
@@ -78,7 +71,7 @@ This course complies with the college directives. **Please complete this Plagiar
 <ContactCard 
   name="Ahmed Elbadri"
   title="Student Success Specialist"
-  img-url="/f2023/ahmed.jpg"
+  img-url="/w2024/ahmed.jpg"
   bio=""
   :details="[
       { label: 'email', value: 'elbadra@algonquincollege.com' }, 
