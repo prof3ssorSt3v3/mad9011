@@ -4,6 +4,8 @@ Every week there will be work for you to complete inside or outside of class. So
 
 ## Exercises <Badge type="error" text="20%" />
 
+<br>
+
 <Deliverable
   title="Exercise 1 — Select & Mask"
   dueDate="Due: Tuesday January 16th @9:00pm"
@@ -60,6 +62,8 @@ Every week there will be work for you to complete inside or outside of class. So
 
 ## Midterm <Badge type="error" text="25%" />
 
+<br>
+
 <Deliverable
   title="Midterm (In-class portion)"
   dueDate="Due: Tuesday February 13th @9:00pm"
@@ -79,6 +83,8 @@ Every week there will be work for you to complete inside or outside of class. So
 />
 
 ## Final Project <Badge type="error" text="40%" />
+
+<br>
 
 <Deliverable
   title="Part 1: Low-fidelity Wireframes"
@@ -135,6 +141,8 @@ Every week there will be work for you to complete inside or outside of class. So
 />
 
 ## Quizzes <Badge type="error" text="15%" />
+
+<br>
 
 <Deliverable
   title="Quiz 1 - Photoshop Quiz"

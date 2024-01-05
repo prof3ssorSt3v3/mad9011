@@ -9,7 +9,7 @@
       v-if="linkType === 'active'"
       :to="detailsLink"
       class="details-button"
-      >Details</router-link
+      >View Details</router-link
     >
     <Badge
       v-else-if="linkType === 'paused'"
@@ -17,8 +17,6 @@
       text="Coming Soon"
       type="disabled"
     />
-    <!-- No link or badge for 'disabled' -->
-    <hr v-if="!isLast" class="divider" />
   </div>
 </template>
 
@@ -70,6 +68,7 @@ export default {
 }
 
 .title {
+  margin-top: 0rem;
   margin-bottom: 0rem;
 }
 
@@ -77,9 +76,5 @@ export default {
 .badge.disabled {
   background-color: grey;
   color: white;
-}
-
-.divider {
-  border-top: 1px solid #eaecef;
 }
 </style>
