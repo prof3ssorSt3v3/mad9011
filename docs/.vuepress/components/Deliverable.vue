@@ -16,6 +16,9 @@
       class="coming-soon"
       text="Coming Soon"
     />
+    <div v-else-if="linkType === 'paused'" class="badge coming-soon">
+      Coming Soon
+    </div>
     <!-- No link or badge for 'disabled' -->
     <hr v-if="!isLast" class="divider" />
   </div>
@@ -80,14 +83,21 @@ export default {
   /* Styles for the details button */
 }
 
+.badge {
+  padding: 0.5em 1em;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 0.85em;
+  display: inline-block;
+}
+
 .coming-soon {
-  /* Styles for the 'Coming Soon' badge */
   background-color: grey;
   color: white;
-  /* Other styling as needed */
+  /* Additional styling as needed */
 }
 
 .divider {
-  border-top: 1px solid #ccc; /* Adjust the style as needed */
+  border-top: 1px solid #eaecef;
 }
 </style>
