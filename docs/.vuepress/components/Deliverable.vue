@@ -15,7 +15,7 @@
       v-else-if="linkType === 'paused'"
       class="coming-soon"
       text="Coming Soon"
-      type="warning"
+      type="disabled"
     />
     <!-- No link or badge for 'disabled' -->
     <hr v-if="!isLast" class="divider" />
