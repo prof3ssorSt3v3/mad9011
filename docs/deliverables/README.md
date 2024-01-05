@@ -10,103 +10,160 @@ Worth <Badge type="error" text="20%" /> of Final Grade
   title="Exercise 1 — Select & Mask"
   dueDate="Due: Tuesday January 16th @9:00pm"
   description="Description of the exercise."
+  linkType="active"
   detailsLink="./exercises/ex-1.html"
   :isLast="false"
 />
 
-### Exercise 1 — Select & Mask
+<Deliverable
+  title="Exercise 2 — Photo Retouching"
+  dueDate="Due: Tuesday January 23rd @9:00pm"
+  description="Description of the exercise."
+  linkType="paused"
+  detailsLink="./exercises/ex-2.html"
+  :isLast="false"
+/>
 
-<Badge text="Due: Tuesday January 16th @9:00pm" />
+<Deliverable
+  title="Exercise 3 — Logo Recreation"
+  dueDate="Due: Tuesday January 30th @9:00pm"
+  description="Description of the exercise."
+  linkType="paused"
+  detailsLink="./exercises/ex-3.html"
+  :isLast="false"
+/>
 
-Descripton
+<Deliverable
+  title="Exercise 4 — Gradients in Nature"
+  dueDate="Due: Tuesday February 6th @9:00pm"
+  description="Description of the exercise."
+  linkType="paused"
+  detailsLink="./exercises/ex-4.html"
+  :isLast="false"
+/>
 
-[Details button](./exercises/ex-1.md)
+<Deliverable
+  title="Exercise 5 — Character Vectorization"
+  dueDate="Due: Tuesday February 13th @9:00pm"
+  description="Description of the exercise."
+  linkType="paused"
+  detailsLink="./exercises/ex-5.html"
+  :isLast="false"
+/>
 
----
+<Deliverable
+  title="Exercise 6 — Animated SVG"
+  dueDate="Due: Tuesday February 20th @7:00pm"
+  description="Description of the exercise."
+  linkType="paused"
+  detailsLink="./exercises/ex-6.html"
+  :isLast="true"
+/>
 
-### [Exercise 2 — Retouching](./exercises/ex-2.md) <Badge type="error" text="Coming Soon" />
-
-Descripton
-
-<Badge text="Due: Tuesday January 23rd @9:00pm" />
-
----
-
-### [Exercise 3 — Logo Recreation](./exercises/ex-3.md) <Badge type="error" text="Coming Soon" />
-
-Descripton
-
-<Badge text="Due: Tuesday January 30th @9:00pm" />
-
----
-
-### [Exercise 4 — Gradients in Nature](./exercises/ex-4.md) <Badge type="error" text="Coming Soon" />
-
-Descripton
-
-<Badge text="Due: Tuesday February 6th @9:00pm" />
-
----
-
-### [Exercise 5 — Character Vectorization](./exercises/ex-5.md) <Badge type="error" text="Coming Soon" />
-
-Descripton
-
-<Badge text="Due: Tuesday February 13th @9:00pm" />
-
----
-
-### [Exercise 6 — Animated SVG](./exercises/ex-6.md) <Badge type="error" text="Coming Soon" />
-
-Descripton
-
-<Badge text="Due: Tuesday February 20th @7:00pm" />
-
----
-
-## Midterm <Badge type="error" text="Coming Soon" />
+## Midterm
 
 Worth <Badge type="error" text="25%" /> of Final Grade
 
-### [Midterm - App Icon](./assignments/midterm)
+<Deliverable
+  title="Midterm (In-class portion)"
+  dueDate="Due: Tuesday February 13th @9:00pm"
+  description="Description of the exercise."
+  linkType="paused"
+  detailsLink="./exercises/ex-5.html"
+  :isLast="false"
+/>
 
-## Final Project <Badge type="error" text="Coming Soon" />
+<Deliverable
+  title="Midterm"
+  dueDate="Due: Tuesday February 13th @9:00pm"
+  description="Description of the exercise."
+  linkType="paused"
+  detailsLink="./exercises/ex-5.html"
+  :isLast="true"
+/>
+
+## Final Project
 
 Worth <Badge type="error" text="40%" /> of Final Grade
 
-<!-- ### [Project Overview](./finalproject/overview)
+<Deliverable
+  title="Part 1: Low-fidelity Wireframes"
+  dueDate="Due: "
+  description="Description of the exercise."
+  linkType="paused"
+  detailsLink="./finalproject/part1.html"
+  :isLast="false"
+/>
 
-| Part                                                            | Due By Date                                                                                                                                |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Part 1: Low-fidelity Wireframes](./finalproject/part1.md)      | <Badge text="Due: Tuesday November 7th @3:00pm" /> <br> <Badge type="error" text="Section 310: Monday November 6th @4:00pm" />     |
-| [Part 2: Mid-fidelity Wireframes](./finalproject/part2.md)      | <Badge text="Due: Tuesday November 14th @3:00pm" /> <br> <Badge type="error" text="Section 310: Monday November 13th @4:00pm" />   |
-| [Part 3: Design System](./finalproject/part3.md)                | <Badge text="Due: Tuesday November 28th @3:00pm" /> <br> <Badge type="error" text="Section 310: Monday November 27th @4:00pm" />   |
-| [Part 4: Visual Design](./finalproject/part4.md)                | <Badge text="Due: Tuesday, December 5th @3:00pm" /> <br> <Badge type="error" text="Section 310: Monday, December 4th @4:00pm" />   |
-| [Part 5: Visual Interactive Prototype](./finalproject/part5.md) | <Badge text="Due: Tuesday, December 12th @3:00pm" /> <br> <Badge type="error" text="Section 310: Monday, December 11th @4:00pm" /> |
-| [Part 6: Presentations](./finalproject/part6.md)                | <Badge text="Due: Tuesday, December 12th @9:00pm" /> <br> <Badge type="error" text="Section 310: Monday, December 11th @6:00pm" /> | -->
+<Deliverable
+  title="Part 2: Mid-fidelity Wireframes"
+  dueDate="Due: "
+  description="Description of the exercise."
+  linkType="paused"
+  detailsLink="./finalproject/part2.html"
+  :isLast="false"
+/>
+
+<Deliverable
+  title="Part 3: Design System"
+  dueDate="Due: "
+  description="Description of the exercise."
+  linkType="paused"
+  detailsLink="./finalproject/part3.html"
+  :isLast="false"
+/>
+
+<Deliverable
+  title="Part 4: High-fidelity Wireframes"
+  dueDate="Due: "
+  description="Description of the exercise."
+  linkType="paused"
+  detailsLink="./finalproject/part4.html"
+  :isLast="false"
+/>
+
+<Deliverable
+  title="Part 5: Interactive Visual Prototype"
+  dueDate="Due: "
+  description="Description of the exercise."
+  linkType="paused"
+  detailsLink="./finalproject/part5.html"
+  :isLast="false"
+/>
+
+<Deliverable
+  title="Part 6: Presentations"
+  dueDate="Due: "
+  description="Description of the exercise."
+  linkType="paused"
+  detailsLink="./finalproject/part6.html"
+  :isLast="true"
+/>
 
 ## Quizzes
 
 Worth <Badge type="error" text="15%" /> of Final Grade
 
-### Quiz 1 - Photoshop Quiz
+<Deliverable
+  title="Quiz 1 - Photoshop Quiz"
+  dueDate="Due: Thursday January 18th @5:00pm"
+  linkType="disabled"
+  description="Description of the exercise."
+  :isLast="false"
+/>
 
-Descripton
+<Deliverable
+  title="Quiz 2 - Illustrator Quiz"
+  dueDate="Due: Thursday February 15th @5:00pm"
+  linkType="disabled"
+  description="Description of the exercise."
+  :isLast="false"
+/>
 
-<Badge text="Due: Thursday January 18th @5:00pm" />
-
----
-
-### Quiz 2 - Illustrator Quiz
-
-Descripton
-
-<Badge text="Due: Thursday February 15th @5:00pm" />
-
----
-
-### Quiz 3 - Figma Quiz
-
-Descripton
-
-<Badge text="Due: Thursday April 11th @5:00pm" />
+<Deliverable
+  title="Quiz 3 - Figma Quiz"
+  dueDate="Due: Thursday April 11th @5:00pm"
+  linkType="disabled"
+  description="Description of the exercise."
+  :isLast="true"
+/>

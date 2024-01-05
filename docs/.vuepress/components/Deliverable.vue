@@ -5,7 +5,18 @@
       <Badge class="due-date" :text="dueDate" />
     </div>
     <p class="description">{{ description }}</p>
-    <router-link :to="detailsLink" class="details-button">Details</router-link>
+    <router-link
+      v-if="linkType === 'active'"
+      :to="detailsLink"
+      class="details-button"
+      >Details</router-link
+    >
+    <Badge
+      v-else-if="linkType === 'paused'"
+      class="coming-soon"
+      text="Coming Soon"
+    />
+    <!-- No link or badge for 'disabled' -->
     <hr v-if="!isLast" class="divider" />
   </div>
 </template>
@@ -28,11 +39,15 @@ export default {
     },
     detailsLink: {
       type: String,
-      required: true,
+      default: "",
     },
     isLast: {
       type: Boolean,
       default: false,
+    },
+    linkType: {
+      type: String,
+      default: "disabled", // 'active', 'paused', or 'disabled'
     },
   },
 };
@@ -63,6 +78,13 @@ export default {
 
 .details-button {
   /* Styles for the details button */
+}
+
+.coming-soon {
+  /* Styles for the 'Coming Soon' badge */
+  background-color: grey;
+  color: white;
+  /* Other styling as needed */
 }
 
 .divider {
