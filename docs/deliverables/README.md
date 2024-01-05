@@ -2,9 +2,7 @@
 
 Every week there will be work for you to complete inside or outside of class. Some exercises will be larger than others. There will be 6 exercises (20%), midterm (25%), Final project (40%), and 3 quizzes (15%).
 
-## Exercises
-
-Worth <Badge type="error" text="20%" /> of Final Grade
+## Exercises <Badge type="error" text="20%" />
 
 <Deliverable
   title="Exercise 1 — Select & Mask"
@@ -60,9 +58,7 @@ Worth <Badge type="error" text="20%" /> of Final Grade
   :isLast="true"
 />
 
-## Midterm
-
-Worth <Badge type="error" text="25%" /> of Final Grade
+## Midterm <Badge type="error" text="25%" />
 
 <Deliverable
   title="Midterm (In-class portion)"
@@ -82,9 +78,7 @@ Worth <Badge type="error" text="25%" /> of Final Grade
   :isLast="true"
 />
 
-## Final Project
-
-Worth <Badge type="error" text="40%" /> of Final Grade
+## Final Project <Badge type="error" text="40%" />
 
 <Deliverable
   title="Part 1: Low-fidelity Wireframes"
@@ -140,9 +134,7 @@ Worth <Badge type="error" text="40%" /> of Final Grade
   :isLast="true"
 />
 
-## Quizzes
-
-Worth <Badge type="error" text="15%" /> of Final Grade
+## Quizzes <Badge type="error" text="15%" />
 
 <Deliverable
   title="Quiz 1 - Photoshop Quiz"
