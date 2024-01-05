@@ -6,6 +6,7 @@
     </div>
     <p class="description">{{ description }}</p>
     <router-link :to="detailsLink" class="details-button">Details</router-link>
+    <hr v-if="!isLast" class="divider" />
   </div>
 </template>
 
@@ -29,6 +30,10 @@ export default {
       type: String,
       required: true,
     },
+    isLast: {
+      type: Boolean,
+      default: false,
+    },
   },
 };
 </script>
@@ -45,7 +50,7 @@ export default {
 }
 
 .title {
-  /* Styles for the title */
+  margin-bottom: 0rem;
 }
 
 .due-date {
@@ -58,5 +63,9 @@ export default {
 
 .details-button {
   /* Styles for the details button */
+}
+
+.divider {
+  border-top: 1px solid #ccc; /* Adjust the style as needed */
 }
 </style>

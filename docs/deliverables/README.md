@@ -10,7 +10,8 @@ Worth <Badge type="error" text="20%" /> of Final Grade
   title="Exercise 1 — Select & Mask"
   dueDate="Due: Tuesday January 16th @9:00pm"
   description="Description of the exercise."
-  detailsLink="./exercises/ex-1.md"
+  detailsLink="./exercises/ex-1.html"
+  :isLast="false"
 />
 
 ### Exercise 1 — Select & Mask
