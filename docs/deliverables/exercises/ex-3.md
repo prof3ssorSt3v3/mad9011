@@ -4,9 +4,6 @@
 
 The goal of this assignment is to learn how basic shapes can be used to create logos and other designs. You will be recreating the five logos provided in the attached starter file. Create your version of the logos in the corresponding labeled Artboards on the "Final Artwork" layer. The logos can all be created using simple shapes to start and then using the pathfinder tools and manipulating the anchor points to get the final shapes.
 
-<ClientOnly>
-  <Countdown date="2023-09-25">
-
 ## Instructions
 
 1. Download and open the provided Illustrator file for this exercise [here.](https://drive.google.com/file/d/19jtfdBUrMeDcJcE5GwHWItcm1BsSUhMv/view?usp=sharing)
@@ -50,6 +47,3 @@ Save and upload your Illustrator file to BrightSpace named as follows: lName-fNa
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Exercise 3 — Logo Recreation
 - Upload your compressed folder on the assignment page in BS LMS and click the submit button.
-
-  </Countdown>
-</ClientOnly>

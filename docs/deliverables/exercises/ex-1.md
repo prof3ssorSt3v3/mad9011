@@ -59,6 +59,8 @@ Common issues and solutions you might encounter during the exercise:
 | Creativity and Originality         | Highly creative and original.                                                            | Good creativity with some common ideas.                                     | Some creativity but largely common or conventional ideas.                     | Lacks creativity or originality, or not attempted.                    |
 | Non-Destructive Editing Techniques | N/A                                                                                      | Fully non-destructive approach with best practices.                         | N/A                                                                           | Non-destructive editing methods not used.                             |
 
+**Total Points:** / 20
+
 ## File Setup and Submission
 
 Compress and submit your `lName-fName-section#-select-and-mask` folder containing:
@@ -69,6 +71,8 @@ Compress and submit your `lName-fName-section#-select-and-mask` folder containin
   - `lName-fName-section#-select-and-mask.jpg` - Exported at 1000px wide.
 
 ::: warning Submission
+
+<br>
 
 <Badge type="error" text="Due: Tuesday January 16th @9:00pm" />
 
