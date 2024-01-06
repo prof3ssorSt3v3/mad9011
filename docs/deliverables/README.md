@@ -123,21 +123,21 @@ Every week there will be work for you to complete inside or outside of class. So
 <br>
 
 <Deliverable
-  title="Quiz 1 - Photoshop Quiz"
+  title="Photoshop Quiz"
   dueDate="Due: Thursday January 18th @5:00pm"
   linkType="disabled"
   description="Test your knowledge of the skills and techniques covered in the Photoshop portion of the course, encompassing everything from basic editing tools to advanced image manipulation"
 />
 
 <Deliverable
-title="Quiz 2 - Illustrator Quiz"
+title="Illustrator Quiz"
 dueDate="Due: Thursday February 15th @5:00pm"
 linkType="disabled"
-description="Test your knowledge of the skills and techniques covered in the Illustrator portion of the course, encompassing everything from using the shape tool to creating icons.
+description="Test your knowledge of the skills and techniques covered in the Illustrator portion of the course, encompassing everything from using the shape tool to creating icons."
 />
 
 <Deliverable
-  title="Quiz 3 - Figma Quiz"
+  title="Figma Quiz"
   dueDate="Due: Thursday April 11th @5:00pm"
   linkType="disabled"
   description="Test your knowledge of the skills and techniques covered in the Figma portion of the course, encompassing everything from using Figma to UI best practices"
