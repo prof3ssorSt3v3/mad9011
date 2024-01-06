@@ -60,11 +60,9 @@ Compress and submit your `lName-fName-section#-select-and-mask` folder containin
 - 'Exports' folder with the final image:
   - `lName-fName-section#-select-and-mask.jpg` - Exported at 1000px wide.
 
-**Due Dates:**
+::: warning Submission
 
 <Badge type="error" text="Due: Tuesday January 16th @9:00pm" />
-
-::: warning Submission
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Exercise 1 — Select & Mask
