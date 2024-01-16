@@ -68,7 +68,7 @@ Compress and submit your `lName-fName-section#-select-and-mask` folder containin
 - `lName-fName-section#-select-and-mask.psd` (Photoshop file with organized layers).
 - 'Links' folder with original images used.
 - 'Exports' folder with the final image:
-  - `lName-fName-section#-select-and-mask.jpg` - Exported at 1000px wide.
+  - `lName-fName-section#-select-and-mask.png` - Exported at 1000px wide.
 
 ::: warning Submission
 
