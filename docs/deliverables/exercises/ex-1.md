@@ -66,7 +66,7 @@ Common issues and solutions you might encounter during the exercise:
 Compress and submit your `lName-fName-section#-select-and-mask` folder containing:
 
 - `lName-fName-section#-select-and-mask.psd` (Photoshop file with organized layers).
-- 'Links' folder with original images used.
+- 'Originals' folder with original images used.
 - 'Exports' folder with the final image:
   - `lName-fName-section#-select-and-mask.png` - Exported at 1000px wide.
 
