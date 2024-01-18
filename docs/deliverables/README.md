@@ -124,7 +124,7 @@ Every week there will be work for you to complete inside or outside of class. So
 
 <Deliverable
   title="Photoshop Quiz"
-  dueDate="Due: Thursday January 18th @5:00pm"
+  dueDate="Due: Tuesday January 23rd @9:00pm"
   linkType="disabled"
   description="Test your knowledge of the skills and techniques covered in the Photoshop portion of the course, encompassing everything from basic editing tools to advanced image manipulation"
 />
