@@ -2,105 +2,96 @@
 
 ## Welcome
 
-Before we begin using Adobe Illustrator, we need to understand a few fundamentals, here is a short introduction to get you started.
+Before diving into Adobe Illustrator, understanding some fundamental concepts is essential. This module is designed to give you a solid foundation in vector graphics and Illustrator's functionalities.
 
-### RASTER AND VECTOR GRAPHICS
+### Understanding Vector Graphics and Their Advantages
+
+Learn about the importance and benefits of vector graphics:
 
 <YouTube
   title="Raster and vector graphics"
   url="https://www.youtube.com/embed/p2thSkOa_Xg"
 />
 
-## The Basics
+## The Basics of Illustrator's Interface and Workspace
 
-We will be using Adobe Illustrator to create vector graphics, so let's familiarize ourselves with the software.
+Familiarize yourself with Illustrator's interface and workspace through these tutorials:
 
-We will start by going over this series of tutorials: [Get to know Illustrator (4 videos)](https://helpx.adobe.com/ca/illustrator/how-to/ai-basics-fundamentals.html)
+[Get to know Illustrator (4 videos)](https://helpx.adobe.com/ca/illustrator/how-to/ai-basics-fundamentals.html)
 
 - Illustrator workspace
 - Zoom and Pan
 - Create a new document
 - Save your work
 
-## Workspaces
+## Workspaces and Interface Overview
 
 ![Workspace](./workspace.png)
 
-When you create a new document in Illustrator, you can view the application header with the following options:
+Learn about the various options available in Illustrator's workspace:
 
-- **Share document:** You can now quickly invite people to your document by clicking this icon. Save the document first as a cloud document before you invite.
-- **Search and discover:** Along with the existing search options, you can now see a discover panel. The discover panel gives you recommendations based on your skills and your work. These recommendations include tips and tutorials on how to get multi-step workﬂows done faster.
-- **Arrange document:** Click this icon to arrange all your open documents in grids and tiles formats.
-- **Switch workspace:** Click this icon to view different types of workspace options. Refer to the Workspace overview below for more information.
+- **Share document**
+- **Search and discover**
+- **Arrange document**
+- **Switch workspace**
 
-### Workspace Overview
-
-Illustrator provides you ten different workspaces including the Touch workspace. The default workspace is Essentials. These preset workspaces, optimize your menus and panels based on the type of work you will be doing.
+### Detailed Workspace Overview
 
 ![Workspace dropdown](./workspace-expanded.png)
 
-> For our class, we will be using **Essentials Classic.**
+> We will use the **Essentials Classic** workspace.
 
-## Artboards
+## Artboards and Layer Management
 
-Artboards are like pages in your document, they are very useful to separate different elements you are designing without having to create multiple files.
+Artboards are crucial for organizing different design elements. This section also introduces the concept of layers and how to manage them efficiently in Illustrator.
 
-Take a look at this short [Artboard tutorial. (3 videos)](https://helpx.adobe.com/ca/illustrator/how-to/artboards-basics.html)
+Learn about artboards: [Artboard tutorial (3 videos)](https://helpx.adobe.com/ca/illustrator/how-to/artboards-basics.html)
 
-**Work with artboards**
+### Layer Management
 
-- Understand and navigate artboards
-- Create artboards
-- Edit artboards
+Understand the principles of arranging and managing layers in Illustrator. (Additional resources or tutorials can be added here)
 
-## Creating, selecting, and editing shapes
+## Creating Basic Shapes and Paths
 
-Let's learn to draw and manipulate shapes in Illustrator with this [drawing tools tutorial (5 videos)](https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html).
+Master the creation of shapes and paths in Illustrator with these tutorials:
 
-### Create with drawing tools
+[Drawing tools tutorial (5 videos)](https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html)
 
-- Understand paths and curves
-- Draw with the Pencil tool
-- Draw with the Curvature tool
-- Edit paths and shapes
-- Join artwork together to combine paths
+### Create and Edit Shapes
 
-### Create and edit shapes
+Learn to draw and manipulate shapes: [Create and edit shapes (4 videos)](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
 
-Next, we practice using the drawing tools to [create and edit shapes. (4 videos)](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
+## Working with the Pen Tool for Precision
 
-- Draw simple shapes
-- Create lines
-- Combine shapes with the Shape Builder tool
-- Trace to make shapes
+Delve into the intricacies of the Pen Tool for creating precise vector paths. (A dedicated tutorial or lesson on the Pen Tool should be linked here)
 
-## Transform Options: Rotate, reflect, and shear
+## Advanced Shape and Path Manipulation
 
-To streamline the process of drawing shapes and ensuring they are even, we use this set of tools to transform them and arrange them in the artboard, take a look at this video and try to follow along. The sample files are on the website you will be redirected to, make sure to download and open it before starting.
+Explore the advanced techniques for editing and manipulating shapes and paths:
 
-[![Adobe tutorials for Transform Options: Rotate, reflect, and shear](./transformArtwork.png)](https://helpx.adobe.com/ca/illustrator/how-to/apply-rotation-and-reflection-in-artwork.html)
+- Editing paths and shapes
+- Combining paths with Join artwork
 
-## Colour of fill and stroke
+## Transform Options: Rotate, Reflect, and Shear
 
-To make our designs more interesting and clear, we need to use colour. Take a look at [the first video on this tutorial page](https://helpx.adobe.com/illustrator/how-to/color-basics.html) to learn how to apply colour to your shapes and edit the stroke as well.
+Learn to transform your artwork with these tools:
+
+[![Adobe tutorials for Transform Options](./transformArtwork.png)](https://helpx.adobe.com/ca/illustrator/how-to/apply-rotation-and-reflection-in-artwork.html)
+
+## Colour of Fill and Stroke
+
+Enhance your designs with color theory and application techniques:
+
+[Learn about color basics (tutorial video)](https://helpx.adobe.com/illustrator/how-to/color-basics.html)
 
 ## Export for Screens
 
-The Export for Screens dialogue allows us to efficiently export our artwork to numerous file types and sizes at once. To access the Export for Screens dialogue, access through the dropdown menus `File > Export > Export for Screens` or with keyboard shortcut `Option + Command + E` on Mac or `Control + Alt + E` on Windows.
-
-The export is based on the artboards in the file, so make sure to set up your file properly with correctly sized arboards for your artwork. In the example below, the icon designs have the exact same width and height as their artboard, allowing them to export cleanly with no extra space around the edges and without accidentally cropping any of the artwork. You can also choose specific artboards to export, while omitting others.
+Understand how to efficiently export your designs with the Export for Screens feature:
 
 ![Export for screens dialogue](./export-for-screens.jpg)
 
-1. **Artboards preview** - here you can select which artboards to export and you can rename the artboards
-2. **Select export location** - use this button to find the proper location in your files to export to
-3. **Scale** - select the scale of your export. You can select a scale multiplier (1x, 2x, etc.) or a specific width or height.
-4. **Suffix** - a short string of text that will be added to the end of the filename to identify the export
-5. **Format** - choose the file format for the exported file
-6. **Create Sub-folders** - checking this will create a new folder for for each different scale or format that you export. I would recommend unchecking this, as most exports are only a few files at a time and it will just result in numerous unnecessary folders.
-
-<!-- ## Demo Files
-
-::: tip Files
-[Week 3 Tutorial Files Download](https://algonquinlivecom-my.sharepoint.com/:f:/g/personal/bristot_algonquincollege_com/Ehxcr9EXOypKq80JjDptLxABCN8ZCbnoEsqBperuKmImVw?e=0D1saE)
-::: -->
+- **Artboards preview**
+- **Select export location**
+- **Scale options**
+- **Suffix and format selection**
+- **Creating Sub-folders**
