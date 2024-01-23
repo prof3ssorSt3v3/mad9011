@@ -4,6 +4,13 @@
 
 By the end of this week, students will be able to:
 
+- Grasp the essentials and advantages of vector graphics, including scalability and application versatility.
+- Become proficient in using Adobe Illustrator's interface, including workspace customization and tool management.
+- Master the skill of organizing and managing layers for complex graphic compositions in Illustrator.
+- Learn to create and modify basic shapes and paths, laying the foundation for intricate designs.
+- Gain expertise in using the Pen Tool for precision drawing and editing in Illustrator.
+- Develop the ability to edit and refine shapes and paths for advanced graphic design projects.
+
 ## What is Adobe Illustrator
 
 Adobe Illustrator is a powerful vector graphics editing software used by designers and artists worldwide. It's ideal for creating logos, illustrations, typography, and complex graphics for both print and digital media.
@@ -14,7 +21,7 @@ Adobe Illustrator is a powerful vector graphics editing software used by designe
 
 Vector graphics are made up of paths, which are defined by a start and end point, along with other points, curves, and angles. A key advantage of vector graphics is their scalability; they can be enlarged or reduced without losing quality, making them ideal for various applications where resizing is necessary. Additionally, vector files tend to be smaller than raster images, and they are more versatile for detailed graphic work.
 
-**Watch:** this video to learn more about the importance and benefits of vector graphics [here](https://youtu.be/p2thSkOa_Xg?si=4Gy2tQhPVCGCw-5R)
+**Watch:** [Vector vs Raster Graphics](https://youtu.be/p2thSkOa_Xg?si=4Gy2tQhPVCGCw-5R)
 
 ## The Basics of Illustrator's Interface and Workspace
 
@@ -22,7 +29,7 @@ Illustrator's interface is a robust workspace with various tools and panels spec
 
 Familiarize yourself with Illustrator's interface and workspace through these tutorials:
 
-[Get to know Illustrator (4 videos)](https://helpx.adobe.com/ca/illustrator/how-to/ai-basics-fundamentals.html)
+**Watch:** [Get to know Illustrator (4 videos)](https://helpx.adobe.com/ca/illustrator/how-to/ai-basics-fundamentals.html)
 
 - Illustrator workspace
 - Zoom and Pan
@@ -50,7 +57,7 @@ Learn about the various options available in Illustrator's workspace:
 
 Artboards are crucial for organizing different design elements. Artboards in Illustrator are like individual canvases within a single document. They can be used to create multi-page documents, different versions of a design, or separate elements that make up a larger graphic. Efficiently managing artboards is key to a streamlined workflow in Illustrator.
 
-**Learn about artboards:** [Artboard tutorial (3 videos)](https://helpx.adobe.com/ca/illustrator/how-to/artboards-basics.html)
+**Watch:** [Artboard tutorial (3 videos)](https://helpx.adobe.com/ca/illustrator/how-to/artboards-basics.html)
 
 ### Layer Management
 
@@ -64,7 +71,7 @@ Creating and manipulating shapes and paths is a core aspect of working in Illust
 
 Illustrator's shape tools allow for the creation of basic geometric forms like rectangles, circles, and polygons, which are the building blocks of more complex designs.
 
-[Create and edit shapes (4 videos)](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
+**Watch:** [Create and edit shapes (4 videos)](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
 
 In this section, you'll learn:
 
@@ -76,7 +83,7 @@ In this section, you'll learn:
 
 Beyond basic geometric forms, Illustrator offers tools for creating custom shapes. This involves a deeper understanding of paths and how to manipulate them to achieve your desired design.
 
-[Drawing tools tutorial (5 videos)](https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html)
+**Watch:** [Drawing tools tutorial (5 videos)](https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html)
 
 Key points include:
 
@@ -132,7 +139,7 @@ Pathfinder tools are incredibly versatile and can be used for a variety of desig
 - **Compound Paths**: After using Pathfinder, you may need to create compound paths (Object > Compound Path > Make) for further editing.
 - **Undo Function**: Use the undo function (Ctrl/Cmd + Z) liberally if you don’t get the desired result at first.
 
-**Explore Pathfinder Tools**: For a hands-on understanding, follow this tutorial series: [Using Pathfinder Tools in Illustrator](https://helpx.adobe.com/illustrator/how-to/use-pathfinder-panel.html)
+**Watch:** For a hands-on understanding, follow this tutorial series: [Using Pathfinder Tools in Illustrator](https://helpx.adobe.com/illustrator/how-to/use-pathfinder-panel.html)
 
 ## Colour of Fill and Stroke
 
@@ -140,7 +147,7 @@ Color application in Illustrator is not just about making designs visually appea
 
 Enhance your designs with color theory and application techniques:
 
-[Learn about color basics (tutorial video)](https://helpx.adobe.com/illustrator/how-to/color-basics.html)
+**Watch:** [Learn about color basics (tutorial video)](https://helpx.adobe.com/illustrator/how-to/color-basics.html)
 
 ## Export for Screens
 
