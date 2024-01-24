@@ -18,7 +18,7 @@ Every week there will be work for you to complete inside or outside of class. So
   title="Exercise 2 — Photo Retouching"
   dueDate="Due: Tuesday January 23rd @9:00pm"
   description="In this exercise, you'll apply the retouching techniques learned in class, emphasizing the importance of using non-destructive editing methods throughout the task."
-  linkType="paused"
+  linkType="active"
   detailsLink="./exercises/ex-2.html"
 />
 
