@@ -1,74 +1,64 @@
 # Exercise 2 — Retouching
 
-## Introduction
-
-In this exercise, you'll have the chance to apply the retouching techniques you've learned in class. It's crucial to keep in mind that while working on this task, you should use non-destructive editing methods.
-
-<ClientOnly>
-  <Countdown date="2023-09-18">
+::: tip Files
+[Exercise file download](https://drive.google.com/file/d/13D-UL2Plop_QJ66GtwWIznA945cT77uQ/view?usp=sharing)
+:::
 
 ## Instructions
 
-1. Download the provided Photoshop files for this exercise [here.](https://drive.google.com/file/d/13D-UL2Plop_QJ66GtwWIznA945cT77uQ/view?usp=drive_link)
+Apply the retouching techniques practiced in class to the items below.
 
-2. **File 1: 01-photoshop-repairing-blemishes:**
+### File 1: 01-photoshop-repairing-blemishes
 
-   - Open the Photoshop file named "01-photoshop-repairing-blemishes.psd".
-   - Your task is to remove all blemishes on the model in the photo.
-   - Utilize the retouching tools you've learned in class to make these edits non-destructive.
-   - Ensure that the original layer remains untouched.
+- Remove all blemishes on the model in the photo
+- Use the tools explored in class to make all edits **non-destructive**.
 
-3. **File 2: 02-photoshop-content-aware-fill:**
+### File 2: 02-photoshop-content-aware-fill
 
-   - Open the Photoshop file named "02-photoshop-content-aware-fill.psd".
-   - Your goal is to use the content-aware fill technique to remove the microphone and light fixture from the scene.
-   - Pay close attention to the brick texture, making sure the area looks convincingly filled with a realistic brick pattern.
-   - Ensure that the original layer remains untouched.
+- Use content aware fill to remove the microphone and light fixture
+- Make sure the brick texture looks good and convincing!
 
-4. **Exporting Images:**
+### File 3: 03-photoshop-watermark-removal
 
-   - Export both retouched images as PNG files using the "Export As..." dialogue in Photoshop.
-   - For "01-photoshop-repairing-blemishes.psd," export it as "01-photoshop-repairing-blemishes.png" with the following specifications:
-     - Width: 1500px
-   - For "02-photoshop-content-aware-fill.psd," export it as "02-photoshop-content-aware-fill.png" with the following specifications:
-     - Width: 1000px
+- Find an image online that has a watermark
+- Create a psd file for your found image
+- Use the techniques covered this week to remove the watermark
 
-5. **File Organization:**
-   - Keep your Photoshop files well-structured with organized layers.
-   - Create an "Exports" folder within your submission folder and place the exported PNG files there.
+Make sure that the original layer in both files remain unedited!
 
-## Example
+## Grading Criteria
 
-![Exercise example](./assets/retouching.jpg)
+| Criteria                           | Excellent (3 Points)                                                                                          | Good (2 Points)                                                               | Satisfactory (1 Point)                                                           | Not Attempted (0 Points)                     |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------- |
+| Retouching Image 1                 | Flawless removal of blemishes with high attention to detail and texture consistency.                          | Effective removal with minor imperfections in texture consistency.            | Noticeable flaws in blemish removal or texture consistency.                      | Blemishes not removed or effort not visible. |
+| Retouching Image 2                 | Seamless removal of microphone and light fixture with perfectly matched brick texture.                        | Good removal with minor discrepancies in texture matching.                    | Obvious signs of editing or mismatched texture.                                  | Microphone and light fixture not removed.    |
+| Retouching Image 3                 | Watermark removed perfectly without trace, maintaining the integrity of the original image.                   | Watermark mostly removed with slight traces or minor impact on image quality. | Visible traces of watermark or significant impact on image quality.              | Watermark not removed or effort not visible. |
+| Exporting Image                    | Images exported precisely as per specifications: correct resolution and dimensions.                           | Minor deviations in resolution or dimensions.                                 | Noticeable deviations from specified resolution or dimensions.                   | Incorrectly exported or not exported.        |
+| File Organization                  | Exceptional organization with clear labeling and structure, easy to navigate.                                 | Good organization with minor inconsistencies in labeling or structure.        | Basic organization but several inconsistencies or lack of clarity in navigation. | Poor organization or not submitted.          |
+| Non-Destructive Editing Techniques | Consistently uses non-destructive methods, preserving the original image layer without any direct alteration. | N/A                                                                           | N/A                                                                              | No use of non-destructive techniques.        |
 
-## Grading Rubric
+**Total Points:** / 18
 
-| Category           | Criteria                                                                                                                                                       | Weight |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| Retouching Image 1 | - Effective removal of blemishes using non-destructive techniques.<br> - Skillful application of class-learned tools.                                          | 2      |
-| Retouching Image 2 | - Successful elimination of microphone and light fixture using content-aware fill.<br> - Maintenance of a realistic and visually appealing brick texture.      | 2      |
-| Exporting Images   | - Export the retouched images as PNG files using the "Export As..." dialogue.<br> - Ensure that your exports have the correct file type, resolution and width. | 2      |
-| File Organization  | - Well-structured Photoshop file with organized layers and properly labeled / organized submission folders                                                     | 2      |
-| **Total**          |                                                                                                                                                                | **8**  |
+## File Setup and Submission
 
-## Submission
+Compress and submit your `lName-fName-section#-photo-retouching` folder containing:
 
-Compress and submit your work in a folder named lName-fName-retouching. The folder should contain the following:
+- `01-photoshop-repairing-blemishes.psd`
+- `02-photoshop-content-aware-fill.psd`
+- `03-photoshop-watermark-removal.psd`
+- "Exports" folder containing exported jpgs using the Export As... dialogue:
+  - `01-photoshop-repairing-blemishes.jpg` - 72ppi, 1500px wide
+  - `02-photoshop-content-aware-fill.jpg` - 72ppi, 1000px wide
+  - `03-photoshop-watermark-removal.jpg` - 72ppi, 800px wide
 
-- 01-photoshop-repairing-blemishes.psd
-- 02-photoshop-content-aware-fill.psd
-  - "Exports" folder with exported PNGs using Export As... dialogue:
-    - 01-photoshop-repairing-blemishes.png, 1500px wide
-    - 02-photoshop-content-aware-fill.png, 1000px wide
+::: warning Submission
 
-**Due Dates:**
+<br>
 
-<Badge text="Section 300: Tuesday September 19th @5:00pm" />
-<Badge type="error" text="Section 310: Monday September 18th @6:00pm" />
+<Badge type="error" text="Refer to Brightspace for your section's due date." />
 
 - Open BS LMS and go to the Activities > Assignments page.
-- Go to Exercise 2 — Retouching
+- Go to Exercise 2 — Photo Retouching
 - Upload your compressed folder on the assignment page in BS LMS and click the submit button.
 
-  </Countdown>
-</ClientOnly>
+:::
