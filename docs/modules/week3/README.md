@@ -11,6 +11,12 @@ By the end of this week, students will be able to:
 - Gain expertise in using the Pen Tool for precision drawing and editing in Illustrator.
 - Develop the ability to edit and refine shapes and paths for advanced graphic design projects.
 
+## Demo Files
+
+[demo-Pen-tool](https://drive.google.com/file/d/1WyE6E3UiAxKop_kY-YX1jTQdMw8Yx8qa/view?usp=sharing)
+
+[demo-drawing-with-shapes](https://drive.google.com/file/d/1x3grcghX78odQJoGhX4uXiUD4Bo8HHyu/view?usp=sharing)
+
 ## What is Adobe Illustrator
 
 Adobe Illustrator is a powerful vector graphics editing software used by designers and artists worldwide. It's ideal for creating logos, illustrations, typography, and complex graphics for both print and digital media.
