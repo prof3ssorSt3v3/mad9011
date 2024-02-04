@@ -47,20 +47,6 @@ Common issues and solutions you might encounter during the exercise:
 - If the edges of the selection are rough, use the Refine Edge tool to smooth them out.
 - If the subject looks disconnected from the new background, adjust the color balance and lighting.
 
-## Grading Criteria
-
-| Criteria                           | Excellent (3 Points)                                                                     | Good (2 Points)                                                             | Satisfactory (1 Point)                                                        | Not Attempted (0 Points)                                              |
-| ---------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Masking Technique                  | Precise and detailed masking.                                                            | Mostly accurate with minor flaws.                                           | Basic masking with noticeable flaws.                                          | Inadequate masking or not attempted.                                  |
-| Background and Composition         | Seamless integration of background and additional images, enhancing overall composition. | Adequate integration of background and additional images with minor issues. | Basic integration of background and additional images with noticeable issues. | Poor integration of background and additional images or not complete. |
-| Layer Adjustments                  | Skillful and visually appealing.                                                         | Good with some refinement needed.                                           | Basic adjustments made but lack refinement.                                   | Minimal or inappropriate use, or not used.                            |
-| Exporting Image                    | Correctly exported as required.                                                          | Minor deviations from specifications.                                       | Exported with noticeable deviations from specifications.                      | Incorrectly exported or not exported.                                 |
-| File Organization                  | Excellent organization and structure.                                                    | Good but some inconsistencies.                                              | Basic organization, several inconsistencies.                                  | Poor organization or not submitted.                                   |
-| Creativity and Originality         | Highly creative and original.                                                            | Good creativity with some common ideas.                                     | Some creativity but largely common or conventional ideas.                     | Lacks creativity or originality, or not attempted.                    |
-| Non-Destructive Editing Techniques | N/A                                                                                      | Fully non-destructive approach with best practices.                         | N/A                                                                           | Non-destructive editing methods not used.                             |
-
-**Total Points:** / 20
-
 ## File Setup and Submission
 
 Compress and submit your `lName-fName-section#-select-and-mask` folder containing:

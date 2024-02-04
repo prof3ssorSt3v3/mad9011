@@ -24,15 +24,6 @@ Watch/Read these tutorials to help you recreate your logos in Illustrator using 
 
 - [Create and edit shapes](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
 
-## Grading Rubric
-
-**You are not allowed to use Illustrators image tracing tool.**
-
-| Category        | Weight |
-| --------------- | ------ |
-| Logo Recreation | 6      |
-| **Total**       | **6**  |
-
 ## File Setup and Submission
 
 Save and upload your Illustrator file to BrightSpace named as follows: lName-fName-logo-recreation.ai. You do not need to export or upload JPG versions of the files. All you need to submit is your Illustrator file with the completed logo recreation.

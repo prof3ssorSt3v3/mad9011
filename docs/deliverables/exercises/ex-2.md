@@ -26,19 +26,6 @@ Apply the retouching techniques practiced in class to the items below.
 
 Make sure that the original layer in both files remain unedited!
 
-## Grading Criteria
-
-| Criteria                           | Excellent (3 Points)                                                                                          | Good (2 Points)                                                               | Satisfactory (1 Point)                                                           | Not Attempted (0 Points)                     |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------- |
-| Retouching Image 1                 | Flawless removal of blemishes with high attention to detail and texture consistency.                          | Effective removal with minor imperfections in texture consistency.            | Noticeable flaws in blemish removal or texture consistency.                      | Blemishes not removed or effort not visible. |
-| Retouching Image 2                 | Seamless removal of microphone and light fixture with perfectly matched brick texture.                        | Good removal with minor discrepancies in texture matching.                    | Obvious signs of editing or mismatched texture.                                  | Microphone and light fixture not removed.    |
-| Retouching Image 3                 | Watermark removed perfectly without trace, maintaining the integrity of the original image.                   | Watermark mostly removed with slight traces or minor impact on image quality. | Visible traces of watermark or significant impact on image quality.              | Watermark not removed or effort not visible. |
-| Exporting Image                    | Images exported precisely as per specifications: correct resolution and dimensions.                           | Minor deviations in resolution or dimensions.                                 | Noticeable deviations from specified resolution or dimensions.                   | Incorrectly exported or not exported.        |
-| File Organization                  | Exceptional organization with clear labeling and structure, easy to navigate.                                 | Good organization with minor inconsistencies in labeling or structure.        | Basic organization but several inconsistencies or lack of clarity in navigation. | Poor organization or not submitted.          |
-| Non-Destructive Editing Techniques | Consistently uses non-destructive methods, preserving the original image layer without any direct alteration. | N/A                                                                           | N/A                                                                              | No use of non-destructive techniques.        |
-
-**Total Points:** / 18
-
 ## File Setup and Submission
 
 Compress and submit your `lName-fName-section#-photo-retouching` folder containing:

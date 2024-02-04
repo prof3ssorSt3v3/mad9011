@@ -34,18 +34,6 @@ Watch/Read these tutorials to help you create/use gradients in Illustrator:
 
 - [Create color gradients](https://helpx.adobe.com/illustrator/how-to/color-basics.html#create_color_gradients)
 
-## Grading Rubric
-
-| Category               | Criteria                                                                                                                              | Weight |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| Creativity and Concept | - How well the student translates the beauty of natural landscapes into a visually captivating poster design using gradients.         | 2      |
-| Technical Proficiency  | - Demonstrated skills in applying gradients, blending modes, and transparency effects to achieve a polished and sophisticated design. | 2      |
-| Composition and Layout | - The effectiveness of the design's overall composition and the harmonious arrangement of elements.                                   | 1      |
-| Color Harmony          | - Effective use of color palettes that enhance the mood and atmosphere of the natural landscapes.                                     | 1      |
-| Attention to Detail    | - Precision in the placement of elements, smooth transitions, and overall attention to detail.                                        | 1      |
-| File Organization      | - Well-structured Illustrator file with organized layers and properly labeled / organized submission folders                          | 1      |
-| **Total**              |                                                                                                                                       | **8**  |
-
 ## Submission
 
 Save and upload your Illustrator file to BrightSpace named as follows: lName-fName-gradients-in-nature.ai. You do not need to export or upload JPG versions of the files. All you need to submit is your Illustrator file.
