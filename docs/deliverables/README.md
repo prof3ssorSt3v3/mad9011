@@ -34,7 +34,7 @@ Every week there will be work for you to complete inside or outside of class. So
   title="Exercise 4 — Button Design"
   dueDate="Due: Tuesday February 6th @9:00pm"
   description="In this exercise, you'll delve into UI and user-centered design principles to create a set of buttons, strategically employing color theory and gradient tools to ensure they are visually appealing and enhance user interaction."
-  linkType="paused"
+  linkType="active"
   detailsLink="./exercises/ex-4.html"
 />
 
