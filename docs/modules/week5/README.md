@@ -58,25 +58,25 @@ Learn about the key design principles that ensure icons are effective and intuit
 Consistency in icon design is crucial for creating a cohesive user experience. When icons within a UI maintain a uniform appearance, they not only become more recognizable to users but also contribute to the overall aesthetic harmony of the interface. To achieve this consistency, designers should focus on several key aspects of icon design:
 
 <TwoColumnComponent
-imageSrc="/course-site/moduleImages/week5/stroke-thumbnail.png"
+imageSrc="/w2024/moduleImages/week5/stroke-thumbnail.png"
 title="Line (Stroke) Weight"
 description="The thickness of the lines used in icons, known as line weight or stroke weight, plays a significant role in visual consistency. Choosing a uniform line weight across all icons ensures that they appear as part of a cohesive set. This consistency in line weight helps maintain visual balance, especially in interfaces where icons are displayed together or in close proximity."
 />
 
 <TwoColumnComponent
-imageSrc="/course-site/moduleImages/week5/fill-outline-thumbnail.png"
+imageSrc="/w2024/moduleImages/week5/fill-outline-thumbnail.png"
 title="Filled (Glyph) or Outlined Styles"
 description="Icons can be designed in filled (glyph) styles, where the shapes are solid, or outlined styles, which consist of only the edges of the shapes. The choice between filled and outlined icons should be consistent across the UI to avoid visual discord. Each style offers different visual weights and can impact the user's ability to quickly recognize and interact with the icons, so it's important to choose the style that best fits the overall design and usability goals of the interface."
 />
 
 <TwoColumnComponent
-imageSrc="/course-site/moduleImages/week5/corners-thumbnail.png"
+imageSrc="/w2024/moduleImages/week5/corners-thumbnail.png"
 title="Sharp vs. Rounded Corners"
 description="The geometry of icon corners—whether they are sharp or rounded—significantly affects their appearance and how they're perceived by users. Sharp corners can convey a more formal or technical feel, while rounded corners are often seen as friendlier and more approachable. Consistency in corner style across an icon set can subtly influence the user's perception of the app or website, contributing to a unified user experience."
 />
 
 <TwoColumnComponent
-imageSrc="/course-site/moduleImages/week5/style-thumbnail.png"
+imageSrc="/w2024/moduleImages/week5/style-thumbnail.png"
 title="Minimalist, Detailed, or Even Hand-Drawn “Sketch” Styles"
 description="Icon design can vary from minimalist to highly detailed, or even sketch-style, depending on the UI's design language and user experience goals. Minimalist icons offer clarity and are favored in modern interfaces, while detailed icons suit complex concepts or need expressive visuals. Sketch-style icons add uniqueness and personality. Consistency in chosen style across icons is crucial for a cohesive appearance."
 />
