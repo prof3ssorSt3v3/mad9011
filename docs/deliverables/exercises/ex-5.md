@@ -53,8 +53,6 @@ Compress and submit your `lName-fName-section#-creating-icons` folder containing
 
 <br>
 
-<Badge type="error" text="Refer to Brightspace for your section's due date." />
-
 - Open BS LMS and go to the `Activities` > `Assignments page`.
 - Go to `Exercise 5 — Creating Icons`
 - Upload your compressed folder on the assignment page in BS LMS and click the submit button.
