@@ -42,7 +42,7 @@ Every week there will be work for you to complete inside or outside of class. So
   title="Exercise 5 — Creating Icons"
   dueDate="Due: Tuesday February 13th @9:00pm"
   description="In this exercise, you'll design a cohesive set of icons tailored for use in a mobile app, ensuring they harmonize in style and functionality."
-  linkType="paused"
+  linkType="active"
   detailsLink="./exercises/ex-5.html"
 />
 
