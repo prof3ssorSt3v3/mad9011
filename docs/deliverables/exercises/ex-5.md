@@ -1,65 +1,62 @@
-# Exercise 5 — Character Vectorization
+# Exercise 5 — Creating Icons
 
 ## Introduction
 
-The goal for this assignment is to get comfortable using the pen tool. Focus on creating good lines and curves. You can apply colours and other effects if you like, but it is not required, you will only be marked based on how well you recreate the line work of the image. If you find your own image, it must have a similar level of detail, or more, than the Kermit the frog example below.
-
-<ClientOnly>
-  <Countdown date="2023-10-05">
+In this exercise, you will be tasked with creating a set of user interface (UI) icons using Adobe Illustrator. This activity is designed to help you understand the basics of icon design, including consistency, simplicity, and scalability. You will apply design principles and Illustrator techniques to create icons that are both aesthetically pleasing and functionally clear.
 
 ## Instructions
 
-1. **Character Selection:**
+1. Download and open the provided Illustrator file for this exercise from Brightspace. The file will be posted on Brightspace before your lab class. This file contains a template set up with predefined artboards and grid systems to help you get started.
 
-   - Begin by selecting an image of a character that you'd like to recreate using the pen tool in Illustrator. Choose an image that provides a similar level of detail or more detail than the provided Kermit the Frog example.
-   - The primary focus of this assignment is to practice creating clean lines and curves using the pen tool.
+2. Start by created your icons within the 24x24 px artboard. Each artboard is labeled with the icon you are to create.
 
-2. **Illustrator File Setup:**
+3. Once you have created your 24x24 px icons, scale them to 48x48 px. ensure that your font weights and corner radii scale accordingly. You may accomplish this by;
 
-   - Create a new Illustrator file and title it as fName-lName-character-vectorization.ai.
-   - Organize your Illustrator file using two separate layers:
-     - **Template Layer:** Place the reference image of the character you're recreating on this layer. Label it as "Template".
-     - **Final Artwork Layer:** Trace and recreate the character image using the pen tool on this layer. Label it as "Final Artwork".
+- Outlining your strokes and uniting your layers into a single shape.
+- Manually adjusting your weights and radii
 
-3. **Recreating Lines and Curves:**
+4. Finishing steps:
 
-   - Trace over the lines of the character image using the pen tool in Illustrator. Your objective is to accurately capture the features, shapes, and details of the character image.
-   - While optional, you can apply colors and other effects to your recreation. However, your main evaluation will be based on how well you recreate the line work of the image.
+- Organize your layers by grouping and labeling.
+- Make sure you save your .ai file.
+- Be sure to hide the **keyline** layers before exporting
+- Export your artboards using `export for Screens` dialogue.
 
-4. **Export and Submission:**
+## Tips
 
-   - Inside the folder containing your Illustrator file, create a subfolder named "Exports".
-   - Export your completed artwork as a PNG at a width of 800px (height may vary) using the "Export for Screens" dialogue in Illustrator.
-   - Ensure your artwork fits neatly within the Artboard for optimal export.
-   - Package the Illustrator file, the reference image, and the "Exports" subfolder into a single folder.
-   - Compress the folder into a zip file and title it as fName-lName-character-vectorization.zip.
+- **Designing Your Icons**: Use the tools and techniques discussed in class to create your icons. Make sure to:
 
-## Example
+  - Stick to the grid and guidelines provided in the Illustrator file.
+  - Apply consistent styles (e.g., line width, corner radius) across all icons for uniformity.
+  - Design for scalability. Your icons should be easily recognizable at various sizes.
 
-![Exercise example](./assets/kermit-the-frog.png)
+- **Refinement and Review**: Once your icons are designed, take a step back and review them as a set. Look for inconsistencies, and make sure each icon communicates its intended function clearly. Adjust as necessary.
 
-## Grading Rubric
+## File Setup and Submission
 
-| Category                    | Criteria                                                                                                                         | Weight |
-| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| Recreating Lines and Curves | - How well the student has traced over the lines of the character image, accurately capturing its features, shapes, and details. | 2      |
-| Pen Tool Proficiency        | - Assessing the student's skill in using the pen tool to create smooth lines, curves, and transitions.                           | 2      |
-| Level of Detail             | - Evaluating the intricacy and complexity of the recreated image in comparison to the provided example (Kermit the Frog).        | 2      |
-| Layer Organization          | - Did you appropriately organize your Illustrator file with two distinct artboards (Template and Final Artwork).                 | 1      |
-| File Organization           | - Well-structured Illustrator file with organized layers and properly labeled / organized submission folders                     | 1      |
-| **Total**                   |                                                                                                                                  | **8**  |
-| (Bonus) Creativity          | - Recognizing any creative additions like colors or effects that enhance the overall presentation of the final artwork.          | 1      |
+Compress and submit your `lName-fName-section#-creating-icons` folder containing:
 
-## Submission
+- `lName-fName-section#-creating-icons.ai`
+- "Exports" folder containing exported SVG files using the Export As... dialogue:
+  - home_24x24.svg
+  - home_48x48.svg
+  - search_24x24.svg
+  - search_48x48.svg
+  - like_24x24.svg
+  - like_48x48.svg
+  - camera_24x24.svg
+  - camera_48x48.svg
+  - mail_24x24.svg
+  - mail_48x48.svg
 
-**Due Dates:**
+::: warning Submission
 
-<Badge text="Section 300: Tuesday October 10th @5:00pm" />
-<Badge type="error" text="Section 310: Monday October 9th @6:00pm" />
+<br>
 
-- Open BS LMS and go to the Activities > Assignments page.
-- Go to Exercise 5 — Character Vectorization
+<Badge type="error" text="Refer to Brightspace for your section's due date." />
+
+- Open BS LMS and go to the `Activities` > `Assignments page`.
+- Go to `Exercise 5 — Creating Icons`
 - Upload your compressed folder on the assignment page in BS LMS and click the submit button.
 
-  </Countdown>
-</ClientOnly>
+:::
