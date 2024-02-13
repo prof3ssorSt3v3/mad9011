@@ -1,87 +1,103 @@
-# Week 5 - Time to draw
+# Week 5 - Creating Icons
 
-## Introduction
+## Learning Objectives
 
-In this section, we are going to learn how to draw shapes and edit them using different tools.
+By the end of this week, students will be able to:
 
-First, we will learn all about the pen tool, which can be tricky to master, but is the most essential drawing tool in Illustrator. Then we will cover the pencil and brushes tools and learn how to edit shapes pathfinder tools. Finally, we are going to see how the clipping mask is used and how it makes our lives easier.
+- Understand the significance of icons within user interfaces and how they enhance user experience and navigation.
+- Identify different types of UI icons (symbolic, representational, abstract) and their appropriate application in digital interfaces.
+- Appreciate the psychological impact of icons on user perception and how it influences user interaction.
+- Master the principles of icon design, including clarity, recognizability, consistency, and simplicity versus detail.
+- Learn cultural considerations and the impact of color psychology in designing icons to ensure they are effective and appropriate for the target audience.
+- Develop skills in creating a cohesive set of icons using Adobe Illustrator, focusing on technical aspects such as outlining strokes and testing for effectiveness.
 
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/drawing-tools-in-illustrator.html" target=”_blank”>![Get to know the drawing tools](./letsDraw1.png)</a>
+## Course Slides
 
-## The Pen Tool
+<br>
 
-The pen tool is one of the most important tools in the software; most of the drawing will be done using the pen tool and then edited with other tools to achieve the expected result, but it is usually the start to all shapes.
+[Week 5 Lecture Slides - Icons](https://drive.google.com/file/d/1s5HNQ9hIwCnFlqhc3EcY3tdnfsYp6y76/view?usp=sharing)
 
-This tool is very versatile and has a couple of different settings that can also be mastered with practice, so make sure to follow the tutorials and try it yourself.
+## Introduction to UI Icons
 
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/use-pen-tool.html" target=”_blank”>![Start creating with the Pen tool](./penTool1.png)</a>
+![Icon Banner](./icon-banner.png)
 
-### Now let's practice!
+Icons are integral components of modern user interfaces, serving as visual representations that communicate function, meaning, or content succinctly and effectively. They play a crucial role in enhancing the user experience by simplifying navigation, supporting content comprehension, and facilitating user interaction with digital interfaces.
 
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/pen-tool-exercises.html" target=”_blank”>![Practice creating with the Pen tool](./penTool2.png)</a>
+### Types and Functions of UI Icons
 
-### Edit paths you draw
+![Icon Types](./icon-types.png)
 
-A huge part of creating shapes with the pen tool is being able to manipulate them and edit them. Check this tutorial and try to follow along.
+- **Symbolic Icons**: Represent ideas or concepts in a simplified manner, often used for common actions like search or settings.
+- **Representational Icons**: Directly depict the object or action they represent, such as a trash can for delete function.
+- **Abstract Icons**: Use visual abstraction to convey complex actions or features, requiring user learning to understand their meaning.
 
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/edit-paths-you-draw.html" target=”_blank”>![Edit paths you draw](./penTool3.png)</a>
+### Psychological Impact of Icons
 
-## The Pencil & Paintbrush Tools
+Icons are not just simple visual elements; they carry a significant psychological impact that influences how users perceive and interact with digital interfaces. The design and implementation of icons can deeply affect the overall user experience by:
 
-These tools allow you to draw shapes as you would with real pencils and brushes, and the resulting elements can be adjusted after.
+- **Immediate Recognition**: Well-designed icons can be recognized instantly, reducing cognitive load for users. This immediate recognition is crucial for efficient navigation and interaction, as users often rely on visual cues to understand and use digital products.
+- **Emotional Connection**: Icons can evoke emotions and feelings, creating a more engaging and personalized user experience. For example, a smiley icon can convey happiness or satisfaction, while a heart icon can evoke love or favorite items. This emotional connection can enhance user satisfaction and loyalty to a product.
+- **Cultural Significance**: Icons can carry different meanings in different cultural contexts. Understanding the cultural implications of certain icons is essential to avoid misunderstandings and ensure that the iconography is appropriate and inclusive for a global audience.
+- **Visual Harmony and Aesthetics**: The aesthetic design of icons, including their color, shape, and style, contributes to the overall visual appeal of the interface. A harmonious icon set can enhance the aesthetic value of the product, making it more attractive and enjoyable to use.
+- **Usability and Accessibility**: The clarity and recognizability of icons play a vital role in usability and accessibility. Icons that are designed with clear symbolism and contrast can aid users with visual impairments or cognitive disabilities, ensuring that the product is accessible to a wider audience.
+- **Brand Identity**: Icons can also serve as an extension of a brand's identity, reinforcing brand values and personality through their design. Custom icon sets that align with the brand's aesthetic can strengthen brand recognition and differentiation in a crowded market.
+- **Expectation Setting and Functionality**: The design of an icon can set user expectations about its functionality. For example, a magnifying glass icon universally suggests a search function. Ensuring that icons match their intended actions prevents user frustration and supports a seamless interaction.
 
-You will learn how to create the paths, edit them and change the style to mimic different types of brushes.
+## Design Principles for Icons
 
-You will also see the properties panel in action and a few quick actions, such as grouping.
+Learn about the key design principles that ensure icons are effective and intuitive:
 
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/create-edit-artwork-with-paintbrush-pencil-tools.html" target=”_blank”>![Create artwork with the Paintbrush and Pencil tools](./paintbrush.png)</a>
+- **Clarity and Recognizability**: Icons should be instantly recognizable and convey their function without ambiguity.
+- **Consistency in Style and Size**: Maintaining a consistent style and size across all icons to ensure coherence and familiarity.
+- **Contextual Relevance**: Icons must be relevant to the context in which they are used, enhancing their intuitiveness.
+- **Simplicity vs. Detail**: Finding the right balance between simplicity and detail to ensure icons are understandable at a glance.
+- **Accessibility**: Design icons with accessibility in mind, considering color contrast, size, and alternative text for users with visual impairments.
 
-## Blend Tool
+### Creating a Set of Icons
 
-The Blend tool (W) creates a series of objects blended between the color and shape of multiple objects. Let's follow this video to transform shapes and colors into beautiful objects.
+Consistency in icon design is crucial for creating a cohesive user experience. When icons within a UI maintain a uniform appearance, they not only become more recognizable to users but also contribute to the overall aesthetic harmony of the interface. To achieve this consistency, designers should focus on several key aspects of icon design:
 
-<YouTube
-  title="Blend Tool Features You Might Not Know!"
-  url="https://www.youtube.com/embed/c_ZA5FPxkAo"
+<TwoColumnComponent
+imageSrc="/course-site/moduleImages/week5/stroke-thumbnail.png"
+title="Line (Stroke) Weight"
+description="The thickness of the lines used in icons, known as line weight or stroke weight, plays a significant role in visual consistency. Choosing a uniform line weight across all icons ensures that they appear as part of a cohesive set. This consistency in line weight helps maintain visual balance, especially in interfaces where icons are displayed together or in close proximity."
 />
 
-## Pathfinder & Builder Tools
+<TwoColumnComponent
+imageSrc="/course-site/moduleImages/week5/fill-outline-thumbnail.png"
+title="Filled (Glyph) or Outlined Styles"
+description="Icons can be designed in filled (glyph) styles, where the shapes are solid, or outlined styles, which consist of only the edges of the shapes. The choice between filled and outlined icons should be consistent across the UI to avoid visual discord. Each style offers different visual weights and can impact the user's ability to quickly recognize and interact with the icons, so it's important to choose the style that best fits the overall design and usability goals of the interface."
+/>
 
-Some more complex geometric shapes are more easily created starting from the basic geometric shapes and breaking them and combining them.
+<TwoColumnComponent
+imageSrc="/course-site/moduleImages/week5/corners-thumbnail.png"
+title="Sharp vs. Rounded Corners"
+description="The geometry of icon corners—whether they are sharp or rounded—significantly affects their appearance and how they're perceived by users. Sharp corners can convey a more formal or technical feel, while rounded corners are often seen as friendlier and more approachable. Consistency in corner style across an icon set can subtly influence the user's perception of the app or website, contributing to a unified user experience."
+/>
 
-To do this, we use the pathfinder tool or the builder tool.
+<TwoColumnComponent
+imageSrc="/course-site/moduleImages/week5/style-thumbnail.png"
+title="Minimalist, Detailed, or Even Hand-Drawn “Sketch” Styles"
+description="Icon design can vary from minimalist to highly detailed, or even sketch-style, depending on the UI's design language and user experience goals. Minimalist icons offer clarity and are favored in modern interfaces, while detailed icons suit complex concepts or need expressive visuals. Sketch-style icons add uniqueness and personality. Consistency in chosen style across icons is crucial for a cohesive appearance."
+/>
 
-Both tools can be used to achieve the same result using different methods, try them both to see which one you feel more comfortable with.
+### Tips for Consistency
 
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/combine-simple-shapes-to-make-complex-shapes.html" target=”_blank”>![Combine shapes in different ways](./pathfinder-builder.png)</a>
+#### Define a Style Guide
 
-## Clipping Mask
+stablish a comprehensive style guide that outlines the specifications for icon design, including line weight, corner style, and level of detail. This guide should serve as a reference for all current and future icon designs to ensure consistency.
 
-Finally, let's take a look at the clipping mask effect. Clipping masks are objects that mask other artwork so only areas within the shape are visible. You can edit the clipping mask or image sets in Isolation mode, too.
+#### Use a Grid System
 
-<a href="https://helpx.adobe.com/ca/illustrator/how-to/illustrator-creating-basic-clipping-mask.html" target=”_blank”>![Create a basic clipping mask](./clippingmask.png)</a>
+![Grid Systems](./grid-system.png)
+Designing icons on a grid system can help maintain uniform proportions and alignment, contributing to a cohesive visual language.
 
-## Packaging Your Files
+#### Consistent Icon Sizing
 
-Properly packaging and organizing your files is an incredibly important. When you drag and drop or place an image into Illustrator, Illustrator saves a linked reference to where that file lives in your computer. So if you move/delete a linked file that will break the link and Illustrator will no longer be able to load it into your project.
+![Consistent Icon Sizing](./consistent-sizing.png)
+Ensure that icons are designed with consistent sizing in mind, taking into account both the icon's visual weight and its functional role within the interface.
 
-Luckily, Illustrator provides us with the `Package...` feature that will do the heavily lifting and organize linked files for us. It will make a new folder that has a copy of the original Illustrator file and it will copy all linked files into a **Links** folder and all fonts (other than Adobe Fonts) into a **Fonts** folder. You can access this feature in the dropdown menus `File > Package...` or with keyboard shortcut `Shift + Option + Command + P` on Mac or `Shift + Alt + Control + P` on Windows.
+## Additional Resources
 
-<figure>
-  <img src="./packaged-pre.jpg" alt="">
-  <figcaption>Disorganized files before packaging.</figcaption>
-</figure>
-<figure>
-  <img src="./packaged-post.jpg" alt="">
-  <figcaption>Organized files in single organized folder after packaging</figcaption>
-</figure>
-
-Any time you submit any files that contain linked images, you **must** first package the file, and **submit a compressed folder of the entire package**. This will insure that I properly receive all of the necessary files to review and mark your assignments. It is also good habit to get into now, your future co-workers and clients will thank you!
-
-<!-- ## Demo Files
-
-::: tip Files
-[Week 5 Tutorial Files Download](https://algonquinlivecom-my.sharepoint.com/:f:/g/personal/bristot_algonquincollege_com/ErZ8YDkaQOZDuGpNkMIEiagBNT74kImSgPN7JItCB9aRfA?e=QkU9dv)
-
-[Shape Builder Tool Demo](https://algonquinlivecom-my.sharepoint.com/:u:/g/personal/bristot_algonquincollege_com/EcHgNFsgFfVKokBRUsMBHRIBDDknHIp2u9XN8NdXvorL4A?e=44hJMI)
-::: -->
+- [Material Design: System Icons](https://m2.material.io/design/iconography/system-icons.html#design-principles)
+- [Understanding Color Psychology in Icon Design](https://www.colorpsychology.org/)
