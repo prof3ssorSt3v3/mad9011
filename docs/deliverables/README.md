@@ -48,9 +48,9 @@ Every week there will be work for you to complete inside or outside of class. So
 
 <Deliverable
   title="Exercise 6 — Animated SVG"
-  dueDate="Due: Tuesday February 20th @7:00pm"
+  dueDate="Due: Sunday February 18th @11:59pm"
   description="In this exercise, you'll create an engaging application loader using animated SVG in Adobe Illustrator, focusing on design aesthetics, clean export setup, and CSS-based animation styling."
-  linkType="paused"
+  linkType="active"
   detailsLink="./exercises/ex-6.html"
 />
 

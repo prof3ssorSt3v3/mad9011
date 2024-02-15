@@ -1,63 +1,59 @@
 # Exercise 6 — Animated SVG
 
+## Introduction
+
+In this exercise, you'll create an animated SVG loader to enhance user experience during application loading times. This task combines design skills with basic web development to implement a visually appealing and functional loader.
+
 ## Instructions
 
-For this exercise, you'll be creating an application loader using an animated SVG.
+To successfully complete this exercise, follow these steps:
 
-<ClientOnly>
-  <Countdown date="2023-10-11">
+1. **Obtain the Illustrator File:**
 
-Follow the steps below to complete the assignment:
+- Access Brightspace to download the provided Illustrator file specifically for this exercise. The file will be available before your scheduled lab class.
 
-1. **Designing the Loader:**
+2. **Design Your Loader:**
 
-   - Use Adobe Illustrator to create an engaging loader design. The loader should be visually appealing and aligned with the aesthetics of a loading animation.
-   - Ensure that your Illustrator file is ready for export using the "Export as..." dialogue.
-     - This includes setting up the layers, artboard size, and any other necessary details for a clean export.
+- Utilize Adobe Illustrator to design your loader. Pay attention to optimizing your layers for web export during this process.
 
-2. **SVG Code and Styling:**
+3. **Export and Prepare the SVG:**
 
-   - Copy the SVG code generated from your Illustrator design and paste it within the index.html file.
-   - All styling for the SVG loader should be written in the main.css file located in the ./css directory.
+Export your loader design as SVG using the 'Export as...' option in Illustrator. Make sure your file is properly optimized for web use.
 
-3. **Creating the Animation:**
-   - Inside the main.css file, develop the animation for the loader using CSS animations and transitions.
-   - The animation should make the loader visually appealing and convey the sense of progress or activity.
+4. **Integrate the SVG into HTML:**
+
+- Embed the SVG code directly into the index.html file of your project. This step involves copying the exported SVG code into the HTML file.
+
+5. **Refine the SVG Code:**
+
+- Clean up the SVG code by removing any unnecessary xml tags. Also, ensure that all styles are externalized to a CSS file rather than being inline within the SVG code.
+
+6. **Create a Multi-Step CSS Animation:**
+
+- Craft a CSS animation that unfolds across multiple stages to add dynamic visual interest. Aim to design an animation sequence that integrates several keyframes, creating a compelling and engaging motion effect.
 
 ## Example
 
-Here's an example of what your finished loader could look like:
+Your task is to create a loader similar to the one shown below:
 
-![Exercise example](./assets/animated-svg.gif)
+![Loader example](./assets/svg-example.gif)
 
-## Files Structure
+## File Structure
 
-        fName-lName-section#-animated-svg/
-            css/
-                main.css
-            index.html
-            Loader.ai
+Package your files into a single compressed folder named `firstName-lastName-sectionNumber-animated-svg`. Your submission should include:
 
-## Grading Rubric
+- `./css/`
+- `main.css` (for styling your SVG loader)
+- `index.html` (containing your SVG code)
+- `Loader.ai` (the original Illustrator file)
 
-| Category          | Criteria                                                                                                              | Weight |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------- | ------ |
-| Loader Design     | - Uniqueness and relevance to the loading animation concept. <br> - Effective use of colors, shapes.                  | 2      |
-| Animation         | - Smooth transitions, clear communication of progress, and effective use of pacing.                                   | 2      |
-| Code Quality      | - Is your code clean? <br> - Is all of your styling in your CSS file?                                                 | 1      |
-| File Organization | - Well-structured Illustrator file with organized layers and properly labeled<br> - Well organized submission folders | 1      |
-| **Total**         |                                                                                                                       | **6**  |
+::: warning Submission
 
-## Submission
+<br>
 
-**Due Dates:**
+<Badge type="error" text="Refer to Brightspace for your section's due date." />
 
-<Badge text="Section 300: Tuesday October 17th @5:00pm" />
-<Badge type="error" text="Section 310: Monday October 16th @6:00pm" />
-
-- Open BS LMS and go to the Activities > Assignments page.
-- Go to Exercise 6 — Animated SVG
+- Open BS LMS and go to the `Activities` > `Assignments page`.
+- Go to `Exercise 6 — Animated SVG`
 - Upload your compressed folder on the assignment page in BS LMS and click the submit button.
-
-  </Countdown>
-</ClientOnly>
+  :::
