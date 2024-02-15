@@ -10,14 +10,6 @@ By the end of this week, students will be able to:
 - Utilize tools like SVGO to further reduce SVG file sizes and clean up the code for improved web performance.
 - Apply CSS transitions and animations to SVG elements to create dynamic and interactive web graphics.
 
-## Course Slides
-
-<br>
-
-[Week 6 Lecture Slides](https://drive.google.com/file/d/1-lpAves-5UipXupoAYhBmRHPkuXVInvh/view?usp=sharing)
-
-## What is SVG?
-
 ## Definition and Overview
 
 Scalable Vector Graphics (SVG) is a versatile XML-based format designed for the web, enabling designers and developers to create vector images that are scalable to any size without losing quality. Unlike raster images, which store information in a grid of pixels, SVGs describe images in terms of paths, shapes, and fills. This vector-based approach ensures that SVG images remain crisp and clear at any resolution or zoom level, making them perfectly suited for the demands of modern responsive web design. SVGs support transparency and can be easily embedded directly into HTML documents, allowing for seamless integration with the rest of a web page's design.
