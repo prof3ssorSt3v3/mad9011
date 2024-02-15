@@ -18,7 +18,7 @@ To successfully complete this exercise, follow these steps:
 
 3. **Export and Prepare the SVG:**
 
-Export your loader design as SVG using the 'Export as...' option in Illustrator. Make sure your file is properly optimized for web use.
+- Export your loader design as SVG using the 'Export as...' option in Illustrator. Make sure your file is properly optimized for web use.
 
 4. **Integrate the SVG into HTML:**
 
@@ -50,8 +50,6 @@ Package your files into a single compressed folder named `firstName-lastName-sec
 ::: warning Submission
 
 <br>
-
-<Badge type="error" text="Refer to Brightspace for your section's due date." />
 
 - Open BS LMS and go to the `Activities` > `Assignments page`.
 - Go to `Exercise 6 — Animated SVG`
