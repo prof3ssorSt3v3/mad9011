@@ -8,9 +8,9 @@ In this exercise, you'll create an animated SVG loader to enhance user experienc
 
 To successfully complete this exercise, follow these steps:
 
-1. **Obtain the Illustrator File:**
+1. **Download the started File:**
 
-- Access Brightspace to download the provided Illustrator file specifically for this exercise. The file will be available before your scheduled lab class.
+- Download and open the provided file for this exercise from Brightspace. The file will be posted on Brightspace before your lab class.
 
 2. **Design Your Loader:**
 
