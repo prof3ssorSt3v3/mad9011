@@ -11,12 +11,6 @@ By the end of this week, students will be able to:
 - Learn cultural considerations and the impact of color psychology in designing icons to ensure they are effective and appropriate for the target audience.
 - Develop skills in creating a cohesive set of icons using Adobe Illustrator, focusing on technical aspects such as outlining strokes and testing for effectiveness.
 
-## Course Slides
-
-<br>
-
-[Week 5 Lecture Slides - Icons](https://drive.google.com/file/d/1s5HNQ9hIwCnFlqhc3EcY3tdnfsYp6y76/view?usp=sharing)
-
 ## Introduction to UI Icons
 
 ![Icon Banner](./icon-banner.png)
