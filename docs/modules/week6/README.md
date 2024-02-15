@@ -1,248 +1,157 @@
 # Week 6 - Introduction to SVG
 
-## What are SVGs?
+## Learning Objectives
 
-Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation. SVG images are defined in XML text files. In this section, we are going to learn how to generate good SVG code using Adobe Illustrator and preparing it to be animated and used on the web as well as how to write our own SVG code from scratch.
+By the end of this week, students will be able to:
 
-## SVGs are code
+- Define Scalable Vector Graphics (SVG) and explain its advantages over traditional bitmap formats like PNG and JPEG.
+- Describe the steps necessary to optimize an Illustrator document for SVG export, including layer organization and naming conventions.
+- Demonstrate how to export SVG files from Adobe Illustrator, including setting the appropriate export options for web optimization.
+- Utilize tools like SVGO to further reduce SVG file sizes and clean up the code for improved web performance.
+- Apply CSS transitions and animations to SVG elements to create dynamic and interactive web graphics.
 
-SVGs are purely vector graphics written in XML markup language. We can use a pure code editor to create an SVG. Let's follow along this series of video tutorial and write SVG markup with VSCode.
+## Course Slides
 
-### Writing SVG Code
+<br>
 
-In this video we will learn to write SVG code from scratch and integrate it into an HTML document. Read SVG reference of Writing SVG code for basic syntax and SVG shapes.
+[Week 6 Lecture Slides](https://drive.google.com/file/d/1-lpAves-5UipXupoAYhBmRHPkuXVInvh/view?usp=sharing)
 
-<YouTube
-  url="https://www.youtube.com/embed/LqhOix-3R-4"
-  title="Advanced SVG: writing SVG code"
-/>
+## What is SVG?
 
-### SVG Attributes and CSS
+## Definition and Overview
 
-There are a bunch of SVG attributes, like fill that can be written in the SVG as well as in CSS.
+Scalable Vector Graphics (SVG) is a versatile XML-based format designed for the web, enabling designers and developers to create vector images that are scalable to any size without losing quality. Unlike raster images, which store information in a grid of pixels, SVGs describe images in terms of paths, shapes, and fills. This vector-based approach ensures that SVG images remain crisp and clear at any resolution or zoom level, making them perfectly suited for the demands of modern responsive web design. SVGs support transparency and can be easily embedded directly into HTML documents, allowing for seamless integration with the rest of a web page's design.
 
-When exporting from tools like Adobe Illustrator we should use the SVG presentation attributes to avoid naming collisions.
+## Advantages Over Other Image Formats
 
-For example, to change the fill of an element we could use the fill="" attribute like this:
+SVG files offer several key advantages compared to traditional bitmap formats such as PNG and JPEG:
 
-```html
-<svg width="256" height="256" viewBox="0 0 256 256">
-  <rect fill="#f33" x="10" y="10" width="75" height="50" />
+- **Reduced File Sizes**: For many types of web graphics, especially those that are geometric or consist of simple shapes like logos and icons, SVGs tend to have smaller file sizes. This efficiency is due to the XML-based format of SVGs, which describes an image using compact text instructions rather than storing individual pixel data. Smaller file sizes contribute to faster page load times, improving overall user experience and SEO performance.
+
+- **Scalability**: SVGs can be scaled up or down to fit any display size without losing quality. This feature is crucial for responsive design, where images must adapt to varying screen sizes and resolutions. With SVGs, a single image file works across all devices, from desktop monitors to smartphones, without the need for multiple versions of the same image at different resolutions.
+
+- **Styling and Animation**: SVGs can be directly manipulated using CSS and JavaScript, offering extensive possibilities for styling and interactive animation. Designers can change colors, apply gradients, add filters, or animate parts of an SVG image in response to user interactions, such as hover or click events. This capability allows for dynamic and engaging web experiences that are not possible with static image formats.
+
+- **Accessibility and SEO Benefits**: Since SVGs are XML files, they can include text-based metadata and titles, making the content of SVG images searchable by search engines and accessible to screen readers. This feature enhances the accessibility of web content for users with visual impairments and can contribute to better SEO by allowing search engines to index the textual content of images.
+
+## Basic SVG Syntax and Elements
+
+SVG syntax, being XML-based, shares similarities with HTML in its use of tags but is distinct in its focus on graphical elements. This syntax provides a powerful and flexible way to describe vector graphics in a text format that can be embedded directly into web pages.
+
+Here is a quick [video tutorial](https://youtu.be/LqhOix-3R-4?si=1vkiS0kfDUGwBR3i).
+
+### Overview of SVG Syntax
+
+SVG syntax enables the definition of graphical elements, styles, and behaviors within an XML framework. Each SVG image is defined within an `<svg>` element, acting as a container that establishes a drawable region for vector graphics. Attributes on the `<svg>` element, such as width, height, and viewBox, control the size and scaling of the SVG content.
+
+SVG graphics are drawn using a variety of elements that represent different types of shapes and paths:
+
+- `<svg>`: The root container for SVG content, defining the bounds and coordinate system of the SVG canvas.
+- `<circle>`: Defines a circle, requiring cx (x-coordinate of the center), cy (y-coordinate of the center), and r (radius) attributes.
+- `<rect>`: Represents a rectangle and requires x and y attributes to determine the position, as well as width and height to specify the size. Optional rx and ry attributes can round the corners.
+- `<path>`: Perhaps the most versatile SVG element, it uses a d (path data) attribute to define complex shapes and paths with a series of commands and parameters.
+
+### Understanding SVG Coordinate System and viewBox
+
+The SVG coordinate system and viewBox attribute play crucial roles in how SVG graphics are positioned and scaled:
+
+- **Coordinate System:** SVG uses a Cartesian coordinate system, with the origin (0,0) located at the top-left corner of the canvas. Coordinates are used to position and shape SVG elements within this space.
+- **viewBox Attribute:** This attribute, specified on the `<svg>` element, creates a "mini coordinate system" within the SVG. It allows for the scaling and positioning of SVG content relative to its container. The viewBox attribute takes four values: min-x, min-y, width, and height, defining a rectangle in the SVG's coordinate system that should be scaled to fit the `<svg>` element's dimensions.
+
+```
+<svg width="100" height="100" viewBox="0 0 50 50">
+    <circle cx="25" cy="25" r="20" fill="blue" />
 </svg>
 ```
 
-```css
-.my-rect {
-  fill: #f33;
+In this example, a blue circle is centered within a 50x50 units square that is scaled to fit a 100x100 pixels area. The viewBox makes it possible to design SVG graphics that are responsive and adaptable to different display sizes without changing the SVG code.
+
+### Embedding SVG in HTML
+
+SVGs can be embedded directly into HTML documents in several ways, including inline SVG, using the <img> tag, as object data, or as CSS backgrounds. Each method has its implications for accessibility, styling, and interactivity:
+
+- **Inline SVG:** Embedding SVG code directly into an HTML document allows for the SVG to be styled and scripted, making it fully interactive and accessible.
+- **`<img>` Tag:** SVG files can be referenced as the source in an <img> tag. While this method is simple and ensures cacheability, it limits interaction and styling with CSS or JavaScript.
+- **CSS Backgrounds:** SVGs can be set as background images in CSS, useful for decorative purposes but not for direct interaction or accessibility.
+- **Accessibility Considerations**: When embedding SVG directly into HTML, it's possible to add `title` and `desc` tags for screen readers, making SVGs more accessible.
+
+## Animating SVGs with CSS
+
+Animating SVGs with CSS unlocks a wide array of possibilities for interactive and dynamic web designs. Here's how to bring SVGs to life using CSS animations and transitions.
+
+### Introduction to CSS Animations and Transitions
+
+![CSS Animations and Transitions](./animation-transition-css-difference.jpg)
+_[Source](https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/)_
+
+- **Difference Between CSS Animations and Transitions:** CSS transitions provide a way to control animation speed when changing CSS properties from one state to another over a specific duration. On the other hand, CSS animations offer more control for complex animations by allowing multiple keyframes to define an animation sequence from start to finish.
+- **When to Use Transitions vs. Animations:** Transitions are ideal for simple interactions, such as changing colors or sizes on hover. Animations are suited for more detailed sequences that may involve multiple steps or repeat cycles, like spinning icons or moving elements along a path.
+
+### Using CSS Transitions with SVG
+
+Basic Examples of CSS Transitions: Smoothly transition SVG properties, such as fill, stroke, and opacity, by applying CSS transitions. This can enhance interactivity, making SVG elements react to user actions like mouse hover.
+
+```
+svg circle {
+  transition: fill 0.5s ease;
+}
+
+svg circle:hover {
+  fill: #3498db;
 }
 ```
 
-Or, we could use CSS, like shown above.
+- **Transitioning SVG Attributes:** Enhance user experience by transitioning SVG attributes. For example, smoothly change the stroke width or color of an element upon user interaction to draw attention or provide feedback.
 
-The important thing to remember is that if the SVG element has an attribute (like fill="") and also the same CSS property (like fill:) then the CSS will always overwrite. The CSS property is more powerful than the SVG attribute.
+### Animating SVG with CSS Keyframes
 
-These online tools let us generate code for SVG gradients, CSS gradients and edit their code.
+- **Creating Complex Animations:** Define detailed animations using @keyframes, which specify the animation sequence through multiple stages. You can animate SVG elements, creating sophisticated visual effects that capture user attention.
 
-- [Gradient Generator](https://briangrinstead.com/gradient/)
-- [CSS Gradient Generator](https://cssgradient.io/)
-
-## From AI to SVG
-
-Using Adobe Illustrator (Ai) to design graphics and then export them in SVG format allows us to use that code directly on the web and animate it using CSS. The cleaner and more organized our Ai file is, the easier it will be to manipulate the SVG code later on. Follow this videos to exporting SVGs from Illustrator for animation.
-
-<YouTube
-  url="https://www.youtube.com/embed/bWcweY66DL8"
-  title="Advanced SVG: icons"
-/>
-
-### Cleaning generated SVG
-
-Now we know that if we use SVGs generated by a tool like Adobe Illustrator, Sketch, or Inkscape, there’s lots of extra cruft that we don’t need in the files. We can use some optimization tools to clean up the SVG. Here is one popular online tools to use.
-
-- [SVGOMG](https://jakearchibald.github.io/svgomg/)
-
-## CSS Animations
-
-There are SVG specific animations, named SMIL, but they are becoming deprecated. So CSS animations are a better way to go. Just treat your SVG elements like any other HTML elements. We will cover transition, transform, transform-origin with pixels, and animation in this lesson.
-
-To begin, let's review adding a CSS hover state to an SVG and then we will apply transitions to it.
-
-```html
-<svg width="120" height="120" viewBox="0 0 120 120">
-  <rect class="button" x="10" y="10" width="100" height="60" />
-</svg>
 ```
-
-Then in CSS, we can do this:
-
-```css
-.button {
-  fill: gold;
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
 }
 
-.button:hover {
-  fill: green;
-  stroke: red;
-  stroke-width: 8;
-  stroke-dasharray: 4;
+svg {
+  animation: spin 2s linear infinite;
 }
 ```
 
-## CSS Transitions
+- **Control Animation Timing, Duration, and Iteration:** Fine-tune animations by adjusting the `animation-duration`, `animation-timing-function`, and `animation-iteration-count` properties. This allows for precise control over how animations play, their speed, and the number of times they repeat.
 
-CSS transitions allows you to change property values from one state to another smoothly, over a given duration.
+### Advanced SVG Animation Techniques
 
-### Transition Property
+- **Combining CSS Animations with SVG Transformations:** Apply CSS animations to SVG transformation properties like translate, rotate, and scale. This technique enables more dynamic and complex animations, such as moving elements along a path or creating spinning effects that enhance the visual appeal of your website.
 
-The CSS transition property is a shorthand property for transition-property, transition-duration, transition-timing-function, and transition-delay.
-
-```css
-/* Apply to 1 property */
-/* property name | duration | timing function | delay */
-.button {
-  transition: fill 4s ease-in-out 1s;
+```
+@keyframes moveAndScale {
+  0% { transform: translateX(0) scale(1); }
+  50% { transform: translateX(30px) scale(1.5); }
+  100% { transform: translateX(0) scale(1); }
 }
 
-/* Apply to 2 properties */
-.button {
-  transition: fill 4s, stroke-width 1s;
-}
-
-/* Apply to all (default) changed properties */
-.button {
-  transition: all 0.5s ease-out;
+svg rect {
+  animation: moveAndScale 3s infinite;
 }
 ```
 
-Watch this video tutorial to understand how CSS `transistion` properties work.
+- **Creating Interactive Animations:** Leverage CSS pseudo-classes like :hover and :focus to trigger animations, making SVG elements respond to user interactions. This approach is excellent for creating engaging user interfaces where elements change appearance or behavior based on user actions.
 
-<YouTube
-  url="https://www.youtube.com/embed/Nloq6uzF8RQ"
-  title="Animating with CSS Transitions - A look at the transition properties"
-/>
+## Exporting SVGs Using Adobe Illustrator
 
-### Transform Property
+Creating SVGs with Adobe Illustrator is a streamlined process, ideal for designers looking to integrate vector graphics into web projects. Here's how to prepare, export, and optimize your SVGs for the web.
 
-CSS `transform` properties let us move, rotate, scale, and skew elements. We can apply 2D or 3D transformations to an element.
+### Preparing Your Illustration for Export
 
-2D transform methods:
+- **Optimizing Your Illustrator Document:** Before exporting your SVG, it's crucial to prepare your Illustrator document to ensure a smooth transition to the web. This preparation involves organizing your artwork with layers and groups logically. Use clear, descriptive naming conventions for layers and elements, as these names can be carried over into the SVG code, aiding in targeting elements for animation or styling. Additionally, simplify paths and merge unnecessary layers to reduce the complexity and file size of your SVG.
 
-- `translate()`
-- `rotate()`
-- `scaleX()`
-- `scaleY()`
-- `scale()`
-- `skewX()`
-- `skewY()`
-- `skew()`
-- `matrix()`
+### Exporting SVGs from Illustrator
 
-3D transform methods:
-
-- `rotateX()`
-- `rotateY()`
-- `rotateZ()`
-
-```css
-/* 
-  CSS Transition
-  property name | duration | timing function
-*/
-
-.button {
-  transition: transform 2s linear;
-}
-
-/* 2D transform */
-.button:hover {
-  transform: scale(1.5);
-}
-```
-
-### Transform Origin Property
-
-The SVG transform-origin attribute sets the origin for an item's transformations and its default value is the top left corner of the SVG canvas. However, the default transform origin for HTML elements is in the middle of themselves. To ensure the SVG animation working correctly in all browsers, we may need to set the pixel value to CSS transform-origin property.
-
-```css
-rect {
-  transform-origin: right bottom;
-  transform: rotate(90deg) translate(0, -100%) rotate(90deg) translate(0, 100%);
-}
-```
-
-## Applying CSS Animations
-
-The three most common SVG properties we can animate with CSS, are SVG `fill`, `opacity`, and CSS `transform` on SVG elements.
-
-To use CSS animation, we will first specify some keyframes for the animation. Keyframes hold what styles the element will have at certain times.
-
-### The @keyframes Rule
-
-In traditional animation, **keyframes** are important points in the timeline of an animation used for reference for figuring out how the animation will look and transition throughout the movement. For example, if I were to make an animation of someone lifting their arm and waving, the keyframes would be something like:
-
-- Arm down at side
-- Arm is raised
-- Hand begins waving
-- Hand stops waving
-- Arm is lowered to side.
-
-The animator would first create the animation at each of these stages, and then adjust how the figure changes and transitions between each stage.
-
-In CSS Animations, we do something very similar with the `@keyframes` rule. We set CSS values at different stages of our animation and then the browser automatically creates the transition between those keyframes. Our animation can be simple with just a beginning keyframe (represented by `0%` or `from`) and an end keyframe (represented by `100%` or `to`), or can have multiple keyframes (for example `0%`, `25%`, `50%`, `75%`, `100%`).
-
-```css
-/* A simple animation that does a full rotation. */
-
-@keyframes rotate {
-  from {
-    transform: rotate(0);
-  }
-
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-/* A multiple step animation that moves up then back down. */
-
-@keyframes jump {
-  0% {
-    transform: translateY(0);
-  }
-
-  50% {
-    transform: translateY(5rem);
-  }
-
-  100% {
-    transform: translateY(0);
-  }
-}
-```
-
-### Animation Property
-
-The animation property is a shorthand property for animation-name, animation-duration, animation-timing-function, animation-delay, animation-iteration-count, animation-direction, animation-fill-mode, and animation-play-state.
-
-```css
-/* name | duration | timing-function | delay | 
-iteration-count | direction | fill-mode | play-state */
-
-.box {
-  animation: rotate 3s ease-in 1s 2 reverse forwards paused;
-}
-```
-
-## Resources
-
-- [Advanced SVG Lesson](https://learn-the-web.algonquindesign.ca/topics/advanced-svg/) — Text reference for all topics covered in the videos from this week.
-- [SVG Cheat Sheet](https://learn-the-web.algonquindesign.ca/topics/svg-cheat-sheet/) — Quick reference for all things SVG
-- [CSS animations & effects cheat sheet](https://learn-the-web.algonquindesign.ca/topics/css-animations-effects-cheat-sheet/)
-- [MDN Docs — CSS animation shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
-- [Using Multi-Step Animations and Transitions](https://css-tricks.com/using-multi-step-animations-transitions/)
-
-<!-- ## Demo Files
-
-::: tip Files
-[Week 6 Tutorial Files Download](https://algonquinlivecom-my.sharepoint.com/:f:/g/personal/bristot_algonquincollege_com/EqDDhWwtDpFNj5MCHye8KZEBjZ1dGoTa-z5-NPjyxkJM5Q?e=gz9peU)
-::: -->
+- **Export Options for SVG:** When you're ready to export your SVG from Illustrator, navigate to `File > Export > Export As...` and select SVG (\*.SVG) as the format. In the SVG options dialog, several settings can affect your file:
+  - **Styling:** Determines whether styles are defined within the SVG file or externally. Inline styles may be easier to manipulate directly within the file.
+  - **Font:** Convert text to outlines to preserve appearance without requiring the font to be installed on the user's system.
+    Image Location: Embed images if your SVG contains any bitmap graphics to ensure they're always displayed.
+    Decimal Places: Lower values can reduce file size but at the cost of precision. Typically, 1-3 decimal places are sufficient for web graphics.
+  - **Minify:** Reduce file size by removing unnecessary whitespace, comments, and other non-essential data.
+  - **Responsive:** Ensure your SVG scales correctly on different screen sizes by checking this option.
