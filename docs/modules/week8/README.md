@@ -17,8 +17,6 @@ For you to access Figma, you must create a Figma account. Figma offers a Starter
 
 Make sure you select the Starter plan. If by some mistake you come to a screen that asks for payment information, something has gone wrong, and you will need to check the plan you selected.
 
-A paid Figma plan is not included in your tuition as of now. This might change if Adobe integrates Figma into its Creative Cloud.
-
 [How to create a Figma Account](https://help.figma.com/hc/en-us/articles/360039811114-Create-a-Figma-account)
 
 ::: tip Education Account

@@ -1,4 +1,4 @@
-# Midterm - Web Design Assets
+# Midterm - Mobile Design Assets
 
 ::: tip Files
 [Download your starter files here.](https://drive.google.com/file/d/1XEUk-CKl6dh_NLDw8JsUnCqfoIFauAFc/view?usp=sharing)
@@ -17,9 +17,9 @@ midterm-starter-files/
 
 ## Introduction
 
-For your midterm project, you'll craft a comprehensive suite of web design assets, encompassing everything from optimized images to bespoke icons, leveraging the capabilities of both Adobe Photoshop and Illustrator. This project is designed to challenge your design skills and creativity, encouraging you to create visually appealing and functional digital assets for a hypothetical website.
+For your midterm project, you'll craft a comprehensive suite of mobile design assets, encompassing everything from optimized images to bespoke icons, leveraging the capabilities of both Adobe Photoshop and Illustrator. This project is designed to challenge your design skills and creativity, encouraging you to create visually appealing and functional digital assets for a hypothetical mobile.
 
-You will utilize Adobe Photoshop for image optimization and manipulation, and Adobe Illustrator for creating vector-based graphics such as icons and logos. The assets you develop, including web banners, UI buttons, icons, animated loaders, and a logo design, should follow a consistent theme and aesthetic to ensure cohesiveness across the web experience.
+You will utilize Adobe Photoshop for image optimization and manipulation, and Adobe Illustrator for creating vector-based graphics such as icons and logos. The assets you develop, including web banners, UI buttons, icons, animated loaders, and a logo design, should follow a consistent theme and aesthetic to ensure cohesiveness across entire experience.
 
 **Submission 1:**
 
@@ -43,7 +43,7 @@ Here is an example, you can probably do better! :D
 
 **Instructions**
 
-1. Using the file provided, select an image that aligns with your chosen website theme (e.g., if your theme is gardening, select an image related to gardening).
+1. Using the file provided, select an image that aligns with your chosen app theme (e.g., if your theme is gardening, select an image related to gardening).
 2. Ensure your chosen image has a clear main subject that can remain the focal point across different banner sizes.
 3. Place your image within the provided artboards. Scale and adjust your image to fit nicely within the frames. Use content-aware fill or any other tool we learned in class to fill in gaps within your artboard.
 4. Ensure that your edits are non-destructive, allowing for adjustments and changes without permanently altering the original image.
@@ -72,7 +72,7 @@ In this part, you will design a set of UI buttons, each with an active and hover
 **Instructions:**
 
 1. Design two sets of buttons (e.g., "Read More" and "Subscribe") each with an alternate state (active & hover).
-2. Use consistent design elements (colors, fonts, shapes, gradients and effects ) that match your website's theme.
+2. Use consistent design elements (colors, fonts, shapes, gradients and effects ) that match your app's theme.
 3. Ensure the buttons are visually distinct in both states, using design cues to communicate their functionality.
 4. Consider the size of your buttons.
 5. Integrate your buttons into the desktop version of your web banner. Place them strategically so they complement the banner's design and encourage user interaction. Feel free to add text to your banner to help complete the look of your banner.
@@ -107,7 +107,7 @@ submission-2/
 
 ### UI Icon Set
 
-Create a set of 5 custom icons that will be used throughout your website. These should be relevant to your website's theme and designed for clarity and easy recognition. Ensure that your icons feel like a cohesive set.
+Create a set of 5 custom icons that will be used throughout your app. These should be relevant to your apps's theme and designed for clarity and easy recognition. Ensure that your icons feel like a cohesive set.
 
 ![UI Icon Set Example](./assets/ui-icon-example.png)
 
@@ -142,14 +142,14 @@ submission-2/
 
 ### Animated Loader
 
-Design an animated loader that will be displayed while your website's content is loading. This should be thematic and engaging.
+Design an animated loader that will be displayed while your app's content is loading. This should be thematic and engaging.
 
 You can do much better :D
 ![Animated Loader Example](./assets/loader-example.gif)
 
 **Instructions:**
 
-1. Conceptualize an animation that reflects your website's theme and can entertain or engage users during load times.
+1. Conceptualize an animation that reflects your app's theme and can entertain or engage users during load times.
 2. Utilize Adobe Illustrator to design your loader. Pay attention to optimizing your layers for web export during this process.
 3. Export your loader design as SVG using the 'Export as...' option in Illustrator. Make sure your file is properly optimized for web use.
 4. Embed the SVG code directly into the index.html file of your project. This step involves copying the exported SVG code into the HTML file.
@@ -174,16 +174,16 @@ submission-2/
 
 ### Logo Design
 
-Create a logo for your hypothetical website. This logo should encapsulate your website's theme and be memorable to visitors.
+Create a logo for your hypothetical app. This logo should encapsulate your app's theme and be memorable to visitors.
 
 ![Logo Example](./assets/logo-example.png)
 
 **Instructions:**
 
-1. Brainstorm ideas that symbolize your website's theme and purpose.
+1. Brainstorm ideas that symbolize your app's theme and purpose.
 2. Sketch several logo concepts before selecting the most promising one.
 3. Design your logo using Adobe Illustrator, ensuring it is scalable and versatile for different uses.
-4. Choose colors and fonts that align with your website's design language.
+4. Choose colors and fonts that align with your app's design language.
 5. Export your logo as and SVG.
 
 **File organization:**
@@ -224,7 +224,7 @@ submission-2/
 ::: tip Submission on Brightspace
 
 - Open BS LMS and go to the `Activities` > `Assignments page`.
-- Go to `Midterm: Web Design Assets`
+- Go to `Midterm: Mobile Design Assets`
 - Upload your compressed folder on the assignment page in BS LMS and click the submit button.
 
 :::
