@@ -1,7 +1,7 @@
 # Midterm - Web Design Assets
 
 ::: tip Files
-[Download your starter files here.](./assets/midterm-starter-files.zip)
+[Download your starter files here.](https://drive.google.com/file/d/1XEUk-CKl6dh_NLDw8JsUnCqfoIFauAFc/view?usp=sharing)
 
 **Folder Structure:**
 
