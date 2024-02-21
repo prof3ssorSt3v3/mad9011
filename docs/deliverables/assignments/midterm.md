@@ -47,7 +47,7 @@ Here is an example, you can probably do better! :D
 2. Ensure your chosen image has a clear main subject that can remain the focal point across different banner sizes.
 3. Place your image within the provided artboards. Scale and adjust your image to fit nicely within the frames. Use content-aware fill or any other tool we learned in class to fill in gaps within your artboard.
 4. Ensure that your edits are non-destructive, allowing for adjustments and changes without permanently altering the original image.
-5. Export your banners as .PNGs at their respective sizes at 72ppi, ensuring they are optimized for quick loading times without sacrificing visual quality.
+5. Export your banners as .PNGs at their respective sizes.
 
 **File organization:**
 
