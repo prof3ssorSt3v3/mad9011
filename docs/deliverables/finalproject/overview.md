@@ -1,7 +1,5 @@
 # Final Project Briefing
 
-## Project Overview
-
 ### Introduction
 
 As we approach the culmination of our course, it's time to embark on a significant journey—the final project. This endeavor will see you working in teams of three to develop a mobile application using Figma. This project is not just another assignment; it represents a considerable portion of your grade, contributing to **40%** of your final assessment.

@@ -1,4 +1,4 @@
-# Part 1: Wireframes
+# Part 1: Low-Fidelity Wireframes
 
 ::: tip Project Overview
 Read the project overview [here](overview.md)
@@ -91,10 +91,4 @@ Your submission will be through Figma's sharing feature. In your submission comm
 
 Make sure your professor has been added to the Figma file with editing permissions.
 
-::: warning Submission
-
-<br>
-
 <Badge type="error" text="Due: Tuesday March 12th @7:00pm" />
-
-:::
