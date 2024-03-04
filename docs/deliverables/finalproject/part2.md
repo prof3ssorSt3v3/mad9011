@@ -1,37 +1,76 @@
-# Part 2: Mid-Fidelity Wireframes
+# Part 2: Design System
 
 ## Introduction
 
-In **Part 2** of this project, we transition from low-fidelity wireframes to a more refined stage. This phase involves integrating styling elements, such as drop shadows and corner radiuses. Think of Part 2 as the nexus between low-fidelity and high-fidelity wireframes, laying the foundation for Part 3.
+In **Part 3** of this project, we aim to craft a concise design system for your application. A robust design system ensures consistency throughout your application and simplifies the visual design process as many elements are predefined.
 
-Moreover, it's essential to incorporate flow arrows between screens, illustrating the user journey.
+## Requirements
 
-## Instructions
+For your design system, you must incorporate:
 
-1. Start by duplicating your "Part 1 - Low-Fidelity Wireframes" and rename the duplicate for Part 2.
-2. Name this duplicated page "Part 2 - Mid-Fidelity Wireframes."
-3. On this new page, begin implementing styles and effects to your wireframes. However, refrain from using color at this juncture.
-4. Images can be added if necessary, but ensure they are desaturated.
-5. After styling, introduce arrows to elucidate the flow between screens.
+### Week 11
 
-**Note:** This deliverable should not closely mimic a real website yet.
+- **Typography**: Define your application's fonts, sizes, weights, and line heights.
+- **Colours**: Establish a color palette, including primary, secondary, and accent colors.
+- **Iconography**: Choose or design consistent icon components for common actions and indicators.
 
-## Example
+### Week 12
 
-Below is a sample mid-fidelity wireframe. Use it as a reference point, but don't hesitate to add more intricacies. Observe the arrows indicating the user flow, an essential criterion for this segment of the assignment.
+- **Buttons**: Design button styles, including hover, active, and disabled states.
+- **Cards**: Structure card elements for content presentation.
+- **Fields**: Design input fields, dropdowns, checkboxes, and other form components.
+- **Navigation**: Create designs for menus, breadcrumbs, tabs, and other navigation elements.
 
-![Mid-fidelity Wireframe Example](./assets/mid-fi-example.png)
+## Steps to Get Started
 
-## Grading
+1. **Setup**: Create a new file within your project and name it "Part 3: Design System."
+   ![Step 1](./assets/step-1.png)
 
-| Category        | Weight |
-| --------------- | ------ |
-| Flow Diagram    | 2      |
-| Readability     | 2      |
-| Effects         | 2      |
-| Styles          | 2      |
-| In Class Review | 2      |
-| **Total**       | **10** |
+2. **Categorization**: Establish separate pages for different components of your design system, such as:
+   ![Step 2](./assets/step-2.png)
+
+   - Colours
+   - Typography
+   - Buttons
+   - Cards
+   - Tabs
+   - And more
+
+3. **Typography**: Detail your typography choices, including size, font family, and weights.
+   ![Step 3](./assets/step-3.png)
+
+4. **Color Palette**: Define your color selections, distinguishing between primary, secondary, and accent shades.
+   ![Step 4](./assets/step-4.png)
+
+5. **Component Identification**: Review your mid-fidelity wireframes to identify necessary components.
+
+6. **Component Creation**: Develop your components on their respective pages, ensuring:
+
+   - Components are appropriately named.
+   - Variants for different states or versions are created.
+     ![Step 6](./assets/components.png)
+
+7. **Global Styles**: After defining your colours and typography, formulate "global" styles for each. Proper naming conventions are essential.
+   ![Step 7](./assets/styles.png)
+   _Note_: The number of styles in the example might exceed what you'll have, as they are from a comprehensive Design System.
+
+8. **Publishing**: After completing your Design System, publish your assets to your Team Library.
+   ![Step 8](./assets/publish-library.png)
+
+9. **Integration**: In your Wireframes file, enable access to your design system.
+   ![Step 9](./assets/enable-library.png)
+
+## Grading Criteria
+
+| Category          | Points |
+| ----------------- | ------ |
+| Colours           | 1      |
+| Typography        | 1      |
+| Iconography       | 1      |
+| Components        | 5      |
+| File Organization | 1      |
+| Styles & Library  | 1      |
+| **Total**         | **10** |
 
 ## Submission Process
 
@@ -45,7 +84,7 @@ Since your professor was invited during Part 1, there's no need for another invi
 
 **Due Dates:**
 
-<Badge text="Section 300: Tuesday November 14th @3:00pm" /><br>
-<Badge type="error" text="Section 310: Monday November 13th @4:00pm" />
+<Badge text="Section 300: Tuesday November 28th @3:00pm" /><br>
+<Badge type="error" text="Section 310: Monday November 27th @4:00pm" />
 
-Please submit via Brightspace under Assignments > Part 2 - Mid-Fidelity Wireframes.
+Please submit via Brightspace under Assignments > Part 3 - Design System.

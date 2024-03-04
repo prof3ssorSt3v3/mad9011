@@ -79,43 +79,35 @@ Every week there will be work for you to complete inside or outside of class. So
 />
 
 <Deliverable
-  title="Part 2: Mid-fidelity Wireframes"
-  dueDate="Due: Tuesday March 19th @7:00pm"
-  description="In part 2 of your final project, you'll enhance your low-fidelity wireframes by refining layouts, navigation and incorporating fundamental styling elements such as margins, corner radii, and drop shadows to bring clarity and structure to your mobile application design."
+  title="Part 2: Design System"
+  dueDate="Due: Tuesday March 26th @7:00pm"
+  description="In part 2 of your final project, you'll develop a mini design system, creating guidelines and standards for elements such as typography, color palettes, and UI components to ensure consistency and coherence in your design approach."
   linkType="paused"
   detailsLink="./finalproject/part2.html"
 />
 
 <Deliverable
-  title="Part 3: Design System"
-  dueDate="Due: Tuesday March 26th @7:00pm"
-  description="In part 3 of your final project, you'll develop a mini design system, creating guidelines and standards for elements such as typography, color palettes, and UI components to ensure consistency and coherence in your design approach."
+  title="Part 3: High-fidelity Wireframes"
+  dueDate="Due: Tuesday April 2nd @7:00pm"
+  description="In part 3 of your final project, you'll elevate your mid-fidelity wireframes to high-fidelity by meticulously applying the principles and elements from your design system, ensuring a polished and detailed representation of your final design concept."
   linkType="paused"
   detailsLink="./finalproject/part3.html"
 />
 
 <Deliverable
-  title="Part 4: High-fidelity Wireframes"
-  dueDate="Due: Tuesday April 2nd @7:00pm"
-  description="In part 4 of your final project, you'll elevate your mid-fidelity wireframes to high-fidelity by meticulously applying the principles and elements from your design system, ensuring a polished and detailed representation of your final design concept."
+  title="Part 4: Interactive Visual Prototype"
+  dueDate="Due: Tuesday April 9th @7:00pm"
+  description="In part 4 of your final project, you'll bring your high-fidelity wireframes to life by integrating interactivity and animations, preparing them for a comprehensive user testing experience that closely simulates the final product."
   linkType="paused"
   detailsLink="./finalproject/part4.html"
 />
 
 <Deliverable
-  title="Part 5: Interactive Visual Prototype"
-  dueDate="Due: Tuesday April 9th @7:00pm"
-  description="In part 5 of your final project, you'll bring your high-fidelity wireframes to life by integrating interactivity and animations, preparing them for a comprehensive user testing experience that closely simulates the final product."
+  title="Part 5: Presentations"
+  dueDate="Due: Tuesday April 16th @9:00pm"
+  description="In part 5 of your final project, you'll showcase the culmination of your efforts from parts 1 to 5, including a comprehensive presentation and a live demonstration of your interactive prototype, highlighting the journey from initial concepts to the final interactive design."
   linkType="paused"
   detailsLink="./finalproject/part5.html"
-/>
-
-<Deliverable
-  title="Part 6: Presentations"
-  dueDate="Due: Tuesday April 16th @9:00pm"
-  description="In part 6 of your final project, you'll showcase the culmination of your efforts from parts 1 to 5, including a comprehensive presentation and a live demonstration of your interactive prototype, highlighting the journey from initial concepts to the final interactive design."
-  linkType="paused"
-  detailsLink="./finalproject/part6.html"
 />
 
 ## Quizzes <Badge type="error" text="15%" />
