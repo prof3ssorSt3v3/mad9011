@@ -74,7 +74,7 @@ Every week there will be work for you to complete inside or outside of class. So
   title="Part 1: Low-fidelity Wireframes"
   dueDate="Due: Tuesday March 12th @7:00pm"
   description="In part 1 of your final project, you'll develop a series of low-fidelity wireframes, laying the foundational design blueprint for a mobile application."
-  linkType="paused"
+  linkType="active"
   detailsLink="./finalproject/part1.html"
 />
 
