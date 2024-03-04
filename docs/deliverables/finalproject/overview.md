@@ -2,7 +2,7 @@
 
 ### Introduction
 
-As we approach the culmination of our course, it's time to embark on a significant journey—the final project. This endeavor will see you working in teams of three to develop a mobile application using Figma. This project is not just another assignment; it represents a considerable portion of your grade, contributing to **40%** of your final assessment.
+As we approach the culmination of our course, it's time to embark on a significant journey—the final project. This endeavor will see you working in teams of two to develop a mobile application using Figma. This project is not just another assignment; it represents a considerable portion of your grade, contributing to **40%** of your final assessment.
 
 Over the next seven weeks, our curriculum will be strategically aligned with the various stages of your project development. This alignment ensures that the knowledge and skills you acquire will be directly applicable, enhancing your project's quality and relevance. The project's grading will be segmented into five distinct categories, each with its own set of deadlines.
 
