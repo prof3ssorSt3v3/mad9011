@@ -1,23 +1,26 @@
-# Final Project Overview
+# Final Project Briefing
 
-## Introduction
+## Project Overview
 
-The finish line is approaching!
+### Introduction
 
-In your final project, you will collaborate in groups of three to craft a mobile app using Figma. This project carries substantial weight, accounting for **35%** of your final grade.
+As we approach the culmination of our course, it's time to embark on a significant journey—the final project. This endeavor will see you working in teams of three to develop a mobile application using Figma. This project is not just another assignment; it represents a considerable portion of your grade, contributing to **40%** of your final assessment.
 
-Over the course of the next 7 weeks, we will cover topics that are directly applicable to various phases of your final project. This 35% will be divided into 6 distinct parts with individual due dates.
+Over the next seven weeks, our curriculum will be strategically aligned with the various stages of your project development. This alignment ensures that the knowledge and skills you acquire will be directly applicable, enhancing your project's quality and relevance. The project's grading will be segmented into five distinct categories, each with its own set of deadlines.
 
-| Part                                 |
-| ------------------------------------ |
-| Part 1: Low-fidelity Wireframes      |
-| Part 2: Mid-fidelity Wireframes      |
-| Part 3: Design System                |
-| Part 4: Visual Design                |
-| Part 5: Visual Interactive Prototype |
-| Part 6: Presentations                |
+### Project Components
 
-## App Themes
+The project will unfold in five phases:
+
+- **Part 1:** Low-fidelity Wireframes
+- **Part 2:** Design System
+- **Part 3:** Visual Design
+- **Part 4:** Visual Interactive Prototype
+- **Part 5:** Presentations
+
+### Theme Selection
+
+Your application can explore one of the following themes:
 
 1. Car Rental
 2. Banking
@@ -25,52 +28,35 @@ Over the course of the next 7 weeks, we will cover topics that are directly appl
 4. Food Delivery
 5. Shopping
 6. Social Media
-7. Other: If you have a theme not listed here, please seek approval from your professor.
+7. Other: Proposals for themes not listed require approval from the instructor.
 
-## Group Formation
+### Team Formation
 
-You can form groups through Brightspace > Activities > Groups.
+For the culmination of our course, the final project will be undertaken in pairs.
 
-![Brightspace Groups](./assets/groups.png)
+You can form your duo through Brightspace by navigating to Activities > Groups.
 
-## Submission Guidelines
+### Submission Process
 
-For your final project, you will not be submitting a file. Instead, you will use Figma's sharing feature. Each part of the project will have its specific submission requirements, so please review each week's guidelines.
+Submissions will be uniquely handled through Figma's sharing feature, tailored to each project phase's specific requirements. Prior to starting, it's crucial to add your professor as an **editor** to your Figma project to facilitate seamless reviews and feedback.
 
-### Essential Steps
+- Professor's Contact: Tyler (bristot@algonquincollege.com)
 
-Before commencing your project, make sure to invite your professor with Editing privileges to your Figma project.
+### Evaluation Criteria
 
-- Tyler: bristot@algonquincollege.com
+Each phase of the project will be evaluated based on a predefined grading scheme, ensuring clarity and fairness in assessment.
 
-![Figma Share](./assets/project-share.png)
+### Deadlines
 
-## Grading
+Please adhere to the submission deadlines outlined for each phase to ensure timely feedback and grading.
 
-Each weekly deliverable will be assessed according to its respective grading scheme.
+### Kickstarting Your Project
 
-## Submission Deadlines
+1. A designated team member will initiate the project within Figma.
+2. Following project creation, invite your team members and the professor to the project, ensuring accuracy in the email addresses used for invitations.
+3. Name your first Figma File "Wireframes"
+4. Assign your Figma page a clear title reflective of the current phase, starting with "Part 1 - Wireframes."
+5. Begin your design journey by creating your initial frames.
+6. Maintain an organized Figma file, following a structured layout for efficiency and clarity.
 
-Kindly review the submission dates specified for each week's deliverable.
-
-## Getting Started
-
-1. A team member will initiate a project in Figma.
-
-![Figma Project](./assets/create-project.png)
-
-2. The project initiator will then invite their teammates and the professor to the project, ensuring that the emails used for invitations match the student emails.
-
-![Figma Share Project](./assets/project-share.png)
-
-3. Name your Figma page "Part 1 - Wireframes."
-
-![Figma Name Page](./assets/rename-page.png)
-
-4. Begin by creating your initial frames.
-
-![Figma Create Frame](./assets/frame-size.png)
-
-5. Keep your Figma file well-organized. A structured layout may resemble the example below.
-
-![Figma File Organization](./assets/layout.png)
+This project is an opportunity to showcase your creativity, technical skills, and ability to collaborate effectively. Let's make it a remarkable journey!

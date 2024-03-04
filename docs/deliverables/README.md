@@ -105,7 +105,7 @@ Every week there will be work for you to complete inside or outside of class. So
 <Deliverable
   title="Part 5: Presentations"
   dueDate="Due: Tuesday April 16th @9:00pm"
-  description="In part 5 of your final project, you'll showcase the culmination of your efforts from parts 1 to 5, including a comprehensive presentation and a live demonstration of your interactive prototype, highlighting the journey from initial concepts to the final interactive design."
+  description="In part 5 of your final project, you'll showcase the culmination of your efforts from parts 1 to 4, including a comprehensive presentation and a live demonstration of your interactive prototype, highlighting the journey from initial concepts to the final interactive design."
   linkType="paused"
   detailsLink="./finalproject/part5.html"
 />
