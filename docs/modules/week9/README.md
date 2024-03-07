@@ -1,5 +1,17 @@
 # Week 9 - Getting Started with Figma and Introduction to Prototyping
 
+## Learning Objectives
+
+By the end of this week, students will be able to:
+
+1. **Understand the Importance and Purposes of Prototyping:** Explain the role of prototypes in the design process, including their use for user feedback, visualization, functionality testing, and validation.
+2. **Identify Different Types of Wireframes:** Distinguish between low-fidelity, mid-fidelity, and high-fidelity wireframes, and understand their specific applications in the design process.
+3. **Get Started with Figma:** Create a Figma account using a student email, understand the differences between the Starter and Education plans, and navigate the decision to use Figma's browser-based platform versus its desktop application.
+4. **Navigate Figma's Interface and Utilize Basic Tools:** Familiarize with Figma's interface, including the toolbar, layers panel, canvas, design panel, and prototype panel. Gain practical experience with fundamental tools for moving, scaling, creating frames, and manipulating shapes.
+5. **Engage in Real-Time Collaboration Using Figma:** Explore Figma's collaborative features, including real-time collaboration, comments and feedback, and the management of sharing and permissions at different levels (team, project, file, and page).
+6. **Organize Projects and Control Access in Figma:** Understand and apply Figma's team-level sharing rules, project-level sharing rules, file-level sharing rules, and page-level sharing rules to manage design projects effectively.
+7. **Introduction to Frames, Layers, and Groups in Figma:** Learn the basics of using frames for structuring designs, organizing elements with layers, and grouping elements for efficient manipulation and organization.
+
 ## Prototyping
 
 ![Wireframe Example](./schematic-example.png)
