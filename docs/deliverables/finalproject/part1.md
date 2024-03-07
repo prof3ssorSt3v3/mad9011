@@ -52,8 +52,8 @@ Thus, for a team of two, you'll be designing a total of five screens.
 
 ### Figma Setup and Sharing
 
-- [ ] Created a Figma file for the project.
-- [ ] Shared the Figma file with all team members and the professor with editing permissions.
+- [ ] Created a Figma project folder with a new file for the project.
+- [ ] Shared the Figma project with all team members and the professor with editing permissions.
 
 ### Wireframe Design
 
