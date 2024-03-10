@@ -67,14 +67,58 @@ For your design system, you must incorporate:
 9. **Integration**: In your Wireframes file, enable access to your design system.
    ![Step 9](./assets/enable-library.png)
 
-## Grading Criteria
+## Evaluation Criteria
+
+### Setup and Categorization
+
+- [ ] A new file named "Part 2: Design System" is created within the project.
+- [ ] Separate pages for different components (Colors, Typography, Buttons, Cards, Tabs, etc.) are established and clearly labeled.
+
+### Typography
+
+- [ ] Fonts, sizes, weights, and line heights are clearly defined and documented.
+- [ ] Typography choices are consistent with the application's theme and usability principles.
+
+### Colors
+
+- [ ] A color palette including primary, secondary, and accent colors is established.
+- [ ] The color palette supports accessibility standards (e.g., sufficient contrast ratios).
+
+### Iconography
+
+- [ ] Consistent icon components for common actions and indicators are chosen or designed.
+- [ ] Icons are understandable and align with the overall design language.
+
+### Week 11 Components
+
+- [ ] Button components have been created.
+- [ ] Card components have been created.
+- [ ] **Needed** input field components have been created.
+- [ ] **Needed** navigation components have been created.
+
+### Component Creation and Global Styles
+
+- [ ] All components are appropriately named and organized.
+- [ ] Variants for different states or versions of components are created.
+- [ ] "Global" styles for colors and typography are formulated and named following proper conventions.
+
+### Publishing and Integration
+
+- [ ] The design system is published to the Team Library, making it accessible for use in other files.
+- [ ] The wireframes file has access enabled to the design system for seamless integration.
+
+### Submission and Documentation
+
+- [ ] Figma project link is provided.
+- [ ] The app's chosen theme is described.
+- [ ] A list of all group members is included.
 
 ## Submission Process
 
 Instead of a traditional file submission, share your work using Figma's sharing feature. In the submission comment section, kindly include:
 
 - Figma project link.
-- Your website's chosen theme.
+- Your apps's chosen theme.
 - List of all group members.
 
 Since your professor was invited during Part 1, there's no need for another invitation.
