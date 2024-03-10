@@ -1,74 +1,182 @@
-# Week 13 - Visual Design
+# Week 13 - Interactive Visual Prototype
 
-## Visual Design: Bringing Your Designs to Life
+## What is Prototyping?
 
-![High-fidelity Wireframes Banner](./highFidelity.png)
+Figma is a great tool for prototyping UX/UI designs. It allows you to create interactive flows directly in the design file with advanced, yet easy-to-use features. In just a few minutes, you can turn your static designs into a realistic version of your website or product.
 
-Visual design transcends mere aesthetics, playing a pivotal role in shaping and enhancing user experiences. It's not just about making products look attractive; it's about thoughtful integration of elements like illustrations, photography, typography, space, layout, and color to make products both usable and appealing.
+Creating prototypes is important for many reasons. You can explore how new user flows will work. Communicate interactions to your team. Test and get feedback from your users. And pitch designs to stakeholders for buy-in.
 
-Imagine visual design as the final layer in a multi-tiered cake of design. It's not merely a superficial coat of paint; it's the culmination of a design process that gives your product a distinct, recognizable identity.
-
+This video maybe out of date, but can still be useful in helping you understand basics.
 <YouTube
-  title="Create a High-Fidelity Prototype"
-  url="https://www.youtube.com/embed/Fr-f2NE6B3U?si=sRYsHtA1xUljYfmi"
+  title="Figma Tutorial: Prototyping"
+  url="https://www.youtube.com/embed/-sAAa-CCOcg"
 />
 
-### Understanding High-fidelity Wireframes
+**Turn your static design files into an interactive experience—no coding required**
 
-High-fidelity wireframes serve as the bridge between your initial design ideas and the final product. They are intricate designs that encompass the visual and interactive aspects of your application. These wireframes:
+- Intuitive build: Simply connect UI elements and choose your interactions and animations.
+- Interactions: Define subtle interactions, like on click, while hovering, while pressing a button, and more.
+- Mobile-viewing: Experience your designs in real life using our Figma mobile app, available for iOS and Android.
 
-- **Provide Realism**: High-fidelity wireframes closely resemble the final product, allowing stakeholders to visualize the end result.
+---
 
-- **Enhance User Experience**: They focus on aesthetics, interaction, and user interface details, contributing to a seamless and visually appealing user experience.
+### Interface
 
-- **Ease Development**: With a detailed visual guide, developers can work efficiently, minimizing ambiguities in design implementation.
+Assess (almost) all prototype features in the right-hand panel under "Prototype".
 
-- **Gather Precise Feedback**: High-fidelity wireframes enable users and stakeholders to provide feedback on a design that closely resembles the actual application.
+<ol type="A">
+<li>Prototype panel</li>
+<li>Add a new prototype flow</li>
+<li>Add and configure interactions</li>
+<li>Add and configure overflow scrolling</li>
+<li>Configure prototype settings</li>
+<li>Present prototype</li>
+</ol>
 
-### Visual Design vs. Graphic Design
+![figma prototype interface](./figma-prototype-interface.png)
 
-| **Visual Design:**                                                                                                                                                                                                                              | **Graphic Design:**                                                                                                                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Focuses on optimizing user experience in digital spaces, using elements like typography and color to enhance interaction and usability. It's intertwined with functionality and user journey, emphasizing intuitive design in digital contexts. | Involves creating visual content for various media, using imagery and typography to communicate messages and solve problems. It spans digital and print mediums, often focusing more on artistic expression and visual storytelling. |
+## Getting Started
 
-## Layout Best Practices
+### Add Prototype Flows
 
-![Layout Banner](./adaptive-design.gif)
+Each page in your Figma file can have one or many prototype flows. Each one needs to have its own starting point and unique name. Select the first frame you wish to appear in your flow and click the "Add" icon next to "Flow Starting Point". Once added, rename the flow by clicking on the name input. Add a description by clicking the "Edit" icon next to the flow name. To remove the starting point click the "Delete" icon next to "Flow Starting Point"
 
-In high-fidelity wireframes, an organized and visually appealing layout is key to success. Here are some best practices to consider:
+![Figma add flows](./figma-add-flows.gif)
 
-- **Use of Grid Columns**: Grids help maintain consistency in layout and alignment, making it easier to structure your design effectively.
+---
 
-- **Consistent Spacing**: Ensure that elements are consistently spaced, offering a balanced and harmonious design.
+### Connect Layers
 
-- **Responsive Design**: High-fidelity wireframes must adapt to different screen sizes and orientations, ensuring a consistent and user-friendly experience on various devices.
+Add a connection between any two layers (e.g. frames, groups, shapes, text layers, etc..). To add a connection, hover over or select the first layer and drag the blue node that appears to the second layer. The "Interaction Details" menu will then appear. The first layer will become a new flow starting point if has no other connections.
 
-## Designing for Different Screen Sizes and Resolutions
+![Figma add connection](./figma-connect.gif)
 
-![Different Screen Sizes and Resolutions](./safe-areas.png)
+**Create connections**
 
-Designing for various screen sizes and resolutions is a crucial aspect of high-fidelity wireframes. To accommodate the diverse digital landscape, consider the following:
+1. Select the hotspot for the connection.
+2. Click the plus icon to create the connection.
+3. Drag it to the destination.
+4. If there are no existing connections, Figma will make the first frame a starting point.
 
-- **Responsive Design**: Implement responsive design principles to ensure that your high-fidelity wireframes look and function seamlessly on devices with different screen sizes and resolutions.
+![Figma connection anatomy](./figma-connection-anatomy.png)
 
-- **Scaling Graphics**: Graphics and images should scale gracefully to maintain quality and visibility on a range of screens.
+---
 
-- **Optimized Typography**: Typography should be legible on both small and large screens, and you may need to adapt font sizes accordingly.
+### Add Interactions
 
-- **Consistent User Experience**: Regardless of the device used, the user experience should remain consistent, and all interactive elements should function correctly.
+Interactions are the primary feature used when building a prototype. Use them to show different behaviors, effects, and navigational patterns. They work by connecting two layers, then determining how those layers will interact with each other by adding a trigger, action, and animation. Interactions can be simple with instate animations. Or they can be more complex with animated elements that move or change properties.
 
-## Designing with Accessibility in Mind
+**Trigger:** The event that causes a change (on tap/click, on drag, while hovering, while pressing, key/gamepad, mouse enter, mouse leave, mouse down (click), mouse up (release)).
 
-![Accessibility](./accessibility.png)
+**Action:** The change that is happening (navigate to, change to, open overlay, swap overlay, close overlay, back, scroll to, open link).
 
-Creating high-fidelity wireframes with accessibility in mind is essential for mobile app design. To ensure inclusivity and user-friendliness, incorporate recommendations from Apple's Human Interface Guidelines (HIG) and Google's Material Design, along with adherence to the Web Content Accessibility Guidelines (WCAG). Here's how these guidelines contribute to accessible design:
+**Animation:** The behavior of the change (instant, dissolve, smart animate, move in, move out, push, slide in, slide out).
 
-### Fonts and Color Contrast
+![Figma Interaction Panel](./figma-add-interaction.png)
 
-- **Font Legibility**: Both Apple's HIG and Google's Material Design emphasize using legible fonts, such as San Francisco for iOS and Roboto for Android apps. Adhering to font recommendations from these guidelines ensures text remains clear and readable, especially on smaller screens.
+1. Open the Prototype tab in the right sidebar
+2. Add interactions
+3. Set interaction details
+4. Apply an animation
+5. Preview your animation
 
-- **Color Contrast**: Apple's HIG and Google's Material Design provide specific color contrast requirements to enhance accessibility. Following these standards helps maintain a sufficient contrast ratio, ensuring text and background colors are distinguishable. This practice aligns with the WCAG's contrast standards for text and contributes to better readability.
+---
 
-### Touch Targets and Interactive Elements
+### Animated interactions
 
-- **Touch Target Sizes**: Apple's HIG recommends a minimum touch target size of 44x44 points, which Google's Material Design also supports. This encourages designing interactive elements, like buttons, with a suitable size for comfortable tapping. This sizing aligns with the principle of touch targets emphasized by the WCAG, which focuses on ensuring elements are large enough to be interacted with accurately.
+Use animations to add movement to your interactions (dissolve, move in, move out, push, slide in, slide out). Select different easing curves and adjust the time to customize the animation.
+
+![Figma Animation Types](./figma-animation-types.gif)
+
+**What are easing curves?** Easing curves determine the speed during the beginning, middle, and end of the animation. A linear animation will move at the same speed the entire time. While an animation set to "ease in" will be slower in the beginning, then speed up. Adding an easing curve makes the animation feel softer and more realistic.
+
+![Figma Animation curves](./figma-curves.gif)
+
+---
+
+### Fixed Position
+
+Fix an element's position in your prototype so it will stay in the same location while scrolling. This is helpful for elements that you wish to always be in view (e.g. top/bottom navigation, FAB, CTA). Configure this setting in the Design Panel under "Constraints".
+
+**Example: fixed top & bottom navigation**
+
+Select layer(s) you wish to fix and choose "Fix position when scrolling"
+
+![Figma Fixed Position](./figma-fixed-position.png)
+
+---
+
+### Add overflow scrolling
+
+Overflow scrolling allows you to scroll through individual frames inside your prototype. This is helpful when prototyping UI regions or components that have their own scrolling behavior (e.g. lists, carousels, menus, tables). To use overflow scrolling, you must have a frame (not group) with nested content "overflowing" past the bounds. This content will then appear masked with "clipped content" turned on.
+
+**Example: carousel**
+
+Select frame with overflowing content and choose "Horizontal Scrolling"
+
+![Figma Carousel](./figma-overflow-scroll.png)
+
+---
+
+### Use interactive components
+
+Add interactions between variants in a component set. Instances of those variants will then follow their predetermined interactions in any prototype. This is particularly helpful for common, stateful, components (e.g. toggles, buttons, inputs). Defining interactions in advance makes prototyping faster and reduces the number of screens needed. Not familiar with variants? Learn more about them in Figma Variants 101
+
+<YouTube
+  title="Figma tutorial: Interactive components"
+  url="https://www.youtube.com/embed/ReNbXhaL3Xk"
+/>
+
+**Example: interactive checkbox**
+
+Click the deselected icon to change to the selected icon with an instant animation. THEN click the selected icon to change to the default icon with an instant animation. NOTE: using interactive components allows the user to select any combination of items, in any order, with no additional prototyping.
+
+![Figma Prototyping Component](./Figma-prototype-component.png)
+
+---
+
+### Adjust prototype settings
+
+<ol type="A">
+<li>Select a Device and Model</li>
+<li>Preview your prototype</li>
+<li>Select Background color</li>
+<li>Set the prototype's Starting Frame</li>
+</ol>
+
+![Figma Prototype Settings](./figma-prototype-settings.png)
+
+---
+
+### Present Prototype
+
+Use presentation view to preview static designs, or interact with prototype connections you've created. Your design must be within a frame to preview it in Presentation view.
+
+To access presentation view from any Figma design file, click play in the toolbar.
+
+If there are prototyping connections, Figma will only display those frames with connections. Click through each screen or interact with any hotspots.
+
+If there are no prototyping connections, you can navigate through frames on the current page.
+
+![Figma Prototype Play](./Figma-play-icon.png)
+
+---
+
+### Presentation View
+
+<ol type="A">
+  <li>Click to show and hide the left sidebar</li>
+  <li>Click to enter comment mode and add comments to the prototype</li>
+  <li>View and select flows</li>
+  <li>View a flow's description</li>
+  <li>Set the prototype view Options and hide the toolbar or comments</li>
+  <li>Click to enter fullscreen mode</li>
+  <li>Figma will present the device against the Background Color you selected</li>
+  <li>View the Device you selected in your prototype settings</li>
+  <li>View your cursor or touch indicator (mobile device prototypes only)</li>
+  <li>Interact with hotspots or enter keyboard shortcuts within your prototype</li>
+  <li>Use and to move between screens. Or use your arrow keys on your keyboard</li>
+  <li>Use the Restart button or press R to return to the starting point</li>
+</ol>
+
+![Figma Presentation layout](./Figma-presentation-layout.png) -->

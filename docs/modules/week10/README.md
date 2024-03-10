@@ -1,167 +1,283 @@
-# Week 10 - Mid-Fidelity Wireframes and Design Features
+# Week 10 - Design Systems Part 1
 
-## Mid-Fidelity Wireframes
+## Design Systems
 
-![Low-Fidelity vs Mid-Fidelity Wireframe](./lowVSmid.png)
+![Design System Banner](./design-system-banner.png)
 
-Mid-fidelity wireframes strike a balance between low-fidelity sketches and high-fidelity designs. They offer a clearer depiction of content structure and layout, making them ideal for collaboration, feedback collection, and usability testing.
+A design system is a collection of reusable components and standards used to maintain consistency across a range of products. It acts as a single source of truth for a team, guiding the design of products with a singular design language.
 
-### The Advantages of Mid-Fidelity Wireframes
+### What Are the Elements of a Design System?
 
-1. **Enhanced Detail**: Mid-fidelity wireframes provide a clearer representation of the design's structural layout compared to low-fidelity counterparts.
+A design system consists of both tangible and intangible elements. Components, patterns, and style guides are tangible elements.
 
-2. **Usability Testing**: They are suitable for usability testing, helping identify potential issues and improvements in the user experience.
+- **Components** are functional elements of a user interface – buttons, input fields, text labels, etc.
+- **Patterns** are individual functional elements that all serve the same purpose organized into groups–sign-in forms, menus, etc.
+- A **style guide** is a set of visual design decisions such as which colors, typography, iconography to use, as well as guidelines for using decorative elements such as whitespace and shadows.
 
-3. **Collaboration**: Mid-fidelity wireframes enable effective collaboration between designers, stakeholders, and team members.
+Guidelines, brand values, and design mindset, on the other hand, are intangible elements:
 
-4. **Feedback Collection**: They serve as a visual aid for gathering feedback, refining design concepts, and making informed decisions.
+- **Guidelines** are sets of rules that allow a team to design consistent and coherent experiences made up of components, patterns, and visual styles.
+- **Brand values**, which naturally include a brand legend and brand mission, are a set of guiding principles that shape every aspect of your design.
+- A **design mindset** is your philosophy of design that aligns a team around a clear set of goals.
 
-## Frames, Layers & Groups Continued
+<YouTube title="Build it in Figma: Create a Design System — Foundations" url="https://www.youtube.com/embed/EK-pHkc5EL4?si=_iOUBnaFqggjYii4" />
 
-### Auto-Layout
+### What Are the Qualities of a Well-Functioning Design System?
 
-![Figma Auto-Layout](./auto-layout.png)
+Design systems differ based on an organization’s need, but all well-functioning design systems share similar characteristics:
 
-Figma's Auto-Layout is a powerful feature that makes designing responsive layouts a breeze. With Auto-Layout, elements can automatically adjust their positions and sizes within a frame, depending on the content or viewport size. This feature simplifies the process of creating designs that adapt seamlessly to different screen sizes, such as those found on various devices, from desktops to mobile phones.
+- **Easily adopted:** Well-functioning design systems fit easily into the existing culture of your team, becoming a natural part of the design process.
+- **Consistent:** All components of the design system should consistently and naturally work together.
+- **Flexible:** Consistency is important, but well-functioning design systems leave room for team members to contribute in new ways.
+- **Documented:** Documentation is one of the most important components of a well-functioning design system. Documentation should be detailed and regularly updated.
+- **Reusable:** Design systems should be able to be reused and repurposed in a variety of situations.
 
-#### How to Use Auto-Layout
+### Organizing a Design System
 
-1. **Select an Element**: To start using Auto-Layout, select a frame or group that you want to make responsive.
+Maintaining a well-organized design system is crucial for clarity, efficiency, and collaboration. Here are some tips:
 
-2. **Enable Auto-Layout**: In the right-hand panel, find the "Layout" section. Click on the "Auto" button to enable Auto-Layout for the selected frame or group.
+1. **Clear Hierarchy**: Categorize components, patterns, and styles logically.
+2. **Naming Conventions**: Use consistent names for components and styles.
+3. **Version Control**: Track changes and updates in your design system.
 
-3. **Adjust Constraints**: With Auto-Layout enabled, you can specify how elements within the frame should behave when content changes. You can set constraints for horizontal and vertical alignment, as well as spacing between elements.
+## Utilizing Colors in UI Design
 
-4. **Design Responsively**: As you add, remove, or modify elements within the frame, Figma will automatically adjust their positions and sizes based on the constraints you've defined. This ensures that your design looks great on any screen.
+![Color Palette Banner](./color-banner.png)
 
-For a visual demonstration, watch this video: [Figma in 5: Auto Layout](https://www.youtube.com/embed/TyaGpGDFczw).
+Color is a pivotal element in design, shaping user perception and bolstering brand identity. Effective color palettes are instrumental in crafting visually captivating and meaningful designs.
 
-#### Nested Auto Layout
+### Color Theory
 
-Auto-layout frames can be nested, combining horizontal and vertical layout properties to create compelling interface designs. To achieve this:
+Color theory today is primarily based on Isaac Newton's colour wheel, which he established in 1666. The main colour wheel illustrates three colour categories: primary colours, secondary colours, and tertiary colours. Let’s understand it...
 
-1. Select the objects, then click Shift+A again, making the auto-layout frame a child frame inside a parent frame.
+**Primary colors** are those that cannot be produced by mixing two or more other colors. Red, blue, and yellow are the main colors.
 
-2. You can choose vertical or horizontal distribution and white space in the right-hand properties menu. To prevent text frames from growing in one direction, ensure you choose fixed width or height.
+The **secondary colors** are orange, purple, and green, which may be created by mixing any two of the three basic colors.
 
-### Group Constraints
+**Tertiary colors** are created when you combine a main and a secondary color. Magenta, vermillion, violet, teal, amber, and chartreuse are the tertiary hues.
 
-![Group Constraints](./group-constraints.png)
+<YouTube
+  title="Beginning Graphic Design: Color"
+  url="https://www.youtube.com/embed/_2LLXnUdUIc?si=49DeBHq2p6bInb7G"
+/>
 
-Group constraints in Figma are essential for maintaining consistent layouts in responsive designs. When you're working with a group of elements that need to stay aligned and organized, group constraints come to the rescue. They allow you to define how elements within a group should behave when the group is resized.
+### The 60-30-10 Color Rule
 
-For a step-by-step tutorial, watch this video: [Figma tutorial: Constraints](https://www.youtube.com/embed/LHY9cm_2zwU).
+![60-30-10 Color Rule](./60-30-10.png)
 
-## Layer Management: Keeping Your Designs Organized
+A popular approach to achieving color balance is the 60-30-10 rule, often associated with the notion of a Golden Ratio in design. This rule suggests that:
 
-![Layer Structuring](./layer-naming.png)
+- A neutral color for **60%** of your design
+- A secondary brand color for **30%**
+- **10%** in your UI design should be your main brand color
 
-Effective layer management is crucial for maintaining organized and easily navigable design files in Figma. When you have multiple elements, groups, and frames in your project, a well-structured layer hierarchy can save you time and make collaboration smoother.
+Effective UI design leverages this rule to achieve an impeccable color coordination, enhancing the user's interaction with the design.
 
-### Tips for Structuring Your Layers
+### Example of 60-30-10 Color Rule in a Mobile App
 
-1. **Naming Conventions**: Give each layer a clear and descriptive name. This practice helps you and your collaborators quickly identify the purpose of each layer. For example, use names like "Header," "Button," or "Background."
+![Example Colour Scheme](./example-colours.png)
 
-2. **Grouping**: Group related elements together. For instance, if you have a navigation menu, group its items and layers within a dedicated folder. To group elements, select them and press `Ctrl + G` (Windows) or `Cmd + G` (Mac), or use the right-click context menu.
+**Dominant Color (60%) - Light Lavender:**
 
-3. **Hierarchical Ordering**: Arrange layers hierarchically. Place the most important or overarching elements at the top-level layers and their related sub-elements within groups or frames. This hierarchy makes it easier to navigate complex designs.
+- **Usage:** Ideal for backgrounds and large UI elements. This light lavender (`#F4F5FD`) offers a clean, calming, and modern backdrop that's easy on the eyes.
+- **Hex Code:** `#F4F5FD`
 
-4. **Use Frames**: Utilize frames as containers for groups of elements. Frames help you define the boundaries of specific design sections, making it simple to manipulate and move related content as a single unit.
+**Secondary Color (30%) - Deep Slate:**
 
-5. **Lock and Hide Layers**: When working on a specific part of your design, consider locking or hiding unrelated layers temporarily. This minimizes accidental changes to elements you're not currently focusing on.
+- **Usage:** For text, headers, footers, and less prominent buttons. Deep slate (`#384258`) provides a strong contrast against the light lavender, adding depth and sophistication to the design.
+- **Hex Code:** `#384258`
 
-6. **Reordering Layers**: Easily reorder layers by dragging and dropping them within the layers panel. Reordering is handy when you need to adjust the stacking order of elements within a frame.
+**Accent Color (10%) - Vibrant Purple:**
 
-## Basic Mobile App Layouts: Creating User-Centric Design
+- **Usage:** For call-to-action buttons, highlights, and key interactive elements. Vibrant purple (`#7366F0`) stands out against both the light lavender and deep slate, drawing attention to important actions and features.
+- **Hex Code:** `#7366F0`
 
-To create effective mobile app layouts in Figma, it's essential to understand the foundational principles. This knowledge includes screen dimensions, design grids, platform-specific layout structures tailored to different devices, and mobile safe zones/areas. Let's delve into these core elements:
+**Application in UI Elements:**
 
-### Screen Dimensions
+- **Backgrounds and Large Areas:** Light Lavender (`#F4F5FD`)
+- **Text and Secondary Elements:** Deep Slate (`#384258`)
+- **Interactive Elements and Highlights:** Vibrant Purple (`#7366F0`)
 
-When designing a mobile app, one of the first considerations is selecting the right canvas size to match the target devices. Familiarizing yourself with typical screen dimensions for various devices is crucial. This knowledge not only helps you choose the correct canvas size but also ensures that your designs fit seamlessly on different screens.
+### Employing Interactive Colors
 
-In Figma, you'll find presets for common devices. These presets simplify the canvas size selection process. You can access these presets to ensure that your design canvas matches popular devices, such as iPhone models or Android smartphones.
+Interactive colors are indispensable for highlighting interactive UI elements such as links, buttons, and other controls. Here are some guidelines:
 
-![Figma Device Presets](./frame-size.png)
+- Assign a specific hue to primary interactions, allowing users to associate that color with certain actions.
+- Create dark and light variants of the interactive color to indicate different states (e.g., hovered, clicked).
 
-### Design Grids
+![Interactive Colors](./interactive-colours.png)
 
-Design grids are the backbone of a well-structured layout. They provide a framework for consistently placing elements on the screen, ensuring a balanced and visually pleasing design. Utilizing grids in your mobile app design not only enhances alignment but also aids in responsive design.
+### Understanding Denotative Colors
 
-#### How to Use Design Grids in Figma
+Denotative colors carry inherent meanings and are crucial for signaling different states in your app or website, like error, success, or warning. Commonly, red, black, and green are utilized for these purposes.
 
-Here's how you can create and use grids in Figma:
+![Denotative Colors](./denotative-colors.png)
 
-1. **Grid Setup**: In the "Layout Grids" section, you can choose to create grids based on columns or rows. Define the number of columns or rows and set the gutter width to determine the spacing between elements.
+For instance, if red is a brand color, avoid using it for error messages. Ensure that colors chosen for disabled states have adequate contrast for legibility.
 
-2. **Grid Placement**: Snap elements to the grid by enabling the "Grid" option in the right-hand panel. This makes it easy to align your app's interface elements, ensuring a consistent look and feel.
+### Guidelines for Crafting a Color Palette:
 
-For a step-by-step tutorial, watch this video: [Figma Tutorial: Layout Grids](https://www.youtube.com/embed/zd8wrAdURN0?si=PLsBfMyviTA7NxL_).
+Constructing a set of rules for your color palette can bolster consistency and coherence across your design projects. Here are some fundamental guidelines:
 
-### Platform Considerations
+1. **Restricted Color Palette**: Maintain a restricted color palette to preserve a sleek and professional demeanor.
 
-![iOS vs. Android Comparison](./ios-android.png)
+2. **Color Harmony**: Ensure your colors resonate well with each other, fostering a visually satisfying experience.
 
-Different mobile platforms, such as iOS and Android, have specific design guidelines and layout expectations. Understanding these platform-specific principles is essential for creating user-friendly and cohesive mobile apps.
+3. **Consistent Application**: Apply colors consistently for specific elements or actions to enhance user recognition and comprehension.
 
-**We will explore the differences in the next module.**
+4. **Accessibility**: Make judicious color choices to cater to all users, including those with visual impairments.
 
-### Mobile Safe Zones/Areas
+## Mastering Typography in UI Design
 
-![Mobile Safe Zones](./safe-areas.png)
+![Typography Banner](./typography-banner.png)
 
-When designing mobile apps, it's crucial to consider mobile safe zones or areas. These zones ensure that critical content remains visible and accessible, even on devices with notches, camera cutouts, or irregular screen shapes.
+Typography in UI design isn't just about choosing appealing fonts; it's a pivotal visual communication tool that can significantly enhance user engagement and conversions. Unlike a meticulous reading, users often scan a page to quickly ascertain if the information they need is present. Here, well-organized and scannable typography can capture and hold the users' attention.
 
-For more information on iOS Safe Areas, read this article: [Human Interface Guidelines: Layout](https://developer.apple.com/design/human-interface-guidelines/layout)
+Once engaged, clear and informative typographic design is crucial for providing precise information about the products or services offered, nudging the users toward making a purchase.
 
-For more information on Android Safe Areas, read this article: [Layout Basics](https://developer.android.com/design/ui/mobile/guides/layout-and-content/layout-basics)
+The importance of typography in UI design is indispensable and should never be overlooked.
 
-### Adaptive Design
+### The Benefits of Good Typography
 
-Mobile devices come in various screen sizes and orientations. To address this diversity and provide a seamless user experience, adaptive design is essential. Figma's auto-layout feature and group constraints empower you to design components that intelligently resize and adapt to different screen sizes.
+Beyond being a medium of visual communication, good typography in website or mobile app design offers numerous advantages:
 
-![Adaptive Design](./adaptive-design.gif)
+1. **Enhanced Readability and Accessibility**:
 
-By mastering these core elements of mobile app design, you'll be well-equipped to create user-centric, visually appealing, and responsive mobile apps in Figma. Understanding screen dimensions, leveraging design grids, considering platform-specific guidelines, and implementing adaptive design principles are all critical skills for today's mobile app designers.
+   - Good typography facilitates easier reading, scanning, and navigation across the page, thereby reducing the time users take to find the information they need.
 
-## Styles and Effects in Figma: Elevating Visual Appeal
+2. **Consistent Tone and Mood**:
 
-Discover how Figma's styling options, including stroke, corner radius, and effects, can transform your mid-fidelity wireframes into visually appealing designs. Let's explore these style elements in detail:
+   - The choice of typeface sets the general tone or atmosphere across interfaces. For instance, a cartoon font with warm colors and bold strokes adds a fun, personalized touch, whereas a simple and serious typography sets a more formal tone.
 
-### Styles: Adding Emphasis with Strokes
+3. **Distinctive App Identity**:
 
-![Strokes](./stroke.gif)
+   - Like other elements in UI design, high-quality typography has a professional allure and aligns with the brand's vision, color, and concept, helping your app stand out from the crowd.
 
-In Figma, the use of strokes is a powerful styling option to outline and emphasize elements within your designs. Here's how you can utilize this feature effectively:
+4. **Boosted Product Sales**:
 
-- **Emphasizing Elements**: Strokes are a versatile tool for drawing attention to specific elements, such as buttons, icons, or text. By adding a stroke to an element, you can create a clear visual separation between that element and the surrounding content. This is particularly useful for creating standout buttons or highlighting important information.
+   - Effective typographic design keeps users on your app longer and facilitates easy access to necessary information, indirectly boosting sales by reducing user distractions.
 
-- **Adjustable Thickness**: Figma allows you to adjust the thickness or width of strokes. This flexibility gives you control over how bold or subtle the emphasis should be. Whether you want a subtle outline or a bold border, you can fine-tune the stroke's thickness to match your design's aesthetic.
+### Styling Typography to Suit Your Purpose
 
-- **Custom Colors**: You can choose from a wide range of colors for your strokes, allowing you to match them with your overall design palette or create contrasting visual effects. This feature helps in maintaining design consistency while also enabling you to get creative with your color choices.
+**Bold and Italic**:
 
-### Corner Radius: Smooth and Sleek Design Elements
+- Common typographic styles like italic and bold help emphasize text. Bold is great for headlines and crucial text areas, while italics are often used for foreign words or reference links.
 
-![Corner Radii](./corners.png)
+**Typeface Families**:
 
-Corner radii control the curvature or roundness of corners in shapes and elements. Mastering corner radii is key to creating sleek and visually pleasing designs:
+- Some typefaces offer a range of styles. For example, Futura has 22 different styles including light, condensed, semi-bold, and extra bold, providing versatile options for different design needs.
 
-- **Creating Visual Harmony**: The control of corner radii can significantly impact the overall aesthetics of your design. By rounding the corners of elements like buttons or cards, you can create a softer and more inviting appearance. On the other hand, sharp corners can convey a more modern and edgy feel.
+**Novelty Styles**:
 
-- **Uniformity and Consistency**: To maintain a cohesive design, it's essential to ensure that corner radii are consistent throughout your project. Figma's precision tools allow you to apply the same radius to multiple elements, ensuring that your design maintains a polished and professional look.
+![Novelty Font](./novelty-typeface.png)
 
-- **Adaptive Design**: Corner radii are especially useful in responsive design. You can adjust radii to suit different screen sizes and orientations, ensuring that your design adapts gracefully to various devices.
+- Novelty styles add a unique flair but should be used sparingly to avoid overwhelming the design.
 
-### Effects: Adding Depth and Dimension
+### Crafting an Effective Typography Design
 
-![Effects](./effects.gif)
+With a grasp of typography types and manipulations, here are 10 best practices to achieve compelling typography design:
 
-Figma's effects feature opens up a world of possibilities for adding depth, dimension, and realism to your designs. Here's what you can do with effects:
+1. **Choosing Typefaces**: Selecting the right typefaces is fundamental. Choose a typeface that aligns with your brand's personality and the overall design aesthetics of your UI. It's often advisable to pair a serif and a sans-serif typeface to create a balanced look.
 
-- **Shadows**: One of the most commonly used effects, shadows create a sense of depth and help elements appear as if they're floating above the background. You can control the shadow's color, opacity, and distance, allowing you to fine-tune the desired effect.
+2. **Selecting Font-Weight and Styles**: The weight and style of the font can significantly impact the look and feel of your design. Bold weights are excellent for headlines, while regular or light weights are suitable for body text. Experiment with different styles to find what works best for your design.
 
-- **Blurs**: Blurs are used to create a range of effects, from frosted glass to subtle blurriness for background elements. These effects can be applied to elements like pop-up windows, dropdown menus, and background layers.
+3. **Mind the Spacing**: Adequate spacing between letters, words, and lines improves readability and aesthetics. Use kerning, tracking, and leading effectively to achieve a well-spaced typography design.
 
-- **Overlay and Background Blending**: Effects in Figma include blending modes, such as overlay and background effects, which enable you to combine and blend elements creatively. These can be used to simulate overlay effects, color adjustments, and much more.
+4. **Establish a Clear Visual Hierarchy**: Visual hierarchy guides the reader's eye and helps them navigate the content easily. Create a clear hierarchy using different font sizes, weights, and colors for headings, subheadings, and body text.
 
-- **Customizability**: Effects in Figma are highly customizable. You can adjust their intensity, position, and size to achieve the desired visual effect. This level of control empowers you to create designs that look and feel authentic.
+5. **Ensure Scalability**: Your typography should remain effective and legible across various screen sizes and resolutions. Use scalable units like ems or rems for font sizes to ensure a responsive design.
+
+6. **Utilize Visual Contrast Judiciously**: Contrast helps in distinguishing text and improves readability. Ensure there's enough contrast between your text and background, but avoid overly harsh contrasts as they can be straining to the eyes.
+
+7. **Keep Text Simple and Concise**: Clear and straightforward text is key to effective communication. Avoid jargon and keep your sentences short and to the point.
+
+8. **Maintain Consistency**: Consistency in typography creates a cohesive look and improves the user experience. Stick to a defined set of typefaces and styles throughout your design.
+
+9. **Animate Your Copy Wisely**: Animation can add a dynamic flair to your typography, but it should be used sparingly. Ensure animations enhance rather than distract from your message.
+
+10. **Prototyping and Testing**: Before finalizing your typography design, prototype and test it with real users to gather feedback. Testing helps in understanding how your typography performs across different devices and under various use cases, allowing you to make necessary adjustments for an optimal user experience.
+
+Each of these practices requires careful consideration and fine-tuning to ensure your typography not only looks good but also serves its fundamental purpose of conveying information clearly and effectively.
+
+### Platform Specific Guidelines for Typography
+
+#### iOS
+
+![iOS Typography](./ios-typography.png)
+[Read more here](https://developer.apple.com/design/human-interface-guidelines/typography)
+
+#### Android
+
+![Android Typography](./google-typography.png)
+[Read more here](https://m3.material.io/styles/typography/type-scale-tokens)
+
+## Iconography
+
+![Iconography Pallet Banner](./icon-banner.png)
+
+Icons play a pivotal role in mobile app design, serving as visual cues that convey information quickly and efficiently to users. In Figma, designers have access to a powerful set of tools and resources, making it possible to create, manage, and implement iconography effectively. With Figma's versatile platform, you can ensure that your app's icons are not only visually appealing but also provide clear and intuitive guidance to users, enhancing their overall experience.
+
+Selecting the right icons for your mobile app design is crucial for effective communication and user experience. When choosing icons, consider the following factors:
+
+- **Clarity and Relevance**: Icons should be chosen based on their clarity and relevance to the app's functions or actions. They need to provide an immediate and clear understanding to users.
+
+- **Consistency**: Maintain consistency in your iconography to create a cohesive visual language across your mobile app. Consistent icons contribute to a more user-friendly experience.
+
+- **Universal Understanding**: Opt for icons that are universally understood to minimize the need for additional explanations. Icons should transcend language barriers and be recognizable to a broad audience.
+
+- **Cultural Considerations**: Be aware of cultural preferences and interpretations. Icons may have different meanings in various regions or demographics. Ensure your choices are culturally appropriate.
+
+- **Customization in Figma**: Figma offers a broad library of icons that you can browse and search through. It also provides tools for customizing and adapting icons to match your design's specific needs.
+
+### Creating Icon Components in Figma
+
+Creating icon components in Figma is a crucial skill for UI/UX designers. It allows for the efficient use and reuse of icons across different designs, ensuring consistency and saving time. Here's a step-by-step guide to creating icon components in Figma:
+
+#### Step 1: Prepare Your Icons
+
+1. **Design or Import Icons**: Start by designing your icons in Figma or importing them from other sources. Ensure they are vector graphics for scalability and editing flexibility.
+2. **Standardize Sizes**: Make sure all icons are of a consistent size. Common sizes are 24x24 or 32x32 pixels, but this can vary based on your design system.
+3. **Optimize for Pixel-Perfect Rendering**: Align your icons to the pixel grid to avoid blurry edges. This is particularly important for small-sized icons.
+
+![Icon Grid](./icon-grid.png)
+[Read more about icon grid here](https://m2.material.io/design/iconography/system-icons.html#grid-and-keyline-shapes)
+
+#### Step 2: Create Components
+
+1. **Select an Icon**: Click on the icon you want to turn into a component.
+2. **Create the Component**: Use the keyboard shortcut `Cmd + Alt + K` (Mac) or `Ctrl + Alt + K` (Windows) to create a component. Alternatively, you can right-click on the icon and select 'Create Component'.
+3. **Name Your Component**: Give your component a clear and descriptive name. This is crucial for finding and organizing your components later.
+
+#### Step 3: Organize Components
+
+1. **Apply Consistent Naming**: Use a consistent naming convention for your components, like `Icons/Navigation/Back` or `Icons/Social/Facebook`.
+2. **Individual Components or Variants**: Decide whether to use individual components for each icon or a single component with multiple variants. Variants can be useful for icons that share a similar structure but differ in minor ways, such as arrows pointing in different directions or buttons with different states.
+
+![Icon component](./icon-component.png)
+
+#### Step 4: Use and Edit Components
+
+1. **Drag and Drop to Use**: To use an icon component in your design, simply drag it from the 'Assets' panel into your canvas.
+2. **Override Properties**: You can override certain properties of an icon component (like color) in its instance without affecting the main component.
+3. **Detach Instance**: If you need to make significant changes to an icon for a specific use case, you can detach it from the component (`Right-click > Detach Instance`). Remember, this means any updates to the main component won’t reflect in this detached instance.
+
+Creating icon components in Figma not only streamlines your design process but also ensures consistency across your projects, making it an essential skill for efficient and effective UI/UX design.
+
+## Styles in Figma
+
+Styles are reusable collections of properties that help maintain consistency in design.
+
+<YouTube
+  title="Figma Tutorial: Creating Styles"
+  url="https://www.youtube.com/embed/gtQ_A3imzsg?si=WFHEbMokOLgtvakq"
+/>
+
+### Style Types:
+
+1. **Text Styles**: Define text styles for headings, body text, and other text elements. Apply these styles consistently to maintain a uniform look.
+
+2. **Color Styles**: Create color styles for primary and secondary colors. These styles ensure that your design adheres to your chosen color palette.
+
+3. **Grid Styles**: Set up grid styles for layouts, columns, and spacing. This helps maintain alignment and consistency in your design.
+
+4. **Effect Styles**: Customize shadows, blurs, and other effects as styles. Apply these effects easily to elements for a cohesive design.
