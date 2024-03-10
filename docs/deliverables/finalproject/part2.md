@@ -2,19 +2,19 @@
 
 ## Introduction
 
-In **Part 3** of this project, we aim to craft a concise design system for your application. A robust design system ensures consistency throughout your application and simplifies the visual design process as many elements are predefined.
+In **Part 2** of this project, we aim to craft a concise design system for your application. A robust design system ensures consistency throughout your application and simplifies the visual design process as many elements are predefined.
 
 ## Requirements
 
 For your design system, you must incorporate:
 
-### Week 11
+### Week 10
 
 - **Typography**: Define your application's fonts, sizes, weights, and line heights.
 - **Colours**: Establish a color palette, including primary, secondary, and accent colors.
 - **Iconography**: Choose or design consistent icon components for common actions and indicators.
 
-### Week 12
+### Week 11
 
 - **Buttons**: Design button styles, including hover, active, and disabled states.
 - **Cards**: Structure card elements for content presentation.
@@ -23,7 +23,7 @@ For your design system, you must incorporate:
 
 ## Steps to Get Started
 
-1. **Setup**: Create a new file within your project and name it "Part 3: Design System."
+1. **Setup**: Create a new file within your project and name it "Part 2: Design System."
    ![Step 1](./assets/step-1.png)
 
 2. **Categorization**: Establish separate pages for different components of your design system, such as:
@@ -37,9 +37,11 @@ For your design system, you must incorporate:
    - And more
 
 3. **Typography**: Detail your typography choices, including size, font family, and weights.
+   (This just an example, you **do not need** to recreate this exactly.)
    ![Step 3](./assets/step-3.png)
 
 4. **Color Palette**: Define your color selections, distinguishing between primary, secondary, and accent shades.
+   (This just an example, **you do not need** to recreate this exactly.)
    ![Step 4](./assets/step-4.png)
 
 5. **Component Identification**: Review your mid-fidelity wireframes to identify necessary components.
@@ -48,6 +50,7 @@ For your design system, you must incorporate:
 
    - Components are appropriately named.
    - Variants for different states or versions are created.
+     (This just an example, **you do not need** to recreate this exactly.)
      ![Step 6](./assets/components.png)
 
 7. **Global Styles**: After defining your colours and typography, formulate "global" styles for each. Proper naming conventions are essential.
@@ -62,16 +65,6 @@ For your design system, you must incorporate:
 
 ## Grading Criteria
 
-| Category          | Points |
-| ----------------- | ------ |
-| Colours           | 1      |
-| Typography        | 1      |
-| Iconography       | 1      |
-| Components        | 5      |
-| File Organization | 1      |
-| Styles & Library  | 1      |
-| **Total**         | **10** |
-
 ## Submission Process
 
 Instead of a traditional file submission, share your work using Figma's sharing feature. In the submission comment section, kindly include:
@@ -82,9 +75,4 @@ Instead of a traditional file submission, share your work using Figma's sharing 
 
 Since your professor was invited during Part 1, there's no need for another invitation.
 
-**Due Dates:**
-
-<Badge text="Section 300: Tuesday November 28th @3:00pm" /><br>
-<Badge type="error" text="Section 310: Monday November 27th @4:00pm" />
-
-Please submit via Brightspace under Assignments > Part 3 - Design System.
+<Badge type="error" text="Due: Tuesday March 26th @7:00pm" />
