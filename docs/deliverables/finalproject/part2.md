@@ -1,5 +1,9 @@
 # Part 2: Design System
 
+::: tip Project Overview
+Read the project overview [here](overview.md)
+:::
+
 ## Introduction
 
 In **Part 2** of this project, we aim to craft a concise design system for your application. A robust design system ensures consistency throughout your application and simplifies the visual design process as many elements are predefined.

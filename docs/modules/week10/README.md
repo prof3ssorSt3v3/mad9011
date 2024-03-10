@@ -1,5 +1,15 @@
 # Week 10 - Design Systems Part 1
 
+## Learning Objectives
+
+By the end of this week, students will be able to:
+
+- Grasp the critical components and qualities of a design system, including both its tangible (components, patterns, style guides) and intangible elements (guidelines, brand values, design mindset).
+- Learn to maintain a well-organized design system through clear hierarchy, consistent naming conventions, and version control.
+- Understand color theory, the 60-30-10 rule for balanced color schemes, and guidelines for developing effective color palettes. This includes the strategic use of interactive and denotative colors.
+- Gain insights into the importance of typography, its impact on readability, mood setting, and brand identity, along with best practices for selecting typefaces, styling, and ensuring text scalability and readability.
+- Learn to select, create, and manage icon components and styles in Figma, focusing on clarity, consistency, and usability to enhance the overall user interface design.
+
 ## Design Systems
 
 ![Design System Banner](./design-system-banner.png)
