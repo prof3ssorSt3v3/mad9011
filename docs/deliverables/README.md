@@ -82,7 +82,7 @@ Every week there will be work for you to complete inside or outside of class. So
   title="Part 2: Design System"
   dueDate="Due: Tuesday March 26th @7:00pm"
   description="In part 2 of your final project, you'll develop a mini design system, creating guidelines and standards for elements such as typography, color palettes, and UI components to ensure consistency and coherence in your design approach."
-  linkType="paused"
+  linkType="active"
   detailsLink="./finalproject/part2.html"
 />
 
