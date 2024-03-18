@@ -23,7 +23,7 @@ Components in Figma are powerful, reusable design elements that serve as the fou
 - **Reusability**: Once a component is created, it can be reused in any number of designs, saving time and fostering a modular design approach.
 - **Scalability**: Components make it easier to scale your designs. As projects grow, components can be easily managed and updated, ensuring that large projects remain manageable.
 
-#### Difference Between Components and Frames
+### Difference Between Components and Frames
 
 While both components and frames are essential elements within Figma, they serve different purposes and have distinct characteristics:
 
@@ -51,9 +51,11 @@ In our previous discussions on Auto-layout, we drew parallels between Figma's Au
 
 Take the example of implementing a hover effect on a card that triggers the display of a new element. In web development, this effect is usually achieved by incorporating the element in the initial markup but keeping it hidden with CSS until the user hovers over the card. We apply a similar strategy when creating components in Figma. The base component is designed to include the hover state's elements from the start. These elements are then visually hidden or made inactive in the default variant and are only revealed or activated in the hover state variant. This approach not only streamlines the design process but also aligns closely with the logic and practices used in front-end development, facilitating a more cohesive workflow between design and development teams.
 
-<!-- VIDEO -->
+![Component vs Code](./component-code.png)
 
 ## Nesting Components
+
+![Nested Components](./nested-icon-components.png)
 
 Nesting components in Figma is a technique that involves placing one component inside another. This approach is instrumental in building more complex and dynamic design systems, allowing designers to create detailed and highly customizable interfaces. By mastering nested components, designers can significantly enhance their workflow efficiency and design consistency.
 
@@ -72,9 +74,9 @@ Nesting components in Figma is a technique that involves placing one component i
 4. **Organize and Document:** Use Figma’s naming conventions and team libraries to organize your nested components. Documentation helps your team understand how and when to use each component.
 5. **Review and Refine:** Regularly review your nested components to ensure they remain efficient and effective. Simplify or decompose them as needed.
 
-## Libraries for Mobile UI in Figma
+## Libraries for UI in Figma
 
-Figma libraries are especially useful for mobile UI design as they allow for the consistent application of design patterns across different screens and projects.
+Figma libraries are especially useful for UI design as they allow for the consistent application of design patterns across different screens and projects.
 
 <YouTube
   title="Figma tutorial: Create a shareable team library"
