@@ -1,140 +1,76 @@
 # Week 11 - Design Systems Part 2
 
-## Managing Design Assets and Components for Mobile UI
+## Learning Objectives
 
-When managing design assets and components for mobile UI, special considerations are needed to ensure that the designs are responsive, accessible, and user-friendly.
+By the end of this week, students will be able to:
 
-### Key Considerations for Mobile UI Asset Management
+- Define and explain the purpose of components in Figma and their benefits in UI/UX design.
+- Create, edit, and organize components in Figma for efficient design workflows.
+- Understand and apply the concept of nesting components to create complex UI elements.
+- Utilize components effectively in designs, including instantiation and property overriding.
+- Integrate and manage local styles within components to ensure consistency and scalability in design projects.
 
-1. **Responsive Assets**: Ensure your assets are optimized for different screen sizes and resolutions. This includes scalable vector graphics and responsive icons.
-2. **Touch Targets**: Design assets should accommodate touch interactions, with adequately sized touch targets for comfortable use.
-3. **Accessibility**: Assets should be designed with accessibility in mind, including color contrast and legibility.
-4. **Device-Specific Assets**: Consider creating assets for different mobile operating systems, as iOS and Android might have different design guidelines.
+## Introduction to Components in Figma
 
-## Creating Components for Mobile UI in Figma
+![Component Example](./components-banner.png)
 
-![Components Banner](./components-banner.png)
+Components in Figma are powerful, reusable design elements that serve as the foundational building blocks of design systems, enabling designers to create consistent and efficient designs across multiple projects. With a modular approach to designing interfaces, components can be utilized within the same project multiple times or across different projects. Once a master component is created, its instances can be placed anywhere within a design. Crucially, any updates made to the master component are automatically reflected across all its instances, ensuring uniformity and consistency throughout your design work. This is especially beneficial for frequently used elements such as buttons, icons, headers, and footers, allowing for their seamless integration across different screens or projects.
 
-In Figma, creating components for mobile UI involves understanding the nuances of mobile interfaces, such as smaller screens and touch interactions.
+### Benefits of Components
+
+- **Consistency**: Components ensure that your design elements remain uniform across your project, which is crucial for maintaining a cohesive look and feel.
+- **Efficiency**: They significantly reduce the time and effort required to make global updates. Changing a single component updates all instances where that component is used.
+- **Reusability**: Once a component is created, it can be reused in any number of designs, saving time and fostering a modular design approach.
+- **Scalability**: Components make it easier to scale your designs. As projects grow, components can be easily managed and updated, ensuring that large projects remain manageable.
+
+#### Difference Between Components and Frames
+
+While both components and frames are essential elements within Figma, they serve different purposes and have distinct characteristics:
+
+- **Frames**: Frames are containers that can hold other objects, including shapes, text, and even other frames. They are used to structure the layout of your design, such as creating the canvas for a webpage or defining the boundaries of a mobile app screen. Frames can also be nested within each other to create complex layouts.
+
+- **Components**: Unlike frames, components are defined by their reusability and the ability to ensure consistency across designs. Components can contain frames, but they come with the added benefit of being instances that are linked back to a master component. This linkage allows for the central management of design elements, where changes to the master component are reflected across all instances.
+
+## Creating and Editing Components
 
 <YouTube
   title="Figma Tutorial: Components - The Basics"
   url="https://www.youtube.com/embed/k74IrUNaJVk?si=h0GvncQBVj2Bft21"
 />
 
-### Creating Component Variants for Mobile UI
-
-Component variants for mobile UI should include different states (e.g., default, pressed, disabled) and adapt to various screen sizes.
-
-#### Steps to Create Mobile-Friendly Component Variants:
-
-1. **Design for Touch**: Ensure buttons and interactive elements are of a size that's easy to tap.
-2. **Consider Screen Real Estate**: Design variants that make efficient use of the limited screen space.
-3. **State Variants**: Include variants for different user interaction states like hover, clicked, or disabled.
-
-### Types of Components
-
-In mobile UI design, various types of components are used to create an intuitive and effective user interface. Understanding these types is crucial for creating a versatile and comprehensive design system.
-
-1. **UI Controls**: These are interactive elements like buttons, sliders, and switches that enable users to perform actions.
-2. **Navigation Components**: Elements such as tab bars, menus, and drawers that help users navigate through the app.
-3. **Input Components**: Fields like text boxes, checkboxes, and toggles that allow users to enter or select information.
-4. **Feedback Components**: These include alerts, toasts, and progress bars that provide feedback to users based on their interactions.
-5. **Containers**: Elements like cards, modals, and panels that hold content and organize the layout.
-6. **Informational Components**: Items such as badges, tooltips, and labels that display information in a concise format.
-7. **List and Grids**: Used for displaying collections of items in an organized manner, such as lists of contacts or photo grids.
-8. **Media Components**: Components that handle media content like images, videos, and audio players.
-9. **Charts and Data Visualization**: Elements used to represent data graphically, like graphs, pie charts, and timelines.
-
-Each type of component plays a specific role in the mobile UI, and understanding their use and best practices is key to creating a functional and aesthetically pleasing app.
-
-### Creating a Responsive Button Component with Auto Layout in Figma
-
-Designing a responsive button in Figma using Auto Layout allows the button to adjust its size automatically based on its content, ensuring consistency and efficiency in your designs. Here’s how to do it:
-
-#### Step 1: Set Up the Basic Button
-
-1. **Draw the Base Shape**: Use the Rectangle tool to create the button's shape. Choose a default size that's versatile for most use cases.
-2. **Apply Styling**: Add your desired color, border radius, and any necessary shadows. Ensure the design is accessible, with adequate color contrast.
-
-#### Step 2: Add Text and Icons
-
-1. **Insert Text**: Use the Text tool to add your button's label. Ensure the font size is readable on mobile devices.
-2. **Add Icons (Optional)**: If needed, include an icon. Make sure its size is balanced with the text.
-
-#### Step 3: Implement Auto Layout
-
-1. **Select Elements**: Select both the text (and icon if applicable) and the button shape.
-2. **Enable Auto Layout**: Click on the 'Auto Layout' button in the toolbar. This groups the items into a frame with Auto Layout applied. In most cases, by enabling auto layout, the base shap
-3. **Adjust Padding**: Set the padding around the text (and icon) to ensure the button looks balanced. This padding will be maintained regardless of the button's width.
-
-#### Step 4: Convert to a Component
-
-1. **Create a Component**: With the Auto Layout frame selected, create a component using Figma’s 'Create Component' feature.
-2. **Name Your Component**: Give it a logical name, like `Button/Primary`.
-
-#### Step 5: Create Variants
-
-1. **Duplicate for Variants**: Make copies of the base component for different states like hover, pressed, and disabled.
-2. **Modify Styles**: Adjust the styling for each state. For example, change the background color for the hover state.
-3. **Use Variants Feature**: Group these states using Figma's Variants feature, keeping them under one component set.
-
-#### Step 6: Responsiveness and Constraints
-
-1. **Set Constraints**: If your button includes an icon, set constraints to ensure elements stay correctly aligned when the button size changes.
-2. **Test Responsiveness**: Place the button in different layouts to see how it adapts to various widths.
-
-#### Step 7: Testing and Iteration
-
-1. **Contextual Testing**: Test your button in multiple contexts to ensure its design and functionality are consistent.
-2. **Iterate Based on Feedback**: Make adjustments based on any issues or feedback you encounter during testing.
-
-#### Step 8: Documentation and Sharing
-
-1. **Document Usage**: Write guidelines on how to use the button component, including descriptions of each variant.
-2. **Distribute in Team Library**: Share your component in a shared library for your team, ensuring everyone has access to the latest version.
-
-By utilizing Auto Layout in Figma, you can create a button component that is not only visually consistent but also dynamically adjusts to its content, making your mobile UI design more efficient and adaptable.
-
-### Creating Component Varients
+## Creating Component Variants
 
 <YouTube
   title="Figma Tutorial: Variants"
   url="https://www.youtube.com/embed/y29Xwt9dET0?si=RTlkMvLZ1HU-A2T0"
 />
 
-### Nested Components for Mobile UI
+## Creating Components Like a Developer
 
-![Nested Component Banner](./nested-components.png)
+In our previous discussions on Auto-layout, we drew parallels between Figma's Auto-layout feature and the flexbox property in CSS, illustrating how Figma's design capabilities can mirror web development practices. This analogy extends beyond Auto-layout into other facets of component creation in Figma.
 
-Nested components in mobile UI design can help in creating complex yet consistent interfaces, like navigation menus or form elements.
+Take the example of implementing a hover effect on a card that triggers the display of a new element. In web development, this effect is usually achieved by incorporating the element in the initial markup but keeping it hidden with CSS until the user hovers over the card. We apply a similar strategy when creating components in Figma. The base component is designed to include the hover state's elements from the start. These elements are then visually hidden or made inactive in the default variant and are only revealed or activated in the hover state variant. This approach not only streamlines the design process but also aligns closely with the logic and practices used in front-end development, facilitating a more cohesive workflow between design and development teams.
 
-#### Tips for Nested Components in Mobile UI:
+<!-- VIDEO -->
 
-1. **Modular Design**: Create components that can be easily combined to form more complex UI elements.
-2. **Scalability**: Ensure that nested components are scalable and adaptable to different screen sizes.
+## Nesting Components
 
-### Nested Button Component
+Nesting components in Figma is a technique that involves placing one component inside another. This approach is instrumental in building more complex and dynamic design systems, allowing designers to create detailed and highly customizable interfaces. By mastering nested components, designers can significantly enhance their workflow efficiency and design consistency.
 
-Creating a nested button component in Figma is similar to making a standard button using Auto Layout, with a key difference in how you handle the icon. Here's how to approach it:
+### Benefits of Nesting Components
 
-#### Steps to Create a Nested Button Component:
+- **Modularity:** Nesting components promotes a modular design approach, making it easier to assemble, disassemble, and reconfigure parts of your design.
+- **Scalability:** It allows your design system to grow more seamlessly. As new components are needed, they can be created by combining existing ones, saving time and effort.
+- **Efficiency:** Updates to base components automatically propagate to all instances where they are nested, streamlining the process of making global changes.
+- **Consistency:** Ensures design consistency across projects by reusing components, reducing the risk of discrepancies.
 
-1. **Start with the Basic Button Setup**: Follow the initial steps for creating a standard button using Auto Layout. This includes drawing the base shape and applying your desired styling for color, border radius, and shadows.
+### How to Create and Manage Nested Components
 
-2. **Add an Icon Component**: Instead of using a static icon, incorporate an icon component. This approach allows for greater flexibility. You can easily switch between different icon variants within the button, enhancing the button's adaptability and functionality.
-
-3. **Implement Auto Layout**: Group the text and the icon component along with the button shape. Enable Auto Layout to ensure that the button adjusts its size dynamically based on the content, maintaining a balanced and cohesive design.
-
-4. **Convert to a Component**: With the Auto Layout frame selected, create a component. This step transforms your button into a reusable design element that can be consistently applied across various parts of your project.
-
-5. **Create and Manage Variants**: Develop different variants of the button for states like hover, pressed, and disabled. Adjust the styling for each state as needed. Utilizing Figma's Variants feature, you can group these states under one component set, simplifying the management and application of these variants.
-
-6. **Test and Iterate**: Place the nested button component in different layouts to test its responsiveness and functionality. Iterate based on feedback or any issues you encounter to refine the design.
-
-7. **Document and Share**: Clearly document the usage guidelines for the nested button component, detailing how to switch between icons and button variants. Share your component in a shared library to ensure team-wide accessibility and consistency.
-
-By incorporating an icon component into your button design, you create a nested button component that offers enhanced versatility. This method allows for easy changes between different icons and button variants, making your design system more dynamic and efficient.
+1. **Start Simple:** Begin by creating your base components. These are the smallest, most atomic parts of your design (e.g., icons, buttons).
+2. **Combine Components:** To create a nested component, drag an existing component into another component. Figma automatically recognizes this as nesting.
+3. **Use Variants:** Leverage variants to manage different states or types of nested components, keeping them organized and accessible.
+4. **Organize and Document:** Use Figma’s naming conventions and team libraries to organize your nested components. Documentation helps your team understand how and when to use each component.
+5. **Review and Refine:** Regularly review your nested components to ensure they remain efficient and effective. Simplify or decompose them as needed.
 
 ## Libraries for Mobile UI in Figma
 
@@ -145,34 +81,16 @@ Figma libraries are especially useful for mobile UI design as they allow for the
   url="https://www.youtube.com/embed/79T8Q6OBmRk?si=_IkxRjfrfLfE4AnQ"
 />
 
-### Tips for Using Figma Libraries in Mobile UI Design:
-
-1. **Device-Specific Libraries**: Create separate libraries for iOS and Android to adhere to their specific design guidelines.
-2. **Responsive Components**: Include responsive components in your libraries that adapt to different screen sizes.
-3. **Accessibility Guidelines**: Incorporate accessibility guidelines in your library components to ensure inclusive designs.
-
-## Figma Plugins for Mobile UI Design
-
-![Figma Plugin Banner](./figma-plugins.png)
-
-Figma plugins can significantly streamline the process of designing mobile UIs.
-
-### Recommended Figma Plugins for Mobile UI:
-
-1. **Responsive Resize**: This plugin helps in quickly resizing components for different screen sizes.
-2. **Mobile Patterns**: Provides a collection of design patterns specifically for mobile interfaces.
-3. **Flowkit**: Useful for creating user flow diagrams in mobile app designs.
-
-## Engaging with the Figma Community for Mobile UI Inspiration
+## Engaging with the Figma Community for UI Inspiration
 
 ![Figma Community Banner](./figma-community.png)
 
-The Figma Community is a rich resource for mobile UI designers, offering access to a wide range of mobile-specific design templates and UI kits.
+The Figma Community is a rich resource for UI designers, offering access to a wide range of UI design templates and UI kits.
 
-### Benefits of the Figma Community for Mobile UI Designers:
+### Benefits of the Figma Community for UI Designers:
 
-1. **Mobile UI Templates**: Find and use templates specifically created for mobile UI designs.
-2. **Learning from Experts**: Follow leading mobile UI designers to learn from their designs and workflows.
-3. **Sharing and Feedback**: Share your mobile UI designs to get feedback and suggestions from the community.
+1. ** UI Templates**: Find and use templates specifically created for UI designs.
+2. **Learning from Experts**: Follow leading UI designers to learn from their designs and workflows.
+3. **Sharing and Feedback**: Share your UI designs to get feedback and suggestions from the community.
 
-By focusing on these aspects, you can effectively use Figma to create, manage, and share mobile UI design components and assets, ensuring a consistent and user-friendly mobile experience.
+By focusing on these aspects, you can effectively use Figma to create, manage, and share UI design components and assets, ensuring a consistent and user-friendly experience.
