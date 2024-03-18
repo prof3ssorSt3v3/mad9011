@@ -55,9 +55,9 @@ Take the example of implementing a hover effect on a card that triggers the disp
 
 ## Nesting Components
 
-![Nested Components](./nested-icon-components.png)
-
 Nesting components in Figma is a technique that involves placing one component inside another. This approach is instrumental in building more complex and dynamic design systems, allowing designers to create detailed and highly customizable interfaces. By mastering nested components, designers can significantly enhance their workflow efficiency and design consistency.
+
+![Nested Components](./nested-icon-components.png)
 
 ### Benefits of Nesting Components
 
@@ -91,7 +91,7 @@ The Figma Community is a rich resource for UI designers, offering access to a wi
 
 ### Benefits of the Figma Community for UI Designers:
 
-1. ** UI Templates**: Find and use templates specifically created for UI designs.
+1. **UI Templates**: Find and use templates specifically created for UI designs.
 2. **Learning from Experts**: Follow leading UI designers to learn from their designs and workflows.
 3. **Sharing and Feedback**: Share your UI designs to get feedback and suggestions from the community.
 
