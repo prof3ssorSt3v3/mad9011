@@ -12,7 +12,7 @@
 
 ![Visual Design Example](./High-fidelity.png)
 
-> [Source](https://www.justinmind.com/wireframe/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead)
+> [Source](https://moqups.com/blog/low-fidelity-vs-high-fidelity-wireframes/)
 
 Visual design is crucial in defining and enhancing user experience. It involves the strategic use of elements such as illustrations, photography, typography, space, layout, and color. These elements work collectively to make digital products not only usable but also visually appealing.
 
@@ -58,26 +58,15 @@ A well-organized and visually appealing layout is fundamental in high-fidelity w
 
 To create a basic column setup in Figma, start by defining a grid with columns that reflect your content's structure. Use Figma's layout grids to set the number of columns, gutters, and margins, aligning to the desired width for optimal readability and alignment.
 
-![Basic Column Setup](./desktop-grid.png)
+![Basic Column Setup](./phone-grid.png)
 
-- **Count:** 12
-- **Type:** Center
-- **Width:** 72
-- **Gutter:** 24
+- **Count:** 4
+- **Type:** Stretch
+- **Width:** auto
+- **Margin:** 16
+- **Gutter:** 16
 
 ![Grid Alignment](./grid-alignment.png)
-
-### Using Auto Layout
-
-Auto Layout in Figma allows designers to create flexible and responsive designs that adjust to content changes. To use Auto Layout, select your elements and apply Auto Layout via the right-click menu or the properties panel. Customize spacing, alignment, and direction to ensure elements resize and reflow as needed.
-
-![Auto Layout Example](./autolayout-desktop.png)
-
-- Set your Desktop Frame to auto layout (set the gap between sections)
-- Add your Footer and Navigation (from design system)
-- Create and empty frame between the navigation and header.
-  - Set your gap and padding
-  - Drag your assets into this frame.
 
 ::: tip Demo
 
@@ -105,6 +94,12 @@ If you have not watched this video from week 11, I recommend you do.
   title="Figma tutorial: Create a shareable team library"
   url="https://www.youtube.com/embed/79T8Q6OBmRk?si=_IkxRjfrfLfE4AnQ"
 />
+
+## Using OS Kits
+
+![OS Kits](./Kits.png)
+
+For certain components like status bars and home indicators, grab the official version from the OS's Figma kit found in the Figma Community.
 
 ## Accessibility Considerations
 
