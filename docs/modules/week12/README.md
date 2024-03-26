@@ -68,12 +68,6 @@ To create a basic column setup in Figma, start by defining a grid with columns t
 
 ![Grid Alignment](./grid-alignment.png)
 
-::: tip Demo
-
-I will demo the auto layout method during class.
-
-:::
-
 ## Utilizing Your Design System
 
 ::: danger Consistency

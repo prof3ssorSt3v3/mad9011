@@ -50,8 +50,6 @@ This week, your task is to create high-fidelity wireframes for your mobile UI. Y
 - [ ] Figma project link is provided.
 - [ ] The apps's chosen theme is described.
 - [ ] A list of all group members is included.
-<!-- - [ ] No cheating
-- [ ] looks like the group put effort. -->
 
 ## Submission Process
 
@@ -62,3 +60,5 @@ Share your high-fidelity wireframes by providing the Figma project link in the s
 - Names of all group members.
 
 Since your professor was granted access during Part 1, there's no need for a new invitation.
+
+<Badge type="error" text="Due: Tuesday April 2nd @7:00pm" />

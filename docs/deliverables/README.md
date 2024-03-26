@@ -90,7 +90,7 @@ Every week there will be work for you to complete inside or outside of class. So
   title="Part 3: High-fidelity Wireframes"
   dueDate="Due: Tuesday April 2nd @7:00pm"
   description="In part 3 of your final project, you'll elevate your mid-fidelity wireframes to high-fidelity by meticulously applying the principles and elements from your design system, ensuring a polished and detailed representation of your final design concept."
-  linkType="paused"
+  linkType="active"
   detailsLink="./finalproject/part3.html"
 />
 
