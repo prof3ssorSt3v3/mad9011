@@ -1,74 +1,117 @@
-# Week 12 - Visual Design
+# Week 12 - Visual Design and High-Fidelity Wireframes
 
-## Visual Design: Bringing Your Designs to Life
+## Learning Objectives
 
-![High-fidelity Wireframes Banner](./highFidelity.png)
+- **Maintain Consistency**: Achieve a coherent visual and functional flow throughout the user interface.
+- **Incorporate Real Content and Data**: Elevate designs with actual content to assess and improve readability and user engagement.
+- **Utilize Design Systems**: Streamline your design process by:
+  - Integrating a centralized design system within your wireframe project for enhanced consistency and efficiency.
+- **Accessibility Considerations**: Implement inclusive design principles using tools like the Able plugin for Figma to ensure your designs are universally accessible.
 
-Visual design transcends mere aesthetics, playing a pivotal role in shaping and enhancing user experiences. It's not just about making products look attractive; it's about thoughtful integration of elements like illustrations, photography, typography, space, layout, and color to make products both usable and appealing.
+## Visual Design
 
-Imagine visual design as the final layer in a multi-tiered cake of design. It's not merely a superficial coat of paint; it's the culmination of a design process that gives your product a distinct, recognizable identity.
+![Visual Design Example](./High-fidelity.png)
 
-<YouTube
-  title="Create a High-Fidelity Prototype"
-  url="https://www.youtube.com/embed/Fr-f2NE6B3U?si=sRYsHtA1xUljYfmi"
-/>
+> [Source](https://www.justinmind.com/wireframe/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead)
 
-### Understanding High-fidelity Wireframes
+Visual design is crucial in defining and enhancing user experience. It involves the strategic use of elements such as illustrations, photography, typography, space, layout, and color. These elements work collectively to make digital products not only usable but also visually appealing.
 
-High-fidelity wireframes serve as the bridge between your initial design ideas and the final product. They are intricate designs that encompass the visual and interactive aspects of your application. These wireframes:
+Consider visual design as the defining layer of the design process, providing your product with a unique, recognizable identity that goes beyond mere aesthetics.
 
-- **Provide Realism**: High-fidelity wireframes closely resemble the final product, allowing stakeholders to visualize the end result.
+## Understanding High-Fidelity Wireframes
 
-- **Enhance User Experience**: They focus on aesthetics, interaction, and user interface details, contributing to a seamless and visually appealing user experience.
+High-fidelity wireframes are detailed designs that mirror the final product, focusing on visual and interactive elements. They are essential for:
 
-- **Ease Development**: With a detailed visual guide, developers can work efficiently, minimizing ambiguities in design implementation.
-
-- **Gather Precise Feedback**: High-fidelity wireframes enable users and stakeholders to provide feedback on a design that closely resembles the actual application.
+- **Providing Realism**: Allowing stakeholders to see a close representation of the end product.
+- **Enhancing User Experience**: Prioritizing aesthetics and interaction to offer a seamless user experience.
+- **Easing Development**: Serving as a comprehensive visual guide for developers, reducing design ambiguities.
+- **Gathering Precise Feedback**: Facilitating detailed feedback on a prototype that closely resembles the final application.
 
 ### Visual Design vs. Graphic Design
 
-| **Visual Design:**                                                                                                                                                                                                                              | **Graphic Design:**                                                                                                                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Focuses on optimizing user experience in digital spaces, using elements like typography and color to enhance interaction and usability. It's intertwined with functionality and user journey, emphasizing intuitive design in digital contexts. | Involves creating visual content for various media, using imagery and typography to communicate messages and solve problems. It spans digital and print mediums, often focusing more on artistic expression and visual storytelling. |
+<br>
+<ListItem
+imageSrc="/w2024/moduleImages/week12/Visual-Design.png"
+title="Visual Design"
+content="Focuses on enhancing user experience in digital spaces. It employs elements like typography and color to improve interaction and usability, integrating functionality and user journey into the design.">
+</ListItem>
+
+<ListItem
+imageSrc="/w2024/moduleImages/week12/Graphic-Design.png"
+title="Graphic Design"
+content="Centers on creating visual content to communicate messages across digital and print media. It emphasizes artistic expression and visual storytelling, often without the constraints of user interfaces.
+">
+</ListItem>
+<br>
 
 ## Layout Best Practices
 
-![Layout Banner](./adaptive-design.gif)
+![Responsive Design Example](./adaptive-design.gif)
 
-In high-fidelity wireframes, an organized and visually appealing layout is key to success. Here are some best practices to consider:
+A well-organized and visually appealing layout is fundamental in high-fidelity wireframing. Here are essential best practices:
 
-- **Use of Grid Columns**: Grids help maintain consistency in layout and alignment, making it easier to structure your design effectively.
+- **Grid Columns Usage**: Implement grids to ensure alignment and consistency across your design. Utilize Figma's grid and column settings to structure your layout efficiently.
+- **Consistent Spacing**: Apply consistent spacing between elements to create a balanced and harmonious interface. Use Figma's auto layout feature to manage spacing and alignment effortlessly.
+- **Responsive Design**: Design your wireframes to be responsive, ensuring they adapt gracefully across different devices and screen sizes. Leverage Figma's constraints and responsive components to achieve fluid designs.
 
-- **Consistent Spacing**: Ensure that elements are consistently spaced, offering a balanced and harmonious design.
+### Basic Column Setup
 
-- **Responsive Design**: High-fidelity wireframes must adapt to different screen sizes and orientations, ensuring a consistent and user-friendly experience on various devices.
+To create a basic column setup in Figma, start by defining a grid with columns that reflect your content's structure. Use Figma's layout grids to set the number of columns, gutters, and margins, aligning to the desired width for optimal readability and alignment.
 
-## Designing for Different Screen Sizes and Resolutions
+![Basic Column Setup](./desktop-grid.png)
 
-![Different Screen Sizes and Resolutions](./safe-areas.png)
+- **Count:** 12
+- **Type:** Center
+- **Width:** 72
+- **Gutter:** 24
 
-Designing for various screen sizes and resolutions is a crucial aspect of high-fidelity wireframes. To accommodate the diverse digital landscape, consider the following:
+![Grid Alignment](./grid-alignment.png)
 
-- **Responsive Design**: Implement responsive design principles to ensure that your high-fidelity wireframes look and function seamlessly on devices with different screen sizes and resolutions.
+### Using Auto Layout
 
-- **Scaling Graphics**: Graphics and images should scale gracefully to maintain quality and visibility on a range of screens.
+Auto Layout in Figma allows designers to create flexible and responsive designs that adjust to content changes. To use Auto Layout, select your elements and apply Auto Layout via the right-click menu or the properties panel. Customize spacing, alignment, and direction to ensure elements resize and reflow as needed.
 
-- **Optimized Typography**: Typography should be legible on both small and large screens, and you may need to adapt font sizes accordingly.
+![Auto Layout Example](./autolayout-desktop.png)
 
-- **Consistent User Experience**: Regardless of the device used, the user experience should remain consistent, and all interactive elements should function correctly.
+- Set your Desktop Frame to auto layout (set the gap between sections)
+- Add your Footer and Navigation (from design system)
+- Create and empty frame between the navigation and header.
+  - Set your gap and padding
+  - Drag your assets into this frame.
 
-## Designing with Accessibility in Mind
+::: tip Demo
 
-![Accessibility](./accessibility.png)
+I will demo the auto layout method during class.
 
-Creating high-fidelity wireframes with accessibility in mind is essential for mobile app design. To ensure inclusivity and user-friendliness, incorporate recommendations from Apple's Human Interface Guidelines (HIG) and Google's Material Design, along with adherence to the Web Content Accessibility Guidelines (WCAG). Here's how these guidelines contribute to accessible design:
+:::
 
-### Fonts and Color Contrast
+## Utilizing Your Design System
 
-- **Font Legibility**: Both Apple's HIG and Google's Material Design emphasize using legible fonts, such as San Francisco for iOS and Roboto for Android apps. Adhering to font recommendations from these guidelines ensures text remains clear and readable, especially on smaller screens.
+::: danger Consistency
 
-- **Color Contrast**: Apple's HIG and Google's Material Design provide specific color contrast requirements to enhance accessibility. Following these standards helps maintain a sufficient contrast ratio, ensuring text and background colors are distinguishable. This practice aligns with the WCAG's contrast standards for text and contributes to better readability.
+All colours and typography used in your high-fidelity wireframes must be defined in your design system. If you find a case where a new style is needed, you will need to update your design system and republish.
 
-### Touch Targets and Interactive Elements
+:::
 
-- **Touch Target Sizes**: Apple's HIG recommends a minimum touch target size of 44x44 points, which Google's Material Design also supports. This encourages designing interactive elements, like buttons, with a suitable size for comfortable tapping. This sizing aligns with the principle of touch targets emphasized by the WCAG, which focuses on ensuring elements are large enough to be interacted with accurately.
+In Figma, a library is a collection of design assets, like components, styles, and variables. These design assets live in a single file, but can be reused across different files or projects.
+
+People often use libraries for sharing common design elements, like buttons, icons, pieces of UI, colors, or values for certain properties. This helps everyone stay consistent and makes it easy to build from existing designs.
+
+When someone changes assets in a library, people can quickly review the changes and automatically update their designs. [Click here to read the full article](https://help.figma.com/hc/en-us/articles/360041051154-Guide-to-libraries-in-Figma)
+
+If you have not watched this video from week 11, I recommend you do.
+
+<YouTube
+  title="Figma tutorial: Create a shareable team library"
+  url="https://www.youtube.com/embed/79T8Q6OBmRk?si=_IkxRjfrfLfE4AnQ"
+/>
+
+## Accessibility Considerations
+
+Ensuring your designs are accessible is crucial for reaching a wider audience and complying with legal standards. Use Figma's accessibility tools and plugins, like Able, to check your designs for color contrast, text size, and other accessibility guidelines. Incorporate these practices early in your design process to make your digital products usable by as many people as possible.
+
+### Figma Plugin: Able - Friction-Free Accessibility
+
+![Able - Friction-Free Accessibility](./able-plugin.png)
+
+Utilize the Able plugin in Figma to enhance your design's accessibility. This powerful tool assists in evaluating color contrast ratios, ensuring text legibility, and adhering to WCAG guidelines, thereby making your designs accessible to a broader audience.
