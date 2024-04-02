@@ -88,7 +88,7 @@ Every week there will be work for you to complete inside or outside of class. So
 
 <Deliverable
   title="Part 3: High-fidelity Wireframes"
-  dueDate="Due: Tuesday April 2nd @7:00pm"
+  dueDate="Due: Tuesday April 9th @7:00pm"
   description="In part 3 of your final project, you'll elevate your mid-fidelity wireframes to high-fidelity by meticulously applying the principles and elements from your design system, ensuring a polished and detailed representation of your final design concept."
   linkType="active"
   detailsLink="./finalproject/part3.html"
@@ -96,9 +96,9 @@ Every week there will be work for you to complete inside or outside of class. So
 
 <Deliverable
   title="Part 4: Interactive Visual Prototype"
-  dueDate="Due: Tuesday April 9th @7:00pm"
+  dueDate="Due: Tuesday April 16th @7:00pm"
   description="In part 4 of your final project, you'll bring your high-fidelity wireframes to life by integrating interactivity and animations, preparing them for a comprehensive user testing experience that closely simulates the final product."
-  linkType="paused"
+  linkType="active"
   detailsLink="./finalproject/part4.html"
 />
 

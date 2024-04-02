@@ -2,7 +2,7 @@
 
 ## What is Prototyping?
 
-Figma is a great tool for prototyping UX/UI designs. It allows you to create interactive flows directly in the design file with advanced, yet easy-to-use features. In just a few minutes, you can turn your static designs into a realistic version of your website or product.
+Figma is a great tool for prototyping UX/UI designs. It allows you to create interactive flows directly in the design file with advanced, yet easy-to-use features. In just a few minutes, you can turn your static designs into a realistic version of your app or product.
 
 Creating prototypes is important for many reasons. You can explore how new user flows will work. Communicate interactions to your team. Test and get feedback from your users. And pitch designs to stakeholders for buy-in.
 

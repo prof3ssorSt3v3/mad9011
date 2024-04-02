@@ -2,51 +2,61 @@
 
 ## Introduction
 
-This week's focus is on creating an interactive prototype for your mobile application. This process involves adding triggers and actions to your visual design, transforming it into a dynamic, user-friendly prototype.
+For part 4, you are tasked with creating an Interactive Prototype of your app. This involves applying triggers and actions to your visual designs to simulate the functionality of a live app, enhancing the user experience through interactive elements.
 
 ## Instructions
 
-1. Initiate the task by establishing a new page titled "Part 5 - Interactive Prototype."
-2. Migrate your visual design to this newly created page.
-3. Begin the process of linking your screens together.
+1. **Initiate Your Prototype:**
 
-## Key Considerations
+   - Within your existing wireframe file, establish a new page entitled "Interactive Visual Prototype - Part 4." This segregation is crucial for maintaining an organized workflow and clearly delineating different phases of your project.
 
-- Ensure all screens are interconnected via the "Tap" function, enabling fluid navigation between them.
-- Integrate at least one additional Action/Trigger apart from "Tap."
-- If necessary, design supplementary screens to seamlessly link your initial screens.
-- Aim for your prototype to emulate the look and functionality of an authentic mobile app.
-- Thoroughly assess your prototype using the **Preview mode**.
+2. **Seamless Screen Navigation:**
 
-### Visual Representation
+   - Ensure that your prototype facilitates intuitive navigation by implementing clickable links that connect all your screens. This feature should allow users to navigate forward and backward through the screens, mimicking the fluidity of navigation found in live apps.
 
-![Prototype Example](./assets/prototype-example.png)
+3. **Incorporate Additional Interactivity:**
 
-## Grading Criteria
+   - Enrich the user experience by adding at least one additional interactive element beyond "click" trigger. Consider incorporating a dynamic image carousel, or any element that employees a different trigger (i.ie Delay). The goal is to create engaging and interactive moments that captivate users.
 
-| Category           | Points |
-| ------------------ | ------ |
-| Connected Screens  | 2      |
-| Additional Trigger | 2      |
-| Proper Scrolling   | 1      |
-| Effort             | 2      |
-| Flow               | 2      |
-| Week 13 Review     | 1      |
-| **Total**          | **10** |
+4. **Realistic Look and Feel:**
 
-## Submission Procedure
+   - Your prototype should not only showcase your design skills but also emulate the experience of navigating a real app. Pay close attention to the details—such as transition effects, responsiveness of interactive elements, and overall user flow—to ensure your prototype convincingly replicates the look and feel of an actual app.
 
-Rather than a traditional file submission, utilize Figma's sharing feature to showcase your work. Within the comment section of your submission, ensure the inclusion of:
+## Example
 
-- The Figma project link.
-- The chosen theme for your application.
-- A list of all group members.
+**Your wireframes should closely resemble a fully interactive app.**
 
-Given that your professor received an invitation during Part 1, a re-invitation is unnecessary.
+## Evaluation Criteria
 
-**Submission Deadlines:**
+### Prototype Setup and Navigation
 
-<Badge text="Section 300: Tuesday, December 12th @3:00pm" /><br>
-<Badge type="error" text="Section 310: Monday, December 11th @4:00pm" />
+- [ ] A new page titled "Interactive Visual Prototype - Part 4" is created within the existing wireframe file.
+- [ ] Clickable links are implemented for intuitive navigation between screens, allowing seamless movement forwards and backwards.
+- [ ] Scrolling is correctly implemented where necessary, providing a realistic navigation experience through longer pages.
 
-Please submit via Brightspace under Assignments > Part 5 - Interactive Prototype.
+### Interactivity and Realism
+
+- [ ] At least one additional interactive element beyond "click" and "hover" triggers is included, such as a dynamic image carousel or animations with a delay trigger.
+- [ ] A hover effect is applied to every clickable item, enhancing user interaction.
+- [ ] The prototype emulates the experience of a real app, with close attention to transition effects, responsiveness of interactive elements, and overall user flow.
+
+### Presentation and Format
+
+- [ ] The prototype is designed for desktop viewing, ensuring a comprehensive evaluation of the user experience.
+- [ ] The prototype demonstrates cohesive design and functionality, convincingly replicating the look and feel of an actual app.
+
+### Submission and Documentation
+
+- [ ] The link to the Figma project is provided.
+- [ ] The theme of the appis clearly described.
+- [ ] Names of all group members are included.
+
+## Submission Process
+
+Share your high-fidelity wireframes by providing the Figma project link in the submission comment section. Additionally, include:
+
+- The link to your Figma project.
+- The chosen theme of your app.
+- Names of all group members.
+
+Since your professor was granted access during Part 1, there's no need for a new invitation.
