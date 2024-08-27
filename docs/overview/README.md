@@ -1,59 +1,80 @@
 # MAD9011 - Mobile Design Fundamentals
 
-::: tip Course Introduction
-Students are introduced to mobile design fundamentals and graphical user interface design tools. The design concepts include mobile user interface visual elements, principles, accessibility and usability. Students learn industry standard tools and production techniques to create effective interfaces for mobile-first websites and mobile applications. Hands-on learning is the focus by which they use different software packages to design mobile interface visual elements, icons, splash graphics, scalable vector graphic (SVG), SVG animations, and wireframes.
-:::
+---
 
-## Course Description
+## 🚀 Course Introduction
 
-- Course Section Information (CSI) on Brightspace LMS
+Students dive into mobile design fundamentals and graphical user interface design tools. Explore key concepts such as mobile UI visual elements, principles of accessibility, and usability. Through hands-on learning, students will use industry-standard software to create interfaces for mobile-first websites and apps, including visual elements, icons, splash graphics, SVGs, SVG animations, and wireframes.
 
-## Student Workload Expectations
+---
 
-- 1 hour/week virtual (Theory)
-- 2 hours/week (Lab)
-- 3 hours per week of tutorials/videos/exercises/studying/practicing outside class
+## 📚 Course Description
 
-## Schedule
+- [Course Section Information (CSI)](https://ecoursemap.com/LTI/Outline)
 
-- Theory (Virtual): Thursday 4pm - 5pm
-- Lab: Tuesday 7pm - 9pm
+---
 
-## Technology Stack
+## 📅 Student Workload Expectations
 
-<img src="../assets/tools.png" alt="UI graphics tools">
+- **1 hour/week** virtual (Theory)
+- **2 hours/week** lab sessions
+- **3 hours/week** tutorials, videos, exercises, and independent study
 
-## Core Topics
+---
 
-- Basic design concepts and vector-based graphics
-  - Adobe Illustrator (Ai)
-- Layout concepts and raster-based graphics
+## 📆 Schedule
+
+**Section 010:**
+
+- **Theory (Virtual):** Wednesday 12pm - 1pm
+- **Lab:** Tuesday 7pm - 9pm
+
+**Section 020:**
+
+- **Theory (Virtual):** Wednesday 1pm - 2pm
+- **Lab:** Tuesday 5pm - 7pm
+
+---
+
+## 🛠️ Technology Stack
+
+<div style="text-align: center;">
+  <img src="../assets/tools.png" alt="UI graphics tools" style="max-width: 80%; margin-top: 10px;">
+</div>
+
+---
+
+## 🔑 Core Topics
+
+- **Layout Concepts & Raster Graphics**
   - Adobe Photoshop (Ps)
-- Scalable Vector Graphics (SVG) and SVG markups
-- User interface interaction design concepts – Putting it all together
+- **Basic Design Concepts & Vector Graphics**
+  - Adobe Illustrator (Ai)
+- **Scalable Vector Graphics (SVG)**
+  - SVG markups and animations
+- **User Interface Interaction Design Concepts**
   - Figma
 
-## Course Policy
+---
 
-The students will be learning online, guided by a curriculum with video tutorials, discussions and quizzes. They will reflect what they have learned on weekly homework and apply practical knowledge to assignments and final project. The in-class time will not be a lesson therefore each student must complete the curriculum modules themselves to move through this course. Participating in peer reviews, chats and forums will be a big part of the activities learned.
+## 📋 Course Policy
 
-### Late Penalty
+### ⏰ Late Penalty
 
-Assignments will be penalized for being late at the rate of 10% per day to a maximum of 50%. After 10 days beyond the due date, assignments will be given a grade of zero.
+- **10% deduction per day** (up to 30%) for late submissions.
+- After **10 days**, assignments receive a grade of **zero** but can still be submitted for feedback.
 
-Students may still submit their assignments after the ten days but it will only be for the purpose of receiving feedback on their work. No grade will be given.
+Late penalty percentages are calculated based on the total possible value of the assignment, not the grade for the work.
 
-### Performance Requirement
+### 🎯 Performance Requirement
 
-In-class work progress review is part of the performance assessment. A student must pass the combined term work (marked exercises, discussions, assignments, and quizzes) and score higher than 50% in all graded assignments, project, and 2 quizzes to pass this course.
+Students must pass the combined term work (exercises, discussions, assignments, quizzes) and score above **50%** on all graded components to pass the course.
 
-### Discussions
+### 🔒 Copyright
 
-Under the Discussion section, you will already find some started, remember the conversation history exists as long as the course exists. Discussions will be moderated by your instructor for coherence. Please participate, ask questions, respond to some, also attach some of your better design for peer viewing and thoughts. Participation counts for 8% of the total for the course so please join in.
+Algonquin College is committed to the highest standards of academic integrity, and students are expected to uphold these standards as part of the learning process. **Any academic work submitted by a student is expected to be their own work**, unless designated otherwise and all human and technological assisted generated sources must be attributed. All students should be familiar with the Algonquin College policy [AA48: Academic Integrity](https://www.algonquincollege.com/policies/files/2021/09/AA48.pdf) which outlines student’s roles and responsibilities and what represents academic misconduct. Certain testing environments and course assessments may use online proctoring to prevent academic misconduct. Additional information including student resources can be found on the [Academic Integrity Office’s web site](https://www.algonquincollege.com/academic-integrity/) and via [Academic Integrity - Student Survival Guide - Subject Guides at Algonquin College](https://algonquincollege.libguides.com/student-survival-guide/academic-Integrity). Students with any questions about the course expectations regarding academic integrity are encouraged to speak to their professor and the College’s Academic Integrity Office team at [aio@algonquincollege.com](aio@algonquincollege.com).
 
-### Copyright
-
-This course complies with the college directives. **Please complete this Plagiarism Declaration on Brightspace**
+---
 
 ## Contacts
 
@@ -65,16 +86,5 @@ This course complies with the college directives. **Please complete this Plagiar
   :details="[
       { label: 'email', value: 'bristot@algonquincollege.com' },  
       { label: 'office', value: 'By appointment' }
-    ]"
-/>
-
-<ContactCard 
-  name="Ahmed Elbadri"
-  title="Student Success Specialist"
-  img-url="/f2024/ahmed.jpg"
-  bio=""
-  :details="[
-      { label: 'email', value: 'elbadra@algonquincollege.com' }, 
-      { label: 'Book Appointment', value: 'http://www.algonquincollege.com/bookahmed' },
     ]"
 />

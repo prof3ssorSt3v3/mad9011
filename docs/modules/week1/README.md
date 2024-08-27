@@ -184,13 +184,15 @@ In Adobe Photoshop there is a incredibly important concept called **non-destruct
 2. It makes it easy to revert to an earlier version if you decide to go another direction with your work
 3. It protects your assets and does not remove image data, preserving the quality of your images.
 
-### How do you edit non-destructively?
+::: tip How do you edit non-destructively?
 
 Some best practices to insure you are working non-destructively include:
 
 1. **Maintain strong file organization** - helps to insure layers aren't deleted or modified unintentionally
 2. **Use effective `Layer Masks`** - this allows you to hide portions of a layer without deleting pixels, preserving the ability to edit and change later on
 3. **Use `Smart Objects` as much as possible** - making a layer a `Smart Object` protects the layer while allowing you to add/remove/edit filters, effects, and more without making them permanent
+
+:::
 
 ## 5. Exporting Assets from Photoshop
 
