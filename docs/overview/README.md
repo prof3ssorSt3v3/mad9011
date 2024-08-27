@@ -60,7 +60,7 @@ This course complies with the college directives. **Please complete this Plagiar
 <ContactCard 
   name="Tyler Bristow"
   title="Instructor"
-  img-url="/w2024/TylerBristow.jpg"
+  img-url="/f2024/TylerBristow.jpg"
   bio="Instructor of the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'bristot@algonquincollege.com' },  
@@ -71,7 +71,7 @@ This course complies with the college directives. **Please complete this Plagiar
 <ContactCard 
   name="Ahmed Elbadri"
   title="Student Success Specialist"
-  img-url="/w2024/ahmed.jpg"
+  img-url="/f2024/ahmed.jpg"
   bio=""
   :details="[
       { label: 'email', value: 'elbadra@algonquincollege.com' }, 

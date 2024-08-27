@@ -48,23 +48,22 @@ Adobe Photoshop is a leading tool in image editing and manipulation, essential i
 
 ## Understanding Photoshop's Interface
 
-![Photoshop Interface](./photoshop-interface.png)
-
 Adobe Photoshop's interface is a complex environment with various tools and features. Understanding and navigating this interface is crucial for efficient and effective photo editing.
 
-### Workspace Overview
+<!-- SLIDE SHOW HERE!!! -->
 
-- **Toolbar:** Located typically on the left, the toolbar contains tools for selecting, manipulating, and editing your work. Tools are grouped by function, and many have hidden tools available through a click-and-hold action.
-- **Panels:** Panels like Layers, Adjustments, and History are usually found on the right. These panels provide control over various aspects of your image and your workspace.
-- **Menus:** The top menu bar includes options like File, Edit, Image, Layer, and more. Each menu contains a list of actions and settings related to different functionalities in Photoshop.
-- **Options Bar:** Just below the top menu, the options bar changes contextually based on the selected tool, offering specific settings for that tool.
-
-### Customizing the Workspace
-
-- **Rearranging Panels:** You can drag panels to different locations, group them together, or stack them in tabs. This allows you to create a workspace that best fits your workflow.
-- **Saving Workspaces:** Once you have a layout that suits your needs, you can save it as a custom workspace. This is particularly useful if you switch between different types of tasks (e.g., photo editing vs. graphic design).
-- **Resetting Workspace:** If you ever get lost or your panels seem disorganized, you can reset your workspace to the default layout.
-- **Using Preset Workspaces:** Photoshop also comes with preset workspaces optimized for specific tasks, like painting, photography, or 3D work.
+<ImageSwitcher
+  :images="[
+    { label: 'Image 1', src: '/w2024/moduleImages/week1/psInterface/1.png', title: 'Title for Image 1', description: 'This is the body text corresponding to Image 1.' },
+    { label: 'Image 2', src: '/w2024/moduleImages/week1/psInterface/2.png', title: 'Title for Image 2', description: 'This is the body text corresponding to Image 2.' },
+    { label: 'Image 3', src: '/w2024/moduleImages/week1/psInterface/3.png', title: 'Title for Image 3', description: 'This is the body text corresponding to Image 3.' },
+    { label: 'Image 3', src: '/w2024/moduleImages/week1/psInterface/4.png', title: 'Title for Image 4', description: 'This is the body text corresponding to Image 4.' },
+    { label: 'Image 3', src: '/w2024/moduleImages/week1/psInterface/5.png', title: 'Title for Image 5', description: 'This is the body text corresponding to Image 5.' },
+    { label: 'Image 3', src: '/w2024/moduleImages/week1/psInterface/6.png', title: 'Title for Image 6', description: 'This is the body text corresponding to Image 6.' },
+    { label: 'Image 3', src: '/w2024/moduleImages/week1/psInterface/7.png', title: 'Title for Image 7', description: 'This is the body text corresponding to Image 7.' },
+    { label: 'Image 3', src: '/w2024/moduleImages/week1/psInterface/8.png', title: 'Title for Image 8', description: 'This is the body text corresponding to Image 8.' }
+  ]"
+/>
 
 ## Understanding Photoshop Canvases and Artboards
 
