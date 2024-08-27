@@ -54,17 +54,17 @@ Adobe Photoshop's interface is a complex environment with various tools and feat
 
 <!-- SLIDE SHOW HERE!!! -->
 
-<ImageSwitcher
-  :key="'switcher1'"
+<Slideshow
+  :key="'interface'"
   :images="[
-    { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png', title: 'Title for Image 1', description: 'This is the body text corresponding to Image 1.' },
-    { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png', title: 'Title for Image 2', description: 'This is the body text corresponding to Image 2.' },
-    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/3.png', title: 'Title for Image 3', description: 'This is the body text corresponding to Image 3.' },
-    { label: 'Image 4', src: '/f2024/moduleImages/week1/psInterface/4.png', title: 'Title for Image 4', description: 'This is the body text corresponding to Image 4.' },
-    { label: 'Image 5', src: '/f2024/moduleImages/week1/psInterface/5.png', title: 'Title for Image 5', description: 'This is the body text corresponding to Image 5.' },
-    { label: 'Image 6', src: '/f2024/moduleImages/week1/psInterface/6.png', title: 'Title for Image 6', description: 'This is the body text corresponding to Image 6.' },
-    { label: 'Image 7', src: '/f2024/moduleImages/week1/psInterface/7.png', title: 'Title for Image 7', description: 'This is the body text corresponding to Image 7.' },
-    { label: 'Image 8', src: '/f2024/moduleImages/week1/psInterface/8.png', title: 'Title for Image 8', description: 'This is the body text corresponding to Image 8.' }
+    { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png' },
+    { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png' },
+    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/3.png' },
+    { label: 'Image 4', src: '/f2024/moduleImages/week1/psInterface/4.png' },
+    { label: 'Image 5', src: '/f2024/moduleImages/week1/psInterface/5.png' },
+    { label: 'Image 6', src: '/f2024/moduleImages/week1/psInterface/6.png' },
+    { label: 'Image 7', src: '/f2024/moduleImages/week1/psInterface/7.png' },
+    { label: 'Image 8', src: '/f2024/moduleImages/week1/psInterface/8.png' }
   ]"
 />
 
@@ -186,14 +186,14 @@ Some best practices to insure you are working non-destructively include:
 
 <!-- This can be a slide show -->
 
-<ImageSwitcher
-  :key="'test'"
+<Slideshow
+  :key="'export'"
   :images="[
-    { label: 'Image 1', src: '/f2024/moduleImages/week1/psExport/1.png', title: 'Export As Menu', description: 'Photoshop offers various export processes in the File/Export menu, but we will focus on the Export As dialog because it allows processing multiple artboards simultaneously with customizable output options for each.' },
-    { label: 'Image 2', src: '/f2024/moduleImages/week1/psExport/2.png', title: 'Output Scales', description: 'You can output the artboard at multiple different scales at once. Keep in mind, Photoshop is raster so you can only scale down, you cannot scale up.' },
-    { label: 'Image 3', src: '/f2024/moduleImages/week1/psExport/3.png', title: 'Artboard Select', description: 'Select which artboards you wish to export by clicking on the check box. Click on the card to select the artboard that you want to update the settings.' },
-    { label: 'Image 4', src: '/f2024/moduleImages/week1/psExport/4.png', title: 'Preview Window', description: 'Previews the artboard currently selected.' },
-    { label: 'Image 5', src: '/f2024/moduleImages/week1/psExport/5.png', title: 'Output Settings', description: 'Control the settings of the outputted image including format, size, etc.' },
+    { label: 'Image 1', src: '/f2024/moduleImages/week1/psExport/1.png' },
+    { label: 'Image 2', src: '/f2024/moduleImages/week1/psExport/2.png' },
+    { label: 'Image 3', src: '/f2024/moduleImages/week1/psExport/3.png' },
+    { label: 'Image 4', src: '/f2024/moduleImages/week1/psExport/4.png' },
+    { label: 'Image 5', src: '/f2024/moduleImages/week1/psExport/5.png' }
   ]"
 />
 

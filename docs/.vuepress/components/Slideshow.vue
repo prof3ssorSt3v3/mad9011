@@ -1,12 +1,5 @@
 <template>
-  <div class="image-switcher">
-    <!-- Title and Description -->
-    <div class="text-content">
-      <h1>{{ currentImage.title }}</h1>
-      <div class="divider"></div>
-      <p>{{ currentImage.description }}</p>
-    </div>
-
+  <div class="slideshow">
     <!-- Image Box -->
     <div class="image-box">
       <transition name="fade">
@@ -29,6 +22,7 @@
 
 <script>
 export default {
+  name: "Slideshow",
   props: {
     images: {
       type: Array,
@@ -66,8 +60,7 @@ export default {
 </script>
 
 <style scoped>
-.image-switcher {
-  /* width: 100%; */
+.slideshow {
   max-width: 800px;
   margin: 24px auto;
   text-align: center;
@@ -75,30 +68,6 @@ export default {
   padding: 16px;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.text-content {
-  text-align: left;
-  margin-bottom: 24px;
-}
-
-h1 {
-  font-size: 24px;
-  color: #2d6a4f;
-  margin-bottom: 8px;
-  margin-top: 8px;
-}
-
-.divider {
-  width: 100%;
-  height: 1px;
-  background-color: #eaecef;
-  margin-bottom: 8px;
-}
-
-p {
-  font-size: 16px;
-  color: #6c757d;
 }
 
 .image-box {
@@ -144,16 +113,8 @@ p {
 }
 
 @media (max-width: 600px) {
-  .image-switcher {
+  .slideshow {
     padding: 15px;
-  }
-
-  h1 {
-    font-size: 20px;
-  }
-
-  p {
-    font-size: 14px;
   }
 
   .nav-control {
