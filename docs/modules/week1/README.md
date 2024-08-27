@@ -189,7 +189,7 @@ Some best practices to insure you are working non-destructively include:
 <ImageSwitcher
   :key="'switcher2'"
   :images="[
-    { label: 'Export As Menu', src: '/f2024/moduleImages/week1/psExport/1.png', title: 'Export As Menu', description: 'Photoshop offers various export processes in the File > Export menu, but we will focus on the Export As dialog because it allows processing multiple artboards simultaneously with customizable output options for each.' }
+    { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png', title: 'Title for Image 1', description: 'This is the body text corresponding to Image 1.' },
   ]"
 />
 
