@@ -1,6 +1,6 @@
-# Week 1 - Photoshop Fundamentals
+# Week 1 - Introduction to Adobe Photoshop
 
-## Learning Objectives
+::: tip Learning Objectives
 
 By the end of this week, students will be able to:
 
@@ -11,48 +11,17 @@ By the end of this week, students will be able to:
 5. **Utilize Core Tools:** Gain proficiency in selection tools, image resizing, and basic masking.
 6. **Apply Nondestructive Editing:** Learn the difference between destructive and nondestructive editing, using adjustment layers and smart objects.
 
-## Introduction to Photoshop
+:::
 
-![Photoshop](./photoshop-logo.png)
-
-Adobe Photoshop is a leading tool in image editing and manipulation, essential in graphic design, photography, and digital art. This module introduces Photoshop's interface and key tools for photo manipulation.
-
-## Raster Graphics and Pixels
-
-<!-- Introduction ramble about pixels and vectors but focused more on Pixels -->
+## 1. Introduction to Photoshop
 
 ![Raster Graphics and Pixels](./raster-image.png)
 
-### Understanding Raster Graphics
+<!-- Introduction ramble about pixels and vectors but focused more on Pixels -->
 
-Raster graphics are fundamental to how Photoshop manages images. They are:
-
-- **Composed of Pixels:** Each pixel is a tiny square that makes up part of the image. Every pixel contains data about color and brightness, contributing to the overall appearance of the image.
-- **Photoshop's Pixel Manipulation:** Photoshop edits images by altering these pixels. Whether you're adjusting colors, applying filters, or transforming shapes, Photoshop recalculates the pixel data to create the desired effect.
-
-### Image Resolution
-
-Resolution is a key concept in digital imaging that directly impacts the quality and usability of your images.
-
-- **Pixels Per Inch (PPI):** This measures the density of pixels in an image. A higher PPI means more pixels are packed into each inch, resulting in finer detail and sharper images.
-- **Effect on Image Quality:** High-resolution images are clearer and more detailed, making them ideal for high-quality prints and detailed editing. However, they also have larger file sizes, which can be a consideration for web use or storage.
-- **Choosing the Right Resolution:**
-  - **For Printing:** Higher resolutions, typically around 300 PPI, are preferred to ensure that prints are sharp and detailed.
-  - **For Web and Screen Use:** Lower resolutions, such as 72 PPI, are often sufficient since screens generally display fewer pixels per inch than what can be achieved in print. This also helps in reducing file size, which is crucial for website loading times and performance.
-  - **Editing Considerations:** When editing, consider the final output of your image. If you're working on graphics for a website, a lower resolution might suffice. However, if you're editing images for a printed brochure, you'll need a higher resolution to ensure quality in the final print.
-
-## File Types and Their Uses
-
-- **PSD:** Photoshop's native format for layered files.
-- **JPEG:** Common for photos, balancing quality and file size.
-- **PNG:** Ideal for web graphics with transparency.
-- **GIF:** For simple animations and low-color images.
-
-## Understanding Photoshop's Interface
+### 1.1 Interface Walkthrough
 
 Adobe Photoshop's interface is a complex environment with various tools and features. Understanding and navigating this interface is crucial for efficient and effective photo editing.
-
-<!-- SLIDE SHOW HERE!!! -->
 
 <Slideshow
   :key="'interface'"
@@ -68,31 +37,66 @@ Adobe Photoshop's interface is a complex environment with various tools and feat
   ]"
 />
 
-## Understanding Photoshop Canvases and Artboards
+### 1.2 Canvases and Artboards
 
 In Photoshop, the concepts of canvases and artboards are fundamental for managing your design workspace efficiently. While they share similarities, they serve different purposes and are used in various design scenarios.
 
-### Photoshop Canvas
+<!-- Make this more visually interesting -->
+
+#### Photoshop Canvas
 
 - **The Foundation of Your Design:** The canvas in Photoshop is the base area where your design or image resides. It's like a digital piece of paper where you create and manipulate your artwork.
 - **Canvas Size and Resizing:** The size of the canvas determines the working area for your design. You can adjust the canvas size according to the requirements of your project, which is particularly useful when you need to add extra space around your design or crop it to specific dimensions.
 - **Background and Transparency:** The canvas can have a background color or be transparent. A transparent canvas is essential when creating graphics for the web or layers for composite images.
 
-### Photoshop Artboards
+#### Photoshop Artboards
 
 - **Multiple Workspaces in One Document:** Artboards allow you to have multiple 'canvases' within a single Photoshop document. Each artboard acts as an independent workspace, enabling you to work on different design elements or variations side by side.
 - **Organizing and Exporting Artboards:** You can easily organize, name, and rearrange artboards within a document. Photoshop also provides efficient tools for exporting artboards, making it simple to share and present different parts of your project.
 
 [Artboards](https://helpx.adobe.com/photoshop/using/artboards.html) article provides a quick reference in Photoshop User Guide.
 
-### When to Use Canvas vs. Artboards
+#### When to Use Canvas vs. Artboards
 
 - **Single Design or Image Editing:** Use the canvas when working on a single image or if your project doesn't require multiple variations or layouts.
 - **Multiple Designs or Layouts:** Use artboards when your project involves different designs or variations that need to be viewed and edited in parallel, such as designing for multiple devices or creating a series of web banners.
 
 Understanding when and how to use canvases and artboards will enhance your workflow in Photoshop, allowing you to choose the right approach for your specific design needs.
 
-## Working with Layers
+## 2. Image Fundamentals
+
+### 2.1 Raster Graphics
+
+Raster graphics are fundamental to how Photoshop manages images. They are:
+
+- **Composed of Pixels:** Each pixel is a tiny square that makes up part of the image. Every pixel contains data about color and brightness, contributing to the overall appearance of the image.
+- **Photoshop's Pixel Manipulation:** Photoshop edits images by altering these pixels. Whether you're adjusting colors, applying filters, or transforming shapes, Photoshop recalculates the pixel data to create the desired effect.
+
+### 2.2 Image Resolution
+
+Resolution is a key concept in digital imaging that directly impacts the quality and usability of your images.
+
+- **Pixels Per Inch (PPI):** This measures the density of pixels in an image. A higher PPI means more pixels are packed into each inch, resulting in finer detail and sharper images.
+- **Effect on Image Quality:** High-resolution images are clearer and more detailed, making them ideal for high-quality prints and detailed editing. However, they also have larger file sizes, which can be a consideration for web use or storage.
+- **Choosing the Right Resolution:**
+  - **For Printing:** Higher resolutions, typically around 300 PPI, are preferred to ensure that prints are sharp and detailed.
+  - **For Web and Screen Use:** Lower resolutions, such as 72 PPI, are often sufficient since screens generally display fewer pixels per inch than what can be achieved in print. This also helps in reducing file size, which is crucial for website loading times and performance.
+  - **Editing Considerations:** When editing, consider the final output of your image. If you're working on graphics for a website, a lower resolution might suffice. However, if you're editing images for a printed brochure, you'll need a higher resolution to ensure quality in the final print.
+
+### 2.3 File Types and Their Uses
+
+- **PSD:** Photoshop's native format for layered files.
+- **JPEG:** Common for photos, balancing quality and file size.
+- **PNG:** Ideal for web graphics with transparency.
+- **GIF:** For simple animations and low-color images.
+
+## 3. Core Photoshop Techniques
+
+<!-- Introduction about how this weeks focus is on this -->
+
+### 3.1 Working with Layers
+
+<!-- More detail and maybe an image -->
 
 Layers are a cornerstone of Photoshop, providing flexibility and control over different elements of your image.
 
@@ -101,16 +105,7 @@ Layers are a cornerstone of Photoshop, providing flexibility and control over di
   url="https://www.youtube.com/embed/xRFBOcxjkQU?si=tFU3O8-DA0kYOqXI"
 />
 
-## Changing Image Size
-
-Photoshop allows you to resize, crop, and straighten an image and change the canvas size. **Note:** Canvas and image resize won't work when artboards are used. Resize artboards instead. Let's Begin the video tutorials to [**Change the image size.** (4 videos)](https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html)
-
-- Resize an image
-- Set the resolution
-- Crop and straighten an image
-- Expand the canvas
-
-## Making Selections
+### 3.2 Making Selections
 
 A selection isolates part of an image so you can work on that area without affecting the rest of the image. Take a look at this series of short tutorials and practice [**making selections.** (3 videos)](https://helpx.adobe.com/photoshop/how-to/selection-tools-basics.html)
 
@@ -118,7 +113,7 @@ A selection isolates part of an image so you can work on that area without affec
 - Learn how to use the Quick Selection and Lasso tools
 - Fine-tune a selection
 
-### Object Selection Tool
+#### Object Selection Tool
 
 Learn how to select regions of a photo quickly using the Photoshop Select Object tool.
 
@@ -127,7 +122,16 @@ Learn how to select regions of a photo quickly using the Photoshop Select Object
   url="https://www.youtube.com/embed/PAeEnLPgal4?si=bZ6WWbcTryOPkg2i"
 />
 
-## Masking
+### 3.3 Changing Image Size
+
+Photoshop allows you to resize, crop, and straighten an image and change the canvas size. **Note:** Canvas and image resize won't work when artboards are used. Resize artboards instead. Let's Begin the video tutorials to [**Change the image size.** (4 videos)](https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html)
+
+- Resize an image
+- Set the resolution
+- Crop and straighten an image
+- Expand the canvas
+
+### 3.4 Masking
 
 Layer masking is a nondestructive way to hide parts of an image or layer without erasing them.
 
@@ -136,7 +140,9 @@ Layer masking is a nondestructive way to hide parts of an image or layer without
   url="https://www.youtube.com/embed/ddbMxDT7J9Y?si=oMr2c71PTzff39-i"
 />
 
-## Layer Adjustments
+### 3.5 Layer Adjustments
+
+<!-- Shorten this to fit with style above -->
 
 Layer adjustments are a crucial aspect of Photoshop that allow for versatile and non-destructive editing of images. They enable you to tweak the appearance of your artwork without permanently altering the original pixels.
 
@@ -164,7 +170,7 @@ Layer adjustments are a crucial aspect of Photoshop that allow for versatile and
   url="https://www.youtube.com/embed/AW-1gogYcFM?si=4AVorrsg3XrZKW2t"
 />
 
-## Destructive vs Nondestructive Editing
+## 4. Key Concept: Destructive vs. Nondestructive Editing
 
 ![Destructive vs Nondestructive Editing](./destructive-editing.png)
 
@@ -182,9 +188,11 @@ Some best practices to insure you are working non-destructively include:
 2. **Use effective `Layer Masks`** - this allows you to hide portions of a layer without deleting pixels, preserving the ability to edit and change later on
 3. **Use `Smart Objects` as much as possible** - making a layer a `Smart Object` protects the layer while allowing you to add/remove/edit filters, effects, and more without making them permanent
 
-## Exporting Assets from Photoshop
+## 5. Exporting Assets from Photoshop
 
-<!-- This can be a slide show -->
+<!-- Rewrite this and expand on its explaination -->
+
+It is important to properly **name your artboards** as the `Export As` dialogue uses the artboard names to name the exported file.
 
 <Slideshow
   :key="'export'"
@@ -197,9 +205,7 @@ Some best practices to insure you are working non-destructively include:
   ]"
 />
 
-It is important to properly **name your artboards** as the `Export As` dialogue uses the artboard names to name the exported file.
-
-## Resources
+## 6. Resources
 
 - [Photoshop User Guide](https://helpx.adobe.com/photoshop/user-guide.html)
 - [Photoshop Tool Galleries](https://helpx.adobe.com/photoshop/using/tools.html)
@@ -208,7 +214,7 @@ It is important to properly **name your artboards** as the `Export As` dialogue 
 - [Adobe PS Tutorials](https://helpx.adobe.com/ca/photoshop/tutorials.html)
 - [A comprehensive tutorial for Photoshop Tools](http://www.photoshop-bootcamp.com/beginners-guide-photoshop-tools-toolbar/)
 
-### Free stock photos
+**Free stock photos**
 
 - [Unsplash](https://unsplash.com/)
 - [Pixabay](https://pixabay.com/)
