@@ -1,4 +1,4 @@
-# Week 1 - Photoshop Fundamentals and Photo Manipulation
+# Week 1 - Photoshop Fundamentals
 
 ## Learning Objectives
 
@@ -11,7 +11,15 @@ By the end of this week, students will be able to:
 5. **Utilize Core Tools:** Gain proficiency in selection tools, image resizing, and basic masking.
 6. **Apply Nondestructive Editing:** Learn the difference between destructive and nondestructive editing, using adjustment layers and smart objects.
 
+## Introduction to Photoshop
+
+![Photoshop](./photoshop-logo.png)
+
+Adobe Photoshop is a leading tool in image editing and manipulation, essential in graphic design, photography, and digital art. This module introduces Photoshop's interface and key tools for photo manipulation.
+
 ## Raster Graphics and Pixels
+
+<!-- Introduction ramble about pixels and vectors but focused more on Pixels -->
 
 ![Raster Graphics and Pixels](./raster-image.png)
 
@@ -40,12 +48,6 @@ Resolution is a key concept in digital imaging that directly impacts the quality
 - **PNG:** Ideal for web graphics with transparency.
 - **GIF:** For simple animations and low-color images.
 
-## Introduction to Photoshop
-
-![Photoshop](./photoshop-logo.png)
-
-Adobe Photoshop is a leading tool in image editing and manipulation, essential in graphic design, photography, and digital art. This module introduces Photoshop's interface and key tools for photo manipulation.
-
 ## Understanding Photoshop's Interface
 
 Adobe Photoshop's interface is a complex environment with various tools and features. Understanding and navigating this interface is crucial for efficient and effective photo editing.
@@ -57,11 +59,11 @@ Adobe Photoshop's interface is a complex environment with various tools and feat
     { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png', title: 'Title for Image 1', description: 'This is the body text corresponding to Image 1.' },
     { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png', title: 'Title for Image 2', description: 'This is the body text corresponding to Image 2.' },
     { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/3.png', title: 'Title for Image 3', description: 'This is the body text corresponding to Image 3.' },
-    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/4.png', title: 'Title for Image 4', description: 'This is the body text corresponding to Image 4.' },
-    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/5.png', title: 'Title for Image 5', description: 'This is the body text corresponding to Image 5.' },
-    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/6.png', title: 'Title for Image 6', description: 'This is the body text corresponding to Image 6.' },
-    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/7.png', title: 'Title for Image 7', description: 'This is the body text corresponding to Image 7.' },
-    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/8.png', title: 'Title for Image 8', description: 'This is the body text corresponding to Image 8.' }
+    { label: 'Image 4', src: '/f2024/moduleImages/week1/psInterface/4.png', title: 'Title for Image 4', description: 'This is the body text corresponding to Image 4.' },
+    { label: 'Image 5', src: '/f2024/moduleImages/week1/psInterface/5.png', title: 'Title for Image 5', description: 'This is the body text corresponding to Image 5.' },
+    { label: 'Image 6', src: '/f2024/moduleImages/week1/psInterface/6.png', title: 'Title for Image 6', description: 'This is the body text corresponding to Image 6.' },
+    { label: 'Image 7', src: '/f2024/moduleImages/week1/psInterface/7.png', title: 'Title for Image 7', description: 'This is the body text corresponding to Image 7.' },
+    { label: 'Image 8', src: '/f2024/moduleImages/week1/psInterface/8.png', title: 'Title for Image 8', description: 'This is the body text corresponding to Image 8.' }
   ]"
 />
 
@@ -181,39 +183,17 @@ Some best practices to insure you are working non-destructively include:
 
 ## Exporting Assets from Photoshop
 
-Photoshop has numerous processes for exporting your artwork, all of which can be found in the `File > Export` dropdown menu. We are are going to focus on the `Export As` dialogue because:
+<!-- This can be a slide show -->
 
-1. It provides us with the most efficient options for exporting our images at the correct format and resolution for the web. It will automatically export the image in **RGB colour mode** at **72ppi**.
-2. It can process multiple individual artboards at the same time, while providing options for customizing each artboards' output options.
-
-This dialogue can be can be accessed through `File > Export > Export As` or with the (dangerous) keyboard shortcut `Shift + Option + Command + W` on Mac or `Shift + Control + Alt + W` on Windows.
-
-<figure>
-<img src="./export-as-artboards.jpg" alt="">
-<figcaption>A Photoshop file that contains multiple artboards of different sizes.</figcaption>
-</figure>
-
-Take a look at the `Export As` dialogue and the options it provides. It should feel very familiar as it functions similarly to the `Export for Screens` dialogue in Adobe Illustrator.
-
-<figure>
-<img src="./export-as-dialogue.jpg" alt="" />
-<figcaption>
-<ol>
-  <li><strong>Output Scales</strong><p>
-    You can output the artboard at multiple different scales at once. Keep in mind, Photoshop is <strong>raster</strong> so you can only scale down, you cannot scale up.
-  </p></li>
-  <li><strong>Artboard Select</strong><p>
-    Select which artboards you wish to export by clicking on the check box. Click on the card to select the artboard that you want to update the settings.
-  </p></li>
-  <li><strong>Preview Window</strong><p>
-    Previews the artboard currently selected.
-  </p></li>
-  <li><strong>Output Settings</strong><p>
-    Control the settings of the outputted image including format, size, etc.
-  </p></li>
-</ol>
-</figcaption>
-</figure>
+<ImageSwitcher
+  :images="[
+    { label: 'Image 1', src: '/f2024/moduleImages/week1/psExport/1.png', title: 'Export As Menu', description: 'Photoshop offers various export processes in the File > Export menu, but we will focus on the Export As dialog because it allows processing multiple artboards simultaneously with customizable output options for each.' },
+    { label: 'Image 2', src: '/f2024/moduleImages/week1/psExport/2.png', title: 'Output Scales', description: 'You can output the artboard at multiple different scales at once. Keep in mind, Photoshop is <strong>raster</strong> so you can only scale down, you cannot scale up.' },
+    { label: 'Image 3', src: '/f2024/moduleImages/week1/psExport/3.png', title: 'Artboard Select', description: 'Select which artboards you wish to export by clicking on the check box. Click on the card to select the artboard that you want to update the settings.' },
+    { label: 'Image 4', src: '/f2024/moduleImages/week1/psExport/4.png', title: 'Preview Window', description: 'Previews the artboard currently selected.' },
+    { label: 'Image 5', src: '/f2024/moduleImages/week1/psExport/5.png', title: 'Output Settings', description: 'Control the settings of the outputted image including format, size, etc.' }
+  ]"
+/>
 
 It is important to properly **name your artboards** as the `Export As` dialogue uses the artboard names to name the exported file.
 
