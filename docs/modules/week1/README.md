@@ -54,7 +54,7 @@ Adobe Photoshop's interface is a complex environment with various tools and feat
 
 <!-- SLIDE SHOW HERE!!! -->
 
-<ImageSwitcher
+<!-- <ImageSwitcher
   :images="[
     { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png', title: 'Title for Image 1', description: 'This is the body text corresponding to Image 1.' },
     { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png', title: 'Title for Image 2', description: 'This is the body text corresponding to Image 2.' },
@@ -65,7 +65,7 @@ Adobe Photoshop's interface is a complex environment with various tools and feat
     { label: 'Image 7', src: '/f2024/moduleImages/week1/psInterface/7.png', title: 'Title for Image 7', description: 'This is the body text corresponding to Image 7.' },
     { label: 'Image 8', src: '/f2024/moduleImages/week1/psInterface/8.png', title: 'Title for Image 8', description: 'This is the body text corresponding to Image 8.' }
   ]"
-/>
+/> -->
 
 ## Understanding Photoshop Canvases and Artboards
 
