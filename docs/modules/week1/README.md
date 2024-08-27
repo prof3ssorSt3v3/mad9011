@@ -187,11 +187,11 @@ Some best practices to insure you are working non-destructively include:
 
 <ImageSwitcher
   :images="[
-    { label: 'Image 1', src: '/f2024/moduleImages/week1/psExport/1.png', title: 'Export As Menu', description: 'Photoshop offers various export processes in the File > Export menu, but we will focus on the Export As dialog because it allows processing multiple artboards simultaneously with customizable output options for each.' },
-    { label: 'Image 2', src: '/f2024/moduleImages/week1/psExport/2.png', title: 'Output Scales', description: 'You can output the artboard at multiple different scales at once. Keep in mind, Photoshop is <strong>raster</strong> so you can only scale down, you cannot scale up.' },
-    { label: 'Image 3', src: '/f2024/moduleImages/week1/psExport/3.png', title: 'Artboard Select', description: 'Select which artboards you wish to export by clicking on the check box. Click on the card to select the artboard that you want to update the settings.' },
-    { label: 'Image 4', src: '/f2024/moduleImages/week1/psExport/4.png', title: 'Preview Window', description: 'Previews the artboard currently selected.' },
-    { label: 'Image 5', src: '/f2024/moduleImages/week1/psExport/5.png', title: 'Output Settings', description: 'Control the settings of the outputted image including format, size, etc.' }
+    { label: 'Export As Menu', src: '/f2024/moduleImages/week1/psExport/1.png', title: 'Export As Menu', description: 'Photoshop offers various export processes in the File > Export menu, but we will focus on the Export As dialog because it allows processing multiple artboards simultaneously with customizable output options for each.' },
+    { label: 'Output Scales', src: '/f2024/moduleImages/week1/psExport/2.png', title: 'Output Scales', description: 'You can output the artboard at multiple different scales at once. Keep in mind, Photoshop is <strong>raster</strong> so you can only scale down, you cannot scale up.' },
+    { label: 'Artboard Select', src: '/f2024/moduleImages/week1/psExport/3.png', title: 'Artboard Select', description: 'Select which artboards you wish to export by clicking on the check box. Click on the card to select the artboard that you want to update the settings.' },
+    { label: 'Preview Window', src: '/f2024/moduleImages/week1/psExport/4.png', title: 'Preview Window', description: 'Previews the artboard currently selected.' },
+    { label: 'Output Settings', src: '/f2024/moduleImages/week1/psExport/5.png', title: 'Output Settings', description: 'Control the settings of the outputted image including format, size, etc.' }
   ]"
 />
 
