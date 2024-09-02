@@ -1,5 +1,7 @@
 # Week 2 - Photo Retouching Techniques
 
+<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
+
 ## Learning Objectives
 
 By the end of this week, students will be able to:
@@ -106,3 +108,5 @@ The Content Aware Tools in Photoshop are truly magical. They make a really good 
 Make a selection, then use `Edit > Fill > Content Aware Fill` to open the Content Aware Fill dialogue. In this dialogue you can select which areas of the photo to sample from by painting on the green sections. On the right side you will see a preview of the fill. When you are happy with the results, make sure **Output to** is set to **New Layer** then click **OK** and it will automatically create a new layer with the filled area.
 
 Depending on how complex the fill needs to be, you may need to layer a couple fills for best results. However, often with simpler fixes, one is enough.
+
+</Countdown>

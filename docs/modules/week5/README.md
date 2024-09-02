@@ -1,5 +1,7 @@
 # Week 5 - Creating Icons
 
+<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
+
 ## Learning Objectives
 
 By the end of this week, students will be able to:
@@ -95,3 +97,5 @@ Ensure that icons are designed with consistent sizing in mind, taking into accou
 
 - [Material Design: System Icons](https://m2.material.io/design/iconography/system-icons.html#design-principles)
 - [Understanding Color Psychology in Icon Design](https://www.colorpsychology.org/)
+
+</Countdown>

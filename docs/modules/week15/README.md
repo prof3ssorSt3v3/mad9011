@@ -1,5 +1,7 @@
 # Week 15 - Presentations
 
+<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
+
 ::: danger Check-list
 Please make sure that one member from each group has submitted;
 
@@ -14,14 +16,6 @@ Please make sure that one member from each group has submitted;
 
 Failing to present results in an automatic zero for Part 5.
 
-1. Group 13
-2. Group 5
-3. Group 10
-4. Group 8
-5. Group 7
-6. Group 1
-7. Group 6
-8. Group 11
-9. Group 14
-10. Group 15
-11. Group 12
+1.
+
+</Countdown>

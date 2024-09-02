@@ -1,5 +1,7 @@
 # Week 6 - Introduction to SVG
 
+<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
+
 ## Learning Objectives
 
 By the end of this week, students will be able to:
@@ -147,3 +149,5 @@ Creating SVGs with Adobe Illustrator is a streamlined process, ideal for designe
     Decimal Places: Lower values can reduce file size but at the cost of precision. Typically, 1-3 decimal places are sufficient for web graphics.
   - **Minify:** Reduce file size by removing unnecessary whitespace, comments, and other non-essential data.
   - **Responsive:** Ensure your SVG scales correctly on different screen sizes by checking this option.
+
+</Countdown>

@@ -1,5 +1,7 @@
 # Week 14 - Presenting Your Concepts
 
+<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
+
 ## Introduction to Design Critiques
 
 Design critiques play a pivotal role in the development and refinement of design projects. They provide a structured platform for receiving constructive feedback, fostering collaboration, and enhancing the final design outcomes.
@@ -139,3 +141,5 @@ Ensuring your design presentations and critiques are effective requires preparat
 10. **Follow Up**: After the critique, review your notes, identify actionable feedback, and plan how to incorporate it into your design. Consider following up with participants if you have further questions or to share how their feedback was implemented.
 
 By incorporating these tips, you can make your design presentations and critiques more engaging, productive, and conducive to creating high-quality designs.
+
+</Countdown>

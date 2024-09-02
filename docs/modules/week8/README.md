@@ -1,5 +1,7 @@
 # Week 8 - Reading Week
 
+<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
+
 ## Chill
 
 Take some time off to relax and recharge!
@@ -31,3 +33,5 @@ Follow the steps to upgrade your Starter account to an education account.
 Figma is different from other graphics editing tools. Mainly because it works **directly on your browser**. This means you get to access your projects and start designing from any computer or platform without having to buy multiple licenses or install software.
 
 However they now offer a desktop version! Consider Downloading the Desktop app [here](https://www.figma.com/downloads/).
+
+</Countdown>

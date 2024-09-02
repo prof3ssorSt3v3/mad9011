@@ -1,5 +1,7 @@
 # Week 11 - Design Systems Part 2
 
+<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
+
 ## Learning Objectives
 
 By the end of this week, students will be able to:
@@ -96,3 +98,5 @@ The Figma Community is a rich resource for UI designers, offering access to a wi
 3. **Sharing and Feedback**: Share your UI designs to get feedback and suggestions from the community.
 
 By focusing on these aspects, you can effectively use Figma to create, manage, and share UI design components and assets, ensuring a consistent and user-friendly experience.
+
+</Countdown>

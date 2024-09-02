@@ -1,5 +1,7 @@
 # Week 4 - Color and Design Elements
 
+<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
+
 ## Learning Objectives
 
 By the end of this week, students will be able to:
@@ -253,3 +255,5 @@ The right font ensures readability and aligns with the button’s intent:
 - **Legibility**: Choose clear, easy-to-read fonts.
 - **Size and Weight**: Ensure the text is easily legible at the button size. Bold or semi-bold fonts can be effective.
 - **Color**: Text color should contrast well with the button color for readability.
+
+</Countdown>

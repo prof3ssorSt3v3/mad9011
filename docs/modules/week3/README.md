@@ -1,5 +1,7 @@
 # Week 3 - Introduction to Illustrator
 
+<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
+
 ## Learning Objectives
 
 By the end of this week, students will be able to:
@@ -168,3 +170,5 @@ Understand how to efficiently export your designs with the Export for Screens fe
 - **Scale options**
 - **Suffix and format selection**
 - **Creating Sub-folders**
+
+</Countdown>
