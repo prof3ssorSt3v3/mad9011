@@ -62,14 +62,6 @@ export default {
 }
 
 .blurred-content {
-  filter: blur(4px); /* Apply blur effect */
-  pointer-events: none; /* Make content un-clickable */
-  opacity: 0.7; /* Adjust opacity for the blurred effect */
-  background-color: rgba(
-    255,
-    255,
-    255,
-    0.9
-  ); /* Optional: Add a semi-transparent background */
+  display: none;
 }
 </style>
