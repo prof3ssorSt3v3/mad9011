@@ -42,7 +42,7 @@ export default {
     customMessage: {
       type: String,
       default:
-        "The remaining content for this deliverable will be made available prior to your scheduled lab class",
+        "No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.",
     },
   },
 };
