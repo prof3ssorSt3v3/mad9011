@@ -1,7 +1,6 @@
 # Week 1 - Introduction to Adobe Photoshop
 
-<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
-
+<Countdown date="2024-12-25" customMessage="Coming Soon! This content will be available before this week's theory class.
 ::: tip Learning Objectives
 
 By the end of this week, students will be able to:

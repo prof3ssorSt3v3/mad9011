@@ -31,7 +31,7 @@ Every week there will be work for you to complete inside or outside of class. So
 />
 
 <Deliverable
-  title="Exercise 4 — Button Design"
+  title="Exercise 4 — UI Button Design"
   dueDate="Due: Tuesday October 1st @9:00pm"
   description="In this exercise, you'll delve into UI and user-centered design principles to create a set of buttons, strategically employing color theory and gradient tools to ensure they are visually appealing and enhance user interaction."
   linkType="paused"
@@ -103,7 +103,7 @@ Every week there will be work for you to complete inside or outside of class. So
 />
 
 <Deliverable
-  title="Part 5: Presentations"
+  title="Part 5: Final Presentations"
   dueDate="Due: Tuesday December 10th @9:00pm"
   description="In part 5 of your final project, you'll showcase the culmination of your efforts from parts 1 to 4, including a comprehensive presentation and a live demonstration of your interactive prototype, highlighting the journey from initial concepts to the final interactive design."
   linkType="paused"
@@ -116,7 +116,7 @@ Every week there will be work for you to complete inside or outside of class. So
 
 <Deliverable
   title="Photoshop Quiz"
-  dueDate="Due: Tuesday September 24rd @9:00pm"
+  dueDate="Due: Tuesday September 24th @9:00pm"
   linkType="disabled"
   description="Test your knowledge of the skills and techniques covered in the Photoshop portion of the course, encompassing everything from basic editing tools to advanced image manipulation"
 />
