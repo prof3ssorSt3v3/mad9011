@@ -4,10 +4,6 @@
 
 Students dive into mobile design fundamentals and graphical user interface design tools. Explore key concepts such as mobile UI visual elements, principles of accessibility, and usability. Through hands-on learning, students will use industry-standard software to create interfaces for mobile-first websites and apps, including visual elements, icons, splash graphics, SVGs, SVG animations, and wireframes.
 
-## 📚 Course Description
-
-- [Course Section Information (CSI)](https://ecoursemap.com/LTI/Outline)
-
 ## 📅 Student Workload Expectations
 
 - **1 hour/week** virtual (Theory)
