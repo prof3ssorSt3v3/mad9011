@@ -2,12 +2,14 @@
   <div class="deliverable">
     <div class="header">
       <h3 class="title">{{ title }}</h3>
-      <Badge class="due-date" :text="dueDate" />
-      <Badge
-        v-if="secondaryDueDate"
-        class="secondary-due-date"
-        :text="secondaryDueDate"
-      />
+      <div class="due-dates">
+        <Badge class="due-date" :text="dueDate" />
+        <Badge
+          v-if="secondaryDueDate"
+          class="secondary-due-date"
+          :text="secondaryDueDate"
+        />
+      </div>
     </div>
     <p class="description">{{ description }}</p>
     <router-link
@@ -81,11 +83,18 @@ export default {
   margin-bottom: 0rem;
 }
 
+.due-dates {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
 .due-date,
 .secondary-due-date {
   background-color: grey;
   color: white;
-  margin-left: 10px;
+  margin-left: 0px;
+  margin-top: 5px;
 }
 
 .badge.disabled {
