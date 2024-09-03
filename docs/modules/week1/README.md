@@ -21,8 +21,6 @@ By the end of this week, students will be able to:
 
 Adobe Photoshop is a leading tool in image editing and manipulation, essential in graphic design, photography, and digital art. This module introduces Photoshop's interface and key tools for photo manipulation.
 
-<!-- Introduction ramble about pixels and vectors but focused more on Pixels -->
-
 ### 1.1 Interface Walkthrough
 
 Adobe Photoshop's interface is a complex environment with various tools and features. Understanding and navigating this interface is crucial for efficient and effective photo editing.
@@ -70,6 +68,8 @@ Understanding when and how to use canvases and artboards will enhance your workf
 ## 2. Image Fundamentals
 
 ![Raster Graphics and Pixels](./raster-image.png)
+
+<!-- Introduction ramble about pixels and vectors but focused more on Pixels -->
 
 ### 2.1 Raster Graphics
 

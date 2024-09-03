@@ -12,8 +12,15 @@ Students dive into mobile design fundamentals and graphical user interface desig
 
 ## 📆 Schedule
 
+**Section 010**
+
 - **Theory (Virtual):** Wednesday 12pm - 1pm
 - **Lab:** Tuesday 7pm - 9pm
+
+**Section 020**
+
+- **Theory (Virtual):** Wednesday 1pm - 2pm
+- **Lab:** Tuesday 5pm - 7pm
 
 ## 🛠️ Technology Stack
 

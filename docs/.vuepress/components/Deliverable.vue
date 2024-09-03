@@ -3,6 +3,11 @@
     <div class="header">
       <h3 class="title">{{ title }}</h3>
       <Badge class="due-date" :text="dueDate" />
+      <Badge
+        v-if="secondaryDueDate"
+        class="secondary-due-date"
+        :text="secondaryDueDate"
+      />
     </div>
     <p class="description">{{ description }}</p>
     <router-link
@@ -31,6 +36,10 @@ export default {
     dueDate: {
       type: String,
       required: true,
+    },
+    secondaryDueDate: {
+      type: String,
+      default: "", // Optional, so no need to be required
     },
     description: {
       type: String,
@@ -72,7 +81,13 @@ export default {
   margin-bottom: 0rem;
 }
 
-.badge,
+.due-date,
+.secondary-due-date {
+  background-color: grey;
+  color: white;
+  margin-left: 10px;
+}
+
 .badge.disabled {
   background-color: grey;
   color: white;
