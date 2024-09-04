@@ -7,10 +7,10 @@ Every week there will be work for you to complete inside or outside of class. So
 <br>
 
 <Deliverable
-  title="Exercise 1 — Banners"
+  title="Exercise 1 — UI Banners"
   dueDate="Section 010: Tuesday September 10th @9:00pm"
   secondaryDueDate="Section 020: Tuesday September 10th @7:00pm"
-  description="In this exercise, you'll enhance your skills in non-destructive masking and background replacement, progressing to create a unified composition by blending multiple images into a visually and narratively compelling scene."
+  description="In this exercise, you'll use Photoshop Artboards to create a set of UI banners, focusing on consistency and adaptability across platforms. You'll also practice non-destructive editing techniques to maintain flexibility in your designs while keeping them visually cohesive."
   linkType="paused"
   detailsLink="./exercises/ex-1.html"
 />
