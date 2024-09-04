@@ -87,6 +87,7 @@ export default {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
+  gap: 8px;
 }
 
 .due-date,
@@ -94,7 +95,7 @@ export default {
   background-color: grey;
   color: white;
   margin-left: 0px;
-  margin-top: 5px;
+  margin-top: 24px;
 }
 
 .badge.disabled {

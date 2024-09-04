@@ -41,35 +41,44 @@ Adobe Photoshop's interface is a complex environment with various tools and feat
 
 ### 1.2 Canvases and Artboards
 
-In Photoshop, the concepts of canvases and artboards are fundamental for managing your design workspace efficiently. While they share similarities, they serve different purposes and are used in various design scenarios.
-
-<!-- Make this more visually interesting -->
+In Photoshop, **canvases** and **artboards** are essential for organizing your workspace. Though they share some similarities, they cater to different design needs.
 
 #### Photoshop Canvas
 
-- **The Foundation of Your Design:** The canvas in Photoshop is the base area where your design or image resides. It's like a digital piece of paper where you create and manipulate your artwork.
-- **Canvas Size and Resizing:** The size of the canvas determines the working area for your design. You can adjust the canvas size according to the requirements of your project, which is particularly useful when you need to add extra space around your design or crop it to specific dimensions.
-- **Background and Transparency:** The canvas can have a background color or be transparent. A transparent canvas is essential when creating graphics for the web or layers for composite images.
+- **Single Design Focus:** The canvas is the base area where your design or image resides. It’s like a single piece of digital paper where you create and manipulate your artwork.
+- **Best for Single Images:** Ideal for projects that focus on one design or image, such as photo editing, illustration, or digital painting.
 
 #### Photoshop Artboards
 
-- **Multiple Workspaces in One Document:** Artboards allow you to have multiple 'canvases' within a single Photoshop document. Each artboard acts as an independent workspace, enabling you to work on different design elements or variations side by side.
-- **Organizing and Exporting Artboards:** You can easily organize, name, and rearrange artboards within a document. Photoshop also provides efficient tools for exporting artboards, making it simple to share and present different parts of your project.
+- **Multiple Design Areas:** Artboards enable you to create multiple design areas within a single document. They’re like having several canvases in one file, perfect for working on multiple variations of a project at once.
+- **Organize & Export with Ease:** You can easily name, rearrange, and export individual artboards. This makes them ideal for projects with multiple layouts, like website designs, social media posts, or UI mockups.
 
-[Artboards](https://helpx.adobe.com/photoshop/using/artboards.html) article provides a quick reference in Photoshop User Guide.
+#### Common Features: Canvas & Artboards
+
+- **Adjustable Size:** Both canvases and artboards allow you to change their size at any point, making it easy to expand or crop your working area to suit the project’s requirements.
+- **Background Options:** Whether you’re working with a canvas or an artboard, you can set the background to be solid (any color) or transparent. This is useful when creating designs for web graphics, layering, or composite images.
+
+![Canvas Vs Artboards](./canvasVsArtboards.png)
 
 #### When to Use Canvas vs. Artboards
 
-- **Single Design or Image Editing:** Use the canvas when working on a single image or if your project doesn't require multiple variations or layouts.
-- **Multiple Designs or Layouts:** Use artboards when your project involves different designs or variations that need to be viewed and edited in parallel, such as designing for multiple devices or creating a series of web banners.
+| **Use Case**                       | **Canvas**                                                               | **Artboards**                                                |
+| ---------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Single Image or Design**         | Perfect for focused, single designs like photo editing or illustrations. | Best when managing multiple versions or layouts.             |
+| **Multiple Layouts/Variations**    | Possible but not efficient.                                              | Ideal for managing multiple designs or layouts side by side. |
+| **Resizing for Specific Projects** | Easily resize to fit your design needs.                                  | Resize and rearrange multiple artboards in one document.     |
+| **Exporting Designs**              | Export individual images.                                                | Export individual artboards or all artboards together.       |
 
-Understanding when and how to use canvases and artboards will enhance your workflow in Photoshop, allowing you to choose the right approach for your specific design needs.
+**Pro Tip:**  
+Use **canvases** for single projects or images, and **artboards** when working on multiple designs or variations, such as social media posts or responsive web designs.
+
+For more details, check out the [Artboards in Photoshop User Guide](https://helpx.adobe.com/photoshop/using/artboards.html).
+
+By understanding when to use canvases and artboards, you'll streamline your workflow and handle complex design projects more efficiently in Photoshop.
 
 ## 2. Image Fundamentals
 
 ![Raster Graphics and Pixels](./raster-image.png)
-
-<!-- Introduction ramble about pixels and vectors but focused more on Pixels -->
 
 ### 2.1 Raster Graphics
 
@@ -98,11 +107,7 @@ Resolution is a key concept in digital imaging that directly impacts the quality
 
 ## 3. Core Photoshop Techniques
 
-<!-- Introduction about how this weeks focus is on this -->
-
 ### 3.1 Working with Layers
-
-<!-- More detail and maybe an image -->
 
 Layers are a cornerstone of Photoshop, providing flexibility and control over different elements of your image.
 
@@ -148,28 +153,30 @@ Layer masking is a nondestructive way to hide parts of an image or layer without
 
 ### 3.5 Layer Adjustments
 
-<!-- Shorten this to fit with style above -->
-
-Layer adjustments are a crucial aspect of Photoshop that allow for versatile and non-destructive editing of images. They enable you to tweak the appearance of your artwork without permanently altering the original pixels.
+Layer adjustments are a powerful feature in Photoshop that allow for flexible, non-destructive editing. They enable you to modify the appearance of your images—such as color, brightness, and contrast—without permanently altering the original content, preserving your ability to make changes later.
 
 ### Understanding Layer Adjustments
 
-- **Non-Destructive Editing:** Layer adjustments are applied over your image layers, allowing you to make changes like color correction, brightness adjustments, or contrast enhancements without modifying the original layer.
-- **Flexibility:** You can stack multiple adjustment layers to create complex effects and easily toggle them on and off to compare different looks.
+- **Non-Destructive Editing:** Adjustment layers sit on top of your image layers, letting you make modifications like color corrections or exposure changes without touching the original pixels.
+- **Flexible Control:** You can stack multiple adjustment layers to build complex effects, and toggle them on or off to compare different looks instantly.
 
-### Types of Adjustment Layers
+### Key Types of Adjustment Layers
 
-- **Levels and Curves:** For fine-tuning the brightness and contrast of your image.
-- **Hue/Saturation:** To adjust the colors’ intensity and hue.
-- **Color Balance:** Ideal for color correction, helping to adjust the overall mixture of colors.
-- **Black & White:** Convert your images to grayscale, with control over how individual colors are translated into shades of gray.
-- **Photo Filter:** Apply color tints, mimicking the effect of using a camera filter.
+- **Levels & Curves:** Ideal for adjusting brightness, contrast, and the tonal range of your image with precision.
+- **Hue/Saturation:** Modify the intensity and hue of colors, perfect for making colors pop or creating dramatic shifts in tone.
+- **Color Balance:** A go-to tool for color correction, letting you fine-tune the overall color mix in your image.
+- **Black & White:** Convert your images to grayscale with control over how individual colors are represented in shades of gray.
+- **Photo Filter:** Apply warming or cooling effects to your images, simulating the look of traditional camera filters.
 
-### Using Adjustment Layers
+### How to Use Adjustment Layers
 
-1. **Adding an Adjustment Layer:** You can add an adjustment layer by clicking the 'New Adjustment Layer' icon at the bottom of the Layers panel or through the 'Layer' menu.
-2. **Editing Adjustments:** Once added, you can edit the properties of the adjustment layer to achieve your desired effect. The changes will only affect layers below the adjustment layer in the layer stack.
-3. **Layer Masks:** Each adjustment layer comes with its own mask, allowing you to selectively apply the adjustment to parts of your image by painting on the mask.
+1. **Adding an Adjustment Layer:** Click the ‘New Adjustment Layer’ icon at the bottom of the Layers panel, or access it via the 'Layer' menu to apply a new adjustment.
+2. **Fine-Tuning Adjustments:** Once added, you can modify the properties of the adjustment layer in the Properties panel. Remember, adjustments only affect the layers beneath them in the stacking order.
+3. **Using Layer Masks:** Every adjustment layer comes with a built-in mask, allowing you to selectively apply changes to specific areas by painting on the mask—ideal for precise edits.
+
+### Learn More
+
+For a visual walkthrough of how to use adjustment layers, check out this video:
 
 <YouTube
   title="Get to Know Adjustment Layers in Adobe Photoshop"
@@ -180,25 +187,29 @@ Layer adjustments are a crucial aspect of Photoshop that allow for versatile and
 
 ![Destructive vs Nondestructive Editing](./destructive-editing.png)
 
-In Adobe Photoshop there is a incredibly important concept called **non-destructive editing**. What does that mean exactly? Non-destructive editing means that the edits, changes, filters, etc. that you do in your PSD file are all done in a way that is reversible and non-permanent. Meaning, if you make a mistake or make a large revision, you could easily undo certain changes and revert your work to an earlier state if necessary. This is important for a number of reasons:
+In Adobe Photoshop, one of the most important concepts is **non-destructive editing**. But what does that mean? Non-destructive editing refers to editing techniques that keep your original work intact, allowing all changes, adjustments, and filters to be easily reversed. This flexibility ensures that if you make a mistake or decide to take a new direction, you can revert to earlier stages of your work without losing quality. Here’s why non-destructive editing is so crucial:
 
-1. It protects your assets so you don't accidentally change the original and no longer have access to the original asset (It's really embarrassing if you accidentally permanently change an asset and have to go back to your client to ask for another copy of the originals)
-2. It makes it easy to revert to an earlier version if you decide to go another direction with your work
-3. It protects your assets and does not remove image data, preserving the quality of your images.
+1. **Preserve Your Original Assets**: It ensures you don't accidentally alter or damage your original assets. This is essential when working with client files where keeping originals untouched is critical.
+2. **Easily Revert Changes**: If you decide to change direction later, non-destructive techniques make it easy to revert to earlier versions of your work.
+3. **Maintain Image Quality**: It ensures no loss of image data, preserving the high quality of your images even after multiple edits.
 
-::: tip How do you edit non-destructively?
+---
 
-Some best practices to insure you are working non-destructively include:
+### How to Edit Non-Destructively
 
-1. **Maintain strong file organization** - helps to insure layers aren't deleted or modified unintentionally
-2. **Use effective `Layer Masks`** - this allows you to hide portions of a layer without deleting pixels, preserving the ability to edit and change later on
-3. **Use `Smart Objects` as much as possible** - making a layer a `Smart Object` protects the layer while allowing you to add/remove/edit filters, effects, and more without making them permanent
+To ensure you're working non-destructively, follow these best practices:
 
+1. **Stay Organized**: Maintain strong file and layer organization to avoid unintentionally altering or deleting layers.
+2. **Use Layer Masks**: Instead of deleting parts of a layer, use layer masks to hide or reveal portions. This preserves the original pixels, giving you the flexibility to make adjustments later.
+3. **Leverage Smart Objects**: Convert layers into Smart Objects to protect them while allowing for reversible filter and effect edits. Smart Objects let you edit without committing changes permanently.
+
+By following these practices, you’ll safeguard your work, maintain image quality, and have the freedom to adjust your designs with ease.
+
+::: tip
+**Pro Tip:** Always save a backup of your original assets in case you need to refer to them later. Non-destructive editing ensures you won’t need it, but it’s always a good safety net.
 :::
 
 ## 5. Exporting Assets from Photoshop
-
-<!-- Rewrite this and expand on its explaination -->
 
 It is important to properly **name your artboards** as the `Export As` dialogue uses the artboard names to name the exported file.
 
