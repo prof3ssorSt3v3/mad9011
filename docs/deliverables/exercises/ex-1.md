@@ -6,7 +6,7 @@ In this exercise, you'll learn how to use selection tools and layer masks to cre
 
 ## Introduction to UI Banners
 
-<!-- Slides -->
+[Lab 1 Slides](https://drive.google.com/file/d/1atM6JWSPp_tuLOXKollE4eqbZI_tztqu/view?usp=sharing)
 
 ## Exercise Steps:
 
@@ -17,6 +17,8 @@ In this exercise, you'll learn how to use selection tools and layer masks to cre
      - **Size 2**: 300x600px
      - **Size 3**: 900x300px
    - Name each artboard appropriately for easy organization.
+
+![Artboard Setup](./assets/artboard-setup.png)
 
 2. **Choose a theme:**
 
@@ -48,6 +50,8 @@ In this exercise, you'll learn how to use selection tools and layer masks to cre
    - Once you've selected the object, apply a layer mask to hide the original background.
    - Use Refine Edge and feathering to smooth out any rough edges, especially around areas like hair or fine details.
 
+   ![Masking Example](./assets/masing-example.png)
+
 5. **Design Layout:**
 
    - Use the artboards to create a consistent design for all banners, with the product or subject in focus.
@@ -55,14 +59,19 @@ In this exercise, you'll learn how to use selection tools and layer masks to cre
 
    > Think about where text or other design elements might be placed in your design and adjust the layout to accommodate them. It is not required to add text or other design elements beyond what is being asked.
 
+   ![Layout Example](./assets/layout-example.png)
+
 6. **Final Touches:**
+
    - Use adjustment layers (e.g., brightness/contrast, hue/saturation) to enhance the overall look.
    - Make sure the composition is balanced, and that the subject blends well with the background.
    - Double-check that all banners follow the same design theme with appropriate spacing and alignment.
 
-## Examples
+   ![Layer Adjustment Example](./assets/layer-adjustment-example.png)
 
-### Example
+## Example
+
+Another example!
 
 ![Exercise example](./assets/banner-example.png)
 
@@ -104,9 +113,7 @@ Compress and submit your `lName-fName-section#-ui-banner` folder containing:
 - Go to Exercise 1 — UI Banners
 - Upload your compressed folder on the assignment page in BS LMS and click the submit button.
 
-## Marking Rubric
-
-### Marking Rubric for Exercise 1 — UI Banners
+## Marking Rubric for Exercise 1 — UI Banners
 
 | **Criteria**                          | **Excellent (4 points)**                                                                                            | **Good (3 points)**                                                               | **Satisfactory (2 points)**                                                                | **Needs Improvement (1 point)**                                               | **Unsatisfactory (0 points)**                                                | **Max Points** |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------- |
@@ -127,4 +134,4 @@ Compress and submit your `lName-fName-section#-ui-banner` folder containing:
 
 ---
 
-**Total Points Available:** 32
+**Total Points Available:** 36
