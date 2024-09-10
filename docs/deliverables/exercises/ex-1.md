@@ -36,6 +36,7 @@ In this exercise, you'll learn how to use selection tools and layer masks to cre
 3. **Selecting Images:**
 
    - Find and import images related to your chosen theme (e.g., product photos, backgrounds, or textures).
+   - You need to include at least 3 images.
    - Use the Quick Selection Tool or Magic Wand to isolate specific elements, such as the product or model in the image.
    - Practice refining your selection using the "Select and Mask" workspace to get precise edges.
 
