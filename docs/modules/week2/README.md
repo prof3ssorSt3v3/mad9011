@@ -146,7 +146,10 @@ Instead of using the Red Eye Tool, apply a **Hue/Saturation Adjustment Layer** t
 
 ## Generative Fill (New)
 
-![Generative Fill](./generative-fill.mp4)
+<video width="100%" height="auto" controls autoplay muted>
+  <source src="./generative-fill.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Generative Fill is a new AI-powered feature in Photoshop that allows you to generate content in your images automatically. By selecting an area, you can use this tool to fill it with relevant generated content, whether you’re extending backgrounds or removing objects. Generative Fill is perfect for removing large objects, extending backgrounds, or generating entirely new scenes in an image. Checkout all the things you can do with generative fill [here](https://www.adobe.com/ca/products/photoshop/ai.html).
 
