@@ -44,7 +44,7 @@ The Clone Stamp Tool is often called the rubber stamp tool for a reason. It work
 Create a new empty layer called <strong>Retouching</strong>. Do not duplicate the photo's layer. This allows you to maintain a non-destructive workflow.
 :::
 
-### <img src="./tool-icon-healing-brush.svg" style="max-width: 1rem;" alt="Healing brush tool icon"> Healing Brush
+<h3 style="display: flex; align-items: center; gap: 24px;"><img src="./tool-icon-healing-brush.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon">Healing Brush Tool</h3>
 
 The Healing Brush Tool works similarly to the Clone Stamp Tool but is smarter. After sampling an area, the tool adjusts the pixels to match the surrounding area for seamless blending. It’s great for retouching small imperfections, such as skin blemishes.
 
@@ -62,7 +62,7 @@ The Healing Brush Tool works similarly to the Clone Stamp Tool but is smarter. A
   ]"
 />
 
-### <img src="./tool-icon-spot-healing-brush.svg" style="max-width: 1 rem;" alt="Spot healing brush tool icon"> Spot Healing Brush Tool
+<h3 style="display: flex; align-items: center; gap: 24px;"><img src="./tool-icon-spot-healing-brush.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon">Spot Healing Brush Tool</h3>
 
 The Spot Healing Brush is quick and easy to use, requiring no sampling. You simply click on blemishes, and Photoshop automatically blends the area with the surrounding pixels. Adjust the brush diameter and hardness as needed, and always work on a new, empty layer to keep your edits non-destructive.
 
@@ -80,12 +80,12 @@ The Spot Healing Brush is quick and easy to use, requiring no sampling. You simp
   ]"
 />
 
-### <img src="./tool-icon-patch-tool.svg" style="max-width: 1rem;" alt="Patch tool icon"> Patch Tool
+<h3 style="display: flex; align-items: center; gap: 24px;"><img src="./tool-icon-patch-tool.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon">Patch Tool</h3>
 
 The Patch Tool is ideal for fixing larger blemishes or imperfections on flat surfaces. You drag a good section of the image over the flawed area, and Photoshop blends it with the surrounding pixels.
 
 <Slideshow
-  :key="'Spot Healing Brush Tool'"
+  :key="'Patch Tool'"
   :images="[
     { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png' },
     { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png' },
@@ -115,7 +115,7 @@ Set the tool to `Content Aware` and work on a new empty layer for a more seamles
 <dd>Enable this option to apply the patch to another layer using data from all visible layers. This is useful for non-destructive editing.</dd>
 </dl> -->
 
-### <img src="./tool-icon-red-eye.svg" style="max-width: 1rem;" alt="Red eye tool icon"> Red Eye Tool
+<h3 style="display: flex; align-items: center; gap: 24px;"><img src="./tool-icon-red-eye.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon">Red Eye Tool</h3>
 
 <Slideshow
   :key="'Generative Fill'"
