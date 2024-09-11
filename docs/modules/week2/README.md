@@ -12,13 +12,13 @@ By the end of this week, students will be able to:
 
 ## Introduction to Advanced Retouching
 
-<!-- Banner Image -->
+![Retouching Banner](./retouching-banner.jpg)
 
 Explore advanced tools and techniques in Photoshop for retouching images, focusing on maintaining image quality and non-destructive editing methods. Learn to address common issues like blemishes, unwanted elements, and distractions using Photoshop's powerful toolkit, all while preserving the integrity of the original photo.
 
 **Retouching Tools Overview**
 
-<!-- Tools banner -->
+![Retouching Tools](./retouching-tools.png)
 
 - **Clone Stamp Tool:** Replicate pixels from one area to another, ideal for covering unwanted elements.
 - **Healing Brush & Spot Healing Brush Tools:** Blend and repair imperfections seamlessly by adjusting pixels to match their surroundings.
@@ -35,14 +35,10 @@ The Clone Stamp Tool is often called the rubber stamp tool for a reason. It work
 <Slideshow
   :key="'Clone Stamp Tool'"
   :images="[
-    { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png' },
-    { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png' },
-    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/3.png' },
-    { label: 'Image 4', src: '/f2024/moduleImages/week1/psInterface/4.png' },
-    { label: 'Image 5', src: '/f2024/moduleImages/week1/psInterface/5.png' },
-    { label: 'Image 6', src: '/f2024/moduleImages/week1/psInterface/6.png' },
-    { label: 'Image 7', src: '/f2024/moduleImages/week1/psInterface/7.png' },
-    { label: 'Image 8', src: '/f2024/moduleImages/week1/psInterface/8.png' }
+    { label: 'Image 1', src: '/f2024/moduleImages/week2/clone-stamp-tool/1.png' },
+    { label: 'Image 2', src: '/f2024/moduleImages/week2/clone-stamp-tool/2.png' },
+    { label: 'Image 3', src: '/f2024/moduleImages/week2/clone-stamp-tool/3.png' },
+    { label: 'Image 4', src: '/f2024/moduleImages/week2/clone-stamp-tool/4.png' }
   ]"
 />
 
@@ -59,14 +55,10 @@ The Healing Brush Tool works similarly to the Clone Stamp Tool but is smarter. A
 <Slideshow
   :key="'Healing Brush Tool'"
   :images="[
-    { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png' },
-    { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png' },
-    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/3.png' },
-    { label: 'Image 4', src: '/f2024/moduleImages/week1/psInterface/4.png' },
-    { label: 'Image 5', src: '/f2024/moduleImages/week1/psInterface/5.png' },
-    { label: 'Image 6', src: '/f2024/moduleImages/week1/psInterface/6.png' },
-    { label: 'Image 7', src: '/f2024/moduleImages/week1/psInterface/7.png' },
-    { label: 'Image 8', src: '/f2024/moduleImages/week1/psInterface/8.png' }
+    { label: 'Image 1', src: '/f2024/moduleImages/week2/healing-brush-tool/1.png' },
+    { label: 'Image 2', src: '/f2024/moduleImages/week2/healing-brush-tool/2.png' },
+    { label: 'Image 3', src: '/f2024/moduleImages/week2/healing-brush-tool/3.png' },
+    { label: 'Image 4', src: '/f2024/moduleImages/week2/healing-brush-tool/4.png' }
   ]"
 />
 
@@ -79,14 +71,9 @@ The Spot Healing Brush is quick and easy to use, requiring no sampling. You simp
 <Slideshow
   :key="'Spot Healing Brush Tool'"
   :images="[
-    { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png' },
-    { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png' },
-    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/3.png' },
-    { label: 'Image 4', src: '/f2024/moduleImages/week1/psInterface/4.png' },
-    { label: 'Image 5', src: '/f2024/moduleImages/week1/psInterface/5.png' },
-    { label: 'Image 6', src: '/f2024/moduleImages/week1/psInterface/6.png' },
-    { label: 'Image 7', src: '/f2024/moduleImages/week1/psInterface/7.png' },
-    { label: 'Image 8', src: '/f2024/moduleImages/week1/psInterface/8.png' }
+    { label: 'Image 1', src: '/f2024/moduleImages/week2/spot-healing-brush-tool/1.png' },
+    { label: 'Image 2', src: '/f2024/moduleImages/week2/spot-healing-brush-tool/2.png' },
+    { label: 'Image 3', src: '/f2024/moduleImages/week2/spot-healing-brush-tool/3.png' }
   ]"
 />
 
@@ -99,14 +86,10 @@ The Patch Tool is ideal for fixing larger blemishes or imperfections on flat sur
 <Slideshow
   :key="'Patch Tool'"
   :images="[
-    { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png' },
-    { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png' },
-    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/3.png' },
-    { label: 'Image 4', src: '/f2024/moduleImages/week1/psInterface/4.png' },
-    { label: 'Image 5', src: '/f2024/moduleImages/week1/psInterface/5.png' },
-    { label: 'Image 6', src: '/f2024/moduleImages/week1/psInterface/6.png' },
-    { label: 'Image 7', src: '/f2024/moduleImages/week1/psInterface/7.png' },
-    { label: 'Image 8', src: '/f2024/moduleImages/week1/psInterface/8.png' }
+    { label: 'Image 1', src: '/f2024/moduleImages/week2/patch-tool/1.png' },
+    { label: 'Image 2', src: '/f2024/moduleImages/week2/patch-tool/2.png' },
+    { label: 'Image 3', src: '/f2024/moduleImages/week2/patch-tool/3.png' },
+    { label: 'Image 4', src: '/f2024/moduleImages/week2/patch-tool/4.png' }
   ]"
 />
 
@@ -119,16 +102,10 @@ Set the tool to `Content Aware` and work on a new empty layer for a more seamles
 <h3 style="display: flex; align-items: center; gap: 24px;"><img src="./tool-icon-red-eye.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon">Red Eye Tool</h3>
 
 <Slideshow
-  :key="'Generative Fill'"
+  :key="'Redeye tool'"
   :images="[
-    { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png' },
-    { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png' },
-    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/3.png' },
-    { label: 'Image 4', src: '/f2024/moduleImages/week1/psInterface/4.png' },
-    { label: 'Image 5', src: '/f2024/moduleImages/week1/psInterface/5.png' },
-    { label: 'Image 6', src: '/f2024/moduleImages/week1/psInterface/6.png' },
-    { label: 'Image 7', src: '/f2024/moduleImages/week1/psInterface/7.png' },
-    { label: 'Image 8', src: '/f2024/moduleImages/week1/psInterface/8.png' }
+    { label: 'Image 1', src: '/f2024/moduleImages/week2/redeye-tool/1.png' },
+    { label: 'Image 2', src: '/f2024/moduleImages/week2/redeye-tool/2.png' }
   ]"
 />
 
@@ -176,5 +153,43 @@ The **Content Aware Tools** in Photoshop are incredibly powerful for removing un
 1. **Non-Destructive Workflow:** Always create new layers for retouching to keep the original image intact.
 2. **Leverage AI Tools:** Use new AI-powered tools like Generative Fill to streamline complex retouching tasks.
 3. **Stay Flexible:** Keep your layers organized and editable by using Adjustment Layers, Layer Masks, and Smart Objects.
+
+## Skin Smoothing Smart Filter
+
+The **Skin Smoothing** smart filter in Photoshop is a powerful tool designed to enhance portraits by smoothing skin while preserving important details, such as skin texture and facial features. This filter is part of the **Neural Filters** feature, which uses AI to achieve professional results with minimal effort.
+
+#### How to Use the Skin Smoothing Filter
+
+<Slideshow
+  :key="'Skin Smoothing'"
+  :images="[
+    { label: 'Image 1', src: '/f2024/moduleImages/week2/skin-smoothing/1.png' },
+    { label: 'Image 2', src: '/f2024/moduleImages/week2/skin-smoothing/2.png' },
+    { label: 'Image 3', src: '/f2024/moduleImages/week2/skin-smoothing/3.png' }
+  ]"
+/>
+
+1. **Open the Image:** Begin by opening your portrait or image where skin smoothing is needed.
+2. **Convert to a Smart Object:** To ensure non-destructive editing, right-click on the layer and choose **Convert to Smart Object**.
+3. **Open Neural Filters:**
+   - Go to **Filter > Neural Filters**.
+   - In the Neural Filters panel, find **Skin Smoothing** under the **Featured Filters** section and toggle it on.
+4. **Adjust the Settings:**
+   - **Blur:** Controls the amount of skin smoothing applied.
+   - **Smoothness:** Adjusts the balance between natural skin texture and smoothing.
+5. **Preview and Apply:** Review the changes in real-time and fine-tune the sliders until you get the desired effect. Click **OK** to apply the filter.
+
+#### Why Use the Skin Smoothing Smart Filter?
+
+- **Non-Destructive Workflow:** By converting the layer to a Smart Object, you can always go back and adjust the filter or remove it entirely.
+- **Quick & Professional Results:** The filter uses AI to identify skin areas and smooth them while keeping important details intact, making it faster than traditional manual techniques.
+- **Customization:** With adjustable sliders, you can control the level of smoothing and ensure the result matches your vision, whether you want a subtle touch-up or a more polished look.
+
+#### Tips for Best Results
+
+- **Use Moderation:** Avoid over-smoothing, which can make the skin look unnatural. Aim for a balance that retains skin texture while minimizing imperfections.
+- **Combine with Other Techniques:** For a more refined result, combine the Skin Smoothing filter with other retouching tools like the Healing Brush or Clone Stamp to address specific blemishes.
+
+By incorporating the **Skin Smoothing Smart Filter** into your retouching workflow, you can save time and achieve professional-quality skin retouching with ease.
 
 </Countdown>
