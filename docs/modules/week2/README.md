@@ -22,43 +22,87 @@ Explore advanced tools and techniques in Photoshop for retouching images, focusi
 - **Generative Fill (New):** Automatically generate new content in an image using AI to fill or extend backgrounds.
 - **Red Eye Tool Alternatives:** Learn alternative, non-destructive methods to fix red-eye effects.
 
-### Clone Stamp Tool
-
-<img src="./tool-icon-clone-stamp.svg" style="max-width: 7.5rem;" alt="Clone Stamp tool icon">
+### <img src="./tool-icon-clone-stamp.svg" style="max-width: 1rem;" alt="Clone Stamp tool icon"> Clone Stamp Tool
 
 The Clone Stamp Tool is often called the rubber stamp tool for a reason. It works similarly by sampling pixels from one area and replicating them in another. This is useful for covering unwanted elements, such as blemishes or distractions.
 
-![Photoshop workspace set up for clone stamping](./retouching-clone-stamp-tool.jpg)
+<Slideshow
+  :key="'Clone Stamp Tool'"
+  :images="[
+    { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png' },
+    { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png' },
+    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/3.png' },
+    { label: 'Image 4', src: '/f2024/moduleImages/week1/psInterface/4.png' },
+    { label: 'Image 5', src: '/f2024/moduleImages/week1/psInterface/5.png' },
+    { label: 'Image 6', src: '/f2024/moduleImages/week1/psInterface/6.png' },
+    { label: 'Image 7', src: '/f2024/moduleImages/week1/psInterface/7.png' },
+    { label: 'Image 8', src: '/f2024/moduleImages/week1/psInterface/8.png' }
+  ]"
+/>
 
 ::: tip Tip
 Create a new empty layer called <strong>Retouching</strong>. Do not duplicate the photo's layer. This allows you to maintain a non-destructive workflow.
 :::
 
-### Healing Brush
-
-<img src="./tool-icon-healing-brush.svg" style="max-width: 7.5rem;" alt="Healing brush tool icon">
+### <img src="./tool-icon-healing-brush.svg" style="max-width: 1rem;" alt="Healing brush tool icon"> Healing Brush
 
 The Healing Brush Tool works similarly to the Clone Stamp Tool but is smarter. After sampling an area, the tool adjusts the pixels to match the surrounding area for seamless blending. It’s great for retouching small imperfections, such as skin blemishes.
 
-### Spot Healing Brush Tool
+<Slideshow
+  :key="'Healing Brush Tool'"
+  :images="[
+    { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png' },
+    { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png' },
+    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/3.png' },
+    { label: 'Image 4', src: '/f2024/moduleImages/week1/psInterface/4.png' },
+    { label: 'Image 5', src: '/f2024/moduleImages/week1/psInterface/5.png' },
+    { label: 'Image 6', src: '/f2024/moduleImages/week1/psInterface/6.png' },
+    { label: 'Image 7', src: '/f2024/moduleImages/week1/psInterface/7.png' },
+    { label: 'Image 8', src: '/f2024/moduleImages/week1/psInterface/8.png' }
+  ]"
+/>
 
-<img src="./tool-icon-spot-healing-brush.svg" style="max-width: 7.5rem;" alt="Spot healing brush tool icon">
+### <img src="./tool-icon-spot-healing-brush.svg" style="max-width: 1 rem;" alt="Spot healing brush tool icon"> Spot Healing Brush Tool
 
 The Spot Healing Brush is quick and easy to use, requiring no sampling. You simply click on blemishes, and Photoshop automatically blends the area with the surrounding pixels. Adjust the brush diameter and hardness as needed, and always work on a new, empty layer to keep your edits non-destructive.
 
-### Patch Tool
+<Slideshow
+  :key="'Spot Healing Brush Tool'"
+  :images="[
+    { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png' },
+    { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png' },
+    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/3.png' },
+    { label: 'Image 4', src: '/f2024/moduleImages/week1/psInterface/4.png' },
+    { label: 'Image 5', src: '/f2024/moduleImages/week1/psInterface/5.png' },
+    { label: 'Image 6', src: '/f2024/moduleImages/week1/psInterface/6.png' },
+    { label: 'Image 7', src: '/f2024/moduleImages/week1/psInterface/7.png' },
+    { label: 'Image 8', src: '/f2024/moduleImages/week1/psInterface/8.png' }
+  ]"
+/>
 
-<img src="./tool-icon-patch-tool.svg" style="max-width: 7.5rem;" alt="Patch tool icon">
+### <img src="./tool-icon-patch-tool.svg" style="max-width: 1rem;" alt="Patch tool icon"> Patch Tool
 
 The Patch Tool is ideal for fixing larger blemishes or imperfections on flat surfaces. You drag a good section of the image over the flawed area, and Photoshop blends it with the surrounding pixels.
 
-![Photoshop Patch Tool Example](./retouching-scar-patch.jpg)
+<Slideshow
+  :key="'Spot Healing Brush Tool'"
+  :images="[
+    { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png' },
+    { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png' },
+    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/3.png' },
+    { label: 'Image 4', src: '/f2024/moduleImages/week1/psInterface/4.png' },
+    { label: 'Image 5', src: '/f2024/moduleImages/week1/psInterface/5.png' },
+    { label: 'Image 6', src: '/f2024/moduleImages/week1/psInterface/6.png' },
+    { label: 'Image 7', src: '/f2024/moduleImages/week1/psInterface/7.png' },
+    { label: 'Image 8', src: '/f2024/moduleImages/week1/psInterface/8.png' }
+  ]"
+/>
 
 ::: tip Tip
 Set the tool to `Content Aware` and work on a new empty layer for a more seamless blend with the surrounding content.
 :::
 
-#### Patch Tool Settings
+<!-- #### Patch Tool Settings
 
 <dl>
 <dt><strong>Structure</strong></dt>
@@ -69,28 +113,25 @@ Set the tool to `Content Aware` and work on a new empty layer for a more seamles
 
 <dt><strong>Sample All Layers</strong></dt>
 <dd>Enable this option to apply the patch to another layer using data from all visible layers. This is useful for non-destructive editing.</dd>
-</dl>
+</dl> -->
 
-### Generative Fill (New)
+### <img src="./tool-icon-red-eye.svg" style="max-width: 1rem;" alt="Red eye tool icon"> Red Eye Tool
 
-<!-- <img src="./tool-icon-generative-fill.svg" style="max-width: 7.5rem;" alt="Generative Fill tool icon"> -->
+<Slideshow
+  :key="'Generative Fill'"
+  :images="[
+    { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png' },
+    { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png' },
+    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/3.png' },
+    { label: 'Image 4', src: '/f2024/moduleImages/week1/psInterface/4.png' },
+    { label: 'Image 5', src: '/f2024/moduleImages/week1/psInterface/5.png' },
+    { label: 'Image 6', src: '/f2024/moduleImages/week1/psInterface/6.png' },
+    { label: 'Image 7', src: '/f2024/moduleImages/week1/psInterface/7.png' },
+    { label: 'Image 8', src: '/f2024/moduleImages/week1/psInterface/8.png' }
+  ]"
+/>
 
-Generative Fill is a new AI-powered feature in Photoshop that allows you to generate content in your images automatically. By selecting an area, you can use this tool to fill it with relevant generated content, whether you’re extending backgrounds or removing objects.
-
-<!-- ![Generative Fill Example](./generative-fill-example.jpg) -->
-
-#### How to Use Generative Fill
-
-1. **Select an Area:** Use any selection tool to highlight the area you want to modify.
-2. **Activate Generative Fill:** After selecting, click on the Generative Fill button or use the `Edit > Generative Fill` option.
-3. **Generate Content:** Photoshop will analyze the surrounding pixels and generate new content to fill the selected area. You can guide the fill by typing a description (e.g., "fill with ocean").
-4. **Non-Destructive Workflow:** Like with other tools, always work on a new layer to maintain flexibility.
-
-Generative Fill is perfect for removing large objects, extending backgrounds, or generating entirely new scenes in an image.
-
-### Red Eye Tool Alternatives
-
-<img src="./tool-icon-red-eye.svg" style="max-width: 7.5rem;" alt="Red eye tool icon">
+::: tip Red Eye Tool Alternative
 
 Instead of using the Red Eye Tool, apply a **Hue/Saturation Adjustment Layer** to desaturate the red in the eyes, preserving detail in the pupils.
 
@@ -100,11 +141,52 @@ Instead of using the Red Eye Tool, apply a **Hue/Saturation Adjustment Layer** t
 2. Invert the mask to black, then paint over the red eyes with a soft white brush.
 3. Adjust the settings as needed to make the eyes look natural.
 
+:::
+
+### Generative Fill (New)
+
+<!-- <img src="./tool-icon-generative-fill.svg" style="max-width: 7.5rem;" alt="Generative Fill tool icon"> -->
+
+Generative Fill is a new AI-powered feature in Photoshop that allows you to generate content in your images automatically. By selecting an area, you can use this tool to fill it with relevant generated content, whether you’re extending backgrounds or removing objects. Generative Fill is perfect for removing large objects, extending backgrounds, or generating entirely new scenes in an image.
+
+<Slideshow
+  :key="'Generative Fill'"
+  :images="[
+    { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png' },
+    { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png' },
+    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/3.png' },
+    { label: 'Image 4', src: '/f2024/moduleImages/week1/psInterface/4.png' },
+    { label: 'Image 5', src: '/f2024/moduleImages/week1/psInterface/5.png' },
+    { label: 'Image 6', src: '/f2024/moduleImages/week1/psInterface/6.png' },
+    { label: 'Image 7', src: '/f2024/moduleImages/week1/psInterface/7.png' },
+    { label: 'Image 8', src: '/f2024/moduleImages/week1/psInterface/8.png' }
+  ]"
+/>
+
+<!-- #### How to Use Generative Fill
+
+1. **Select an Area:** Use any selection tool to highlight the area you want to modify.
+2. **Activate Generative Fill:** After selecting, click on the Generative Fill button or use the `Edit > Generative Fill` option.
+3. **Generate Content:** Photoshop will analyze the surrounding pixels and generate new content to fill the selected area. You can guide the fill by typing a description (e.g., "fill with ocean").
+4. **Non-Destructive Workflow:** Like with other tools, always work on a new layer to maintain flexibility. -->
+
 ## Content Aware Tools
 
 The **Content Aware Tools** in Photoshop are incredibly powerful for removing unwanted elements from an image. Simply make a selection, then choose `Edit > Fill > Content Aware Fill`, and Photoshop will automatically fill in the area with surrounding content.
 
-<!-- ![Photoshop Content Aware Fill](./content-aware-fill-2.jpg) -->
+<Slideshow
+  :key="'Content Aware Fill'"
+  :images="[
+    { label: 'Image 1', src: '/f2024/moduleImages/week1/psInterface/1.png' },
+    { label: 'Image 2', src: '/f2024/moduleImages/week1/psInterface/2.png' },
+    { label: 'Image 3', src: '/f2024/moduleImages/week1/psInterface/3.png' },
+    { label: 'Image 4', src: '/f2024/moduleImages/week1/psInterface/4.png' },
+    { label: 'Image 5', src: '/f2024/moduleImages/week1/psInterface/5.png' },
+    { label: 'Image 6', src: '/f2024/moduleImages/week1/psInterface/6.png' },
+    { label: 'Image 7', src: '/f2024/moduleImages/week1/psInterface/7.png' },
+    { label: 'Image 8', src: '/f2024/moduleImages/week1/psInterface/8.png' }
+  ]"
+/>
 
 #### Content Aware Fill Options
 
