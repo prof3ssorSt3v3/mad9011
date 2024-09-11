@@ -10,7 +10,7 @@ By the end of this week, students will be able to:
 2. **Implement Content-Aware Techniques:** Apply content-aware fill and other content-aware tools to seamlessly remove unwanted elements from images.
 3. **Employ Non-Destructive Editing Methods:** Practice retouching and editing without altering the original image data.
 
-;;;
+:::
 
 ## Introduction to Advanced Retouching
 
