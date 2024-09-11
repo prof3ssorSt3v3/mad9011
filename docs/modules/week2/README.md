@@ -22,7 +22,7 @@ Explore advanced tools and techniques in Photoshop for retouching images, focusi
 - **Generative Fill (New):** Automatically generate new content in an image using AI to fill or extend backgrounds.
 - **Red Eye Tool Alternatives:** Learn alternative, non-destructive methods to fix red-eye effects.
 
-### <span style="display: inline-block; vertical-align: middle;"><img src="./tool-icon-clone-stamp.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon"></span> Clone Stamp Tool
+<h3 style="display: inline-block; vertical-align: middle;"><img src="./tool-icon-clone-stamp.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon">Clone Stamp Tool</h3>
 
 The Clone Stamp Tool is often called the rubber stamp tool for a reason. It works similarly by sampling pixels from one area and replicating them in another. This is useful for covering unwanted elements, such as blemishes or distractions.
 
