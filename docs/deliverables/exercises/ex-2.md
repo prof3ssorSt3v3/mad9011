@@ -57,8 +57,6 @@ Compress and submit your `lName-fName-section#-photo-retouching` folder containi
 - Go to Exercise 2 — Photo Retouching
 - Upload your compressed folder on the assignment page in BS LMS and click the submit button.
 
-:::
-
 ### Marking Rubric for Exercise 2 — Photo Retouching
 
 | **Criteria**                    | **Excellent (4 points)**                                                                                                                | **Good (3 points)**                                                                           | **Satisfactory (2 points)**                                                                     | **Needs Improvement (1 point)**                                                      | **Unsatisfactory (0 points)**                                    | **Max Points** |

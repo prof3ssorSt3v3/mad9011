@@ -20,7 +20,7 @@ Every week there will be work for you to complete inside or outside of class. So
   dueDate="Section 010: Tuesday September 17th @9:00pm"
   secondaryDueDate="Section 020: Tuesday September 17th @7:00pm"
   description="In this exercise, you'll apply the retouching techniques learned in class, emphasizing the importance of using non-destructive editing methods throughout the task."
-  linkType="paused"
+  linkType="active"
   detailsLink="./exercises/ex-2.html"
 />
 
