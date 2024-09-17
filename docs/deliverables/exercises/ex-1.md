@@ -92,7 +92,7 @@ Common issues and solutions you might encounter during the exercise:
 - If the subject looks disconnected from the new background, adjust the color balance and lighting.
 - For better integration, ensure the lighting direction in all images matches.
 
-## File Setup and Submission
+## File Setup
 
 Compress and submit your `lName-fName-section#-ui-banner` folder containing:
 
