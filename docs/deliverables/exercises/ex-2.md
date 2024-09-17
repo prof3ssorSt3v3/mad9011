@@ -44,14 +44,14 @@ Compress and submit your `lName-fName-section#-photo-retouching` folder containi
   - `01-photoshop-repairing-blemishes.jpg` - 1500px wide
   - `02-photoshop-content-aware-fill.jpg` - 1000px wide
   - `03-photoshop-watermark-removal.jpg` - 800px wide
-  - `04-photoshop-photo-restoration.psd` - 720px wide
+  - `04-photoshop-photo-restoration.jpg` - 720px wide
 
 ## Submission
 
 <br>
 
-<Badge text="Section 010: Tuesday September 10th @9:00pm" />
-<Badge type="error" text="Section 020: Tuesday September 10th @7:00pm" />
+<Badge text="Section 010: Tuesday September 17th @9:00pm" />
+<Badge type="error" text="Section 020: Tuesday September 17th @7:00pm" />
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Exercise 2 — Photo Retouching
@@ -70,10 +70,6 @@ Compress and submit your `lName-fName-section#-photo-retouching` folder containi
 | **File 4: Photo Restoration**   | Cracks and watermarks removed flawlessly, image is restored to a high standard, and additional adjustments enhance the image naturally. | Cracks and watermarks mostly removed, minor imperfections, additional adjustments are decent. | Restoration performed, but noticeable imperfections remain, additional adjustments are minimal. | Cracks and watermarks partially removed, restoration looks artificial or incomplete. | Restoration not attempted or poorly executed.                    | **4**          |
 | **File Setup**                  | Correct file naming, PSDs are organized with layers and non-destructive edits, with all files included in the submission.               | Minor issues with file naming or layer organization, all files included.                      | Several issues with file naming, organization, or some files are missing.                       | Poor file organization, incorrect naming, missing some required files.               | Files not organized or named correctly, multiple files missing.  | **4**          |
 
-| **Demo**                                                                                                               | **Excellent (4 points)** | **Unsatisfactory (0 points)** | **Max Points** |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------------------- | -------------- |
-| **Live demonstration completed on time, showing an understanding of the tools and process used for photo retouching.** | **4**                    | **0**                         | **4**          |
-
 ---
 
 ### Export Criteria
@@ -86,5 +82,9 @@ Compress and submit your `lName-fName-section#-photo-retouching` folder containi
 | **Export 4: Photo Restoration**   | Exported correctly with the specified dimensions and file type. | Export completed but has errors (e.g., incorrect dimensions or file type). | Export not provided or entirely incorrect. | **4**          |
 
 ---
+
+| **Demo**                                                                                                               | **Excellent (4 points)** | **Unsatisfactory (0 points)** | **Max Points** |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------------------- | -------------- |
+| **Live demonstration completed on time, showing an understanding of the tools and process used for photo retouching.** | **4**                    | **0**                         | **4**          |
 
 **Total Points Available:** 44
