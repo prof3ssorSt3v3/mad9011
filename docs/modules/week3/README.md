@@ -6,12 +6,13 @@
 
 By the end of this week, students will be able to:
 
-- Grasp the essentials and advantages of vector graphics, including scalability and application versatility.
-- Become proficient in using Adobe Illustrator's interface, including workspace customization and tool management.
-- Master the skill of organizing and managing layers for complex graphic compositions in Illustrator.
-- Learn to create and modify basic shapes and paths, laying the foundation for intricate designs.
-- Gain expertise in using the Pen Tool for precision drawing and editing in Illustrator.
-- Develop the ability to edit and refine shapes and paths for advanced graphic design projects.
+1. **Understand Vector Graphics:** Learn the advantages of vector graphics, including scalability and versatility, and how they differ from raster graphics.
+2. **Navigate Adobe Illustrator:** Become proficient with Illustrator's interface, customizing the workspace, and managing tools for an efficient workflow.
+3. **Master Layers and Artboards:** Organize and manage layers effectively for complex graphic compositions, and use artboards for multi-layout designs.
+4. **Create and Edit Shapes and Paths:** Build and modify basic and complex shapes using Illustrator's shape tools and path creation techniques.
+5. **Precision Drawing with the Pen Tool:** Gain expertise in using the Pen Tool for precision drawing and editing, including manipulating Bezier curves.
+6. **Apply Transformations and Pathfinder Tools:** Use transform options and Pathfinder tools to create dynamic designs by combining and modifying shapes.
+7. **Work with Color and Export:** Understand how to apply color to fills and strokes, and learn how to export designs for various screen formats.
 
 ## Demo Files
 
@@ -19,156 +20,150 @@ By the end of this week, students will be able to:
 
 [demo-drawing-with-shapes](https://drive.google.com/file/d/1x3grcghX78odQJoGhX4uXiUD4Bo8HHyu/view?usp=sharing)
 
-## What is Adobe Illustrator
+## 1. What is Adobe Illustrator?
 
-Adobe Illustrator is a powerful vector graphics editing software used by designers and artists worldwide. It's ideal for creating logos, illustrations, typography, and complex graphics for both print and digital media.
+Adobe Illustrator is a powerful vector graphics editor used by designers and artists to create a wide range of visuals, including logos, illustrations, typography, and complex graphics. Unlike raster graphics, vector graphics are made up of paths, making them infinitely scalable without loss of quality.
 
-### Understanding Vector Graphics and Their Advantages
+### 1.1 Understanding Vector Graphics and Their Advantages
 
 ![Vector Graphic Banner](./vectorGraphic.jpg)
 
-Vector graphics are made up of paths, which are defined by a start and end point, along with other points, curves, and angles. A key advantage of vector graphics is their scalability; they can be enlarged or reduced without losing quality, making them ideal for various applications where resizing is necessary. Additionally, vector files tend to be smaller than raster images, and they are more versatile for detailed graphic work.
+Vector graphics consist of paths defined by points, curves, and angles. Key advantages of vector graphics include:
+
+- **Scalability:** They can be resized without losing quality, making them perfect for everything from small icons to large billboards.
+- **Smaller File Size:** Vector files are often smaller than raster images, making them easier to share and store.
+- **Versatility:** Ideal for logos, typography, and intricate illustrations where precise, scalable graphics are needed.
 
 **Watch:** [Vector vs Raster Graphics](https://youtu.be/p2thSkOa_Xg?si=4Gy2tQhPVCGCw-5R)
 
-## The Basics of Illustrator's Interface and Workspace
+## 2. Illustrator's Interface and Workspace
 
-Illustrator's interface is a robust workspace with various tools and panels specifically designed for vector graphic creation. Understanding this interface is crucial for efficient workflow.
+Illustrator's interface is a comprehensive workspace designed for vector graphic creation. Understanding this interface is crucial for efficient workflow.
 
-Familiarize yourself with Illustrator's interface and workspace through these tutorials:
+### 2.1 Key Aspects of Illustrator's Workspace
 
-**Watch:** [Get to know Illustrator (4 videos)](https://helpx.adobe.com/ca/illustrator/how-to/ai-basics-fundamentals.html)
+<Slideshow
+  :key="'illustratorInterface'"
+  :images="[
+    { label: 'Menu Bar', src: '/f2024/moduleImages/week3/interfaceAI/1.png' },
+    { label: 'Workspaces', src: '/f2024/moduleImages/week3/interfaceAI/2.png' },
+    { label: 'Control Panel', src: '/f2024/moduleImages/week3/interfaceAI/3.png' },
+    { label: 'Toolbox', src: '/f2024/moduleImages/week3/interfaceAI/4.png' },
+    { label: 'Panels', src: '/f2024/moduleImages/week3/interfaceAI/5.png' },
+    { label: 'Artboard Area', src: '/f2024/moduleImages/week3/interfaceAI/6.png' },
+  ]"
+/>
 
-- Illustrator workspace
-- Zoom and Pan
-- Create a new document
-- Save your work
+**Watch:** [Get to Know Illustrator (4 videos)](https://helpx.adobe.com/ca/illustrator/how-to/ai-basics-fundamentals.html)
 
-### Workspaces and Interface Overview
+## 3. Artboards and Layer Management
 
-![Workspace](./workspace.png)
+### 3.1 Artboards
 
-Learn about the various options available in Illustrator's workspace:
+Artboards are like individual canvases within a single document. Use them to create multi-page documents, different versions of a design, or separate elements that make up a larger graphic.
 
-- **Share document**
-- **Search and discover**
-- **Arrange document**
-- **Switch workspace**
+<Slideshow
+  :key="'artboardManagement'"
+  :images="[
+    { label: 'Creating Artboards', src: '/f2024/moduleImages/week3/artboards/1.png' },
+    { label: 'Organizing Artboards', src: '/f2024/moduleImages/week3/artboards/2.png' },
+    { label: 'Renaming Artboards', src: '/f2024/moduleImages/week3/artboards/3.png' }
+  ]"
+/>
 
-### Detailed Workspace Overview
+**Watch:** [Artboard Tutorial (3 videos)](https://helpx.adobe.com/ca/illustrator/how-to/artboards-basics.html)
 
-![Workspace dropdown](./workspace-expanded.png)
+### 3.2 Layer Management
 
-> We will use the **Essentials Classic** workspace.
+Layers in Illustrator allow you to stack, organize, and isolate elements in your design, making it easier to manage complex compositions. They let you work on individual components without affecting others, enhancing both creativity and precision in your workflow.
 
-## Artboards and Layer Management
+- **Creating and Managing Layers:** Add new layers to separate different elements of your design, such as background, text, and graphics. This organization makes it easier to edit specific parts without disturbing the rest of the composition.
+- **Grouping and Selecting:** Group multiple objects into a single unit using the **Group** function. This allows you to move, scale, or apply changes to multiple elements simultaneously. Use the **Selection Tool** to quickly select entire groups or individual elements within a layer.
+- **Locking and Hiding Layers:** Lock layers to prevent accidental modifications to elements you don't want to change. You can also hide layers temporarily to focus on specific parts of your design without distractions.
+- **Using Sub-layers:** Sub-layers provide further organization within a primary layer, letting you manage complex designs more effectively by breaking them down into manageable parts.
+- **Renaming and Color Coding:** Name your layers descriptively and assign colors to them in the Layers Panel. This practice makes it easier to identify and manage layers, especially when working with intricate designs.
 
-Artboards are crucial for organizing different design elements. Artboards in Illustrator are like individual canvases within a single document. They can be used to create multi-page documents, different versions of a design, or separate elements that make up a larger graphic. Efficiently managing artboards is key to a streamlined workflow in Illustrator.
+> **Pro Tip:** Group related elements together and name your layers clearly to streamline your workflow, making your project easier to navigate and edit.
 
-**Watch:** [Artboard tutorial (3 videos)](https://helpx.adobe.com/ca/illustrator/how-to/artboards-basics.html)
+## 4. Creating Basic Shapes and Paths
 
-### Layer Management
-
-Layers in Illustrator function similarly to those in other Adobe applications. They allow you to stack different elements, organize your artwork, and work on specific parts of a project without affecting others. Mastering layer management is crucial for keeping your workflow organized, especially when working on complex or multi-element designs.
-
-## Creating Basic Shapes and Paths
-
-Creating and manipulating shapes and paths is a core aspect of working in Illustrator. This section is designed to provide a comprehensive understanding of how to use Illustrator's various tools to create basic shapes and intricate paths.
-
-### Understanding Shape Tools
+### 4.1 Shape Tools
 
 Illustrator's shape tools allow for the creation of basic geometric forms like rectangles, circles, and polygons, which are the building blocks of more complex designs.
 
-**Watch:** [Create and edit shapes (4 videos)](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
+**Watch:** [Create and Edit Shapes (4 videos)](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
 
-In this section, you'll learn:
-
-- How to use the Rectangle, Ellipse, and Polygon tools for basic shapes.
-- Techniques for editing and transforming these shapes.
-- Tips for combining simple shapes to create complex designs.
-
-### Drawing Tools for Custom Shapes
+### 4.2 Drawing Tools for Custom Shapes
 
 Beyond basic geometric forms, Illustrator offers tools for creating custom shapes. This involves a deeper understanding of paths and how to manipulate them to achieve your desired design.
 
-**Watch:** [Drawing tools tutorial (5 videos)](https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html)
+**Watch:** [Drawing Tools Tutorial (5 videos)](https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html)
 
-Key points include:
+## 5. Transform Options: Rotate, Reflect, and Shear
 
-- Utilizing the Pen Tool for creating custom paths and shapes.
-- Understanding Bezier curves and how to control them.
-- Techniques for drawing both straight and curved paths.
+Transforming objects is key to creating dynamic and varied designs. Learn to:
 
-## Transform Options: Rotate, Reflect, and Shear
+- **Rotate:** Change the angle of objects.
+- **Reflect:** Mirror objects across a specified axis.
+- **Shear:** Skew objects for perspective effects.
 
-Transforming artwork in Illustrator is crucial for creating dynamic and varied designs. Understanding how to rotate, reflect, and shear objects allows for creative manipulation of basic shapes into complex compositions.
+**Watch:** [Learn Transform Options](https://helpx.adobe.com/ca/illustrator/how-to/apply-rotation-and-reflection-in-artwork.html)
 
-Learn to transform your artwork with these tools:
+## 6. Pathfinder Tools: Combine and Manipulate Shapes
 
-[![Adobe tutorials for Transform Options](./transformArtwork.png)](https://helpx.adobe.com/ca/illustrator/how-to/apply-rotation-and-reflection-in-artwork.html)
+Pathfinder tools allow you to create complex shapes by combining and modifying simpler ones.
 
-## Understanding and Using Pathfinder Tools
+### 6.1 Overview of Pathfinder Tools
 
-Pathfinder tools in Adobe Illustrator are essential for creating complex shapes and designs by combining multiple simple shapes. These tools allow you to merge, subtract, intersect, and divide shapes to create intricate graphics and icons.
+![Pathfinder Panel](./pathfinder.jpg)
 
-### Overview of Pathfinder Tools
+**Shape Modes:**
 
-The Pathfinder panel in Illustrator offers a set of tools that manipulate the interaction between two or more shapes. These tools are divided into two main groups: Shape Modes and Pathfinders.
+- **Unite:** Combines selected shapes into a single shape.
+- **Minus Front:** Subtracts the front shape from the back shape.
+- **Intersect:** Creates a shape from the overlapping area.
+- **Exclude:** Removes the overlapping areas, leaving non-overlapping parts.
 
-**Shape Modes**:
+**Pathfinders:**
 
-- **Unite**: Combines selected shapes into one larger shape.
-- **Minus Front**: Subtracts the top shape from the one beneath it.
-- **Intersect**: Creates a shape from the overlapping area of selected shapes.
-- **Exclude**: Removes the overlapping areas, leaving only the non-overlapping parts.
+- **Divide:** Splits the shapes into individual components.
+- **Trim:** Removes the top shape’s area from underlying shapes.
+- **Merge:** Similar to Trim, but also merges adjacent shapes with the same fill.
+- **Outline:** Converts shapes into compound paths with outlines.
 
-**Pathfinders**:
+**Watch:** [Level up your shape-building skills with Pathfinders](https://creativecloud.adobe.com/cc/learn/illustrator/web/combine-simple-shapes-to-make-complex-shapes?x-product=CCHome%2F1.0&x-product-location=Search%3ATutorials%3Alink%2F3.2.3&mv2=cch&locale=en)
 
-- **Divide**: Splits the selected shapes into individual components at their intersecting points.
-- **Trim**: Removes the top shape’s area from the underlying shapes.
-- **Merge**: Similar to Trim, but it also merges adjacent shapes that have the same fill.
-- **Crop**: Uses the top object to define the area to keep; removes everything outside of it.
-- **Outline**: Converts the shapes into a single compound path with outlines.
-- **Minus Back**: Removes the shape at the back from the shape(s) in front.
+## 7. Working with Color: Fill and Stroke
 
-### Practical Applications
+Apply color effectively to enhance your designs. Understand the difference between fill and stroke and how to use them:
 
-Pathfinder tools are incredibly versatile and can be used for a variety of design tasks, such as:
+- **Fill:** The interior color of an object.
+- **Stroke:** The border or outline of an object.
 
-- Creating complex logos by merging and subtracting basic shapes.
-- Designing unique icons and graphic elements.
-- Carving out intricate patterns and designs.
-- Simplifying complex paths for easier editing and manipulation.
+**Watch:** [Learn About Color Basics](https://helpx.adobe.com/illustrator/how-to/color-basics.html)
 
-### Tips for Using Pathfinder Tools
+> **Tip:** Use the Color Picker or Swatches panel to apply and modify colors quickly.
 
-- **Experimentation**: Don’t be afraid to experiment with different Pathfinder options to see their effects on your design.
-- **Layer Order**: Remember that the order of your shapes can affect the result, especially with tools like Minus Front and Minus Back.
-- **Compound Paths**: After using Pathfinder, you may need to create compound paths (Object > Compound Path > Make) for further editing.
-- **Undo Function**: Use the undo function (Ctrl/Cmd + Z) liberally if you don’t get the desired result at first.
+## 8. Exporting for Screens
 
-**Watch:** For a hands-on understanding, follow this tutorial series: [Using Pathfinder Tools in Illustrator](https://helpx.adobe.com/illustrator/how-to/use-pathfinder-panel.html)
+![Export for Screens](./export-for-screens.jpg)
 
-## Colour of Fill and Stroke
+<Slideshow
+  :key="'exportForScreens'"
+  :images="[
+    { label: 'Open Export for Screens', src: '/f2024/moduleImages/week3/export/1.png' },
+    { label: 'Choose Artboards', src: '/f2024/moduleImages/week3/export/2.png' },
+    { label: 'Select Export Settings', src: '/f2024/moduleImages/week3/export/3.png' },
+    { label: 'Export Files', src: '/f2024/moduleImages/week3/export/4.png' }
+  ]"
+/>
 
-Color application in Illustrator is not just about making designs visually appealing but also about conveying the right message. Understanding fill and stroke properties, and how to use color effectively, is vital for any Illustrator user.
+- **Artboards Preview:** See how your design will be exported.
+- **Export Location:** Choose where to save your files.
+- **Scale Options:** Export at multiple sizes for various screen resolutions.
+- **Format Selection:** Choose between PNG, JPG, SVG, etc.
+- **Creating Sub-folders:** Organize exports into sub-folders for better management.
 
-Enhance your designs with color theory and application techniques:
-
-**Watch:** [Learn about color basics (tutorial video)](https://helpx.adobe.com/illustrator/how-to/color-basics.html)
-
-## Export for Screens
-
-Exporting for screens is a critical step in finalizing digital designs. Illustrator's 'Export for Screens' feature allows you to efficiently save your work in various formats and resolutions, suitable for different digital platforms.
-
-Understand how to efficiently export your designs with the Export for Screens feature:
-
-![Export for screens dialogue](./export-for-screens.jpg)
-
-- **Artboards preview**
-- **Select export location**
-- **Scale options**
-- **Suffix and format selection**
-- **Creating Sub-folders**
+> **Pro Tip:** Use Illustrator's **Export for Screens** to quickly save designs in multiple formats and resolutions.
 
 </Countdown>
