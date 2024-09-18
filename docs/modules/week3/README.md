@@ -26,7 +26,7 @@ Adobe Illustrator is a powerful vector graphics editor used by designers and art
 
 ### 1.1 Understanding Vector Graphics and Their Advantages
 
-![Vector Graphic Banner](./vectorGraphic.jpg)
+![Vector Graphic Banner](./rasterVsVector.png)
 
 Vector graphics consist of paths defined by points, curves, and angles. Key advantages of vector graphics include:
 
@@ -40,7 +40,7 @@ Vector graphics consist of paths defined by points, curves, and angles. Key adva
 
 Illustrator's interface is a comprehensive workspace designed for vector graphic creation. Understanding this interface is crucial for efficient workflow.
 
-### 2.1 Key Aspects of Illustrator's Workspace
+**Key Aspects of Illustrator's Workspace**
 
 <Slideshow
   :key="'illustratorInterface'"
@@ -55,6 +55,8 @@ Illustrator's interface is a comprehensive workspace designed for vector graphic
 />
 
 **Watch:** [Get to Know Illustrator (4 videos)](https://helpx.adobe.com/ca/illustrator/how-to/ai-basics-fundamentals.html)
+
+<br/>
 
 ## 3. Artboards and Layer Management
 
@@ -89,17 +91,23 @@ Layers in Illustrator allow you to stack, organize, and isolate elements in your
 
 ### 4.1 Shape Tools
 
+![Shape Tool](./shapesTool.png)
+
 Illustrator's shape tools allow for the creation of basic geometric forms like rectangles, circles, and polygons, which are the building blocks of more complex designs.
 
 **Watch:** [Create and Edit Shapes (4 videos)](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
 
 ### 4.2 Drawing Tools for Custom Shapes
 
+![Pen Tool](./penTool.png)
+
 Beyond basic geometric forms, Illustrator offers tools for creating custom shapes. This involves a deeper understanding of paths and how to manipulate them to achieve your desired design.
 
 **Watch:** [Drawing Tools Tutorial (5 videos)](https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html)
 
 ## 5. Transform Options: Rotate, Reflect, and Shear
+
+![Transform Tool](./transform.png)
 
 Transforming objects is key to creating dynamic and varied designs. Learn to:
 
@@ -113,9 +121,7 @@ Transforming objects is key to creating dynamic and varied designs. Learn to:
 
 Pathfinder tools allow you to create complex shapes by combining and modifying simpler ones.
 
-### 6.1 Overview of Pathfinder Tools
-
-![Pathfinder Panel](./pathfinder.jpg)
+![Pathfinder Panel](./pathfinder.gif)
 
 **Shape Modes:**
 
@@ -135,6 +141,8 @@ Pathfinder tools allow you to create complex shapes by combining and modifying s
 
 ## 7. Working with Color: Fill and Stroke
 
+![Fill and Stroke](./fillAndStoke.png)
+
 Apply color effectively to enhance your designs. Understand the difference between fill and stroke and how to use them:
 
 - **Fill:** The interior color of an object.
@@ -145,8 +153,6 @@ Apply color effectively to enhance your designs. Understand the difference betwe
 > **Tip:** Use the Color Picker or Swatches panel to apply and modify colors quickly.
 
 ## 8. Exporting for Screens
-
-![Export for Screens](./export-for-screens.jpg)
 
 <Slideshow
   :key="'exportForScreens'"
