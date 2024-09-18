@@ -12,13 +12,13 @@ By the end of this week, students will be able to:
 
 :::
 
-## Introduction to Advanced Retouching
+## 1. Introduction to Advanced Retouching
 
 ![Retouching Banner](./retouching-banner.jpg)
 
 Explore advanced tools and techniques in Photoshop for retouching images, focusing on maintaining image quality and non-destructive editing methods. Learn to address common issues like blemishes, unwanted elements, and distractions using Photoshop's powerful toolkit, all while preserving the integrity of the original photo.
 
-**Retouching Tools Overview**
+## 2. Retouching Tools Overview
 
 ![Retouching Tools](./retouching-tools.png)
 
@@ -30,7 +30,7 @@ Explore advanced tools and techniques in Photoshop for retouching images, focusi
 
 ---
 
-<h3 style="display: flex; align-items: center; gap: 24px;"><img src="./tool-icon-clone-stamp.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon">Clone Stamp Tool</h3>
+<h3 style="display: flex; align-items: center; gap: 24px;"><img src="./tool-icon-clone-stamp.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon">2.1 Clone Stamp Tool</h3>
 
 The Clone Stamp Tool is often called the rubber stamp tool for a reason. It works similarly by sampling pixels from one area and replicating them in another. This is useful for covering unwanted elements, such as blemishes or distractions.
 
@@ -50,7 +50,7 @@ Create a new empty layer called <strong>Retouching</strong>. Do not duplicate th
 
 ---
 
-<h3 style="display: flex; align-items: center; gap: 24px;"><img src="./tool-icon-healing-brush.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon">Healing Brush Tool</h3>
+<h3 style="display: flex; align-items: center; gap: 24px;"><img src="./tool-icon-healing-brush.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon">2.2 Healing Brush Tool</h3>
 
 The Healing Brush Tool works similarly to the Clone Stamp Tool but is smarter. After sampling an area, the tool adjusts the pixels to match the surrounding area for seamless blending. It’s great for retouching small imperfections, such as skin blemishes.
 
@@ -66,7 +66,7 @@ The Healing Brush Tool works similarly to the Clone Stamp Tool but is smarter. A
 
 ---
 
-<h3 style="display: flex; align-items: center; gap: 24px;"><img src="./tool-icon-spot-healing-brush.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon">Spot Healing Brush Tool</h3>
+<h3 style="display: flex; align-items: center; gap: 24px;"><img src="./tool-icon-spot-healing-brush.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon">2.3 Spot Healing Brush Tool</h3>
 
 The Spot Healing Brush is quick and easy to use, requiring no sampling. You simply click on blemishes, and Photoshop automatically blends the area with the surrounding pixels. Adjust the brush diameter and hardness as needed, and always work on a new, empty layer to keep your edits non-destructive.
 
@@ -81,7 +81,7 @@ The Spot Healing Brush is quick and easy to use, requiring no sampling. You simp
 
 ---
 
-<h3 style="display: flex; align-items: center; gap: 24px;"><img src="./tool-icon-patch-tool.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon">Patch Tool</h3>
+<h3 style="display: flex; align-items: center; gap: 24px;"><img src="./tool-icon-patch-tool.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon">2.4 Patch Tool</h3>
 
 The Patch Tool is ideal for fixing larger blemishes or imperfections on flat surfaces. You drag a good section of the image over the flawed area, and Photoshop blends it with the surrounding pixels.
 
@@ -101,7 +101,7 @@ Set the tool to `Content Aware` and work on a new empty layer for a more seamles
 
 ---
 
-<h3 style="display: flex; align-items: center; gap: 24px;"><img src="./tool-icon-red-eye.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon">Red Eye Tool</h3>
+<h3 style="display: flex; align-items: center; gap: 24px;"><img src="./tool-icon-red-eye.svg" style="max-width: 2rem;" alt="Clone Stamp tool icon">2.5 Red Eye Tool</h3>
 
 <Slideshow
   :key="'Redeye tool'"
@@ -123,7 +123,7 @@ Instead of using the Red Eye Tool, apply a **Hue/Saturation Adjustment Layer** t
 
 :::
 
-## Generative Fill (New)
+## 3. Generative Fill (New)
 
 <video width="100%" height="auto" controls autoplay muted>
   <source src="./generative-fill.mp4" type="video/mp4">
@@ -132,35 +132,35 @@ Instead of using the Red Eye Tool, apply a **Hue/Saturation Adjustment Layer** t
 
 Generative Fill is a new AI-powered feature in Photoshop that allows you to generate content in your images automatically. By selecting an area, you can use this tool to fill it with relevant generated content, whether you’re extending backgrounds or removing objects. Generative Fill is perfect for removing large objects, extending backgrounds, or generating entirely new scenes in an image. Checkout all the things you can do with generative fill [here](https://www.adobe.com/ca/products/photoshop/ai.html).
 
-#### How to Use Generative Fill
+### 3.1 How to Use Generative Fill
 
 1. **Select an Area:** Use any selection tool to highlight the area you want to modify.
 2. **Activate Generative Fill:** After selecting, click on the Generative Fill button or use the `Edit > Generative Fill` option.
 3. **Generate Content:** Photoshop will analyze the surrounding pixels and generate new content to fill the selected area. You can guide the fill by typing a description (e.g., "fill with ocean").
 4. **Non-Destructive Workflow:** Like with other tools, always work on a new layer to maintain flexibility.
 
-## Content Aware Tools
+## 4. Content Aware Tools
 
 The **Content Aware Tools** in Photoshop are incredibly powerful for removing unwanted elements from an image. Simply make a selection, then choose `Edit > Fill > Content Aware Fill`, and Photoshop will automatically fill in the area with surrounding content.
 
 ![Content Aware Fill](./content-aware-fill-2.jpg)
 
-#### Content Aware Fill Options
+### 4.1 Content Aware Fill Options
 
 - **Output to New Layer:** Always select this option to keep the fill on a new layer, allowing for non-destructive editing.
 - **Sampling Area Options:** In the Content Aware Fill dialogue, you can define which areas Photoshop should sample by painting in or out the green highlight sections.
 
-### Key Points to Remember
+### 4.2 Key Points to Remember
 
 1. **Non-Destructive Workflow:** Always create new layers for retouching to keep the original image intact.
 2. **Leverage AI Tools:** Use new AI-powered tools like Generative Fill to streamline complex retouching tasks.
 3. **Stay Flexible:** Keep your layers organized and editable by using Adjustment Layers, Layer Masks, and Smart Objects.
 
-## Skin Smoothing Smart Filter
+## 5. Skin Smoothing Smart Filter
 
 The **Skin Smoothing** smart filter in Photoshop is a powerful tool designed to enhance portraits by smoothing skin while preserving important details, such as skin texture and facial features. This filter is part of the **Neural Filters** feature, which uses AI to achieve professional results with minimal effort.
 
-#### How to Use the Skin Smoothing Filter
+#### 5.1 How to Use the Skin Smoothing Filter
 
 <Slideshow
   :key="'Skin Smoothing'"
@@ -181,13 +181,13 @@ The **Skin Smoothing** smart filter in Photoshop is a powerful tool designed to 
    - **Smoothness:** Adjusts the balance between natural skin texture and smoothing.
 5. **Preview and Apply:** Review the changes in real-time and fine-tune the sliders until you get the desired effect. Click **OK** to apply the filter.
 
-#### Why Use the Skin Smoothing Smart Filter?
+#### 5.2 Why Use the Skin Smoothing Smart Filter?
 
 - **Non-Destructive Workflow:** By converting the layer to a Smart Object, you can always go back and adjust the filter or remove it entirely.
 - **Quick & Professional Results:** The filter uses AI to identify skin areas and smooth them while keeping important details intact, making it faster than traditional manual techniques.
 - **Customization:** With adjustable sliders, you can control the level of smoothing and ensure the result matches your vision, whether you want a subtle touch-up or a more polished look.
 
-#### Tips for Best Results
+#### 5.3 Tips for Best Results
 
 - **Use Moderation:** Avoid over-smoothing, which can make the skin look unnatural. Aim for a balance that retains skin texture while minimizing imperfections.
 - **Combine with Other Techniques:** For a more refined result, combine the Skin Smoothing filter with other retouching tools like the Healing Brush or Clone Stamp to address specific blemishes.

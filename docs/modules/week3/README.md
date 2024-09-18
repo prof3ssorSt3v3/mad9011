@@ -1,6 +1,6 @@
 # Week 3 - Introduction to Illustrator
 
-<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
+<Countdown date="2024-09-18" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
 
 ## Learning Objectives
 
@@ -21,6 +21,8 @@ By the end of this week, students will be able to:
 [demo-drawing-with-shapes](https://drive.google.com/file/d/1x3grcghX78odQJoGhX4uXiUD4Bo8HHyu/view?usp=sharing)
 
 ## 1. What is Adobe Illustrator?
+
+![Illustrator](./illustrator-logo.png)
 
 Adobe Illustrator is a powerful vector graphics editor used by designers and artists to create a wide range of visuals, including logos, illustrations, typography, and complex graphics. Unlike raster graphics, vector graphics are made up of paths, making them infinitely scalable without loss of quality.
 
