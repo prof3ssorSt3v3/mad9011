@@ -1,7 +1,7 @@
 # Exercise 3 — Logo Recreation
 
 ::: tip Files
-[Exercise file download]()
+[Exercise file download](https://drive.google.com/file/d/1n-2R4H-8QnDmxTcWhPtSx9v_gQC-NZMV/view?usp=sharing)
 :::
 
 ## Introduction
@@ -26,18 +26,22 @@ In this exercise, you’ll learn how basic shapes can be the building blocks of 
 
 7. Review and finalize your work for clean lines, smooth curves, and accurate proportions, ensuring a polished and professional result.
 
-## Helpful Tutorials
-
-Watch/Read these tutorials to help you recreate your logos in Illustrator using basic shapes:
-
-- [Create and edit shapes](https://helpx.adobe.com/illustrator/how-to/shapes-basics.html)
-- [How to use the Pathfinder Tool](https://helpx.adobe.com/illustrator/how-to/pathfinder-shape-mode.html)
-- [How to use the Direct Selection Tool](https://www.youtube.com/watch?v=3VWF0gcqfGk)
-- [Align and distribute objects](https://helpx.adobe.com/illustrator/using/aligning-distributing-objects.html)
-
 ## File Setup
 
 Save your Illustrator file as `lName-fName-logo-recreation.ai`. Ensure your file is organized with layers labeled clearly, and all logos are recreated on the "Final Artwork" layer. You do not need to export JPG versions.
+
+## Using Pathfinder with Strokes
+
+<Slideshow
+  :key="'PathfinderAndStrokes'"
+  :images="[
+    { label: '1', src: '/f2024/moduleImages/week3/pathfinderStrokes/1.png' },
+    { label: '2', src: '/f2024/moduleImages/week3/pathfinderStrokes/2.png' },
+    { label: '3', src: '/f2024/moduleImages/week3/pathfinderStrokes/3.png' },
+    { label: '4', src: '/f2024/moduleImages/week3/pathfinderStrokes/4.png' },
+    { label: '5', src: '/f2024/moduleImages/week3/pathfinderStrokes/5.png' }
+  ]"
+/>
 
 ## Submission
 
