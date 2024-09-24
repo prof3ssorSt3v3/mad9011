@@ -71,6 +71,8 @@ Learn to apply various effects like drop shadows, inner or outer glows, and feat
 
 ![Effects banner](./effects-banner.png)
 
+<!-- SLIDE SHOW? -->
+
 ### Applying Drop Shadows
 
 Drop shadows add depth to your designs by creating a shadow effect behind an object, making it appear as if it is raised above the background.
@@ -173,6 +175,8 @@ The **secondary colors** are orange, purple, and green, which may be created by 
 
 ### The 60-30-10 Color Rule
 
+<!-- SLIDE SHOW? -->
+
 ![60-30-10 Color Rule](./60-30-10.png)
 
 A popular approach to achieving color balance is the 60-30-10 rule, often associated with the notion of a Golden Ratio in design. This rule suggests that:
@@ -209,6 +213,8 @@ Effective UI design leverages this rule to achieve an impeccable color coordinat
 - **Interactive Elements and Highlights:** Vibrant Purple (`#7366F0`)
 
 ## UI Button Design
+
+<!-- SLIDE SHOW? -->
 
 ![Button states banner](./button-states.png)
 

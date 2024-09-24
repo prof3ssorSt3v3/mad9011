@@ -45,6 +45,8 @@ Save your Illustrator file as `lName-fName-logo-recreation.ai`. Ensure your file
 
 ## Submission
 
+<br/>
+
 <Badge text="Section 010: Tuesday September 24th @9:00pm" />
 <Badge type="error" text="Section 020: Tuesday September 24th @7:00pm" />
 

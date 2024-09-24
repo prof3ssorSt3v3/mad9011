@@ -29,7 +29,7 @@ Every week there will be work for you to complete inside or outside of class. So
   dueDate="Section 010: Tuesday September 24th @9:00pm"
     secondaryDueDate="Section 020: Tuesday September 24th @7:00pm"
   description="In this exercise, you'll learn how to use basic shapes for logo creation using simple shapes and then utilizing pathfinder tools and anchor point manipulation"
-  linkType="paused"
+  linkType="active"
   detailsLink="./exercises/ex-3.html"
 />
 
