@@ -95,7 +95,7 @@ The **Gradient Tool** in Illustrator allows you to create smooth color transitio
 3. Adjust the color stops by dragging the sliders in the Gradient panel.
 4. Customize the angle, opacity, and position of the gradient for fine control.
 
-### 2.4 Gradient Panel
+**Gradient Panel**
 
 ![Gradient Panel](./gradientPanel.png)
 
