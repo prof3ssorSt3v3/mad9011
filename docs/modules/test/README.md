@@ -60,21 +60,36 @@ In Illustrator, color is applied through several tools that allow precision and 
 
 ### 2.1 Colour Picker
 
-<!-- Expand on this -->
+The **Color Picker** allows for precise color selection. You can:
 
-The Color Picker allows for precise color selection. You can manually input values for RGB, CMYK, or HSB, or choose from a color spectrum.
+- Manually input values for RGB, CMYK, or HSB.
+- Select colors from a spectrum or use the eyedropper to pick colors from your design.
 
 ### 2.2 Colour Swatches
 
-<!-- Tell me how to do this -->
+**Swatches** in Illustrator allow you to save custom colors for easy access later. To create a new swatch:
 
-Use swatches to save and reuse custom colors in your design. Explore Illustrator’s pre-made color libraries for quick access to popular color schemes.
+1. Select a color in the Color Picker.
+2. Open the **Swatches panel**.
+3. Click on the new swatch icon at the bottom to save the color for future use.
+
+You can also explore Illustrator’s pre-made color libraries for quick access to popular palettes.
 
 ### 2.3 Gradient Tool
 
 ![Gradient Types Banner](./gradient-types.png)
 
-<!-- Tell me all about Graidents, the types, how to make them -->
+The **Gradient Tool** in Illustrator allows you to create smooth color transitions. There are two primary types of gradients:
+
+- **Linear Gradient**: Transitions colors along a straight line.
+- **Radial Gradient**: Transitions colors in a circular pattern from a central point.
+
+**How to create a gradient:**
+
+1. Select an object and open the Gradient panel.
+2. Choose between **Linear** or **Radial**.
+3. Adjust the color stops by dragging the sliders in the Gradient panel.
+4. Customize the angle, opacity, and position of the gradient for fine control.
 
 **Demo**: [Gradient Demo: Bubble](https://drive.google.com/drive/folders/1M5m3ZtZh9FATY83xFqRZximU786w0yCc?usp=sharing)
 
@@ -98,11 +113,6 @@ Drop shadows add depth to your designs by creating a shadow effect behind an obj
   ]"
 />
 
-1. **Select Your Object**: Choose the object you want to add a shadow to.
-2. **Go to Effect Menu**: Click on `Effect > Stylize > Drop Shadow`.
-3. **Adjust Settings**: In the Drop Shadow dialog box, you can adjust the opacity, angle, distance, blur, and color of the shadow.
-4. **Preview and Apply**: Use the preview option to see the effect in real-time. Once satisfied, click `OK` to apply.
-
 ### 3.2 Inner or Outer Glow
 
 Inner or Outer Glow creates a soft halo around an object, which can be used to highlight elements or create a specific mood.
@@ -116,14 +126,6 @@ Inner or Outer Glow creates a soft halo around an object, which can be used to h
     { label: 'Result', src: '/f2024/moduleImages/week4/innerGlow/4.png' },
   ]"
 />
-
-- **Inner Glow**: Adds a glow that emanates from the inside edges of your object.
-- **Outer Glow**: Adds a glow that radiates outward from your object.
-
-1. **Select the Object**: Click on the object to which you want to apply the glow.
-2. **Access the Glow Options**: Choose `Effect > Stylize` and select `Inner Glow` or `Outer Glow`.
-3. **Customize the Glow**: Adjust the color, opacity, and blur radius. For Inner Glow, you can also set the glow to emanate from the edge or center.
-4. **Apply the Effect**: Preview the effect and click `OK` to apply it.
 
 ### 3.3 Feather
 
@@ -139,16 +141,23 @@ Feathering softens the edges of an object, creating a gradual transition between
   ]"
 />
 
-1. **Select the Object**: Click on the object whose edges you want to feather.
-2. **Feather the Edges**: Navigate to `Effect > Stylize > Feather`.
-3. **Set the Radius**: In the Feather dialog box, set the radius to determine how soft and wide the feathered edge will be.
-4. **Preview and Apply**: Use the preview feature to see how the feathered edge looks. Adjust the radius as needed and click `OK` to apply the feather effect.
-
 ## 4. Utilizing Colors in UI Design
 
 Color is crucial in UI design—it affects usability, readability, and the overall mood of the interface. Learn how to create harmonious color schemes that enhance user experience.
 
-<!-- UI Color Schemes Slideshow -->
+<Slideshow
+  :key="'Colour Schemes'"
+  :images="[
+    { label: 'Monochromatic', src: '/f2024/moduleImages/week4/colourSchemes/1.png' },
+    { label: 'Analogous', src: '/f2024/moduleImages/week4/colourSchemes/2.png' },
+    { label: 'Complementary', src: '/f2024/moduleImages/week4/colourSchemes/3.png' },
+    { label: 'Split Complementary', src: '/f2024/moduleImages/week4/colourSchemes/4.png' },
+    { label: '60-30-10 Rule', src: '/f2024/moduleImages/week4/colourSchemes/5.png' },
+    { label: 'Light and Dark Mode', src: '/f2024/moduleImages/week4/colourSchemes/6.png' },
+  ]"
+/>
+
+<!-- Add more content to this section -->
 
 ::: tip Helpful Tools for Color Schemes
 
@@ -156,4 +165,4 @@ Color is crucial in UI design—it affects usability, readability, and the overa
 - **[Colormind.io](http://colormind.io/bootstrap/)**: Generate aesthetically pleasing color palettes with web element examples.
   :::
 
-#
+### 5. Accessibility
