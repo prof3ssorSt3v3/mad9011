@@ -30,10 +30,14 @@ Understanding color modes is essential for ensuring your designs look the way yo
 
 To switch between color modes in Illustrator:
 
-1. For the whole document: `File > Document Color Mode`, then select RGB or CMYK.
-2. For individual elements: Select the object, open the Color panel, click the menu icon, and choose either RGB or CMYK.
-
-<!-- Add a Slideshow explaining the effect of color mode changes visually -->
+<Slideshow
+  :key="'colourModes'"
+  :images="[
+    { label: 'Document Setup', src: '/f2024/moduleImages/week4/colourMode/1.png' },
+    { label: 'After Setup 1', src: '/f2024/moduleImages/week4/colourMode/2.png' },
+    { label: 'After Setup 2', src: '/f2024/moduleImages/week4/colourMode/3.png' }
+  ]"
+/>
 
 ### 1.3 Basic Color Theory
 
@@ -76,11 +80,23 @@ Use swatches to save and reuse custom colors in your design. Explore Illustrator
 
 ## 3. Effects
 
+![Effects banner](./effects-banner.png)
+
 Effects like drop shadows, glows, and feathering help enhance the visual impact of your designs by adding depth and texture.
 
 ### 3.1 Dropshadow
 
 Drop shadows add depth to your designs by creating a shadow effect behind an object, making it appear as if it is raised above the background.
+
+<Slideshow
+  :key="'dropshadow'"
+  :images="[
+    { label: 'Step 1', src: '/f2024/moduleImages/week4/dropshadow/1.png' },
+    { label: 'Step 2', src: '/f2024/moduleImages/week4/dropshadow/2.png' },
+    { label: 'Step 3', src: '/f2024/moduleImages/week4/dropshadow/3.png' },
+    { label: 'Result', src: '/f2024/moduleImages/week4/dropshadow/4.png' },
+  ]"
+/>
 
 1. **Select Your Object**: Choose the object you want to add a shadow to.
 2. **Go to Effect Menu**: Click on `Effect > Stylize > Drop Shadow`.
@@ -90,6 +106,16 @@ Drop shadows add depth to your designs by creating a shadow effect behind an obj
 ### 3.2 Inner or Outer Glow
 
 Inner or Outer Glow creates a soft halo around an object, which can be used to highlight elements or create a specific mood.
+
+<Slideshow
+  :key="'Inner Glow'"
+  :images="[
+    { label: 'Step 1', src: '/f2024/moduleImages/week4/innerGlow/1.png' },
+    { label: 'Step 2', src: '/f2024/moduleImages/week4/innerGlow/2.png' },
+    { label: 'Step 3', src: '/f2024/moduleImages/week4/innerGlow/3.png' },
+    { label: 'Result', src: '/f2024/moduleImages/week4/innerGlow/4.png' },
+  ]"
+/>
 
 - **Inner Glow**: Adds a glow that emanates from the inside edges of your object.
 - **Outer Glow**: Adds a glow that radiates outward from your object.
@@ -102,6 +128,16 @@ Inner or Outer Glow creates a soft halo around an object, which can be used to h
 ### 3.3 Feather
 
 Feathering softens the edges of an object, creating a gradual transition between the object and the background.
+
+<Slideshow
+  :key="'Feather'"
+  :images="[
+    { label: 'Step 1', src: '/f2024/moduleImages/week4/feather/1.png' },
+    { label: 'Step 2', src: '/f2024/moduleImages/week4/feather/2.png' },
+    { label: 'Step 3', src: '/f2024/moduleImages/week4/feather/3.png' },
+    { label: 'Result', src: '/f2024/moduleImages/week4/feather/4.png' },
+  ]"
+/>
 
 1. **Select the Object**: Click on the object whose edges you want to feather.
 2. **Feather the Edges**: Navigate to `Effect > Stylize > Feather`.
