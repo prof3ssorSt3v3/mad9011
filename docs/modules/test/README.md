@@ -1,6 +1,6 @@
 # Week 4 - Color and Design Elements
 
-<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
+<Countdown date="2024-09-24" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
 
 ## Learning Objectives
 
