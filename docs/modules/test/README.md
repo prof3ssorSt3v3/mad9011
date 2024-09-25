@@ -1,159 +1,155 @@
 # Week 4 - Color and Design Elements
 
-<Countdown date="2024-09-24" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
-
 ## Learning Objectives
 
-By the end of this week, you should be able to:
+By the end of this week, students will be able to:
 
-1. **Identify and use various color modes**: Learn when and how to use RGB, CMYK, Greyscale, and Web Safe RGB, depending on whether your design is for print or digital.
-2. **Manipulate colors in Adobe Illustrator**: Use tools like the Color Picker, Swatches, and Recolor Artwork to apply and modify colors effectively.
-3. **Apply color theory principles**: Create harmonious designs using complementary colors and custom palettes, while ensuring color accessibility.
-4. **Master gradients and effects**: Apply gradients, drop shadows, inner/outer glows, and feathering for added depth and visual interest.
-5. **Refine typography in designs**: Style text using the character and paragraph panels, applying appropriate spacing, alignment, and hierarchy.
-
----
-
-## 1. Introduction to Color Modes
-
-Color modes define how colors are produced in a design, whether through light (RGB) or ink (CMYK). Choosing the right color mode is essential for achieving the correct color output depending on the medium you're designing for.
-
-### 1.1 Understanding Color Modes
-
-![Colour modes banner](./color-modes.png)
-
-- **RGB (Red, Green, Blue)**: This mode is ideal for designs intended for screens—websites, apps, or digital graphics—where colors are created using light.
-- **CMYK (Cyan, Magenta, Yellow, Black)**: Best for print materials, as colors are achieved by layering ink. Use this for flyers, brochures, and other print products.
-- **HSB (Hue, Saturation, Brightness)**: Provides intuitive color control, often used for digital art where you need fine-tuning of colors based on human perception.
-- **Greyscale**: Uses shades of grey, often employed for black-and-white printing or minimalistic designs.
-- **Web Safe RGB**: Ensures color consistency across different web browsers and monitors, useful when designing for older or limited display technology.
-
-> **Instruction**: Identify the project you're working on and determine which color mode will give you the best results. For screen designs, start in **RGB**; for print, use **CMYK**.
+1. **Understand Color Modes**: Grasp the different color modes (RGB, CMYK, HSB, Grayscale) and how to apply them to various design contexts.
+2. **Use Illustrator's Color Tools**: Master the Color Picker, Swatches, and Gradient tool in Adobe Illustrator for precise color application.
+3. **Apply Effects**: Learn to use drop shadows, inner/outer glows, and feathering to enhance the depth and visual appeal of your designs.
+4. **Typography Skills**: Develop skills in working with typography, including using Illustrator’s Character and Paragraph panels.
+5. **UI Design Color**: Utilize color effectively in UI design, understanding color schemes and how color affects user interaction.
+6. **Design Buttons for UI**: Create effective, visually appealing buttons by understanding size, color, states, and typography.
 
 ---
 
-### 1.2 Changing Color Modes in Illustrator
+## 1. Colour Modes
 
-Switching color modes in Illustrator ensures your designs output correctly for the intended medium. Here’s how to do it:
+Color modes are crucial for achieving the correct visual output, whether on digital screens or in print. This section introduces the types of color modes, their uses, and how to switch between them in Illustrator.
 
-1. **To change the entire document’s color mode**:
-   - Go to `File > Document Color Mode`.
-   - Select either **RGB** or **CMYK**.
-2. **To change the color mode of an individual element**:
-   - Select the object, then go to the **Color panel**.
-   - Click the fly-out menu and choose between **RGB** or **CMYK**.
+### 1.1 Colour Modes: Types and Uses
 
-> **Instruction**: Practice switching color modes in Illustrator based on different project requirements. Open a new document, create an object, and change its color mode. Note the difference in the appearance of the colors between RGB and CMYK.
+Understanding color modes is essential for ensuring your designs look the way you intend across digital and print formats. Common color modes include:
 
----
+- **RGB (Red, Green, Blue)**: Ideal for digital screens.
+- **CMYK (Cyan, Magenta, Yellow, Key/Black)**: Best for print media.
+- **HSB (Hue, Saturation, Brightness)**: User-friendly for color selection based on human perception.
+- **Greyscale**: Used for monochromatic designs.
 
-## 2. Using Illustrator’s Color Tools
+**Pro Tip**: Always choose the appropriate color mode based on your design's final output—digital or print.
 
-### 2.1 Working with Swatches and the Color Picker
+### 1.2 Changing Colour Modes
 
-Mastering the color tools in Illustrator allows you to maintain color consistency across your designs and explore different color palettes efficiently.
+To switch between color modes in Illustrator:
 
-- **Swatches**: Store and reuse custom or pre-built colors (like Pantone colors for print) to keep your palette consistent.
-- **Color Picker**: Adjust colors precisely using hue, saturation, and brightness, giving you complete control over how your colors appear.
+1. For the whole document: `File > Document Color Mode`, then select RGB or CMYK.
+2. For individual elements: Select the object, open the Color panel, click the menu icon, and choose either RGB or CMYK.
 
-> **Instruction**: Create a custom swatch in Illustrator. Open the **Swatches panel**, select a color using the **Color Picker**, and save it as a swatch for future use. Apply this swatch to different elements in your design.
+<!-- Add a Slideshow explaining the effect of color mode changes visually -->
 
----
+### 1.3 Basic Color Theory
 
-### 2.2 Recolor Artwork Tool
-
-The Recolor Artwork tool allows you to quickly modify the color palette of an entire design, making it easier to experiment with different schemes or follow branding guidelines.
-
-1. **Select your design**.
-2. Go to `Edit > Edit Colors > Recolor Artwork`.
-3. Adjust the **color wheel** or choose a **preset color harmony**.
-4. **Preview** the changes and apply them when satisfied.
-
-> **Instruction**: Experiment with the **Recolor Artwork tool**. Create a simple design and try changing its entire color scheme using this tool. Explore different preset color harmonies to see how they affect your design’s mood.
+Explain fundamental color theory concepts such as the color wheel, primary and secondary colors, and the 60-30-10 rule for creating balanced color schemes in UI design.
 
 ---
 
-## 3. Working with Gradients in Illustrator
+## 2. Using Colours in Illustrator
 
-Gradients are useful for creating depth and transitions between colors in vector graphics.
+In Illustrator, color is applied through several tools that allow precision and flexibility. This section covers the Color Picker, Swatches, and Gradient tools.
 
-### 3.1 Using the Gradient Tool
+### 2.1 Colour Picker
 
-Gradients let you blend colors smoothly across shapes. In Illustrator, you can apply:
+The Color Picker allows for precise color selection. You can manually input values for RGB, CMYK, or HSB, or choose from a color spectrum.
 
-- **Linear Gradients**: Gradual color transition along a straight line.
-- **Radial Gradients**: Color transitions radiating from the center outward.
-- **Freeform Gradients**: Customize colors along various points of a shape for a more organic look.
+### 2.2 Colour Swatches
 
-1. **Select an object**.
-2. Open the **Gradient panel** (`Window > Gradient`).
-3. Choose **Linear**, **Radial**, or **Freeform** gradient types.
-4. Adjust the color stops and direction for a smooth transition.
+Use swatches to save and reuse custom colors in your design. Explore Illustrator’s pre-made color libraries for quick access to popular color schemes.
 
-> **Instruction**: Create an object (e.g., a circle) and apply a **radial gradient**. Adjust the color stops to create a smooth transition from one color to another. Experiment with the **Freeform Gradient** to place custom colors at various points of your object.
+### 2.3 Gradient Tool
 
----
+Master the Gradient tool to create smooth transitions between colors. You can create linear or radial gradients, adjust color stops, and save custom gradients for future use.
 
-## 4. Applying Effects in Illustrator
-
-Effects like drop shadows and glows enhance the depth and realism of your designs.
-
-### 4.1 Applying Drop Shadows
-
-1. **Select your object**.
-2. Go to `Effect > Stylize > Drop Shadow`.
-3. Adjust the **opacity**, **distance**, **blur**, and **angle** to your preference.
-4. Preview the shadow before applying.
-
-> **Instruction**: Choose a text or shape and add a **drop shadow**. Experiment with different settings to see how shadow placement and intensity can alter the visual effect of the design.
+**Demo**: [Gradient Demo: Bubble](https://drive.google.com/drive/folders/1M5m3ZtZh9FATY83xFqRZximU786w0yCc?usp=sharing)
 
 ---
 
-### 4.2 Applying Glows (Inner and Outer)
+## 3. Effects
 
-1. **Select your object**.
-2. Go to `Effect > Stylize > Inner Glow` or `Outer Glow`.
-3. Adjust the **blur**, **opacity**, and **color** to control the glow's appearance.
+Effects like drop shadows, glows, and feathering help enhance the visual impact of your designs by adding depth and texture.
 
-> **Instruction**: Apply an **outer glow** to an icon or logo in your design. Experiment with the glow color and blur settings to highlight the element without overpowering the design.
+### 3.1 Dropshadow
 
----
+Drop shadows add depth by simulating a shadow cast behind an object.
 
-## 5. Typography in Illustrator
+- Go to `Effect > Stylize > Drop Shadow`.
+- Adjust the opacity, blur, and angle to control the shadow's appearance.
 
-Typography is crucial for readability and establishing visual hierarchy in your designs.
+### 3.2 Inner or Outer Glow
 
-### 5.1 Using the Type Tool
+Use glows to create a halo effect around an object.
 
-1. Select the **Type Tool** from the toolbar (`T`).
-2. Click anywhere on the artboard to start typing (Point Type).
-3. Drag to create a text box (Area Type) for block text.
+- **Inner Glow**: Adds a glow inside the object's edges.
+- **Outer Glow**: Radiates outward from the object.
 
-> **Instruction**: Practice creating both **Point Type** and **Area Type** text blocks. Explore different fonts and text sizes, and adjust the alignment using the **Paragraph panel**.
+### 3.3 Feather
 
----
+Feathering softens the edges of an object, blending it with the background.
 
-### 5.2 Character and Paragraph Panels
-
-Use the **Character** and **Paragraph** panels to fine-tune text properties:
-
-- **Kerning**: Adjusts the space between individual characters.
-- **Tracking**: Controls the overall spacing of letters in a text block.
-- **Leading**: Changes the vertical spacing between lines.
-
-> **Instruction**: Create a text block and experiment with adjusting the **tracking** and **leading** in the **Character panel**. Modify the alignment using the **Paragraph panel**.
+- Go to `Effect > Stylize > Feather` and adjust the radius to control the softness.
 
 ---
 
-## 6. Color Accessibility
+## 4. Typography in Illustrator
 
-Designing with accessibility in mind ensures that your work is inclusive for individuals with visual impairments.
+Typography is crucial in communicating messages visually. This section delves into typography tools in Illustrator and how to manage text styles effectively.
 
-### 6.1 Ensuring Color Contrast
+### 4.1 Typography Basics
 
-Test your designs for adequate color contrast to ensure text and important elements stand out.
+Typography isn't just about words—it's about how those words look. Learn the difference between typefaces and fonts, and understand key concepts like serif vs. sans-serif, hierarchy, and readability.
 
-- Use tools like **[Contrast Checker](https://webaim.org/resources/contrastchecker/)** to verify your text-background combinations.
-- Ensure that your text meets the recommended **contrast ratio** for readability, especially for those with color vision deficiencies.
+### 4.2 Working with Type in Illustrator
 
-> **Instruction**: Use **Adobe Color** or other online tools to create an accessible color palette. Test this palette in different text and background combinations using the contrast checker to ensure that all elements are easily readable.
+Illustrator’s Type tool allows for flexible text manipulation. You can create **Point Type** (click-and-type) or **Area Type** (type inside a defined shape).
+
+### 4.3 Character and Paragraph Panels
+
+**Character Panel**: Control font size, leading, kerning, tracking, and baseline shift to customize text appearance.
+
+**Paragraph Panel**: Manage text alignment, indentation, and spacing between paragraphs. Perfect for creating clean, readable layouts.
+
+---
+
+## 5. Utilizing Colors in UI Design
+
+Color is crucial in UI design—it affects usability, readability, and the overall mood of the interface. Learn how to create harmonious color schemes that enhance user experience.
+
+### UI Color Schemes Slideshow
+
+Create a slideshow showcasing examples of successful UI color schemes, highlighting primary, secondary, and accent colors.
+
+---
+
+::: tip Helpful Tools for Color Schemes
+
+- **[Adobe Color](https://color.adobe.com/)**: Create and explore unique color palettes.
+- **[Colormind.io](http://colormind.io/bootstrap/)**: Generate aesthetically pleasing color palettes with web element examples.
+  :::
+
+---
+
+## 6. UI Button Design Fundamentals
+
+UI buttons are central to creating an intuitive user interface. This section explores key aspects of button design.
+
+### 6.1 Sizes
+
+Ensure your buttons are large enough to be tapped or clicked easily. For mobile, aim for 44px minimum.
+
+### 6.2 Colour
+
+Use color to signal importance (e.g., primary actions in bright, eye-catching colors). Ensure contrast for readability.
+
+### 6.3 States
+
+Buttons should have distinct visual states:
+
+- **Normal**: Default appearance.
+- **Hover**: Indicates interactivity.
+- **Active**: Shows the button is being clicked.
+- **Disabled**: Unavailable for interaction.
+
+### 6.4 Typography
+
+Use clear, readable fonts for button labels. Ensure sufficient contrast between the text and the button background for accessibility.
+
+---
