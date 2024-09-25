@@ -88,16 +88,16 @@ The **Gradient Tool** in Illustrator allows you to create smooth color transitio
 - **Linear Gradient**: Transitions colors along a straight line.
 - **Radial Gradient**: Transitions colors in a circular pattern from a central point.
 
+**Gradient Panel**
+
+![Gradient Panel](./gradientPanel.png)
+
 **How to create a gradient:**
 
 1. Select an object and open the Gradient panel.
 2. Choose between **Linear** or **Radial**.
 3. Adjust the color stops by dragging the sliders in the Gradient panel.
 4. Customize the angle, opacity, and position of the gradient for fine control.
-
-**Gradient Panel**
-
-![Gradient Panel](./gradientPanel.png)
 
 **Demo**: [Gradient Demo: Bubble](https://drive.google.com/drive/folders/1M5m3ZtZh9FATY83xFqRZximU786w0yCc?usp=sharing)
 
