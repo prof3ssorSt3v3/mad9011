@@ -4,6 +4,8 @@
 
 In this exercise, you will leverage Adobe Illustrator's gradient tools to transform a real-life landscape photograph into a vibrant, gradient-rich illustration. This task will enhance your understanding of gradient techniques, color blending, and vector illustration principles. By tracing over an actual photo, you'll learn how to apply gradients effectively to convey depth, dimension, and natural color variations, resulting in a visually appealing and cohesive landscape design.
 
+![Example](./assets/natureExample.jpg)
+
 ## Instructions
 
 ### 1. Select Your Reference Photo
@@ -18,7 +20,9 @@ In this exercise, you will leverage Adobe Illustrator's gradient tools to transf
 - **Create a New Document:**
   - Open Adobe Illustrator and create a new document (e.g., 1920x1080 pixels).
 - **Import the Reference Photo:**
-  - Go to `File > Place`, select your chosen photo, and position it on the artboard.
+  - Go to `File > Place`, select your chosen photo, and position it on the artboard or drag and drop your image into your newly created file.
+- **Embed Image**
+  - With your image selected, click the (`Embed`) button on the control panel. This will incorporate the linked image directly into your Illustrator file, ensuring it remains accessible even if the original file is moved or deleted.
 - **Lock the Photo Layer:**
   - Open the Layers panel (`Window > Layers`).
   - Lock the layer containing the photo to prevent accidental edits by clicking the lock icon next to the layer.
@@ -28,7 +32,7 @@ In this exercise, you will leverage Adobe Illustrator's gradient tools to transf
 - **Create a New Layer for Tracing:**
   - In the Layers panel, create a new layer above the photo layer for your illustration.
 - **Trace the Main Shapes:**
-  - Use the **Pen Tool (P)** or **Pencil Tool (N)** to trace the primary elements of the landscape, such as the horizon line, mountains, trees, and water bodies.
+  - Use the **Pen Tool (P)** to trace the primary elements of the landscape, such as the horizon line, mountains, trees, and water bodies.
   - Focus on capturing the overall shapes and proportions without adding intricate details at this stage.
 
 ### 4. Apply Gradients to Each Element
@@ -70,10 +74,9 @@ In this exercise, you will leverage Adobe Illustrator's gradient tools to transf
 - **Hide the Reference Photo:**
   - In the Layers panel, hide or delete the photo layer to view your final illustration without distractions.
 - **Save Your Work:**
-
   - Save the Illustrator file (`File > Save As`) for future edits.
 
-  ## Additional Tips
+## Additional Tips
 
 - **Color Consistency:** Ensure that gradient colors harmonize across different elements to maintain a unified look.
 - **Layer Management:** Organize your layers logically (e.g., sky, mountains, trees) to streamline the editing process.
@@ -85,7 +88,7 @@ In this exercise, you will leverage Adobe Illustrator's gradient tools to transf
 <Badge text="Section 010: Tuesday October 1st @9:00pm" />
 <Badge type="error" text="Section 020: Tuesday October 1st @7:00pm" />
 
-Submit your `.ai` file by uploading it to Brightspace under `Activities > Assignments > Exercise 3 — Logo Recreation`. Ensure the file is properly named and uploaded before the deadline.
+Submit your `.ai` file by uploading it to Brightspace under `Activities > Assignments > Exercise 4 — Gradients in Nature`. Ensure the file is properly named and uploaded before the deadline.
 
 ## Submission
 
