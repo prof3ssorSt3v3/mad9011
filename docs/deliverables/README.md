@@ -38,7 +38,7 @@ Every week there will be work for you to complete inside or outside of class. So
   dueDate="Section 010: Tuesday October 1st @9:00pm"
     secondaryDueDate="Section 020: Tuesday October 1st @7:00pm"
   description="In this exercise, you will use Adobe Illustrator's gradient tools to transform a real-life landscape photograph into a vibrant, gradient-rich illustration, enhancing your skills in gradient techniques, color blending, and vector illustration. By tracing an actual photo, you'll learn to apply gradients effectively to convey depth, dimension, and natural color variations, resulting in a cohesive and visually appealing landscape design."
-  linkType="paused"
+  linkType="active"
   detailsLink="./exercises/ex-4.html"
 />
 

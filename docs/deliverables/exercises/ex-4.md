@@ -83,19 +83,9 @@ In this exercise, you will leverage Adobe Illustrator's gradient tools to transf
 - **Use Gradient Libraries:** Explore Illustrator’s gradient libraries for inspiration and to apply pre-set gradients effectively.
 - **Practice Gradients:** Spend time experimenting with different gradient types and settings to understand their impact on your design.
 
-## File Setup
+## File Setup & Submission
 
 <Badge text="Section 010: Tuesday October 1st @9:00pm" />
 <Badge type="error" text="Section 020: Tuesday October 1st @7:00pm" />
 
 Submit your `.ai` file by uploading it to Brightspace under `Activities > Assignments > Exercise 4 — Gradients in Nature`. Ensure the file is properly named and uploaded before the deadline.
-
-## Submission
-
-<br>
-
-- Open BS LMS and go to the `Activities` > `Assignments page`.
-- Go to `Exercise 4 — Gradients in Nature`
-- Upload your compressed folder on the assignment page in BS LMS and click the submit button.
-
-:::

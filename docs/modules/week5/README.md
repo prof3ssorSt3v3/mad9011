@@ -4,22 +4,7 @@
 
 ## Learning Objectives
 
-By the end of this week, students will be able to:
-
-- **Typography:**
-
-  - Understand the fundamentals of typography, including the difference between typefaces and fonts, and the characteristics of serif and sans serif typefaces.
-  - Apply principles of hierarchy and legibility to enhance the readability and visual appeal of text elements.
-  - Utilize Adobe Illustrator's typography tools, including the Type Tool, Character and Paragraph panels, to create and manipulate compelling text elements.
-  - Implement design principles such as clarity, consistency, and contextual relevance in typography to support overall UI design.
-
-- **UI Icons:**
-  - Understand the significance of icons within user interfaces and how they enhance user experience and navigation.
-  - Identify different types of UI icons (symbolic, representational, abstract) and their appropriate application in digital interfaces.
-  - Appreciate the psychological impact of icons on user perception and how it influences user interaction.
-  - Master the principles of icon design, including clarity, recognizability, consistency, and simplicity versus detail.
-  - Learn cultural considerations and the impact of color psychology in designing icons to ensure they are effective and appropriate for the target audience.
-  - Develop skills in creating a cohesive set of icons using Adobe Illustrator, focusing on technical aspects such as outlining strokes and testing for effectiveness.
+By the end of this week, students will be able to apply fundamental typography principles and Adobe Illustrator's typography tools to create compelling text elements and design a cohesive set of UI icons adhering to best practices for clarity, consistency, and usability.
 
 ## Typography in Illustrator
 
@@ -46,6 +31,8 @@ Illustrator offers a range of tools to manipulate text:
 
 The Character and Paragraph panels in Illustrator are essential tools for fine-tuning the appearance of your text. Here's how you can use them effectively:
 
+<!-- Slideshow -->
+
 ![Character and Paragraph Panel](./text-panel.png)
 
 **Character Panel**:
@@ -64,6 +51,30 @@ The Character and Paragraph panels in Illustrator are essential tools for fine-t
 - **Indentation**: Adjust the indent of your paragraphs from the left or right margins, or indent the first line of a paragraph for classic typesetting.
 - **Spacing Before and After Paragraphs**: Control the amount of space before and after paragraphs to create distinct sections or improve the flow of text.
 - **Hyphenation**: Enable or disable hyphenation to control how words break at the end of a line, affecting the aesthetics and readability of your text.
+
+### Platform Standards
+
+Understanding and adhering to platform-specific typography standards is crucial for creating designs that are consistent and user-friendly across different devices. Both iOS and Android have established guidelines that dictate the use of fonts, sizes, weights, and other typographic elements.
+
+![ios Typography](./iOS-banner.png)
+
+- **iOS Typography Standards:**
+  - **Fonts:** iOS primarily uses the San Francisco (SF) typeface, which includes SF Pro, SF Pro Display, and SF Pro Text.
+  - **Font Sizes:** iOS specifies font sizes for various text elements such as body, headline, and captions to ensure readability and hierarchy.
+  - **Weights:** SF Pro offers a range of weights from Ultra Light to Black, allowing designers to emphasize different parts of the UI.
+  - **Spacing and Alignment:** Proper line spacing and alignment are essential for maintaining legibility and aesthetic consistency.
+  - **Offical Guidelines:** Find more information [here.](https://developer.apple.com/design/human-interface-guidelines/typography)
+
+![Android Typography](./materialDesign-banner.png)
+
+- **Android Typography Standards:**
+  - **Fonts:** Android's default font is Roboto, with Roboto Condensed and Roboto Slab as alternatives.
+  - **Font Sizes:** Android's Material Design specifies a typographic scale that defines font sizes and their usage across different UI components.
+  - **Weights:** Roboto offers weights from Thin to Black, enabling designers to create a clear visual hierarchy.
+  - **Spacing and Alignment:** Material Design emphasizes the importance of line height, letter spacing, and text alignment to enhance readability and visual harmony.
+  - **Offical Guidelines:** Find more information [here.](https://m3.material.io/styles/typography/overview)
+
+By adhering to these platform standards, you ensure that your text elements not only look professional but also provide a seamless user experience tailored to each platform's unique requirements.
 
 ### Integrating Typography with Icon Design
 
