@@ -105,7 +105,7 @@ Feathering softens the edges of an object, creating a gradual transition between
 
 ## Typography in Illustrator
 
-![Typography](./typography-banner.png)
+<!-- ![Typography](./typography-banner.png) -->
 
 Typography is a critical element in design, conveying messages not just through words but also through their visual representation. In this section, we'll explore how to use Adobe Illustrator's powerful typography tools to create compelling text elements in your designs.
 
@@ -128,7 +128,7 @@ Illustrator offers a range of tools to manipulate text:
 
 The Character and Paragraph panels in Illustrator are essential tools for fine-tuning the appearance of your text. Here's how you can use them effectively:
 
-![Character and Paragraph Panel](./text-panel.png)
+<!-- ![Character and Paragraph Panel](./text-panel.png) -->
 
 **Character Panel**:
 
