@@ -1,6 +1,6 @@
 # Week 5 - Creating Icons and Typography in Illustrator
 
-<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
+<Countdown date="2024-10-01" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
 
 ## Learning Objectives
 
@@ -31,11 +31,9 @@ Illustrator offers a range of tools to manipulate text:
 
 The Character and Paragraph panels in Illustrator are essential tools for fine-tuning the appearance of your text. Here's how you can use them effectively:
 
-<!-- Slideshow -->
+**Character Panel**:
 
 ![Character and Paragraph Panel](./text-panel.png)
-
-**Character Panel**:
 
 - **Font Size**: Adjust the size of your text to ensure readability and fit within your design layout.
 - **Leading**: Control the vertical space between lines of text. Ideal leading makes text more legible and visually appealing.
@@ -46,6 +44,8 @@ The Character and Paragraph panels in Illustrator are essential tools for fine-t
 - **Rotation**: Rotate your characters for artistic text effects.
 
 **Paragraph Panel**:
+
+![Paragraph Panel](./paragraph-panel.png)
 
 - **Alignment**: Choose from left, right, centered, or justified text alignments to suit the layout and design of your content.
 - **Indentation**: Adjust the indent of your paragraphs from the left or right margins, or indent the first line of a paragraph for classic typesetting.
