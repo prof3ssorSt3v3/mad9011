@@ -56,7 +56,7 @@ Every week there will be work for you to complete inside or outside of class. So
   dueDate="Section 010: Sunday October 13th @11:59pm"
   secondaryDueDate="Section 020: Sunday October 13th @11:59pm"
   description="In this exercise, you'll create an engaging application loader using animated SVG in Adobe Illustrator, focusing on design aesthetics, clean export setup, and CSS-based animation styling."
-  linkType="paused"
+  linkType="active"
   detailsLink="./exercises/ex-6.html"
 />
 

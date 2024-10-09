@@ -1,5 +1,9 @@
 # Exercise 6 — Animated SVG
 
+::: tip Files
+[Exercise file download](https://drive.google.com/drive/folders/1AP4mHv7GCGzn5F6v7NFMejOCSgByWFBj?usp=sharing)
+:::
+
 ## Introduction
 
 In this exercise, you'll create an animated SVG loader to enhance user experience during application loading times. This task combines design skills with basic web development to implement a visually appealing and functional loader.
@@ -10,7 +14,7 @@ To successfully complete this exercise, follow these steps:
 
 1. **Download the started File:**
 
-- Download and open the provided file for this exercise from Brightspace. The file will be posted on Brightspace before your lab class.
+- Download and open the provided file above.
 
 2. **Design Your Loader:**
 
@@ -47,11 +51,13 @@ Package your files into a single compressed folder named `firstName-lastName-sec
 - `index.html` (containing your SVG code)
 - `Loader.ai` (the original Illustrator file)
 
-::: warning Submission
+## Submission
+
+<Badge text="Section 010: Sunday October 13th @11:59pm" />
+<Badge type="error" text="Section 020: Sunday October 13th @11:59pm" />
 
 <br>
 
 - Open BS LMS and go to the `Activities` > `Assignments page`.
 - Go to `Exercise 6 — Animated SVG`
 - Upload your compressed folder on the assignment page in BS LMS and click the submit button.
-  :::
