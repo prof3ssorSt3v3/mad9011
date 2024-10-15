@@ -79,7 +79,7 @@ In this part, you will design a set of UI buttons, each with an active and hover
 3. Ensure the buttons are visually distinct in both states, using design cues like color shifts, shadows, or subtle animations to communicate their functionality.
 4. Consider the size of your buttons to ensure they are large enough to be easily clickable but not overpowering in the overall design.
 5. Integrate your buttons into the desktop version of your web banner. Place them strategically so they complement the banner's design and encourage user interaction, while ensuring the text and images are still clear and impactful.
-6. Export your compiled web banner and buttons as .PNG files.
+6. Export your compiled web banner and buttons as .PNG files using the `Export for Screens` dialogue.
 
 **Resources:**
 
