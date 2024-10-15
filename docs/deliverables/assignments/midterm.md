@@ -207,7 +207,8 @@ submission-2/
 
 <br>
 
-<Badge type="error" text="Due: Tuesday, February 20th @9:00 pm" />
+<Badge text="Section 010: October 15th @9:00pm & October 20th @11:59pm" />
+<Badge type="error" text="Section 020: October 15th @7:00pm & October 20th @11:59pm" />
 
 - By the end of today's theory class, you will make your fist submission on Brightspace.
 - Compress `submission-1` folder and upload it to Brightspace
@@ -216,7 +217,8 @@ submission-2/
 
 <br>
 
-<Badge type="error" text="Due: Sunday, February 25th @11:59 pm" />
+<Badge text="Section 010: October 15th @9:00pm & October 20th @11:59pm" />
+<Badge type="error" text="Section 020: October 15th @7:00pm & October 20th @11:59pm" />
 
 - Submit the remaining assets ( UI icon set, animated loader, logo design) through Brightspace.
 - Compress `submission-2` folder and upload it to Brightspace

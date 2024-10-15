@@ -63,8 +63,8 @@ Every week there will be work for you to complete inside or outside of class. So
 ## Midterm <Badge type="error" text="25%" />
 
 <br>
-
-<Deliverable
+ 
+<Midterm
   title="Mobile Design Assets"
   dueDate="Section 010: October 15th @9:00pm & October 20th @11:59pm"
   secondaryDueDate="Section 020: October 15th @7:00pm & October 20th @11:59pm"
