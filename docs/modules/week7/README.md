@@ -8,7 +8,9 @@ This week is all about the midterm. Make sure you follow the instructions outlin
 
 <br>
 
-<Badge type="error" text="Due: Tuesday, February 20th @9:00 pm" />
+<Badge text="Section 010: October 15th @9:00pm" />
+<br/>
+<Badge type="error" text="Section 020: October 15th @7:00pm" />
 
 1. [Web Banners](../../deliverables/assignments/midterm.md#web-banners)
 2. [UI Button Set](../../deliverables/assignments/midterm.md#ui-button-set)
@@ -17,7 +19,9 @@ This week is all about the midterm. Make sure you follow the instructions outlin
 
 <br>
 
-<Badge type="error" text="Due: Sunday, February 25th @11:59 pm" />
+<Badge text="Section 010: October 20th @11:59pm" />
+<br/>
+<Badge type="error" text="Section 020: October 20th @11:59pm" />
 
 3. [UI Icon Set](../../deliverables/assignments/midterm.md#ui-icon-set)
 4. [Animated Loader](../../deliverables/assignments/midterm.md#animated-loader)

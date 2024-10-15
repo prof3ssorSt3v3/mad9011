@@ -32,22 +32,24 @@ You will utilize Adobe Photoshop for image optimization and manipulation, and Ad
 4. [Animated Loader](#animated-loader)
 5. [Logo Design](#logo-design)
 
-## Instructions
-
 ### Web Banners
 
-For the Web Banner portion of your midterm, you will be creating a series of banners that scale to three different sizes. The challenge is to design your banners in such a way that the main subject remains visible and impactful across all sizes, despite the varying aspect ratios.
+For the Web Banner portion of your midterm, you will be creating a series of banners that scale to three different sizes. The challenge is to design your banners in such a way that the main subject and accompanying text remain visible and impactful across all sizes, despite the varying aspect ratios.
 
-Here is an example, you can probably do better! :D
+Here is an example, you can probably do better! :D  
 ![Web Banner Example](./assets/web-banner-example.png)
 
 **Instructions**
 
 1. Using the file provided, select an image that aligns with your chosen app theme (e.g., if your theme is gardening, select an image related to gardening).
 2. Ensure your chosen image has a clear main subject that can remain the focal point across different banner sizes.
-3. Place your image within the provided artboards. Scale and adjust your image to fit nicely within the frames. Use content-aware fill or any other tool we learned in class to fill in gaps within your artboard.
-4. Ensure that your edits are non-destructive, allowing for adjustments and changes without permanently altering the original image.
-5. Export your banners as .PNGs at their respective sizes.
+3. Add a short and impactful message or slogan **only** to your web banner. Make sure the text is legible and maintains proper hierarchy, even when scaled down to smaller sizes.
+4. Think about where a **call-to-action (CTA) button** may be added in the future. Consider the necessary spacing to allow for the button placement without obstructing the main subject or text.
+5. Place your image and text within the provided artboards. Scale and adjust your elements to fit nicely within the frames.
+6. Utilize the tools we covered during the Photoshop portion of the course, such as **Masking** and **Layer Adjustments**, to make non-destructive edits that maintain flexibility for future changes.
+7. Export your banners as .PNGs at their respective sizes.
+
+> Although we did not explore the Text tool in Photoshop, it functions similar to Illustrators Text tool.
 
 **File organization:**
 
@@ -69,14 +71,14 @@ In this part, you will design a set of UI buttons, each with an active and hover
 
 ![UI Button Set Example](./assets/button-example.png)
 
-**Instructions:**
+### Instructions:
 
 1. Design two sets of buttons (e.g., "Read More" and "Subscribe") each with an alternate state (active & hover).
-2. Use consistent design elements (colors, fonts, shapes, gradients and effects ) that match your app's theme.
-3. Ensure the buttons are visually distinct in both states, using design cues to communicate their functionality.
-4. Consider the size of your buttons.
-5. Integrate your buttons into the desktop version of your web banner. Place them strategically so they complement the banner's design and encourage user interaction. Feel free to add text to your banner to help complete the look of your banner.
-6. Export your compiled web banner and buttons as .PNG
+2. Use consistent design elements (colors, fonts, shapes, **gradients**, and effects) that match your app's theme. Incorporate gradients to help create a sense of depth and make your buttons stand out more effectively.
+3. Ensure the buttons are visually distinct in both states, using design cues like color shifts, shadows, or subtle animations to communicate their functionality.
+4. Consider the size of your buttons to ensure they are large enough to be easily clickable but not overpowering in the overall design.
+5. Integrate your buttons into the desktop version of your web banner. Place them strategically so they complement the banner's design and encourage user interaction, while ensuring the text and images are still clear and impactful.
+6. Export your compiled web banner and buttons as .PNG files.
 
 **Resources:**
 
@@ -111,15 +113,15 @@ Create a set of 5 custom icons that will be used throughout your app. These shou
 
 ![UI Icon Set Example](./assets/ui-icon-example.png)
 
-**Instructions:**
+### Instructions:
 
-1. Start by created your icons within the 24x24px artboard. Each artboard is labeled with the icon you are to create.
-2. Once you have created your 24x24px icons, scale them to 48x48 px. ensure that your font weights and corner radii scale accordingly.
+1. Start by creating your icons within the **24x24px artboard**. Each artboard is labeled with the icon you are to create. Ensure you utilize the **keylines and grid** to maintain proper alignment and consistency in the proportions of your icons.
+2. Once you have created your 24x24px icons, scale them to **48x48px**. Make sure your font weights, corner radii, and other elements scale proportionally. Using the **keylines and grid** will help ensure your icons scale accurately and remain visually consistent.
 3. Finishing steps:
-   - Organize your layers by grouping and labeling.
-   - Make sure you save your .ai file.
-   - Be sure to hide the **keyline** layers before exporting
-   - Export your artboards using `export for Screens` dialogue.
+   - Organize your layers by grouping and labeling them properly for easier management.
+   - Make sure to save your `.ai` file regularly.
+   - Hide the **keyline** layers before exporting your icons.
+   - Export your artboards using the `Export for Screens` dialogue as SVGs for optimal quality.
 
 **File organization:**
 
@@ -207,8 +209,9 @@ submission-2/
 
 <br>
 
-<Badge text="Section 010: October 15th @9:00pm & October 20th @11:59pm" />
-<Badge type="error" text="Section 020: October 15th @7:00pm & October 20th @11:59pm" />
+<Badge text="Section 010: October 15th @9:00pm" />
+<br/>
+<Badge type="error" text="Section 020: October 15th @7:00pm" />
 
 - By the end of today's theory class, you will make your fist submission on Brightspace.
 - Compress `submission-1` folder and upload it to Brightspace
@@ -217,8 +220,9 @@ submission-2/
 
 <br>
 
-<Badge text="Section 010: October 15th @9:00pm & October 20th @11:59pm" />
-<Badge type="error" text="Section 020: October 15th @7:00pm & October 20th @11:59pm" />
+<Badge text="Section 010: October 20th @11:59pm" />
+<br/>
+<Badge type="error" text="Section 020: October 20th @11:59pm" />
 
 - Submit the remaining assets ( UI icon set, animated loader, logo design) through Brightspace.
 - Compress `submission-2` folder and upload it to Brightspace
