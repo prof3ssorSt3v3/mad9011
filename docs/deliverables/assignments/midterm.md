@@ -121,7 +121,7 @@ Create a set of 5 custom icons that will be used throughout your app. These shou
    - Organize your layers by grouping and labeling them properly for easier management.
    - Make sure to save your `.ai` file regularly.
    - Hide the **keyline** layers before exporting your icons.
-   - Export your artboards using the `Export for Screens` dialogue as SVGs for optimal quality.
+   - Export your 24x24 artboards using the `Export for Screens` dialogue as SVGs for optimal quality.
 
 **File organization:**
 

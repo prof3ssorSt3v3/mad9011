@@ -1,6 +1,6 @@
 # Week 7 - Midterm
 
-<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
+<Countdown date="2024-10-15" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
 
 This week is all about the midterm. Make sure you follow the instructions outlined in the [midterm deliverable](../../deliverables/assignments/midterm.md).
 
