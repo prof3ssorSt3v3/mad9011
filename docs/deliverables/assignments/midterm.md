@@ -62,7 +62,7 @@ submission-1/
 │       ├── web-banner-1200x600.png
 │       ├── tablet-banner-768x400.png
 │       └── mobile-banner-480x200.png
-├── ui-button-set/
+└── ui-button-set/
 
 ```
 
