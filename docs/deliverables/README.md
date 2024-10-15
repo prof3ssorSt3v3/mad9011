@@ -66,8 +66,8 @@ Every week there will be work for you to complete inside or outside of class. So
  
 <Midterm
   title="Mobile Design Assets"
-  dueDate="Section 010: October 15th @9:00pm & October 20th @11:59pm"
-  secondaryDueDate="Section 020: October 15th @7:00pm & October 20th @11:59pm"
+  dueDate="Section 010: October 15th @9:00pm, Section 020: October 15th @7:00pm"
+  secondaryDueDate="Section 010: October 20th @11:59pm, Section 020: October 20th @11:59pm"
   description="For your midterm project, you'll craft a comprehensive suite of mobile design assets, encompassing everything from optimized images to bespoke icons, leveraging the capabilities of both Adobe Photoshop and Illustrator."
   linkType="paused"
   detailsLink="./assignments/midterm.html"

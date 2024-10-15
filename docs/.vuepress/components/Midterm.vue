@@ -18,6 +18,7 @@
         />
       </div>
     </div>
+    <br />
     <router-link
       v-if="linkType === 'active'"
       :to="detailsLink"
