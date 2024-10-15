@@ -209,7 +209,7 @@ submission-2/
 <br/>
 <Badge type="error" text="Section 020: October 15th @7:00pm" />
 
-- By the end of today's theory class, you will make your fist submission on Brightspace.
+- By the end of today's Lab class, you will make your fist submission on Brightspace.
 - Compress `submission-1` folder and upload it to Brightspace
 
 **Submission 2:**
@@ -226,7 +226,7 @@ submission-2/
 ::: tip Submission on Brightspace
 
 - Open BS LMS and go to the `Activities` > `Assignments page`.
-- Go to `Midterm: Mobile Design Assets`
+- Go to `Midterm: Submission 1` or `Midterm: Submission 2` depending on the submission number.
 - Upload your compressed folder on the assignment page in BS LMS and click the submit button.
 
 :::
