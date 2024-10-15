@@ -62,6 +62,7 @@ submission-1/
 │       ├── web-banner-1200x600.png
 │       ├── tablet-banner-768x400.png
 │       └── mobile-banner-480x200.png
+├── ui-button-set/
 
 ```
 
@@ -90,7 +91,8 @@ In this part, you will design a set of UI buttons, each with an active and hover
 
 ```
 
-submission-2/
+submission-1/
+├── web-banner/
 ├── ui-button-set/
 │   ├── ui-button.ai
 │   └── exports/
@@ -101,9 +103,6 @@ submission-2/
 │           ├── button-1-hover.png
 │           ├── button-2-active.png
 │           └── button-2-hover.png
-├── ui-icon-set/
-├── animated-loader/
-└── logo-design/
 
 ```
 
@@ -128,7 +127,6 @@ Create a set of 5 custom icons that will be used throughout your app. These shou
 ```
 
 submission-2/
-├── ui-button-set/
 ├── ui-icon-set/
 │   ├── ui-icon.ai
 │   └── exports/
@@ -163,7 +161,6 @@ You can do much better :D
 ```
 
 submission-2/
-├── ui-button-set/
 ├── ui-icon-set/
 ├── animated-loader/
 │   ├── loader.ai
@@ -193,7 +190,6 @@ Create a logo for your hypothetical app. This logo should encapsulate your app's
 ```
 
 submission-2/
-├── ui-button-set/
 ├── ui-icon-set/
 ├── animated-loader/
 └── logo-design/
