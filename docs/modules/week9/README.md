@@ -36,7 +36,7 @@ Wireframes are a type of prototype that focuses on the structural layout of a de
 
 ### Types of Wireframes
 
-<DetailsCard imageSrc="/w2024/moduleImages/week9/lowFidelityWireframes.png" :isFirst="true">
+<DetailsCard imageSrc="/f2024/moduleImages/week9/lowFidelityWireframes.png" :isFirst="true">
 
 #### Low-fidelity
 
@@ -50,7 +50,7 @@ Low-fidelity wireframing offers the advantage of rapid creation, making it an in
 
 </DetailsCard>
 
-<DetailsCard imageSrc="/w2024/moduleImages/week9/midFidelityWireframes.png">
+<DetailsCard imageSrc="/f2024/moduleImages/week9/midFidelityWireframes.png">
 
 #### Mid-fidelity
 
@@ -63,7 +63,7 @@ Mid-fidelity wireframes are a balanced approach, offering a clearer depiction of
 
 </DetailsCard>
 
-<DetailsCard imageSrc="/w2024/moduleImages/week9/highFidelityWireframes.png">
+<DetailsCard imageSrc="/f2024/moduleImages/week9/highFidelityWireframes.png">
 
 #### High-fidelity
 
@@ -180,84 +180,84 @@ Here is some of the items on the toolbar:
 
 <br>
 <TwoColumnComponent
-imageSrc="/w2024/moduleImages/week9/figma.png"
+imageSrc="/f2024/moduleImages/week9/figma.png"
 title="Main Menu"
 description="The Main Menu in Figma is a primary navigation interface that provides access to various essential functions and features within the application. It typically contains options for creating new files, opening existing projects, managing account settings, and accessing tools for collaboration, sharing, and organization."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/w2024/moduleImages/week9/move.png"
+imageSrc="/f2024/moduleImages/week9/move.png"
 title="Move"
 description="The Move tool in Figma is used to reposition elements within your design canvas. It allows you to click and drag elements to new locations, ensuring precise placement."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/w2024/moduleImages/week9/scale.png"
+imageSrc="/f2024/moduleImages/week9/scale.png"
 title="Scale"
 description="The Scale tool in Figma is specifically designed for resizing elements. You can use it to adjust the size of elements, maintaining proportions if needed, to achieve the desired dimensions in your design."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/w2024/moduleImages/week9/frame.png"
+imageSrc="/f2024/moduleImages/week9/frame.png"
 title="Frame"
 description="Frames serve as containers for your design elements, helping to define the boundaries of a design. You can nest frames within each other, enabling structured layouts."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/w2024/moduleImages/week9/section.png"
+imageSrc="/f2024/moduleImages/week9/section.png"
 title="Section"
 description="Sections are used to organize and group different parts of your design project. They help you keep your project organized and navigate through large files."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/w2024/moduleImages/week9/slice.png"
+imageSrc="/f2024/moduleImages/week9/slice.png"
 title="Slice"
 description="Slices are used for exporting specific portions of your design. You can define areas within your design file that you want to export as separate images or assets."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/w2024/moduleImages/week9/shape.png"
+imageSrc="/f2024/moduleImages/week9/shape.png"
 title="Shapes"
 description="Shape tools in Figma allow you to create fundamental design elements like rectangles, circles, and polygons. You can customize these shapes by adjusting properties such as size, color, and corner radius."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/w2024/moduleImages/week9/creation.png"
+imageSrc="/f2024/moduleImages/week9/creation.png"
 title="Creation Tools"
 description="These tools encompass a range of drawing and creation tools that enable you to create custom design elements, illustrations, and shapes."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/w2024/moduleImages/week9/text.png"
+imageSrc="/f2024/moduleImages/week9/text.png"
 title="Text"
 description="The text tool allows you to add and customize text within your designs. You can set fonts, styles, and formatting for text elements."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/w2024/moduleImages/week9/resources.png"
+imageSrc="/f2024/moduleImages/week9/resources.png"
 title="Resources"
 description="Resources typically refer to design assets, including images, icons, and files, that are used in your project. Figma provides a way to manage and organize these resources."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/w2024/moduleImages/week9/hand.png"
+imageSrc="/f2024/moduleImages/week9/hand.png"
 title="Hand Tool"
 description="The hand tool lets you navigate and pan around the design canvas, especially when working on large or zoomed-in projects."
 imageSize="50px"
 />
 
 <TwoColumnComponent
-imageSrc="/w2024/moduleImages/week9/comment.png"
+imageSrc="/f2024/moduleImages/week9/comment.png"
 title="Add Comment"
 description="The comment tool enables collaboration by allowing team members to leave comments and feedback on specific parts of the design. It's valuable for communication and review during the design process."
 imageSize="50px"

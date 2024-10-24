@@ -64,25 +64,25 @@ A design review is a session where a team collaboratively evaluates a design or 
 
 <br>
 <ListItem
-imageSrc="/w2024/moduleImages/week14/1.png"
+imageSrc="/f2024/moduleImages/week14/1.png"
 title="In-person, Low-tech"
 content="Utilize paper printouts, sketches, or a whiteboard.">
 </ListItem>
 
 <ListItem
-imageSrc="/w2024/moduleImages/week14/2.png"
+imageSrc="/f2024/moduleImages/week14/2.png"
 title="In-person, Mid-tech"
 content="Gather around a computer screen, or use a projector for slides and live demos.">
 </ListItem>
 
 <ListItem
-imageSrc="/w2024/moduleImages/week14/3.png"
+imageSrc="/f2024/moduleImages/week14/3.png"
 title="In-person, Mid-tech"
 content="Projector, slides, live demo, or the device itself">
 </ListItem>
 
 <ListItem
-imageSrc="/w2024/moduleImages/week14/4.jpg"
+imageSrc="/f2024/moduleImages/week14/4.jpg"
 title="Remote"
 content="Employ screen-sharing tools like WebEx, Zoom, Teams, Google Meet, or Skype.">
 </ListItem>

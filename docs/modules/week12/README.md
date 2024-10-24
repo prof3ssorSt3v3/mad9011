@@ -33,13 +33,13 @@ High-fidelity wireframes are detailed designs that mirror the final product, foc
 
 <br>
 <ListItem
-imageSrc="/w2024/moduleImages/week12/Visual-Design.png"
+imageSrc="/f2024/moduleImages/week12/Visual-Design.png"
 title="Visual Design"
 content="Focuses on enhancing user experience in digital spaces. It employs elements like typography and color to improve interaction and usability, integrating functionality and user journey into the design.">
 </ListItem>
 
 <ListItem
-imageSrc="/w2024/moduleImages/week12/Graphic-Design.png"
+imageSrc="/f2024/moduleImages/week12/Graphic-Design.png"
 title="Graphic Design"
 content="Centers on creating visual content to communicate messages across digital and print media. It emphasizes artistic expression and visual storytelling, often without the constraints of user interfaces.
 ">
