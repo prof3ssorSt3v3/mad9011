@@ -1,7 +1,5 @@
 # Week 10 - Design Systems Part 1
 
-<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
-
 ## Learning Objectives
 
 By the end of this week, students will be able to:
@@ -293,5 +291,3 @@ Styles are reusable collections of properties that help maintain consistency in 
 3. **Grid Styles**: Set up grid styles for layouts, columns, and spacing. This helps maintain alignment and consistency in your design.
 
 4. **Effect Styles**: Customize shadows, blurs, and other effects as styles. Apply these effects easily to elements for a cohesive design.
-
-</Countdown>

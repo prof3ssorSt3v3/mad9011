@@ -1,7 +1,5 @@
 # Week 9 - Getting Started with Figma and Introduction to Prototyping
 
-<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
-
 ## Learning Objectives
 
 By the end of this week, students will be able to:
@@ -321,5 +319,3 @@ Figma provides essential tools for organizing your design elements:
 - **Groups:** Groups let you combine multiple elements into a single unit for easier management and manipulation.
 
 **We will continue learning about Frames, Layers and groups next week.**
-
-</Countdown>

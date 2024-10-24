@@ -1,7 +1,5 @@
 # Week 13 - Interactive Visual Prototype
 
-<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
-
 ## What is Prototyping?
 
 Figma is a great tool for prototyping UX/UI designs. It allows you to create interactive flows directly in the design file with advanced, yet easy-to-use features. In just a few minutes, you can turn your static designs into a realistic version of your app or product.
@@ -182,5 +180,3 @@ If there are no prototyping connections, you can navigate through frames on the
 </ol>
 
 ![Figma Presentation layout](./Figma-presentation-layout.png) -->
-
-</Countdown>

@@ -1,7 +1,5 @@
 # Week 12 - Visual Design and High-Fidelity Wireframes
 
-<Countdown date="2024-12-25" customMessage="No need to rush ahead. This content will be available before this week's theory class, so just focus on what we're learning this week.">
-
 ## Learning Objectives
 
 - **Maintain Consistency**: Achieve a coherent visual and functional flow throughout the user interface.
@@ -106,5 +104,3 @@ Ensuring your designs are accessible is crucial for reaching a wider audience an
 ![Able - Friction-Free Accessibility](./able-plugin.png)
 
 Utilize the Able plugin in Figma to enhance your design's accessibility. This powerful tool assists in evaluating color contrast ratios, ensuring text legibility, and adhering to WCAG guidelines, thereby making your designs accessible to a broader audience.
-
-</Countdown>
