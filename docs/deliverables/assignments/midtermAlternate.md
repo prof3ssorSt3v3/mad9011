@@ -156,7 +156,7 @@ submission-2/
 
 Design an animated splash screen that will be displayed while your app's content is loading. This should be thematic and engaging.
 
-You can do much better :D  
+These are just examples, your splash screen animation should fit with your chosen them.
 ![Animated Splash Screen Example](./assets/splashScreenExample.gif)
 
 **Instructions:**
