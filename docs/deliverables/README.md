@@ -80,7 +80,7 @@ Every week there will be work for you to complete inside or outside of class. So
 <Deliverable
   title="Part 1: Low-fidelity Wireframes"
   dueDate="Section 010: Tuesday November 5th @7:00pm"
-  secondaryDueDate="Section 020: Tuesday November 13th @5:00pm"
+  secondaryDueDate="Section 020: Tuesday November th @5:00pm"
   description="In part 1 of your final project, you'll develop a series of low-fidelity wireframes, laying the foundational design blueprint for a mobile application."
   linkType="paused"
   detailsLink="./finalproject/part1.html"
@@ -149,3 +149,10 @@ description="Test your knowledge of the skills and techniques covered in the Ill
   linkType="disabled"
   description="Test your knowledge of the skills and techniques covered in the Figma portion of the course, encompassing everything from using Figma to UI best practices"
 />
+
+---
+
+**Midterm Alternative**
+This midterm is for students who were unable to complete the midterm due to extenuating reasons. Only those who have reached out to me prior to the initial midterm may complete this alternative.
+
+[View Details](../../deliverables/assignments/midtermAlternate.md)
