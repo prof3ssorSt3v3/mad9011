@@ -31,7 +31,7 @@ You will utilize Adobe Photoshop for image optimization and manipulation, and Ad
 5. [Logo Design](#logo-design)
 
 ::: danger Due Dates
-<br>
+
 **Submission 1**
 <br>
 <Badge type="error" text="October 9th @7:00pm / @9:00pm" />
@@ -41,8 +41,7 @@ You will utilize Adobe Photoshop for image optimization and manipulation, and Ad
 
 ---
 
-<br>
-Submission 2
+**Submission 2**
 <br>
 <Badge type="error" text="November 3rd @11:59pm" />
 
