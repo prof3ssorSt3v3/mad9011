@@ -47,14 +47,3 @@ Each phase of the project will be evaluated based on a predefined grading scheme
 ### Deadlines
 
 Please adhere to the submission deadlines outlined for each phase to ensure timely feedback and grading.
-
-### Kickstarting Your Project
-
-1. A designated team member will initiate the project within Figma.
-2. Following project creation, invite your team members and the professor to the project, ensuring accuracy in the email addresses used for invitations.
-3. Name your first Figma File "Wireframes"
-4. Assign your Figma page a clear title reflective of the current phase, starting with "Part 1 - Wireframes."
-5. Begin your design journey by creating your initial frames.
-6. Maintain an organized Figma file, following a structured layout for efficiency and clarity.
-
-This project is an opportunity to showcase your creativity, technical skills, and ability to collaborate effectively. Let's make it a remarkable journey!

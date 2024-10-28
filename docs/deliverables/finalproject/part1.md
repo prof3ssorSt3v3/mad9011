@@ -91,4 +91,5 @@ Your submission will be through Figma's sharing feature. In your submission comm
 
 Make sure your professor has been added to the Figma file with editing permissions.
 
-<Badge type="error" text="Due: Tuesday March 12th @7:00pm" />
+<Badge text="Section 010: Tuesday November 5th @7:00pm" />
+<Badge type="error" text="Section 020: Tuesday November 5th @5:00pm" />
