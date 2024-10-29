@@ -79,6 +79,8 @@ Every week there will be work for you to complete inside or outside of class. So
 
 ### [Final Project Overview](./finalproject/overview.html)
 
+<br>
+
 <Deliverable
   title="Part 1: Low-fidelity Wireframes"
   dueDate="Section 010: Tuesday November 5th @7:00pm"
