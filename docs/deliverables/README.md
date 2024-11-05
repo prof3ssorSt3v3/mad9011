@@ -95,7 +95,7 @@ Every week there will be work for you to complete inside or outside of class. So
   dueDate="Section 010: Tuesday November 19th @7:00pm"
   secondaryDueDate="Section 020: Tuesday November 19th @5:00pm"
   description="In part 2 of your final project, you'll develop a mini design system, creating guidelines and standards for elements such as typography, color palettes, and UI components to ensure consistency and coherence in your design approach."
-  linkType="paused"
+  linkType="active"
   detailsLink="./finalproject/part2.html"
 />
 

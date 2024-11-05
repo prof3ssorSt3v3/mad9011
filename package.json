@@ -1,7 +1,7 @@
 {
   "name": "mad9011",
   "description": "Mobile Design Fundamentals",
-  "version": "3.0.432",
+  "version": "3.0.433",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {

@@ -113,14 +113,15 @@ For your design system, you must incorporate:
 - [ ] The app's chosen theme is described.
 - [ ] A list of all group members is included.
 
-## Submission Process
+## How to Submit
 
-Instead of a traditional file submission, share your work using Figma's sharing feature. In the submission comment section, kindly include:
+Your submission will be through Figma's sharing feature. In your submission comment, please include:
 
-- Figma project link.
-- Your apps's chosen theme.
-- List of all group members.
+- The Figma project link
+- Your app's chosen theme
+- The names of all team members
 
-Since your professor was invited during Part 1, there's no need for another invitation.
+Make sure your professor has been added to the Figma file with editing permissions.
 
-<Badge type="error" text="Due: Tuesday March 26th @7:00pm" />
+<Badge text="Section 010: Tuesday November 19th @7:00pm" />
+<Badge type="error" text="Section 020: Tuesday November 19th @5:00pm" />
