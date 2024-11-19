@@ -104,7 +104,7 @@ Every week there will be work for you to complete inside or outside of class. So
   dueDate="Section 010: Tuesday November 26th @7:00pm"
   secondaryDueDate="Section 020: Tuesday November 26th @5:00pm"
   description="In part 3 of your final project, you'll elevate your mid-fidelity wireframes to high-fidelity by meticulously applying the principles and elements from your design system, ensuring a polished and detailed representation of your final design concept."
-  linkType="paused"
+  linkType="active"
   detailsLink="./finalproject/part3.html"
 />
 
