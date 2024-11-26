@@ -113,7 +113,7 @@ Every week there will be work for you to complete inside or outside of class. So
   dueDate="Section 010: Tuesday December 3rd @9:00pm"
   secondaryDueDate="Section 020: Tuesday December 3rd @7:00pm"
   description="In part 4 of your final project, you'll bring your high-fidelity wireframes to life by integrating interactivity and animations, preparing them for a comprehensive user testing experience that closely simulates the final product."
-  linkType="paused"
+  linkType="active"
   detailsLink="./finalproject/part4.html"
 />
 

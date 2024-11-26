@@ -16,7 +16,7 @@ For part 4, you are tasked with creating an Interactive Prototype of your app. T
 
 3. **Incorporate Additional Interactivity:**
 
-   - Enrich the user experience by adding at least one additional interactive element beyond "click" trigger. Consider incorporating a dynamic image carousel, or any element that employees a different trigger (i.ie Delay). The goal is to create engaging and interactive moments that captivate users.
+   - Enrich the user experience by adding at least one additional interactive element beyond "click" trigger. Consider incorporating a dynamic image carousel, or any element that employees a different trigger (i.e Delay). The goal is to create engaging and interactive moments that captivate users.
 
 4. **Realistic Look and Feel:**
 
