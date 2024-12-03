@@ -122,7 +122,7 @@ Every week there will be work for you to complete inside or outside of class. So
   dueDate="Section 010: Tuesday December 10th @9:00pm"
   secondaryDueDate="Section 020: Tuesday December 10th @7:00pm"
   description="In part 5 of your final project, you'll showcase the culmination of your efforts from parts 1 to 4, including a comprehensive presentation and a live demonstration of your interactive prototype, highlighting the journey from initial concepts to the final interactive design."
-  linkType="paused"
+  linkType="active"
   detailsLink="./finalproject/part5.html"
 />
 

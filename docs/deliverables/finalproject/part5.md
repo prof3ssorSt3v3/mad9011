@@ -4,7 +4,7 @@
 
 For the culmination of your efforts in parts 1 through 4, each group will present their comprehensive project work. This is an opportunity to showcase your development process, decision-making, and the final visual prototype.
 
-**Presentation Duration:** Maximum of 10 minutes per group.  
+**Presentation Duration:** Maximum of 5 minutes per group.  
 **Technical Preparation:** Ensure compatibility with HDMI input for the presentation. A USBC to HDMI adapter will be available; however, bring any additional adapters necessary for your device.
 
 ### Presentation Requirements
@@ -62,7 +62,7 @@ To successfully complete this phase, your group must:
 - [ ] The group engaged actively in the presentation process.
 - [ ] The presentation includes a title slide with the app's name and team members.
 - [ ] An introduction slide succinctly outlines the app's purpose and target audience.
-- [ ] The presentation is within the 10-minute time limit.
+- [ ] The presentation is within the 5-minute time limit.
 
 ### Content and Design Evolution
 
@@ -84,7 +84,7 @@ To successfully complete this phase, your group must:
 ### Submission Requirements Met
 
 - [ ] The Figma project link is provided.
-- [ ] A PDF of the presentation is submitted.
+- [ ] The Figma Slide link for the presentation is submitted.
 - [ ] The chosen theme of the app is clearly described.
 - [ ] Names of all group members are included in the submission.
 
@@ -95,6 +95,6 @@ Share your high-fidelity wireframes by providing the Figma project link in the s
 - The link to your Figma project.
 - The chosen theme of your app.
 - Names of all group members.
-- Presentation PDF
+- Figma Slide link
 
 Since your professor was granted access during Part 1, there's no need for a new invitation.
